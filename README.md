@@ -1,4 +1,5 @@
 <div align="center">
+  
 ![Logo UPC](https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png)  
   
 Universidad Peruana de Ciencias Aplicadas  
@@ -18,9 +19,11 @@ Informe del Trabajo Final
 Startup:   
   
 Producto:   
+
+Integrantes:
+- 
 </div>
-Integrantes:  
--  
+
 <div align="center">
   
 **Agosto del 2024**
