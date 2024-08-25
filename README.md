@@ -181,6 +181,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 ## 1.3. Segmentos objetivo  
 # Capítulo II: Requirements Elicitation & Analysis  
 ## 2.1 Competidores
+Entender el entorno competitivo es crucial para el éxito de cualquier negocio. En esta parte, analizaremos detalladamente quiénes son nuestros competidores, tanto directos como indirectos, y examinaremos las estrategias que utilizan, así como sus fortalezas y debilidades.
 ## 2.1.1. Analisis competitivo
 ## 2.1.2. Estrategias y tácticas frente a competidores
 ## 2.2. Entrevistas 
