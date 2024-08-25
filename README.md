@@ -176,6 +176,72 @@ Misión: Facilitar la conexión entre grupos de trabajadores y restaurantes loca
 
 Visión: Convertirnos en la plataforma líder en la gestión de pedidos grupales de comidas, impulsando la eficiencia y fomentando el crecimiento de la gastronomía local.
 ### 1.1.2 Perfiles de integrantes del equipo  
+<table>
+  <tr>
+    <th>Información</th>
+    <th>Foto</th>
+  </tr>
+  <tr>
+    <td>
+      <h2>[Ricardo Andree Barrutia Vaez]</h2>
+      <p>Código: [U201714765]</p>
+      <p>Conocimientos y Habilidades: <br>
+      Como estudiante de ingeniería de software he
+      adquirido conocimientos de C++, Java y de Ionic.
+      Con respecto a las habilidades más destacables 
+      de mi persona, considero que el trabajo en
+      equipo es una de ellas.  Además de la capacidad
+      resolutiva a la par que adaptativa ante diversas
+      situaciones.
+</p>
+    </td>
+    <td><img src="static/img/chapter-1/img-ricardo.jpg"  alt=" " width="50%" ;"></img></td>
+  </tr>
+  <tr>
+    <td>
+      <h2>[Camila Cristina Loli Ramirez]</h2>
+      <p>Código: [U202110385]</p>
+      <p>Conocimientos y Habilidades: <br>
+Soy estudiante de la carrera Ingeniería de Software. Mi carrera se basa en los conocimientos y técnicas científicas para crear un programa informático. Tengo experiencia con el trabajo en equipo, creación de proyectos y creación de programas básicos. Aportaré al equipo mi creatividad, compromiso de trabajo en equipo, puntualidad y responsabilidad. Además, las metas, sean grupales o individuales, son muy importantes para mí, porque permiten que nos esforcemos al máximo para lograrlas. Me comprometo a trabajar constantemente para mejorar nuestro proyecto y a generar un entorno de trabajo sano con mi grupo.
+      </p>
+    </td>
+   <td><img src="static/img/chapter-1/img-camila.jpeg" alt=" " width="50%";"></img></td>
+
+  </tr>
+  <tr>
+    <td>
+      <h2>[Marco Antonio Góngora Sánchez]</h2>
+      <p>Código: [U20211A085]</p>
+      <p>Conocimientos y Habilidades: [<br>
+        Mi nombre completo es Marco Antonio Góngora Sánchez (U20211A085),  estoy en la carrera de Ingeniería de Software donde se centra en la creación, desarrollo y el mantenimiento de sistemas informáticos eficientes mediante el uso de principios de ingeniería y herramientas tecnológicas. Tengo conocimientos del lenguaje de programación C++, Python, HTML-CSS y SQL. Algunas habilidades que rescato son la de trabajar en equipo y la creatividad.</p>
+    </td>
+<td><img src="static/img/chapter-1/img-marco.jpg" alt=" " width="50%";"></img></td>
+  </tr>
+ <tr>
+    <td>
+      <h2>[Fabiola Ximena Espinoza Inoñan]</h2>
+      <p>Código: [u202214784]</p>
+      <p>Conocimientos y Habilidades: <br>
+        Mi nombre es Fabiola Espinoza, tengo 20 años.
+Actualmente estoy cursando el cuarto ciclo en la
+carrera de Ingeniería de Software en la prestigiosa
+Universidad Peruana de Ciencias Aplicadas. Me
+considero una persona responsable, creativa y
+empática.</p>
+    </td>
+<td><img src="static/img/chapter-1/img-fabiola.png" alt=" " width="50%";"></img></td>
+  </tr>
+ <tr>
+    <td>
+      <h2>[Francisco Hurtado Palomino]</h2>
+      <p>Código: [U202117498]</p>
+      <p>Conocimientos y Habilidades:  <br>
+          Tengo 20 años y soy estudiante de la Universidad Peruana de Ciencias Aplicadas y actualmente me encuentro en el septimo ciclo de la carrera de Ingenieria de Software, cuento con una gran fluidez verbal, lo cual me permite trabajar en equipo.Cuento con un nivel medio en HTML, CSS y C++, actualmente me encuentro en el desarrollo de conocimiento en Java, JavaScript, Vue y TypeScript. Ademas, cuento con un gran conociento en edicion de videos e imagenes.</p>
+    </td>
+<td><img src="static/img/chapter 1/img-francisco.jpg" alt=" " width="50%";"></img></td>
+  </tr>
+</table>
+
 ## 1.2 Solution Profile  
 ### 1.2.1 Antecedentes y problemática  
 Antecedentes: 
