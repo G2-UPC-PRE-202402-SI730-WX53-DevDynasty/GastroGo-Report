@@ -178,6 +178,11 @@ Visión: Convertirnos en la plataforma líder en la gestión de pedidos grupales
 ### 1.1.2 Perfiles de integrantes del equipo  
 ## 1.2 Solution Profile  
 ### 1.2.1 Antecedentes y problemática  
+Antecedentes: 
+
+Identificamos que la gestión de pedidos grupales se realizaba de manera tradicional, generalmente mediante llamadas telefónicas o visitas personales. Esto representa un desafío significativo para la gestión eficiente de los pedidos, afectando principalmente a los trabajadores, quienes buscan opciones de almuerzo accesibles y convenientes. Al realizarse los pedidos de forma manual, se generan ineficiencias y errores en el proceso, lo que repercute negativamente en la experiencia tanto de los clientes como de los restaurantes.
+
+
 ### 1.2.2 Lean UX Process  
 #### 1.2.2.1. Lean UX Problem Statements  
 #### 1.2.2.2. Lean UX Assumptions  
