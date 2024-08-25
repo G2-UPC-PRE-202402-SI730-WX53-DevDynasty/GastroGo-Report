@@ -8,17 +8,17 @@ Carrera: Ingeniería de Software
   
 Ciclo: 2024-02  
   
-Curso:   
+Curso: Aplicaciones Web
+
+Sección: WX53 
   
-Sección:   
-  
-Profesor:   
+Profesor: Alberto Wilmer Sánchez Seña
   
 Informe del Trabajo Final  
   
-Startup:   
+Startup: DevDynasty
   
-Producto:   
+Producto: GastroGo
 
 Integrantes:
 - 
