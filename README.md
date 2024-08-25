@@ -182,6 +182,9 @@ Antecedentes:
 
 Identificamos que la gestión de pedidos grupales se realizaba de manera tradicional, generalmente mediante llamadas telefónicas o visitas personales. Esto representa un desafío significativo para la gestión eficiente de los pedidos, afectando principalmente a los trabajadores, quienes buscan opciones de almuerzo accesibles y convenientes. Al realizarse los pedidos de forma manual, se generan ineficiencias y errores en el proceso, lo que repercute negativamente en la experiencia tanto de los clientes como de los restaurantes.
 
+Problemática:
+
+La problemática radica en la falta de una plataforma especializada que permita a los trabajadores realizar pedidos grupales de manera eficiente, sin generar dificultades en el proceso. Esto incluye demoras en la recepción de los pedidos, errores en las entregas, y una experiencia deficiente para los usuarios. De esta situación surge la necesidad de optimizar y digitalizar estos procesos para mejorar la productividad de los restaurantes y satisfacer las necesidades de los trabajadores.
 
 ### 1.2.2 Lean UX Process  
 #### 1.2.2.1. Lean UX Problem Statements  
