@@ -361,6 +361,8 @@ Posible saturación del mercado si muchas empresas adoptan soluciones similares.
 </td>
   </tr>
 </table>
+
+
 ## 2.1.2. Estrategias y tácticas frente a competidores
 ## 2.2. Entrevistas 
 Las entrevistas son fundamentales porque nos permiten conocer mejor a nuestro público objetivo, estas deben tener una estructura clara y concisa, preguntas específicas para que cumplan su objetivo que es la recolección de datos e información de los entrevistados. 
@@ -425,6 +427,41 @@ Las entrevistas son fundamentales porque nos permiten conocer mejor a nuestro p�
 15. ¿Estaría dispuesto a ofrecer descuentos o menús especiales a través de una plataforma que le garantice un volumen significativo de pedidos?
 
 ### 2.2.2. Registro de entrevistas  
+
+**Segmento grupo de trabajadores**
+
+Entrevista #01: Jonathan Berrocal (22 años - Villa Maria del Triunfo) - 25 de agosto del 2024
+
+(Comienzo 00: 00:00 Fin -00:05:39)
+
+Jonathan Berrocal en la actualidad es un estudiante de séptimo ciclo de la carrera de ingeniería de sistemas de información en la universidad de ciencias aplicadas. Asimismo se encuentra realizando prácticas en la empresa Diners Club.
+
+En cuanto a sus preferencias personales y estilo de vida, Jonathan nos comenta que es una persona introvertida. Sus principales pasatiempos actualmente son jugar al fútbol y escuchar música. Además, se considera una persona analítica en lo que respecta al trabajo y, en términos de enfoque, se define como muy racional.
+
+Jonathan nos compartió sus preferencias tecnológicas: utiliza una laptop con sistema operativo Windows y un dispositivo móvil con sistema operativo Android. Su navegador de preferencia es Google Chrome.
+Finalmente, en cuanto a redes sociales, Jonathan utiliza frecuentemente LinkedIn, Facebook e Instagram.
+
+Jonathan nos ha compartido sus experiencia a la hora de realizar pedidos grupales en la empresa que actualmente está trabajando que es Diners Club.
+
+Con respecto a la importancia de elegir dónde almorzar durante la jornada laboral, Jonathan considera que es bastante importante. Él ve el almuerzo como un momento clave para descansar y desestresarse del trabajo. Prefiere comprar su comida cerca de su lugar de trabajo o pedirla, ya que esto le resulta más fácil y menos estresante que preparar su comida en la mañana.
+
+En cuanto a sus preferencias para el almuerzo, Jonathan prefiere comprarlo cerca de su lugar de trabajo o pedirlo para entrega. Esto se debe a que le resulta más conveniente en lugar de llevar su almuerzo desde casa, ya que le evita tener que planificar y cocinar con antelación.
+
+Jonathan realiza pedidos grupales con sus colegas de vez en cuando, cuando hay un antojo común o cuando deciden hacer un pedido conjunto. La frecuencia de estos pedidos varía según las necesidades del grupo.
+
+Al elegir un restaurante, Jonathan considera que la calidad de la comida y la rapidez del servicio son aspectos importantes. También valora el precio y la variedad de platos disponibles para evitar la repetitividad en las opciones.
+
+Jonathan ha enfrentado dificultades al coordinar pedidos grupales debido a las diferentes preferencias de sus colegas. Para manejar estas situaciones, utilizan votaciones o sorteos en plataformas en línea para tomar decisiones de manera dinámica.
+
+Jonathan estaría interesado en una plataforma que facilitara los pedidos grupales y ofreciera menús seleccionados de restaurantes locales. Esto le parecería útil, ya que simplificará la organización y ahorraría tiempo en la toma de decisiones.
+
+Estaría dispuesto a pagar una pequeña tarifa adicional por un servicio que permitiera realizar pedidos grupales de manera rápida y organizada, siempre que el proceso sea más sencillo y eficiente.
+
+Por último, le gustaría que la aplicación de pedidos grupales ofreciera recomendaciones personalizadas basadas en pedidos anteriores, opciones para compartir el costo de manera equitativa y seguimiento en tiempo real de los pedidos
+
+**Segmento de Restaurantes**
+
+
 ### 2.2.3. Análisis de entrevistas  
 ## 2.3. Needfinding  
 ### 2.3.1. User Personas  
