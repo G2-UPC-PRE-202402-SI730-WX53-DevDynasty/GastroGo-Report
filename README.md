@@ -199,26 +199,25 @@ El análisis competitivo se enfoca en estudiar detalladamente a nuestros competi
     <td colspan="3">Nombre y Logo</td>
     <td colspan="1" valign="top" style="font-weight: bold;">
         GastroGo
-        <br>
         <div style="text-align: center; margin-top: 10px;">
-                <img src="static/img/chapter-2/img-gastrogo-logo.png" alt="Logo GastroGo" style="width: 65;"></img>
+                <img src="assets/img/chapter-2/img-gastrogo-logo.png" alt="Logo GastroGo" style="width: 65;"></img>
         </div>
     <td colspan="1" valign="top" style="font-weight: bold;">
     Manzana Verde
     <div style="text-align: center;">
-                <img src="static/img/chapter-2/img-manzana-verde-logo.png" alt="Logo Manzana Verde" style="width: 40;"></img>
+                <img src="assets/img/chapter-2/img-manzana-verde-logo.png" alt="Logo Manzana Verde" style="width: 40;"></img>
         </div>
     </td>
     <td colspan="1" valign="top" style="font-weight: bold;">
       PedidosYa
       <div style="text-align: center; margin-top: 20px;">
-                <img src="static/img/chapter-2/img-pedidosya-logo.png" alt="Logo PedidosYa" style="width: 65;"></img>
+                <img src="assets/img/chapter-2/img-pedidosya-logo.png" alt="Logo PedidosYa" style="width: 65;"></img>
             </div>
       </td>
     <td colspan="1" valign="top" style="font-weight: bold;" >
       KnowEats
       <div style="text-align: center; margin-top: 10px;">
-                <img src="static/img/chapter-2/img-knoweats-logo.png" alt="Logo KnowEats" style="width: 65;"></img>
+                <img src="assets/img/chapter-2/img-knoweats-logo.png" alt="Logo KnowEats" style="width: 65;"></img>
             </div>
     </td>
   </tr>
