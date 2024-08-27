@@ -677,10 +677,25 @@ Tareas con mayor importancia:
 
 Ambos grupos de usuarios comparten tareas relacionadas con la confirmación de pedidos y el seguimiento del estado del pedido, reflejando su importancia en el proceso de manejo de pedidos. Sin embargo, el enfoque de cada grupo varía: los trabajadores se centran más en la resolución de problemas y la coordinación con su grupo, mientras que los dueños de restaurante gestionan la disponibilidad del menú y las operaciones del restaurante.
 
-
-
-
 ### 2.3.3. User Journey Mapping  
+
+En esta sección, analizaremos el recorrido del usuario al realizar un pedido grupal 
+a través de nuestra plataforma. Desde el momento en que un “líder de equipo" crea un pedido en representación de su grupo de trabajo, hasta que la orden es entregada en el lugar de trabajo, veremos como la aplicación facilita la conexión entre los trabajadores y restaurantes, optimizando así el proceso de gestión de alimentos. 
+
+
+User Journey Mapping: Grupo de trabajadores
+
+<p align="center">
+  <img src="assets/img/chapter-2/img-journey-mapping-1.png" alt=" " width="50%">
+</p>
+
+User Journey Mapping: Restaurantes
+
+<p align="center">
+  <img src="assets/img/chapter-2/img-journey-mapping-2.png" alt=" " width="50%">
+</p>
+
+
 ### 2.3.4. Empathy Mapping  
 ### 2.3.5. As-is Scenario Mapping  
 ## 2.4. Ubiquitous Language  
