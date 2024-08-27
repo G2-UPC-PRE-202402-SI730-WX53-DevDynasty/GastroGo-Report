@@ -532,6 +532,19 @@ Entrevista #06: Nombre ( años - Distrito) - Fecha del 2024
 ### 2.2.3. Análisis de entrevistas  
 ## 2.3. Needfinding  
 ### 2.3.1. User Personas  
+En esta sección, mostramos perfiles ficticios que representan a los segmentos de usuarios identificados y entrevistados. Incluimos detalles sobre su demografía, personalidad, motivaciones, preferencias, objetivos, desafíos y comportamientos, además de cómo interactúan con productos similares. Estos datos se basan en las entrevistas realizadas y se han organizado utilizando la herramienta UXPressia.
+
+**User Persona: Grupo de Trabajadores**
+
+<p align="center">
+  <img src="assets/img/chapter-2/img-user-persona-1.png" alt=" " width="50%">
+</p>
+
+**User Persona: Restaurantes**
+
+<p align="center">
+  <img src="assets/img/chapter-2/img-user-persona-2.png" alt=" " width="50%">
+</p>
 
 ### 2.3.2. User Task Matrix  
 
