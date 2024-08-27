@@ -388,8 +388,8 @@ Las entrevistas son fundamentales porque nos permiten conocer mejor a nuestro p�
 3. ¿Cuáles son tus hobbies o pasatiempos favoritos?
 4. ¿Te consideras una persona introvertida o extrovertida?
 5. ¿Te consideras una persona más analítica o creativa cuando realizas algún tipo de trabajo? ¿Tiendes a ser más racional o emocional en tu enfoque?
-6. ¿Qué dispositivos tecnológicos y sistemas operativos prefieres usar para realizar tareas de reclutamiento? ¿Cuáles son las redes sociales que utilizas con mayor frecuencia para estudio, trabajo y ocio?
-7. ¿Cuál es el navegador web que usas habitualmente? ¿Crees que seguirías utilizando el mismo si tuvieras que llevar a cabo actividades de reclutamiento a través de una aplicación web?
+6. ¿Qué dispositivos tecnológicos y sistemas operativos prefieres usar para tu día a día? ¿Cuáles son las redes sociales que utilizas con mayor frecuencia para estudio, trabajo y ocio?
+7. ¿Cuál es el navegador web que usas habitualmente?
 
 **iii) Preguntas Principales**
 
@@ -418,8 +418,8 @@ Las entrevistas son fundamentales porque nos permiten conocer mejor a nuestro p�
 3. ¿Cuáles son tus hobbies o pasatiempos favoritos?
 4. ¿Te consideras una persona introvertida o extrovertida?
 5. ¿Te consideras una persona más analítica o creativa cuando realizas algún tipo de trabajo? ¿Tiendes a ser más racional o emocional en tu enfoque?
-6. ¿Qué dispositivos tecnológicos y sistemas operativos prefieres usar para realizar tareas de reclutamiento? ¿Cuáles son las redes sociales que utilizas con mayor frecuencia para estudio, trabajo y ocio?
-7. ¿Cuál es el navegador web que usas habitualmente? ¿Crees que seguirías utilizando el mismo si tuvieras que llevar a cabo actividades de reclutamiento a través de una aplicación web?
+6. ¿Qué dispositivos tecnológicos y sistemas operativos prefieres usar para tu día a día? ¿Cuáles son las redes sociales que utilizas con mayor frecuencia para estudio, trabajo y ocio?
+7. ¿Cuál es el navegador web que usas habitualmente?
 
 **iii) Preguntas Principales**
 
@@ -468,7 +468,65 @@ Estaría dispuesto a pagar una pequeña tarifa adicional por un servicio que per
 
 Por último, le gustaría que la aplicación de pedidos grupales ofreciera recomendaciones personalizadas basadas en pedidos anteriores, opciones para compartir el costo de manera equitativa y seguimiento en tiempo real de los pedidos
 
+<p align="center">
+  <img src="assets/img/chapter-2/img-entrevista-trabajadores-1.png" alt=" " width="50%">
+</p>
+
+Entrevista #02: Nombre ( años - Distrito) - Fecha del 2024
+
+(Comienzo - Fin - )
+
+<p align="center">
+  <img src="assets/img/chapter-2/img-entrevista-trabajadores-2.png" alt=" " width="50%">
+</p>
+
+Entrevista #03: Nombre ( años - Distrito) - Fecha del 2024
+
+(Comienzo - Fin - )
+
+<p align="center">
+  <img src="assets/img/chapter-2/img-entrevista-trabajadores-3.png" alt=" " width="50%">
+</p>
+
 **Segmento de Restaurantes**
+
+Entrevista #04: Juan Esteban Espinoza (56 años - La Molina)
+
+<p align="center">
+  <img src="assets/img/chapter-2/img-entrevista-restaurantes-1.png" alt=" " width="50%">
+</p>
+
+(Comienzo - Fin - )
+
+Juan Esteban Espinoza es actualmente gerente general y cuenta con 56 años. Dirige dos restaurantes ubicados en los distritos de Mala y Surco, siendo este último de reciente apertura. El restaurante en Mala atrae principalmente a familias, mientras que en Surco se enfoca en parejas y clientes individuales.
+
+En cuanto a sus preferencias personales, Juan Esteban se describe como una persona extrovertida. Disfruta del fútbol y de andar en moto en su tiempo libre. En su trabajo, se considera tanto analítico como creativo, con una tendencia más hacia lo racional en su enfoque.
+
+Juan Esteban utiliza una variedad de dispositivos tecnológicos en su día a día, incluyendo sistemas operativos Windows, iOS en su iPad, y macOS en su Mac. Sus redes sociales de preferencia son WhatsApp, Instagram, TikTok y Facebook. Para su trabajo, suele usar Office 365, especialmente Excel y PowerPoint. Navega en internet principalmente usando Chrome y Edge.
+
+Juan Esteban considera que el horario de almuerzo es crucial para su restaurante, especialmente en el local de Surco, donde busca incrementar la rotación en este horario debido a que la marca está más asociada con desayunos. Esto hace que  los almuerzos sean un objetivo importante para él.
+
+A nivel operativo, Juan Esteban prefiere ofrecer menús fijos en lugar de platos a la carta, ya que esto permite una mayor eficiencia en la cocina. Debido a que considera eficaz el sistema de mise en place el cual logra una preparación rápida y consistente de los pedidos, lo cual es esencial durante las horas pico.
+
+En cuanto a la gestión de pedidos grupales, Juan Esteban menciona que uno de los mayores desafíos es coordinar las especificaciones detalladas de los clientes, que pueden complicar la operación. Actualmente, utiliza la plataforma Infores para ingresar y coordinar los pedidos en cocina, lo que permite cierta personalización, pero a menudo resulta en una carga operacional debido a la variabilidad de los pedidos.
+
+Juan Esteban estaría interesado en una herramienta tecnológica que le permita anticipar los pedidos grupales con mayor antelación, lo que le permitiría optimizar la producción en la cocina y mejorar el servicio durante las horas pico. Además, considera que una plataforma que ofrezca la posibilidad de gestionar pedidos grupales de manera eficiente sería de gran ayuda para reducir los tiempos de espera y mejorar la satisfacción del cliente. También estaría dispuesto a ofrecer descuentos o menús especiales a través de una plataforma que le garantice un volumen significativo de pedidos, siempre y cuando se puedan manejar las personalizaciones de manera eficiente.
+
+Entrevista #05: Nombre ( años - Distrito) - Fecha del 2024
+
+(Comienzo - Fin - )
+
+<p align="center">
+  <img src="assets/img/chapter-2/img-entrevista-restaurantes-2.png" alt=" " width="50%">
+</p>
+
+Entrevista #06: Nombre ( años - Distrito) - Fecha del 2024
+
+(Comienzo - Fin - )
+
+<p align="center">
+  <img src="assets/img/chapter-2/img-entrevista-restaurantes-3.png" alt=" " width="50%">
+</p>
 
 
 ### 2.2.3. Análisis de entrevistas  
