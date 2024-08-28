@@ -441,6 +441,10 @@ Las entrevistas son fundamentales porque nos permiten conocer mejor a nuestro p�
 
 Entrevista #01: Jonathan Berrocal (22 años - Villa Maria del Triunfo) - 25 de agosto del 2024
 
+<p align="center">
+  <img src="assets/img/chapter-2/img-entrevista-trabajadores-1.png" alt=" " width="50%">
+</p>
+
 (Comienzo 00: 00:00 Fin -00:05:39)
 
 Jonathan Berrocal en la actualidad es un estudiante de séptimo ciclo de la carrera de ingeniería de sistemas de información en la universidad de ciencias aplicadas. Asimismo se encuentra realizando prácticas en la empresa Diners Club.
@@ -468,9 +472,7 @@ Estaría dispuesto a pagar una pequeña tarifa adicional por un servicio que per
 
 Por último, le gustaría que la aplicación de pedidos grupales ofreciera recomendaciones personalizadas basadas en pedidos anteriores, opciones para compartir el costo de manera equitativa y seguimiento en tiempo real de los pedidos
 
-<p align="center">
-  <img src="assets/img/chapter-2/img-entrevista-trabajadores-1.png" alt=" " width="50%">
-</p>
+
 
 Entrevista #02: Nombre ( años - Distrito) - Fecha del 2024
 
@@ -552,9 +554,14 @@ La User Task Matrix nos permite descomponer las actividades y tareas que nuestro
 <table>
   <tr>
     <th rowspan="2">User task</th>
-    <th colspan="2">Lucas Fernández - Trabajador</th>
-    <th colspan="2">- Dueño de Restaurante</th>
+    <th colspan="2">Lucas Fernández 
+
+Trabajador</th>
+    <th colspan="2">Carlos López 
+
+Gerente de Restaurante</th>
   </tr>
+
   <tr>
     <td>Frecuencia</td>
     <td>Importante</td>
@@ -686,13 +693,13 @@ a través de nuestra plataforma. Desde el momento en que un “líder de equipo"
 User Journey Mapping: Grupo de trabajadores
 
 <p align="center">
-  <img src="assets/img/chapter-2/img-journey-mapping-1.png" alt=" " width="50%">
+  <img src="assets/img/chapter-2/img-journey-mapping-1.png" alt=" " width="100%">
 </p>
 
 User Journey Mapping: Restaurantes
 
 <p align="center">
-  <img src="assets/img/chapter-2/img-journey-mapping-2.png" alt=" " width="50%">
+  <img src="assets/img/chapter-2/img-journey-mapping-2.png" alt=" " width="100%">
 </p>
 
 
