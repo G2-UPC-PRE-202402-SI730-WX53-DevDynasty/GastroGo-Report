@@ -730,27 +730,31 @@ As-is Scenario Mapping: Grupo de Trabajadores
 **Positive Points:**
 
 Buscar soluciones para gestionar pedidos grupales de almuerzo: 
-Los usuarios están buscando una plataforma que les ayude a organizar de manera eficiente los pedidos grupales de almuerzo. GastroGo se presenta como una solución ideal que responde a esta necesidad, permitiendo a los usuarios gestionar fácilmente los pedidos, horarios y preferencias del grupo.
+- Los usuarios están buscando una plataforma que les ayude a organizar de manera eficiente los pedidos grupales de almuerzo. GastroGo se presenta como una solución ideal que responde a esta necesidad, permitiendo a los usuarios gestionar fácilmente los pedidos, horarios y preferencias del grupo.
 
 Optimismo y Confianza en que la plataforma funcionará como se espera:
-Los usuarios sienten optimismo y confianza al usar GastroGo, especialmente después de completar con éxito los primeros pedidos. La plataforma ofrece una experiencia de usuario intuitiva y responde bien a las necesidades de personalización y gestión.
+- Los usuarios sienten optimismo y confianza al usar GastroGo, especialmente después de completar con éxito los primeros pedidos. La plataforma ofrece una experiencia de usuario intuitiva y responde bien a las necesidades de personalización y gestión.
 
 Satisfacción y tranquilidad por la buena experiencia:
-Después de usar la plataforma, los usuarios experimentan un alto nivel de satisfacción y tranquilidad al saber que pueden confiar en GastroGo para sus necesidades de pedidos grupales. La facilidad de uso y la puntualidad en las entregas refuerzan esta percepción positiva.
+
+- Después de usar la plataforma, los usuarios experimentan un alto nivel de satisfacción y tranquilidad al saber que pueden confiar en GastroGo para sus necesidades de pedidos grupales. La facilidad de uso y la puntualidad en las entregas refuerzan esta percepción positiva.
 
 
 **Negative Points:**
 
 Dificultad al usar la plataforma o un pedido incorrecto:
-Algunos usuarios pueden enfrentar dificultades técnicas o confusión al usar la plataforma, lo que puede llevar a frustraciones. Además, si ocurre un error en un pedido (por ejemplo, una comida incorrecta o un retraso en la entrega), esto puede disminuir la confianza en la plataforma.
+
+- Algunos usuarios pueden enfrentar dificultades técnicas o confusión al usar la plataforma, lo que puede llevar a frustraciones. Además, si ocurre un error en un pedido (por ejemplo, una comida incorrecta o un retraso en la entrega), esto puede disminuir la confianza en la plataforma.
 
 Molestia porque la experiencia no fue la esperada:
-Si la experiencia con GastroGo no cumple con las expectativas, ya sea por problemas técnicos, errores en los pedidos o falta de respuesta del soporte, los usuarios pueden sentirse molestos o decepcionados, lo que puede afectar su disposición a seguir usando la plataforma.
+
+- Si la experiencia con GastroGo no cumple con las expectativas, ya sea por problemas técnicos, errores en los pedidos o falta de respuesta del soporte, los usuarios pueden sentirse molestos o decepcionados, lo que puede afectar su disposición a seguir usando la plataforma.
 
 **Blank Points:**
 
 Personalizar los pedidos para cada miembro del grupo: 
-Aprender más de como los restaurantes ofrecen este servicio, para nosotros como startup poder aprender y cumplir las expectativas de los usuarios.
+
+- Aprender más de como los restaurantes ofrecen este servicio, para nosotros como startup poder aprender y cumplir las expectativas de los usuarios.
 
 
 As-is Scenario Mapping: Restaurantes
@@ -759,6 +763,47 @@ As-is Scenario Mapping: Restaurantes
   <img src="assets/img/chapter-2/img-as-is-2.png" alt=" " width="100%">
 </p>
 
+**Positive Points:**
+
+Explorar nuevas tecnologías para mejorar la eficiencia:
+
+- Los usuarios están abiertos a adoptar nuevas herramientas tecnológicas, como GastroGo, para mejorar la gestión de pedidos grupales en sus restaurantes.
+
+Confianza en una integración sencilla:
+
+- Los usuarios expresan confianza en que el proceso de integración de GastroGo será sencillo, especialmente si se proporciona soporte adecuado.
+
+Satisfacción al mejorar la gestión y experiencia del cliente:
+
+- Después de utilizar GastroGo, hay una satisfacción general en la mejora de la gestión de pedidos grupales y en la experiencia del cliente.
+
+**Negative Points:**
+
+Preocupación por la inversión y beneficios:
+
+- Existe incertidumbre entre los usuarios sobre si la inversión en GastroGo se justificará con los beneficios que ofrece.
+
+Frustración si la plataforma no cumple con las expectativas:
+
+- Si la experiencia de uso de GastroGo no cumple con las expectativas, ya sea por problemas en la funcionalidad o en la gestión de pedidos, los usuarios podrían sentirse frustrados.
+
+Incertidumbre por posibles complicaciones durante la integración:
+
+- Algunos usuarios tienen dudas ante la posibilidad de enfrentar problemas técnicos o complicaciones durante el proceso de integración. Esto podría llevar a una percepción negativa si no se ofrece un soporte técnico eficaz.
+
+**Blank Points:**
+
+Explorar herramientas actuales:
+
+- Algunos usuarios sienten la necesidad de explorar las herramientas disponibles en el mercado para determinar si GastroGo es la mejor opción.
+
+Procesos de personalización y adaptación a necesidades específicas:
+
+- Los usuarios tienen interés en saber cómo pueden personalizar la plataforma para ajustarse a las necesidades específicas de su restaurante.
+
+Evaluación de la experiencia post-uso:
+
+- Después del uso inicial de GastroGo, los usuarios buscan evaluar el impacto de la plataforma en las ventas y la eficiencia operativa.
 
 ## 2.4. Ubiquitous Language  
 
