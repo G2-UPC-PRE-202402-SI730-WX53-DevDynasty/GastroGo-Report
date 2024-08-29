@@ -193,7 +193,15 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 ### 2.3.5. As-is Scenario Mapping  
 ## 2.4. Ubiquitous Language  
 # Capítulo III: Requirements Specification  
-## 3.1. To-Be Scenario Mapping  
+## 3.1. To-Be Scenario Mapping 
+**Segmento Objetivo:** Restaurantes locales en Lima Metropolitana que gestionan pedidos grupales con frecuencia.
+
+<img src="assets/img/T-B SM S1.jpg">
+
+**Segmento Objetivo:** Grupos de trabajadores en oficinas y empresas que realizan pedidos de almuerzo en conjunto.
+
+<img src="assets/img/T-B SM S2.jpg">
+
 ## 3.2. User Stories
 <table border = "1">
       <thead>
