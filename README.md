@@ -553,7 +553,7 @@ Juan Esteban estaría interesado en una herramienta tecnológica que le permita 
 
 **Entrevista #05: Zaid Arauco (47 años - Miraflores) - 26 de agosto del 2024**
 
-[GastroGo - Registro de Entrevistas.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EWIpimdxe6ZHoMD_xHk62dQBS71n4P8cEytImZroVAODIw?e=CRgyDO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTM4Mi42NH19)  (Comienzo 00:30:01 - Fin 00:39:42)
+[GastroGo - Registro de Entrevistas.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EWIpimdxe6ZHoMD_xHk62dQBS71n4P8cEytImZroVAODIw?e=10pPdr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTgwMi4wNH19)  (Comienzo 00:30:01 - Fin 00:39:42)
 
 <p align="center">
   <img src="assets/img/chapter-2/img-entrevista-restaurantes-2.png" alt=" " width="50%">
@@ -585,7 +585,7 @@ Finalmente, Zaid menciona que, aunque las plataformas de delivery como Rappi cob
 
 Martín Zuñiga es el dueño y cocinero principal de un restaurante ubicado en La Victoria. Lleva 10 años al frente del negocio, y su experiencia en el rubro le ha permitido conocer a fondo las necesidades y preferencias de sus clientes.
 
-En cuanto a sus preferencias personales y estilo de vida, Martín nos comenta que es una persona más bien extrovertida, que disfruta de la tranquilidad que le ofrecen sus pasatiempos. Entre sus principales hobbies, destaca la lectura y la cocina experimental, actividades que lo relajan y le permiten seguir innovando en su restaurante. Aunque reconoce que tiene un lado creativo por su pasión por la cocina, se considera una persona analítica en lo que respecta al manejo del negocio. En su enfoque, tiende a ser racional, valorando la eficiencia y la precisión en las operaciones diarias del restaurante.
+En cuanto a sus preferencias personales y estilo de vida, Martín nos comenta que es una persona más bien introvertida, que disfruta de la tranquilidad que le ofrecen sus pasatiempos. Entre sus principales hobbies, destaca la lectura y la cocina experimental, actividades que lo relajan y le permiten seguir innovando en su restaurante. Aunque reconoce que tiene un lado creativo por su pasión por la cocina, se considera una persona analítica en lo que respecta al manejo del negocio. En su enfoque, tiende a ser racional, valorando la eficiencia y la precisión en las operaciones diarias del restaurante.
 
 Martín nos compartió sus preferencias utilizando una computadora portátil con sistema operativo Windows y un smartphone con sistema operativo Android. Su navegador de preferencia es Google Chrome, por su  compatibilidad con las plataformas que utiliza. Finalmente, en cuanto a redes sociales, Martín prefiere LinkedIn para temas profesionales, y usa Facebook para mantener contacto con su comunidad local y promocionar su restaurante.
 
@@ -644,6 +644,47 @@ Finalmente, Martín estaría dispuesto a ofrecer descuentos o menús especiales 
 
 
 - El 33% se identifica como introvertido, prefiriendo actividades más individuales como jugar fútbol o escuchar música.
+
+
+**Análisis para el segmento de Restaurantes:**
+
+- El 100% de los entrevistados son propietarios o gerentes generales de restaurantes y tienen una gran experiencia en el manejo de las operaciones diarias de sus negocios.
+
+
+- El 100% de los entrevistados indicaron tener un estilo de vida activo. Sus pasatiempos varían desde actividades deportivas como el fútbol hasta la lectura y el cine.
+
+
+- El 100% de los entrevistados se consideran personas analíticas, aunque reconocen la importancia de la creatividad en la gestión de sus restaurantes.
+
+
+- El 100% de los entrevistados utiliza dispositivos con sistema operativo Windows, y también emplean otros dispositivos como iPads y smartphones con sistemas operativos iOS o Android.
+
+
+- El 100% de los entrevistados opina que el horario de almuerzo es crucial para el éxito de su restaurante. Aunque los clientes principales varían entre oficinistas, familias y trabajadores, todos coinciden en que atraer y mantener la fidelidad de los clientes durante este periodo es esencial.
+
+
+- El 100% de los entrevistados prefieren ofrecer menús fijos en lugar de personalizar los pedidos. Esto se debe a que les permite una mayor eficiencia operativa, especialmente durante las horas pico.
+
+
+- El 100% de los entrevistados ha enfrentado desafíos al manejar pedidos grupales. Estos incluyen la coordinación de especificaciones detalladas, la división de cuentas, y la necesidad de mantener un servicio rápido y eficiente.
+
+
+- El 100% de los entrevistados estaría interesado en utilizar una plataforma que facilite la gestión de pedidos grupales. Consideran que una herramienta de este tipo les permitiría anticipar la demanda, optimizar la producción en la cocina y mejorar la satisfacción del cliente.
+
+
+- El 100% de los entrevistados estaría dispuesto a ofrecer descuentos o menús especiales a través de una plataforma que garantice un volumen significativo de pedidos. Sin embargo, destacan la importancia de manejar las personalizaciones de manera eficiente para no comprometer la calidad del servicio.
+
+
+- El 66% de los entrevistados se describen como personas extrovertidas. Disfrutan de interactuar con sus clientes y valoran la importancia de la comunicación abierta en sus negocios.
+
+
+- El 66% de los entrevistados utilizan Office 365 para su trabajo diario, destacando el uso de Excel y PowerPoint.
+
+
+- El 66% de los entrevistados estarían dispuestos a ofrecer descuentos o menús especiales a través de una plataforma que garantice un volumen significativo de pedidos, siempre y cuando se puedan manejar las personalizaciones de manera eficiente.
+
+
+- El 33% de los entrevistados utiliza herramientas tecnológicas específicas para la gestión de pedidos. En este caso, la plataforma Infores fue mencionada por uno de los entrevistados como una solución útil, aunque con algunas limitaciones operativas.
 
 
 ## 2.3. Needfinding  
