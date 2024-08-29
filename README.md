@@ -195,8 +195,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 # Capítulo III: Requirements Specification  
 ## 3.1. To-Be Scenario Mapping  
 ## 3.2. User Stories
-## 3.2. User Stories
- <table border = "1">
+<table border = "1">
       <thead>
          <tr>
             <th style="text-align: center;">Epic / Story ID</th>
@@ -555,24 +554,7 @@ Then se muestran recomendaciones personalizadas basadas en pedidos anteriores.
 <td>
 3
 </td>
-         </tr>
-              <tr>
-            <td style="text-align: center;">E3 - US015</td>
-            <td style="text-align: center;">Selección de Platos</td>
-            <td tyle="text-align: justify;">Como usuario, Quiero poder seleccionar platos del menú del restaurante Para hacer un pedido grupal.
-
-</td>
-            <td style="text-align: center;">Scenario: Selección Individual
-Given un usuario que visualiza el menú,
-When selecciona un plato,
-Then se añade el plato a su pedido.
-
-
-</td>
-<td>
-3
-</td>
-                 <tr>
+          </tr>
             <td style="text-align: center;">E3 - US014</td>
             <td style="text-align: center;">Información del Restaurante</td>
             <td tyle="text-align: justify;">Como usuario, Quiero ver información detallada sobre el restaurante seleccionado, incluyendo horario, dirección, y menú 
@@ -593,6 +575,21 @@ Then se muestra el menú disponible con precios y descripciones.
 <td>
 3
 </td>
+<tr>
+            <td style="text-align: center;">E3 - US015</td>
+            <td style="text-align: center;">Selección de Platos</td>
+            <td tyle="text-align: justify;">Como usuario, Quiero poder seleccionar platos del menú del restaurante Para hacer un pedido grupal.
+
+</td>
+            <td style="text-align: center;">Scenario: Selección Individual
+Given un usuario que visualiza el menú,
+When selecciona un plato,
+Then se añade el plato a su pedido.
+</td>
+<td>
+3
+</td>
+                 <tr>
 <thead>
       <tr>
       <th colspan = "5" style="text-align: center;">Epic 4: Personalización del Menú
@@ -783,11 +780,338 @@ Given que el pago ha sido procesado, When la transacción es exitosa,
 Then el usuario recibe una confirmación y el pago se registra en la plataforma.
 </td>
 <td>
-E06
+6
 </td>
       </tr>     
+<tr>
+            <td style="text-align: center;">E6 - US024</td>
+            <td style="text-align: center;">Notificaciones de Pago Pendiente</td>
+            <td tyle="text-align: justify;">Cómo miembro del grupo,
+Quiero recibir notificaciones de recordatorio en caso de que mi pago esté pendiente 
+Para asegurarme de completar la transacción.
+</td>
+            <td style="text-align: center;">Scenario: Envío de Notificación Given que el pedido ha sido realizado, When un miembro del grupo no ha completado su pago, 
+Then recibe una notificación de recordatorio.
 
+Scenario: Frecuencia de Notificaciones Given que el pago sigue pendiente, When el plazo se acerca,
+Then se incrementa la frecuencia de las notificaciones.
+</td>
+<td>
+6
+</td>
+      </tr> 
+<tr>
+            <td style="text-align: center;">E6 - US025</td>
+            <td style="text-align: center;">Registro y Confirmación de Pagos Grupales</td>
+            <td tyle="text-align: justify;">Como líder del grupo, 
+Quiero poder ver un registro de todos los pagos realizados por los miembros del grupo 
+Para confirmar que todos han contribuido.
+</td>
+            <td style="text-align: center;">Scenario: Visualización de Pagos 
+Given que los pagos han sido realizados, 
+When el líder consulta el registro, 
+Then puede ver el estado de los pagos de cada miembro.
 
+Scenario: Confirmación Completa Given que todos los miembros han completado sus pagos, 
+When se verifica el registro, 
+Then el sistema confirma que el pedido está listo para ser procesado.
+</td>
+<td>
+6
+</td>
+      </tr>
+<tr>
+            <td style="text-align: center;">E6 - US026</td>
+            <td style="text-align: center;">Opción de Propina Compartida</td>
+            <td tyle="text-align: justify;">Como miembro del grupo, 
+Quiero tener la opción de agregar una propina compartida al total del pedido Para recompensar el servicio del restaurante.
+</td>
+            <td style="text-align: center;">Scenario: Selección de Propina 
+Given que el pedido está siendo finalizado, When el grupo decide agregar una propina, Then el sistema la distribuye proporcionalmente entre los participantes.
+
+Scenario: Confirmación de Propina
+Given que la propina ha sido agregada, 
+When se completa el pago, 
+Then el monto total reflejado incluye la propina compartida.
+</td>
+<td>
+6
+</td>
+      </tr>
+<thead>
+      <tr>
+      <th colspan = "5" style="text-align: center;">
+      Epic 7: Recomendaciones Personalizadas
+Cómo usuario, 
+Quiero recibir recomendaciones de restaurantes y platos basadas en pedidos anteriores 
+Para descubrir opciones que se ajusten a mis preferencias.
+      </th>
+      </tr>
+</thead>
+<tr>
+            <td style="text-align: center;">E6 - US027</td>
+            <td style="text-align: center;">Generación Automática de Recomendaciones</td>
+            <td tyle="text-align: justify;">Como usuario, Quiero que el sistema genere automáticamente recomendaciones de restaurantes y platos basadas en mis pedidos anteriores 
+Para facilitar futuras elecciones.
+
+</td>
+            <td style="text-align: center;">Scenario: Identificación de Preferencias Given el usuario ha realizado varios pedidos, 
+When vuelve a la página de inicio, 
+Then el sistema genera recomendaciones basadas en la frecuencia de ciertos tipos de cocina o platos en sus pedidos anteriores.
+
+Scenario: Presentación de Recomendaciones 
+Given que el sistema ha generado recomendaciones, 
+When el usuario accede a la sección de "Recomendaciones", 
+Then se muestran opciones relevantes vinculadas a sus últimos pedidos.
+</td>
+<td>
+7
+</td>
+      </tr>
+<tr>
+            <td style="text-align: center;">E6 - US028</td>
+            <td style="text-align: center;">Notificaciones de Recomendaciones</td>
+            <td tyle="text-align: justify;">Como usuario, Quiero recibir notificaciones de nuevas recomendaciones basadas en mis pedidos recientes 
+Para estar al tanto de opciones que podrían interesarme.
+
+</td>
+            <td style="text-align: center;">Scenario: Envío de Notificaciones Given que el usuario ha realizado un nuevo pedido, When el sistema identifica restaurantes o platos relacionados, Then envía una notificación con las nuevas recomendaciones.
+
+Scenario: Frecuencia de Notificaciones Given que el usuario tiene configuradas notificaciones, When se identifica una nueva recomendación, Then el sistema envía las notificaciones según la frecuencia establecida (diaria, semanal).
+</td>
+<td>
+7
+</td>
+      </tr>
+<tr>
+            <td style="text-align: center;">E7 - US029</td>
+            <td style="text-align: center;">Personalización de Recomendaciones en Función de Pedidos Grupales</td>
+            <td tyle="text-align: justify;">Como líder de grupo, 
+Quiero recibir recomendaciones de restaurantes y platos basadas en los pedidos grupales anteriores 
+Para facilitar futuras decisiones de grupo.
+
+</td>
+            <td style="text-align: center;">Scenario: Análisis de Pedidos Grupales
+Given que el grupo ha realizado pedidos anteriores, When el líder consulta la sección de recomendaciones, Then el sistema sugiere restaurantes y platos que fueron populares en pedidos grupales anteriores.
+
+Scenario: Adaptación a Preferencias del Grupo 
+Given que el sistema genera recomendaciones, 
+When el líder revisa las opciones, 
+Then se destacan aquellos restaurantes y platos que satisfacen las preferencias colectivas del grupo.
+</td>
+<td>
+7
+</td>
+      </tr>
+
+<thead>
+      <tr>
+      <th colspan = "5" style="text-align: center;">
+      Epic 8: Gestión de Pedidos Grupales
+Como restaurante, 
+Quiero gestionar pedidos grupales 
+Para optimizar la preparación y entrega de grandes pedidos, asegurando la satisfacción del cliente y la eficiencia operativa.
+      </th>
+      </tr>
+</thead>
+<tr>
+            <td style="text-align: center;">E8 - US030</td>
+            <td style="text-align: center;">Prioridad de Preparación para Pedidos Grupales</td>
+            <td tyle="text-align: justify;">Como chef del restaurante, Quiero priorizar la preparación de pedidos grupales grandes 
+Para asegurarme de que se entreguen a tiempo.
+
+</td>
+            <td style="text-align: center;">Scenario: Clasificación por Prioridad
+Given que hay múltiples pedidos en cola,
+When el sistema identifica un pedido grupal grande, 
+Then lo clasifica con alta prioridad en la lista de preparación visible en el panel de gestión en el sidebar.
+
+Scenario: Notificaciones de Prioridad
+Given que un pedido grupal se clasifica como prioritario,
+When el chef inicia la preparación,
+Then el sistema envía notificaciones al equipo de cocina sobre la prioridad del pedido desde la sección de notificaciones del sidebar.
+</td>
+<td>
+8
+</td>
+      </tr>
+<tr>
+            <td style="text-align: center;">E8 - US031</td>
+            <td style="text-align: center;">Confirmación de Capacidad de Gestión para Pedidos Grupales</td>
+            <td tyle="text-align: justify;">Como administrador del restaurante, Quiero confirmar la capacidad de gestión antes de aceptar un pedido grupal grande 
+Para evitar sobrecargar la cocina y asegurar un servicio de calidad.
+
+</td>
+            <td style="text-align: center;">Scenario: Verificación de Capacidad
+Given que un cliente envía un pedido grupal,
+When el sistema recibe el pedido,
+Then verifica automáticamente la capacidad actual de la cocina antes de confirmar el pedido, mostrando el estado en el panel de gestión del sidebar.
+
+Scenario: Respuesta al Cliente:
+Given que el sistema verifica la capacidad,
+When se determina que la cocina puede manejar el pedido,
+Then se envía una confirmación al cliente con un tiempo estimado de entrega; si no es posible, se sugiere un tiempo alternativo o se rechaza el pedido, y esta información es accesible desde el sidebar.
+</td>
+<td>
+8
+</td>
+      </tr>
+<tr>
+            <td style="text-align: center;">E8 - US033</td>
+            <td style="text-align: center;">Gestión de Cambios y Cancelaciones en Pedidos Grupales</td>
+            <td tyle="text-align: justify;">Cómo administrador del restaurante, 
+Quiero gestionar cambios y cancelaciones en pedidos grupales de manera eficiente 
+Para minimizar el impacto en la operación del restaurante.
+
+</td>
+            <td style="text-align: center;">Scenario: Notificaciones de Cambios
+Given que un cliente solicita un cambio en un pedido grupal,
+When se realiza el cambio,
+Then el sistema notifica automáticamente a la cocina y al equipo de entrega sobre la modificación desde el panel de notificaciones en el sidebar.
+
+Scenario: Políticas de Cancelación
+Given que un cliente intenta cancelar un pedido grupal,
+When la cancelación se recibe,
+Then el sistema verifica si la cancelación está dentro del tiempo permitido según la política del restaurante y procede a reembolsar o a rechazar la solicitud de acuerdo con las políticas establecidas, y se muestra en el sidebar.
+</td>
+<td>
+8
+</td>
+      </tr>
+<thead>
+      <tr>
+      <th colspan = "5" style="text-align: center;">
+      Epic 9: Backend API
+Cómo desarrollador, 
+Quiero utilizar un backend API 
+Para que los usuarios puedan interactuar con la aplicación, permitiendo operaciones como la gestión de cuentas, pedidos, personalización de menús, y más.
+      </th>
+      </tr>
+</thead>
+<tr>
+            <td style="text-align: center;">E9 - US034</td>
+            <td style="text-align: center;">Endpoint para Registro de Usuario</td>
+            <td tyle="text-align: justify;">Como desarrollador, Quiero tener un endpoint para el registro de nuevos usuarios 
+Para que los datos de los nuevos usuarios puedan ser enviados y almacenados en el backend.
+
+</td>
+            <td style="text-align: center;">Scenario: Solicitud de Registro
+Given que un nuevo usuario envía una solicitud de registro,
+When se realiza una petición POST al endpoint /api/register con los datos del usuario,
+Then el sistema debe crear un nuevo usuario y devolver una respuesta de éxito con el ID del nuevo usuario.
+
+Scenario: Validación de Datos:
+Given que los datos de registro se envían al endpoint /api/register,
+When los datos son procesados,
+Then el sistema debe validar los datos (e.g., formato de correo electrónico, contraseña segura) y devolver errores si los datos no cumplen con los requisitos.
+
+Scenario: Manejo de Errores
+Given que ocurre un error durante el registro,
+When se detecta un problema (e.g., correo electrónico ya registrado),
+Then el sistema debe devolver un mensaje de error adecuado.
+</td>
+<td>
+9
+</td>
+      </tr>
+<tr>
+            <td style="text-align: center;">E9 - US035</td>
+            <td style="text-align: center;">Endpoint para Inicio de Sesión</td>
+            <td tyle="text-align: justify;">Como desarrollador, Quiero tener un endpoint 
+Para que los usuarios puedan iniciar sesión y obtener un token de autenticación.
+
+</td>
+            <td style="text-align: center;">Scenario: Solicitud de Inicio de Sesión
+Given que un usuario envía una solicitud de inicio de sesión,
+When se realiza una petición POST al endpoint /api/login con las credenciales del usuario,
+Then el sistema debe autenticar al usuario y devolver un token de autenticación válido.
+
+Criterio 2: Validación de Credenciales:
+Given que las credenciales de inicio de sesión se envían al endpoint /api/login,
+When las credenciales son procesadas,
+Then el sistema debe validar las credenciales y devolver un mensaje de error si las credenciales son incorrectas.
+
+Scenario: Expiración del Token
+Given que el usuario recibe un token de autenticación,
+When el token está cerca de expirar,
+Then el sistema debe permitir la renovación del token mediante una solicitud de actualización de sesión.
+</td>
+<td>
+7
+</td>
+      </tr>
+<tr>
+            <td style="text-align: center;">E9 - US036</td>
+            <td style="text-align: center;">Endpoint para Recuperación de Contraseña</td>
+            <td tyle="text-align: justify;">Como desarrollador, Quiero tener un endpoint para la recuperación de contraseñas Para permitir a los usuarios restablecer sus contraseñas olvidadas.
+
+</td>
+            <td style="text-align: center;">Scenario: Solicitud de Recuperación
+Given que un usuario solicita la recuperación de contraseña,
+When se realiza una petición POST al endpoint /api/password-recovery con el correo electrónico del usuario,
+Then el sistema debe enviar un correo con un enlace para restablecer la contraseña.
+
+Scenario: Restablecimiento de Contraseña:
+Given que el usuario sigue el enlace para restablecer la contraseña,
+When se realiza una petición POST al endpoint /api/reset-password con el nuevo password y el token de recuperación,
+Then el sistema debe actualizar la contraseña y confirmar el cambio.
+
+Scenario: Expiración del Token de Recuperación
+Given que el token de recuperación se envía al usuario,
+When el token está expirado,
+Then el sistema debe rechazar la solicitud de restablecimiento y pedir al usuario que solicite un nuevo enlace.
+</td>
+<td>
+9
+</td>
+      </tr>
+<tr>
+            <td style="text-align: center;">E9 - US037</td>
+            <td style="text-align: center;">Endpoint para Gestión de Pedidos Grupales</td>
+            <td tyle="text-align: justify;">Como desarrollador, Quiero tener endpoints 
+Para gestionar los pedidos grupales, permitiendo crear, actualizar, consultar y eliminar pedidos grupales.
+
+</td>
+            <td style="text-align: center;">Scenario: Creación de Pedido Grupal
+Given que un usuario crea un nuevo pedido grupal,
+When se realiza una petición POST al endpoint /api/group-orders con los detalles del pedido,
+Then el sistema debe crear el pedido y devolver una confirmación con los detalles del pedido.
+
+Scenario: Consulta de Pedido Grupal
+Given que un usuario consulta un pedido grupal existente,
+When se realiza una petición GET al endpoint /api/group-orders/{orderId},
+Then el sistema debe devolver los detalles del pedido con el ID especificado.
+
+Scenario: Actualización y Eliminación de Pedido Grupal:
+Given que un usuario actualiza o elimina un pedido grupal,
+When se realiza una petición PUT o DELETE al endpoint /api/group-orders/{orderId},
+Then el sistema debe actualizar o eliminar el pedido y devolver una confirmación de éxito.
+</td>
+<td>
+9
+</td>
+      </tr>
+<tr>
+            <td style="text-align: center;">E9 - US038</td>
+            <td style="text-align: center;">Endpoint para Recomendaciones Personalizadas</td>
+            <td tyle="text-align: justify;">Como desarrollador,
+Quiero tener un endpoint 
+Para obtener recomendaciones personalizadas de restaurantes y platos basadas en pedidos anteriores.
+</td>
+            <td style="text-align: center;">Scenario: Solicitud de Recomendaciones:
+Given que un usuario solicita recomendaciones,
+When se realiza una petición GET al endpoint /api/recommendations con el ID del usuario,
+When el sistema debe devolver una lista de recomendaciones basadas en los pedidos anteriores del usuario.
+
+Scenario: Personalización de Recomendaciones
+Given que el sistema genera recomendaciones,
+When se consideran los pedidos anteriores del usuario,
+Then el sistema debe ofrecer recomendaciones personalizadas que se alineen con las preferencias y comportamientos del usuario.
+</td>
+<td>
+9
+</td>
+      </tr>
    </tr>
    </tbody>
    </table>
