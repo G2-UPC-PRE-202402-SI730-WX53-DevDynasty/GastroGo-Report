@@ -439,7 +439,7 @@ Las entrevistas son fundamentales porque nos permiten conocer mejor a nuestro p�
 
 **Segmento grupo de trabajadores**
 
-Entrevista #01: Jonathan Berrocal (22 años - Villa Maria del Triunfo) - 25 de agosto del 2024
+**Entrevista #01: Jonathan Berrocal (22 años - Villa Maria del Triunfo) - 25 de agosto del 2024**
 
 <p align="center">
   <img src="assets/img/chapter-2/img-entrevista-trabajadores-1.png" alt=" " width="50%">
@@ -474,7 +474,7 @@ Por último, le gustaría que la aplicación de pedidos grupales ofreciera recom
 
 
 
-Entrevista #02: Nombre ( años - Distrito) - Fecha del 2024
+**Entrevista #02: Raul Sulca Ynoñan ( 29 años - Comas) - 29 de agosto del 2024**
 
 (Comienzo - Fin - )
 
@@ -482,7 +482,28 @@ Entrevista #02: Nombre ( años - Distrito) - Fecha del 2024
   <img src="assets/img/chapter-2/img-entrevista-trabajadores-2.png" alt=" " width="50%">
 </p>
 
-Entrevista #03: Nombre ( años - Distrito) - Fecha del 2024
+
+Raul Sulca nos comentó que estudió en la Universidad Nacional Mayor de San Marcos, y actualmente es Ingeniero Agromono. Asimismo, se encuentra trabajando en SGS del Perú S.A.C. en el distrito del Callao.
+
+En cuanto a sus preferencias personales y estilo de vida, Raul nos comenta que es una persona extrovertida. Sus principales pasatiempos actualmente son viajar  y bailar salsa. Además, se considera una persona analítica en lo que respecta a su trabajo y, en términos de enfoque, se define como una persona muy racional. 
+
+Raul nos compartió sus preferencias tecnológicas: utiliza una laptop con sistema operativo Windows y un dispositivo móvil con sistema operativo Android. Su navegador de preferencia es Google Chrome. Finalmente, en cuanto a redes sociales, Raul utiliza frecuentemente Facebook, Instagram y TikTok. 
+
+Raul nos ha compartido su experiencia a la hora de realizar pedidos grupales en la empresa donde actualmente labora. La importancia de elegir donde almorzar durante su jornada laboral es primordial. Prefiere comer en el comedor de la empresa y en algunos casos, comprar su comida por su lugar de trabajo o pedirla, ya que le resulta más fácil, ya que el lugar donde trabaja es zona industrial. 
+
+Raul realiza pedidos grupales con sus colegas de vez en cuando, usualmente cuando hay un antojo común o cuando deciden hacer un pedido en conjunto. Las necesidades varían según las preferencias del grupo.
+
+Al elegir un restaurante, Raul considera la rapidez y la calidad de la comida, él elige estas dos opciones porque el tiempo de comida es limitado y prefiere que al realizar un pedido, llegue rápido y que la calidad sea buena.
+
+Raul ha enfrentado dificultades al recibir sus pedidos, nos comenta que al momento de recibirlo, el pedido que hizo llega incompleto o no llega lo que pidió, y tiene que cancelar el pedido o lo acepta para evitar más complicaciones. 
+
+Raul estaría interesado en una plataforma que facilitara los pedidos grupales y ofreciera menús con mayor variedad y evitar los errores en las entregas. Le parece útil, ya que le ahorrará tiempo y evitará más complicaciones. 
+
+También nos comenta que estaría dispuesto a pagar una pequeña tarifa adicional por un servicio que le permita gestionar  de manera rápida sus pedidos, y que sea rápido y al mismo tiempo la comida sea de calidad. 
+
+Por último, le gustaría que la aplicación de pedido grupales sea amigable con el usuario, fácil de manejar al momento de realizar pedidos y que no tenga caídas en el sistema. 
+
+**Entrevista #03: Daniel Vazquez ( 25 años - San Juan de Lurigancho) - 28 de agosto del 2024**
 
 (Comienzo - Fin - )
 
@@ -490,9 +511,11 @@ Entrevista #03: Nombre ( años - Distrito) - Fecha del 2024
   <img src="assets/img/chapter-2/img-entrevista-trabajadores-3.png" alt=" " width="50%">
 </p>
 
+
+
 **Segmento de Restaurantes**
 
-Entrevista #04: Juan Esteban Espinoza (56 años - La Molina) 26 de agosto del 2024
+**Entrevista #04: Juan Esteban Espinoza (56 años - La Molina) 26 de agosto del 2024**
 
 <p align="center">
   <img src="assets/img/chapter-2/img-entrevista-restaurantes-1.png" alt=" " width="50%">
@@ -514,7 +537,7 @@ En cuanto a la gestión de pedidos grupales, Juan Esteban menciona que uno de lo
 
 Juan Esteban estaría interesado en una herramienta tecnológica que le permita anticipar los pedidos grupales con mayor antelación, lo que le permitiría optimizar la producción en la cocina y mejorar el servicio durante las horas pico. Además, considera que una plataforma que ofrezca la posibilidad de gestionar pedidos grupales de manera eficiente sería de gran ayuda para reducir los tiempos de espera y mejorar la satisfacción del cliente. También estaría dispuesto a ofrecer descuentos o menús especiales a través de una plataforma que le garantice un volumen significativo de pedidos, siempre y cuando se puedan manejar las personalizaciones de manera eficiente.
 
-Entrevista #05: Zaid Arauco ( 47 años - Miraflores) - 26 de agosto del 2024
+**Entrevista #05: Zaid Arauco ( 47 años - Miraflores) - 26 de agosto del 2024**
 
 (Comienzo - Fin - )
 
