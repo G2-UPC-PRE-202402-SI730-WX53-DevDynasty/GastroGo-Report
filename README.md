@@ -492,7 +492,7 @@ Entrevista #03: Nombre ( años - Distrito) - Fecha del 2024
 
 **Segmento de Restaurantes**
 
-Entrevista #04: Juan Esteban Espinoza (56 años - La Molina)
+Entrevista #04: Juan Esteban Espinoza (56 años - La Molina) 26 de agosto del 2024
 
 <p align="center">
   <img src="assets/img/chapter-2/img-entrevista-restaurantes-1.png" alt=" " width="50%">
@@ -514,7 +514,7 @@ En cuanto a la gestión de pedidos grupales, Juan Esteban menciona que uno de lo
 
 Juan Esteban estaría interesado en una herramienta tecnológica que le permita anticipar los pedidos grupales con mayor antelación, lo que le permitiría optimizar la producción en la cocina y mejorar el servicio durante las horas pico. Además, considera que una plataforma que ofrezca la posibilidad de gestionar pedidos grupales de manera eficiente sería de gran ayuda para reducir los tiempos de espera y mejorar la satisfacción del cliente. También estaría dispuesto a ofrecer descuentos o menús especiales a través de una plataforma que le garantice un volumen significativo de pedidos, siempre y cuando se puedan manejar las personalizaciones de manera eficiente.
 
-Entrevista #05: Nombre ( años - Distrito) - Fecha del 2024
+Entrevista #05: Zaid Arauco ( 47 años - Miraflores) - 26 de agosto del 2024
 
 (Comienzo - Fin - )
 
@@ -522,7 +522,22 @@ Entrevista #05: Nombre ( años - Distrito) - Fecha del 2024
   <img src="assets/img/chapter-2/img-entrevista-restaurantes-2.png" alt=" " width="50%">
 </p>
 
-Entrevista #06: Nombre ( años - Distrito) - Fecha del 2024
+Zaid Arauco es la Gerente General de un restaurante ubicado en Miraflores. Tiene 47 años y se dedica a gestionar las operaciones diarias del restaurante, asegurando que todo funcione de manera óptima.
+
+En cuanto a su estilo de vida, Zaid es una persona extrovertida que disfruta de ir al cine y hacer deporte en su tiempo libre. Se considera persona analítica y tiende a ser racional en su enfoque hacia el trabajo. Zaid prefiere usar dispositivos con sistema operativo Windows y trabaja con Office 365. Su navegador de preferencia es Firefox.
+
+Zaid nos compartió sus experiencias y desafíos al manejar los pedidos grupales en su restaurante. En cuanto al perfil de sus clientes, identifica tres grupos principales: oficinistas que buscan un lugar conveniente para almorzar, turistas que desean probar la comida peruana y clientes locales que acuden específicamente para disfrutar de su oferta gastronómica.
+
+Respecto a la importancia del horario de almuerzo, Zaid considera que es el servicio más relevante para su restaurante. A pesar de ofrecer un menú fijo diario para los oficinistas, el negocio principal está en los pedidos a la carta, donde el margen de ganancia es mayor.
+
+En cuanto a la gestión de pedidos grupales, Zaid menciona que su restaurante, que tiene capacidad para 20 personas, suele pedir a los grupos que reserven con anticipación y que elijan platos de la carta antes de llegar, lo que les ayuda a organizarse mejor. A menudo, los grupos optan por pedir entradas para compartir antes de seleccionar su plato principal. Además, cuando los grupos piden cuentas individuales, el restaurante las gestiona usando los nombres de los clientes para facilitar el cobro al final.
+
+Zaid menciona que uno de los problemas más comunes al manejar pedidos grupales es la división de la cuenta, lo que puede llevar tiempo. Además, cuando cada persona pide un plato diferente, puede generar demoras en la cocina. A pesar de estas dificultades, considera que las plataformas que facilitan reservas grupales, como WeRoad, son beneficiosas, ya que aseguran un flujo constante de clientes y permiten al restaurante planificar mejor sus compras y producción.
+
+Finalmente, Zaid menciona que, aunque las plataformas de delivery como Rappi cobran comisiones altas (alrededor del 25% del valor de la venta), las alianzas con plataformas de reservas grupales pueden ser más viables, ya que implican menores costos y aseguran una demanda previsible.
+
+
+Entrevista #06: Zaid Arauco ( 47 años - Miraflores) - Fecha del 2024
 
 (Comienzo - Fin - )
 
