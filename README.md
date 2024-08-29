@@ -445,7 +445,7 @@ Las entrevistas son fundamentales porque nos permiten conocer mejor a nuestro p�
   <img src="assets/img/chapter-2/img-entrevista-trabajadores-1.png" alt=" " width="50%">
 </p>
 
-(Comienzo 00: 00:00 Fin -00:05:39)
+[GastroGo - Registro de Entrevistas.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EWIpimdxe6ZHoMD_xHk62dQBS71n4P8cEytImZroVAODIw?e=Z68TgT&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D) (Comienzo 00: 00:00 Fin -00:05:48)
 
 Jonathan Berrocal en la actualidad es un estudiante de séptimo ciclo de la carrera de ingeniería de sistemas de información en la universidad de ciencias aplicadas. Asimismo se encuentra realizando prácticas en la empresa Diners Club.
 
@@ -474,13 +474,14 @@ Por último, le gustaría que la aplicación de pedidos grupales ofreciera recom
 
 
 
-**Entrevista #02: Raul Sulca Ynoñan ( 29 años - Comas) - 29 de agosto del 2024**
+**Entrevista #02: Raul Sulca Ynoñan (29 años - Comas) - 29 de agosto del 2024**
 
-(Comienzo - Fin - )
 
 <p align="center">
-  <img src="assets/img/chapter-2/img-entrevista-trabajadores-2.png" alt=" " width="50%">
+  <img src="assets/img/chapter-2/img-entrevista-trabajadores-2.png" alt=" " width="55%">
 </p>
+
+[GastroGo - Registro de Entrevistas.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EWIpimdxe6ZHoMD_xHk62dQBS71n4P8cEytImZroVAODIw?e=UWHYgR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzQ4Ljc4fX0%3D)  (Comienzo 00:05:48 - Fin 00:13:02)
 
 
 Raul Sulca nos comentó que estudió en la Universidad Nacional Mayor de San Marcos, y actualmente es Ingeniero Agromono. Asimismo, se encuentra trabajando en SGS del Perú S.A.C. en el distrito del Callao.
@@ -503,12 +504,12 @@ También nos comenta que estaría dispuesto a pagar una pequeña tarifa adiciona
 
 Por último, le gustaría que la aplicación de pedido grupales sea amigable con el usuario, fácil de manejar al momento de realizar pedidos y que no tenga caídas en el sistema. 
 
-**Entrevista #03: Daniel Vazquez ( 25 años - San Juan de Lurigancho) - 28 de agosto del 2024**
+**Entrevista #03: Daniel Vazquez (25 años - San Juan de Lurigancho) - 28 de agosto del 2024**
 
-(Comienzo - Fin - )
+[GastroGo - Registro de Entrevistas.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EWIpimdxe6ZHoMD_xHk62dQBS71n4P8cEytImZroVAODIw?e=HvvBXV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NzgyLjczfX0%3D)  (Comienzo 00:13:02 - Fin 00:23:01)
 
 <p align="center">
-  <img src="assets/img/chapter-2/img-entrevista-trabajadores-3.png" alt=" " width="50%">
+  <img src="assets/img/chapter-2/img-entrevista-trabajadores-3.png" alt=" " width="55%">
 </p>
 
 Daniel Vasquez nos comenta que es bachiller de Derecho de la Universidad Nacional Pedro Ruiz Gallo de Chiclayo. Asimismo, se encuentra trabajando en la Corte Superior de Lima. 
@@ -534,7 +535,7 @@ Daniel estaría interesado en una plataforma que facilite la gestión de pedidos
   <img src="assets/img/chapter-2/img-entrevista-restaurantes-1.png" alt=" " width="50%">
 </p>
 
-(Comienzo - Fin - )
+[GastroGo - Registro de Entrevistas.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EWIpimdxe6ZHoMD_xHk62dQBS71n4P8cEytImZroVAODIw?e=CRgyDO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTM4Mi42NH19)  (Comienzo 00:23:02 - Fin 00:30:01)
 
 Juan Esteban Espinoza es actualmente gerente general y cuenta con 56 años. Dirige dos restaurantes ubicados en los distritos de Mala y Surco, siendo este último de reciente apertura. El restaurante en Mala atrae principalmente a familias, mientras que en Surco se enfoca en parejas y clientes individuales.
 
@@ -550,9 +551,9 @@ En cuanto a la gestión de pedidos grupales, Juan Esteban menciona que uno de lo
 
 Juan Esteban estaría interesado en una herramienta tecnológica que le permita anticipar los pedidos grupales con mayor antelación, lo que le permitiría optimizar la producción en la cocina y mejorar el servicio durante las horas pico. Además, considera que una plataforma que ofrezca la posibilidad de gestionar pedidos grupales de manera eficiente sería de gran ayuda para reducir los tiempos de espera y mejorar la satisfacción del cliente. También estaría dispuesto a ofrecer descuentos o menús especiales a través de una plataforma que le garantice un volumen significativo de pedidos, siempre y cuando se puedan manejar las personalizaciones de manera eficiente.
 
-**Entrevista #05: Zaid Arauco ( 47 años - Miraflores) - 26 de agosto del 2024**
+**Entrevista #05: Zaid Arauco (47 años - Miraflores) - 26 de agosto del 2024**
 
-(Comienzo - Fin - )
+[GastroGo - Registro de Entrevistas.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EWIpimdxe6ZHoMD_xHk62dQBS71n4P8cEytImZroVAODIw?e=CRgyDO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTM4Mi42NH19)  (Comienzo 00:30:01 - Fin 00:39:42)
 
 <p align="center">
   <img src="assets/img/chapter-2/img-entrevista-restaurantes-2.png" alt=" " width="50%">
@@ -573,13 +574,14 @@ Zaid menciona que uno de los problemas más comunes al manejar pedidos grupales 
 Finalmente, Zaid menciona que, aunque las plataformas de delivery como Rappi cobran comisiones altas (alrededor del 25% del valor de la venta), las alianzas con plataformas de reservas grupales pueden ser más viables, ya que implican menores costos y aseguran una demanda previsible.
 
 
-**#06: Martín Zuñiga ( 48 años - Victoria) - 29 de agosto de 2024**
+**#06: Martín Zuñiga (48 años - Victoria) - 29 de agosto de 2024**
 
-(Comienzo - Fin - )
 
 <p align="center">
   <img src="assets/img/chapter-2/img-entrevista-restaurantes-3.png" alt=" " width="50%">
 </p>
+
+[GastroGo - Registro de Entrevistas.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EWIpimdxe6ZHoMD_xHk62dQBS71n4P8cEytImZroVAODIw?e=FSU2Up&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MjM4My4yM319)  (Comienzo 00:30:01 - Fin 00:43:49)
 
 Martín Zuñiga es el dueño y cocinero principal de un restaurante ubicado en La Victoria. Lleva 10 años al frente del negocio, y su experiencia en el rubro le ha permitido conocer a fondo las necesidades y preferencias de sus clientes.
 
