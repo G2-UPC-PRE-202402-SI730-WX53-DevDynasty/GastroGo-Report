@@ -573,7 +573,7 @@ Zaid menciona que uno de los problemas más comunes al manejar pedidos grupales 
 Finalmente, Zaid menciona que, aunque las plataformas de delivery como Rappi cobran comisiones altas (alrededor del 25% del valor de la venta), las alianzas con plataformas de reservas grupales pueden ser más viables, ya que implican menores costos y aseguran una demanda previsible.
 
 
-Entrevista #06: Zaid Arauco ( 47 años - Miraflores) - Fecha del 2024
+**#06: Martín Zuñiga ( 48 años - Victoria) - 29 de agosto de 2024**
 
 (Comienzo - Fin - )
 
@@ -581,24 +581,66 @@ Entrevista #06: Zaid Arauco ( 47 años - Miraflores) - Fecha del 2024
   <img src="assets/img/chapter-2/img-entrevista-restaurantes-3.png" alt=" " width="50%">
 </p>
 
+Martín Zuñiga es el dueño y cocinero principal de un restaurante ubicado en La Victoria. Lleva 10 años al frente del negocio, y su experiencia en el rubro le ha permitido conocer a fondo las necesidades y preferencias de sus clientes.
+
+En cuanto a sus preferencias personales y estilo de vida, Martín nos comenta que es una persona más bien extrovertida, que disfruta de la tranquilidad que le ofrecen sus pasatiempos. Entre sus principales hobbies, destaca la lectura y la cocina experimental, actividades que lo relajan y le permiten seguir innovando en su restaurante. Aunque reconoce que tiene un lado creativo por su pasión por la cocina, se considera una persona analítica en lo que respecta al manejo del negocio. En su enfoque, tiende a ser racional, valorando la eficiencia y la precisión en las operaciones diarias del restaurante.
+
+Martín nos compartió sus preferencias utilizando una computadora portátil con sistema operativo Windows y un smartphone con sistema operativo Android. Su navegador de preferencia es Google Chrome, por su  compatibilidad con las plataformas que utiliza. Finalmente, en cuanto a redes sociales, Martín prefiere LinkedIn para temas profesionales, y usa Facebook para mantener contacto con su comunidad local y promocionar su restaurante.
+
+En cuanto al tipo de clientes que frecuentan su restaurante, Martín nos comenta que atienden a una gran variedad de clientes. Debido a la ubicación, reciben principalmente a trabajadores de empresas, personal de bancos, y un gran número de taxistas. Para Martín, la fidelidad del cliente es lo más importante; atraer nuevos clientes es solo una parte del desafío, pero lograr que regresen de manera constante es la verdadera prueba.
+
+El restaurante ofrece un menú fijo que varía entre cuatro opciones: uno de 12 soles, otro de 15, uno de 18 y otro de 20 soles, con platos variados diariamente. Aunque no permiten personalizar los pedidos, la variedad y calidad de sus platos ha sido clave para mantener satisfechos a sus clientes. Además, el servicio rápido es una prioridad, especialmente durante el horario de almuerzo, cuando la mayoría de sus clientes disponen de solo una hora para comer.
+
+Actualmente, el restaurante no maneja reservas y opera según la llegada de clientes. Sin embargo, para Martín, es crucial que el servicio sea eficiente y rápido, especialmente entre la 1 pm y 2 pm, que es cuando reciben la mayor afluencia de clientes.
+
+Martín reconoce que coordinar pedidos grupales puede ser un desafío, sobretodo por la necesidad de mantener la rapidez en el servicio durante las horas pico. Aun así, estaría interesado en utilizar una plataforma que le conectara con grupos de trabajadores para pedidos grupales. Según lo que nos comenta, una plataforma que busque clientes y los dirija a su restaurante sería un gran apoyo, permitiéndole concentrarse en lo que mejor hace: atender a los clientes de la mejor manera.
+
+Finalmente, Martín estaría dispuesto a ofrecer descuentos o menús especiales a través de una plataforma que le garantizara un volumen significativo de pedidos. Considera que una herramienta de este tipo podría optimizar significativamente las operaciones del restaurante durante las horas pico, mejorando tanto la eficiencia como la satisfacción del cliente.
+
 
 ### 2.2.3. Análisis de entrevistas  
 
 **Análisis para el segmento de Grupo de Trabajadores:**
 
 - El 100% de los entrevistados utilizan una laptop con sistema operativo Windows y un dispositivo móvil con Android.
+
+
 - El 100% coincide en la preferencia por Google Chrome como su navegador web principal. Esto sugiere una inclinación hacia sistemas operativos y navegadores ampliamente reconocidos por su compatibilidad y eficiencia en entornos laborales y académicos.
+
+
 - El 100% de los entrevistados se consideran analíticos y racionales en su enfoque laboral.
+
+
 - El 100% de los entrevistados consideran importante elegir dónde almorzar durante la jornada laboral, destacando que este momento es clave para descansar y desconectar del trabajo.
+
+
 - El 100% de los entrevistados han experimentado dificultades al coordinar pedidos grupales.
+
+
 - El 100% de los entrevistados estarían interesados en una plataforma que facilite la gestión de pedidos grupales, con un 100% dispuesto a pagar una tarifa adicional siempre que el servicio sea eficiente, rápido y de calidad.
+
+
 - El 100% de los entrevistados destacan la importancia de tener opciones de pago compartido para evitar malentendidos, mientras que el 66% valora la inclusión de recomendaciones personalizadas y seguimiento en tiempo real de los pedidos.
+
+
 - El 66% de los problemas más comunes son los retrasos en la entrega.
+
+
 - El 66% de las complicaciones al gestionar los pagos compartidos.
+
+
 - El 66% de los entrevistados se describen como personas extrovertidas, con intereses en actividades sociales como bailar o viajar.
+
+
 - El 66% prefiere comprar su comida cerca del trabajo o pedirla para entrega, evitando llevar su propio almuerzo.
+
+
 - El 66% de los entrevistados utilizan frecuentemente Facebook e Instagram, mientras que el 33% adicional también usa TikTok.
+
+
 - LinkedIn es mencionada por el 33% de los entrevistados, destacando su uso en un contexto más profesional.
+
+
 - El 33% se identifica como introvertido, prefiriendo actividades más individuales como jugar fútbol o escuchar música.
 
 
