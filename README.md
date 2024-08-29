@@ -511,6 +511,19 @@ Por último, le gustaría que la aplicación de pedido grupales sea amigable con
   <img src="assets/img/chapter-2/img-entrevista-trabajadores-3.png" alt=" " width="50%">
 </p>
 
+Daniel Vasquez nos comenta que es bachiller de Derecho de la Universidad Nacional Pedro Ruiz Gallo de Chiclayo. Asimismo, se encuentra trabajando en la Corte Superior de Lima. 
+
+En cuanto a sus preferencias personales y estilo de vida, Daniel nos comenta que es una persona extrovertida. Sus principales pasatiempos actualmente son bailar y ver videos de stand comedy. Además, utiliza redes sociales como Facebook , instagram y TikTok para buscar alguna información extra o mantenerse al día. Además, se considera una persona analítica en lo que respecta a su trabajo y, en términos de enfoque, se define como una persona muy racional. 
+
+
+En cuanto a su uso de tecnología, prefiere dispositivos como un smart watch, celular con sistema operativo Android, y una laptop y tablet con Windows, ya que este sistema operativo es el que utiliza en su trabajo y se siente más cómodo con él. Su navegador de preferencia es Google Chrome.
+
+Daniel considera importante la elección del lugar donde almuerza durante su jornada laboral, prefiriendo opciones que le mantengan activo, sean cómodas y de buena calidad. Aunque le incomoda llevar almuerzo de casa porque debe calentarlo y la comida se enfría, suele comprar su comida cerca de su trabajo o pedirla para entrega.
+
+En cuanto a pedidos grupales, los realiza junto a sus colegas principalmente cuando tienen antojos durante la hora de almuerzo. Al elegir un restaurante, valora especialmente la calidad y rapidez del servicio para poder disfrutar su comida con tranquilidad. Sin embargo, ha enfrentado dificultades al coordinar estos pedidos, como retrasos en la entrega y complicaciones con el pago entre los colegas.
+
+Daniel estaría interesado en una plataforma que facilite la gestión de pedidos grupales, incluyendo menús seleccionados de restaurantes locales. Considera que un servicio eficiente que compense calidad y rapidez sería algo por lo que estaría dispuesto a pagar. Le gustaría que la aplicación incluya funciones como pagos compartidos para evitar malentendidos y la posibilidad de añadir extras al pedido.
+
 
 
 **Segmento de Restaurantes**
