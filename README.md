@@ -448,6 +448,20 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
   
 ---  
 # Bibliografía  
-  
+- Altametrics. (n.d.). Common challenges in restaurant operations and supply chain management. Altametrics. 
+https://altametrics.com/topics/common-challenges-in-restaurant-operations-and-supply-chain-management/ 
+
+- Picker Express. (n.d.). Logística en restaurantes. Picker Express. <br>
+https://www.pickerexpress.com/blog/logistica-en-restaurantes 
+
+- Universidad Científica del Sur. (2021). Análisis de la cadena de suministro en restaurantes de Lima Metropolitana (Tesis de licenciatura). Repositorio Institucional de la Universidad Científica del Sur.<br> https://repositorio.cientifica.edu.pe/handle/20.500.12805/728 
+
+- Built In. (2023). How Cheetah and Choco are transforming the food supply chain. Built In.<br> https://builtin.com/articles/food-supply-chain-cheetah-choco 
+
+- Euromonitor International. (2023). Limited-service restaurants in Peru. Euromonitor International. <br>https://www.euromonitor.com/limited-service-restaurants-in-peru/report 
+
 ---  
 # Anexos
+- Enlace de la Organización de Github: https://github.com/G2-UPC-PRE-202402-SI730-WX53-DevDynasty/GastroGo-Report
+- Videos de Exposiciones:
+- TB1:
