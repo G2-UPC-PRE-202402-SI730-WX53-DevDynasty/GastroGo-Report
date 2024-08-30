@@ -441,13 +441,6 @@ Miro: Se empleó para la construcción y mapeo de escenarios como el As-is mappi
 
 Figma: Esta herramienta fue fundamental en la creación de wireframes y prototipos de aplicaciones móviles, permitiendo un enfoque colaborativo en tiempo real. Figma es accesible de manera gratuita al registrarse, lo que la hace una opción popular para equipos de diseño que buscan eficiencia y versatilidad.
 
-**Software Documentation**
-
-Google Drive: Fue utilizado como plataforma central para almacenar y compartir documentos y presentaciones, facilitando la colaboración en tiempo real. Herramientas complementarias como Google Docs permitieron la creación y edición colaborativa de informes y presentaciones, optimizando la entrega de documentación de alta calidad.
-
-Lucidchart: Esta herramienta resultó clave para el desarrollo de wireflows, user flows y diagramas UML, ofreciendo una interfaz intuitiva que permite a los usuarios crear diagramas y procesos secuenciales de forma rápida y eficiente. Lucidchart es accesible desde cualquier navegador y solo requiere una cuenta registrada, lo que la convierte en una opción versátil para el diseño de flujos y diagramas técnicos.
-
-Structurizr: Se empleó para la creación de diagramas C4, que son fundamentales en la visualización de la arquitectura de software. La herramienta permite una creación rápida y precisa de diagramas utilizando una sintaxis parecida a la de un lenguaje de programación. Su accesibilidad a través de un registro en la web la hace una opción robusta para arquitectos de software que buscan una herramienta especializada.
 
 **Software Development**
 
@@ -458,6 +451,17 @@ Structurizr: Se empleó para la creación de diagramas C4, que son fundamentales
 **IDE's de desarrollo**
 - Visual Studio Code : https://code.visualstudio.com/.es 
 - Es un IDE muy adaptable que ofrece una experiencia de desarrollo optimizada y personalizable. Dispone de una extensa selección de extensiones que permiten ampliar sus capacidades.
+
+**Software testing**
+Para las pruebas de software de la landing page, se utilizaron las herramientas de desarrollador de los navegadores web más populares, como Google Chrome (https://www.google.com/chrome/), Microsoft Edge (https://www.microsoft.com/en-us/edge), y Mozilla Firefox (https://www.mozilla.org/en-US/firefox/browsers/). Estos navegadores ofrecen aplicaciones tanto para escritorio como para dispositivos móviles, todas completamente gratuitas.
+
+**Software Documentation**
+
+Google Drive: Fue utilizado como plataforma central para almacenar y compartir documentos y presentaciones, facilitando la colaboración en tiempo real. Herramientas complementarias como Google Docs permitieron la creación y edición colaborativa de informes y presentaciones, optimizando la entrega de documentación de alta calidad.
+
+Lucidchart: Esta herramienta resultó clave para el desarrollo de wireflows, user flows y diagramas UML, ofreciendo una interfaz intuitiva que permite a los usuarios crear diagramas y procesos secuenciales de forma rápida y eficiente. Lucidchart es accesible desde cualquier navegador y solo requiere una cuenta registrada, lo que la convierte en una opción versátil para el diseño de flujos y diagramas técnicos.
+
+Structurizr: Se empleó para la creación de diagramas C4, que son fundamentales en la visualización de la arquitectura de software. La herramienta permite una creación rápida y precisa de diagramas utilizando una sintaxis parecida a la de un lenguaje de programación. Su accesibilidad a través de un registro en la web la hace una opción robusta para arquitectos de software que buscan una herramienta especializada.
 
 
 ### 5.1.2. Source Code Management  
