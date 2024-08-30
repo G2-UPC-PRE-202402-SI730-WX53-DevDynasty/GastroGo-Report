@@ -417,7 +417,10 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 # Capítulo V: Product Implementation, Validation & Deployment  
 ## 5.1. Software Configuration Management  
 ### 5.1.1. Software Development Environment Configuration  
-  
+
+Este apartado tiene como objetivo proporcionar una descripción detallada de los productos de software utilizados en el proyecto, así como de su configuración y despliegue. Al documentar estos aspectos, se busca facilitar la colaboración de los desarrolladores actuales y futuros, asegurando que puedan comprender y manejar eficientemente el ciclo de vida del software, desde el desarrollo hasta la implementación.
+
+
 ### 5.1.2. Source Code Management  
   
 ### 5.1.3. Source Code Style Guide & Conventions  
