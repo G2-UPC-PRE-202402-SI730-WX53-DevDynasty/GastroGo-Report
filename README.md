@@ -423,9 +423,9 @@ Este apartado tiene como objetivo proporcionar una descripción detallada de los
 **Project Management:**
 
 
-Trello: Se utilizó Trello para organizar y hacer un seguimiento de las tareas del proyecto. Esta herramienta permite visualizar el progreso de cada actividad, asignar responsabilidades y gestionar el flujo de trabajo del equipo. 
+- Trello: Se utilizó Trello para organizar y hacer un seguimiento de las tareas del proyecto. Esta herramienta permite visualizar el progreso de cada actividad, asignar responsabilidades y gestionar el flujo de trabajo del equipo. 
 
-Google Meet: Google Meet fue utilizado para llevar a cabo reuniones virtuales entre los miembros del equipo. Esta plataforma permite realizar videollamadas con opciones de compartir pantalla y grabar las sesiones. 
+- Google Meet: Google Meet fue utilizado para llevar a cabo reuniones virtuales entre los miembros del equipo. Esta plataforma permite realizar videollamadas con opciones de compartir pantalla y grabar las sesiones. 
 
 
 **Requirements Management:**
@@ -435,33 +435,34 @@ Trello: En el manejo de los requerimientos se utilizó Trello, una herramienta q
 
 **Product UX/UI Desing**
 
-UXPressia: Utilizada para la creación de User Personas, User Journey Maps y Empathy Maps, esta herramienta se destaca por sus plantillas prediseñadas que simplifican el desarrollo de estos artefactos. Además, es una plataforma colaborativa y gratuita, accesible para todos los navegadores tras un sencillo registro.
+- UXPressia: Utilizada para la creación de User Personas, User Journey Maps y Empathy Maps, esta herramienta se destaca por sus plantillas prediseñadas que simplifican el desarrollo de estos artefactos. Además, es una plataforma colaborativa y gratuita, accesible para todos los navegadores tras un sencillo registro.
 
-Miro: Se empleó para la construcción y mapeo de escenarios como el As-is mapping, sirviendo a los objetivos de ambos segmentos definidos. Su capacidad para facilitar el trabajo colaborativo lo convierte en una herramienta valiosa para el desarrollo de estrategias visuales.
+- Miro: Se empleó para la construcción y mapeo de escenarios como el As-is mapping, sirviendo a los objetivos de ambos segmentos definidos. Su capacidad para facilitar el trabajo colaborativo lo convierte en una herramienta valiosa para el desarrollo de estrategias visuales.
 
-Figma: Esta herramienta fue fundamental en la creación de wireframes y prototipos de aplicaciones móviles, permitiendo un enfoque colaborativo en tiempo real. Figma es accesible de manera gratuita al registrarse, lo que la hace una opción popular para equipos de diseño que buscan eficiencia y versatilidad.
+- Figma: Esta herramienta fue fundamental en la creación de wireframes y prototipos de aplicaciones móviles, permitiendo un enfoque colaborativo en tiempo real. Figma es accesible de manera gratuita al registrarse, lo que la hace una opción popular para equipos de diseño que buscan eficiencia y versatilidad.
 
 
 **Software Development**
 
-- Landing Page:
+Landing Page:
 - El landing page fue desarrollado empleando HTML5, CSS3 y JavaScript. HTML5 se encargó de la estructura básica del contenido, mientras que CSS3 se utilizó para estilizar la página, asegurando un diseño visual atractivo y coherente. JavaScript, por su parte, agregó interactividad, permitiendo funcionalidades dinámicas que mejoraron la experiencia del usuario. Estas tecnologías combinadas permitieron la creación de un landing page funcional y estéticamente agradable.
 
 
 **IDE's de desarrollo**
-- Visual Studio Code : https://code.visualstudio.com/.es 
+Visual Studio Code : https://code.visualstudio.com/.es 
 - Es un IDE muy adaptable que ofrece una experiencia de desarrollo optimizada y personalizable. Dispone de una extensa selección de extensiones que permiten ampliar sus capacidades.
 
 **Software testing**
+
 Para las pruebas de software de la landing page, se utilizaron las herramientas de desarrollador de los navegadores web más populares, como Google Chrome (https://www.google.com/chrome/), Microsoft Edge (https://www.microsoft.com/en-us/edge), y Mozilla Firefox (https://www.mozilla.org/en-US/firefox/browsers/). Estos navegadores ofrecen aplicaciones tanto para escritorio como para dispositivos móviles, todas completamente gratuitas.
 
 **Software Documentation**
 
-Google Drive: Fue utilizado como plataforma central para almacenar y compartir documentos y presentaciones, facilitando la colaboración en tiempo real. Herramientas complementarias como Google Docs permitieron la creación y edición colaborativa de informes y presentaciones, optimizando la entrega de documentación de alta calidad.
+- Google Drive: Fue utilizado como plataforma central para almacenar y compartir documentos y presentaciones, facilitando la colaboración en tiempo real. Herramientas complementarias como Google Docs permitieron la creación y edición colaborativa de informes y presentaciones, optimizando la entrega de documentación de alta calidad.
 
-Lucidchart: Esta herramienta resultó clave para el desarrollo de wireflows, user flows y diagramas UML, ofreciendo una interfaz intuitiva que permite a los usuarios crear diagramas y procesos secuenciales de forma rápida y eficiente. Lucidchart es accesible desde cualquier navegador y solo requiere una cuenta registrada, lo que la convierte en una opción versátil para el diseño de flujos y diagramas técnicos.
+- Lucidchart: Esta herramienta resultó clave para el desarrollo de wireflows, user flows y diagramas UML, ofreciendo una interfaz intuitiva que permite a los usuarios crear diagramas y procesos secuenciales de forma rápida y eficiente. Lucidchart es accesible desde cualquier navegador y solo requiere una cuenta registrada, lo que la convierte en una opción versátil para el diseño de flujos y diagramas técnicos.
 
-Structurizr: Se empleó para la creación de diagramas C4, que son fundamentales en la visualización de la arquitectura de software. La herramienta permite una creación rápida y precisa de diagramas utilizando una sintaxis parecida a la de un lenguaje de programación. Su accesibilidad a través de un registro en la web la hace una opción robusta para arquitectos de software que buscan una herramienta especializada.
+- Structurizr: Se empleó para la creación de diagramas C4, que son fundamentales en la visualización de la arquitectura de software. La herramienta permite una creación rápida y precisa de diagramas utilizando una sintaxis parecida a la de un lenguaje de programación. Su accesibilidad a través de un registro en la web la hace una opción robusta para arquitectos de software que buscan una herramienta especializada.
 
 
 ### 5.1.2. Source Code Management  
@@ -473,7 +474,54 @@ Structurizr: Se empleó para la creación de diagramas C4, que son fundamentales
 ## 5.2. Landing Page, Services & Applications Implementation  
 ### 5.2.1. Sprint 1  
 #### 5.2.1.1. Sprint Planning 1  
-  
+
+<table>
+  <tr>
+    <th>Sprint #</th>
+    <td>Sprint 1</td>
+  </tr>
+  <tr>
+    <th>Sprint Planning Date</th>
+    <td>13/08/2024</td>
+  </tr>
+  <tr>
+    <th>Time</th>
+    <td>23:30 PM</td>
+  </tr>
+  <tr>
+    <th>Location</th>
+    <td>Google Meet</td>
+  </tr>
+  <tr>
+    <th>Prepared By</th>
+    <td>Camila Loli</td>
+  </tr>
+  <tr>
+    <th>Attendees</th>
+    <td>Ricardo Barrutia, Fabiola Espinoza, Marco Gongora </td>
+  </tr>
+  <tr>
+    <th>Sprint Review Summary</th>
+    <td>En esta entrega, no hay un Sprint anterior, por lo tanto, no hay resúmen del Sprint.</td>
+  </tr>
+  <tr>
+    <th>Sprint Retrospective Summary</th>
+    <td>En esta entrega, no hay un Sprint anterior, por lo tanto, no hay resúmen del Sprint.</td>
+  </tr>
+  <tr>
+    <th>Sprint Goal</th>
+    <td>La meta de este Sprint es asegurar que la Landing Page se encuentre opertaiva, incluyendo su visualización, el acceso a las redes sociales, la navegación dentro de la página y la correcta visualización de los canales de comunicación de la empresa. ....</td>
+  </tr>
+  <tr>
+    <th>Sprint Velocity</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Sum of Story Points</th>
+    <td> Story points</td>
+  </tr>
+</table>
+
 #### 5.2.1.2. Sprint Backlog 1  
   
 #### 5.2.1.3. Development Evidence for Sprint Review  
