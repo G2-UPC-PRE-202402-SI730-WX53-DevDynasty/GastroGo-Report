@@ -256,7 +256,33 @@ Se creó una guía específica a seguir para los productos a presentar. Esto inc
 
 ![Web Style Guidelines](assets/img/chapter-4/web-style-guidelines.png) <br>
 
-## 4.2. Information Architecture  
+## 4.2. Information Architecture.
+
+En este segmento se explicará la organización escogida para el producto, las etiquetas y la forma de navegación dentro de la plataforma, de esta forma garantiza una experiencia amigable para los usuarios y facilidad de encontrar la información que deseen.
+
+### 4.2.1. Organization Systems.
+
+**Visual Organization**
+
+Se decidió utilizar la jerarquía visual para organizar la información del contenido en los productos, de esta forma, el usuario podría discernir lo que tiene más relevancia. Es por ello que el tamaño de texto varía dependiendo de la importancia de cada oración presente. Por ejemplo, se escogió para los encabezados importantes entre los tamaños 48px - 40px, para los subtítulos 32px - 24px y para los párrafos 16px - 14px. También, se consideró la organización secuencial, para guiar al usuario al momento de realizar el pago de su suscripción en la aplicación web.
+
+**Categorization Schemes**
+
+Para la categorización, se escogieron dos esquemas:
+
+**Alfabético**
+
+La información de los restaurantes, cuando se presente los recuadros de cada uno para los trabajadores, se organizará alfabéticamente. Esto permite que la información esté más ordenada y sea cómodo para el cliente.
+
+**Cronológico**
+
+La información de los pedidos para cada restaurante será de manera cronológica, el primer pedido que reciban, será puesto en la parte superior de la lista y, consecuentemente, seguirán los nuevos pedido. Así, mantendremos un orden justo para realizar los almuerzos acorde a el orden de llegada.
+
+**Audiencia**
+
+Acorde a los segmentos objetivos que tenemos: restaurantes dispuestos a presentar sus negocios en la aplicación y los grupos de trabajadores, hemos decidido que cada uno vea su respectiva información, porque esta varía debido a que sus metas con la aplicación son distintas. De esta forma, evitamos confusiones al momento de presentar sus respectivos beneficios.
+
+
 ## 4.3. Landing Page UI Design  
 ## 4.4. Web Applications UX/UI Design  
 ### 4.4.1. Web Applications Wireframes  
