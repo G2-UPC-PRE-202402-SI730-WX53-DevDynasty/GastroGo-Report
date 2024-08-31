@@ -238,6 +238,19 @@ Para poder escoger los colores representativos de la aplicación, decidimos basa
 
 ![Color Palette created in Figma](assets/img/chapter-4/color-palette.png) <br>
 
+**Spacing:**
+
+El spacing a considerar para mantener el contenido entendible será:
+* Button padding: 16 px (vertical), 26 px (vertical)
+* Input fields: 40 px (altura), 20 px (espacio entre campos)
+* Margin entre secciones: 60 px
+* Height entre textos: 30 px
+
+**Dimensions:**
+
+Se prefirió utilizar un tono amigable y cercano, sin dejar de lado el respeto a los usuarios. GastroGo busca ser concisa en la comunicación, buscamos persuadir a los usuarios sin necesidad de ser muy serios, ya que esto podría causar un poco de incomodidad a los potenciales clientes.
+
+
 ## 4.2. Information Architecture  
 ## 4.3. Landing Page UI Design  
 ## 4.4. Web Applications UX/UI Design  
