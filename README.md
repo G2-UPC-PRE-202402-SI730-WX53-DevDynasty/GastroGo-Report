@@ -282,6 +282,35 @@ La información de los pedidos para cada restaurante será de manera cronológic
 
 Acorde a los segmentos objetivos que tenemos: restaurantes dispuestos a presentar sus negocios en la aplicación y los grupos de trabajadores, hemos decidido que cada uno vea su respectiva información, porque esta varía debido a que sus metas con la aplicación son distintas. De esta forma, evitamos confusiones al momento de presentar sus respectivos beneficios.
 
+### 4.2.2. Labeling Systems.
+
+Para etiquetar los ciertos botones y funcionalidades presentes en la aplicación web decidimos buscar una opción que permita al usuario intuir que implica cada uno. Es por ello que hemos escogido los que están presentes en Prime Vue (https://primevue.org/icons) para la aplicación web debido a que son fáciles de entender y están relacionadas a lo que representan las funcionalidades. En el caso de la landing page, solo vamos a utilizar íconos para las redes sociales (Instagram, Facebook, X, etc.) disponibles para que se contacten con nosotros.
+### 4.2.3. SEO Tags and Meta Tags
+
+Hemos utilizado palabras claves para optimizar nuestros SEO Tags y Meta Tags para los motores de búsqueda, así mejoraremos la visibilidad de nuestra página y aplicación web.
+
+**Landing Page**
+
+```
+<meta charset="UTF-8">
+<meta name="viewport" content="width=devide-width, initial-scale=1.0> // for mobile
+<title>GastroGo - Corporate ordering platform</title>
+<meta name="description" content="Discover the best local restaurants at the palm of your hand and order a good meal for you and your team with GastroGo!">
+<meta name="keywords" content="local restaurants, online ordering, food delivery, GastroGo>
+<meta name="author" content="DevDynasty">
+```
+
+**Web Application**
+
+```
+<meta charset="UTF-8">
+<meta name="viewport" content="width=devide-width, initial-scale=1.0> // for mobile
+<title>GastroGo - Corporate ordering platform</title>
+<meta name="description" content="Order your dishes, manage your orders, track deliveries and explore all the restaurants available with GastroGo! Start now!">
+<meta name="keywords" content="local restaurants, online ordering, food delivery, order tracking, GastroGo>
+<meta name="author" content="DevDynasty">
+```
+
 
 ## 4.3. Landing Page UI Design  
 ## 4.4. Web Applications UX/UI Design  
