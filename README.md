@@ -285,6 +285,7 @@ Acorde a los segmentos objetivos que tenemos: restaurantes dispuestos a presenta
 ### 4.2.2. Labeling Systems.
 
 Para etiquetar los ciertos botones y funcionalidades presentes en la aplicación web decidimos buscar una opción que permita al usuario intuir que implica cada uno. Es por ello que hemos escogido los que están presentes en Prime Vue (https://primevue.org/icons) para la aplicación web debido a que son fáciles de entender y están relacionadas a lo que representan las funcionalidades. En el caso de la landing page, solo vamos a utilizar íconos para las redes sociales (Instagram, Facebook, X, etc.) disponibles para que se contacten con nosotros.
+
 ### 4.2.3. SEO Tags and Meta Tags
 
 Hemos utilizado palabras claves para optimizar nuestros SEO Tags y Meta Tags para los motores de búsqueda, así mejoraremos la visibilidad de nuestra página y aplicación web.
@@ -311,6 +312,16 @@ Hemos utilizado palabras claves para optimizar nuestros SEO Tags y Meta Tags par
 <meta name="author" content="DevDynasty">
 ```
 
+### 4.2.4. Searching Systems.
+
+Para el sistema de búsqueda interno, en la aplicación web, se implementarán distintos filtros para mejorar la experiencia del usuario:
+* En el caso de los grupos de trabajadores que estén buscando una comida en específico, podrán utilizar filtros para determinar el tipo de almuerzo que busquen. Por ejemplo: comida vegetariana, sin gluten, dietético, etc.
+  * No solo sería en términos de comida, también al momento de buscar los restaurantes con más estrellas.
+  * También tendrán la opción de buscar restaurantes que ellos ya sepan, de esta forma, es más accesible la información de cada local.
+
+### 4.2.5. Navigation Systems.
+
+Para la navegación se crearán menús principales que sean claros para facilitar el proceso a los usuarios de ambos segmentos. Dependiendo del usuario, se determinará el menú y tendrá botones para acceder a las distintas funcionalidades presentes en la aplicación.
 
 ## 4.3. Landing Page UI Design  
 ## 4.4. Web Applications UX/UI Design  
