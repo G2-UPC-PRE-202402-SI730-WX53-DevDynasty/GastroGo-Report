@@ -1309,6 +1309,168 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             </td>
         </tr>
     </tbody>
+  <!--Epic 10-->
+    <th colspan="5" style="text-align: center;">
+        <b>Epic 10: Backend API</b><br>
+        <b>Cómo</b> developer<br>
+        <b>Quiero</b> utilizar un backend API para que los usuarios puedan interactuar con la aplicación<br>
+        <b>Para</b> permitir operaciones como la gestión de cuentas, pedidos, personalización de menús, y más.<br>
+    </th>
+    <!--US041-->
+    <tbody>
+        <tr>
+            <td style="text-align: center;">E10 - US041</td>
+            <td style="text-align: center;">Endpoint para Registro de Usuario</td>
+            <td style="text-align: justify;">
+                <b>Como</b> developer<br>
+                <b>Quiero</b> tener un endpoint para el registro de nuevos usuarios<br>
+                <b>Para</b> que los datos de los nuevos usuarios puedan ser enviados y almacenados en el backend.<br>
+            </td>
+            <td style="text-align: justify;">
+                <b>Escenario 1: Solicitud de Registro</b><br>
+                <b>Dado</b> que un nuevo usuario envía una solicitud de registro,<br>
+                <b>Cuando</b> se realiza una petición POST al endpoint <code>/api/register</code> con los datos del usuario,<br>
+                <b>Entonces</b> el sistema debe crear un nuevo usuario y devolver una respuesta de éxito con el ID del nuevo usuario.<br>
+                <b>HTTP Status:</b> 201 Created<br><br>
+                <b>Escenario 2: Validación de Datos</b><br>
+                <b>Dado</b> que los datos de registro se envían al endpoint <code>/api/register</code>,<br>
+                <b>Cuando</b> los datos son procesados,<br>
+                <b>Entonces</b> el sistema debe validar los datos (e.g., formato de correo electrónico, contraseña segura) y devolver errores si los datos no cumplen con los requisitos.<br>
+                <b>HTTP Status:</b> 400 Bad Request<br><br>
+                <b>Escenario 3: Manejo de Errores</b><br>
+                <b>Dado</b> que ocurre un error durante el registro,<br>
+                <b>Cuando</b> se detecta un problema (e.g., correo electrónico ya registrado),<br>
+                <b>Entonces</b> el sistema debe devolver un mensaje de error adecuado.<br>
+                <b>HTTP Status:</b> 409 Conflict<br>
+            </td>
+            <td style="text-align: center;">10</td>
+        </tr>
+    </tbody>
+    <!--US042-->
+    <tbody>
+        <tr>
+            <td style="text-align: center;">E10 - US042</td>
+            <td style="text-align: center;">Endpoint para Inicio de Sesión</td>
+            <td style="text-align: justify;">
+                <b>Como</b> developer<br>
+                <b>Quiero</b> tener un endpoint para que los usuarios puedan iniciar sesión<br>
+                <b>Para</b> obtener un token de autenticación.<br>
+            </td>
+            <td style="text-align: justify;">
+                <b>Escenario 1: Solicitud de Inicio de Sesión</b><br>
+                <b>Dado</b> que un usuario envía una solicitud de inicio de sesión,<br>
+                <b>Cuando</b> se realiza una petición POST al endpoint <code>/api/login</code> con las credenciales del usuario,<br>
+                <b>Entonces</b> el sistema debe autenticar al usuario y devolver un token de autenticación válido.<br>
+                <b>HTTP Status:</b> 200 OK<br><br>
+                <b>Escenario 2: Validación de Credenciales</b><br>
+                <b>Dado</b> que las credenciales de inicio de sesión se envían al endpoint <code>/api/login</code>,<br>
+                <b>Cuando</b> las credenciales son procesadas,<br>
+                <b>Entonces</b> el sistema debe validar las credenciales y devolver un mensaje de error si las credenciales son incorrectas.<br>
+                <b>HTTP Status:</b> 401 Unauthorized<br><br>
+                <b>Escenario 3: Expiración del Token</b><br>
+                <b>Dado</b> que el usuario recibe un token de autenticación,<br>
+                <b>Cuando</b> el token está cerca de expirar,<br>
+                <b>Entonces</b> el sistema debe permitir la renovación del token mediante una solicitud de actualización de sesión.<br>
+                <b>HTTP Status:</b> 200 OK (para renovación de token)<br>
+            </td>
+            <td style="text-align: center;">10</td>
+        </tr>
+    </tbody>
+    <!--US043-->
+    <tbody>
+        <tr>
+            <td style="text-align: center;">E10 - US043</td>
+            <td style="text-align: center;">Endpoint para Recuperación de Contraseña</td>
+            <td style="text-align: justify;">
+                <b>Como</b> developer<br>
+                <b>Quiero</b> tener un endpoint para la recuperación de contraseñas<br>
+                <b>Para</b> permitir a los usuarios restablecer sus contraseñas olvidadas.<br>
+            </td>
+            <td style="text-align: justify;">
+                <b>Escenario 1: Solicitud de Recuperación</b><br>
+                <b>Dado</b> que un usuario solicita la recuperación de contraseña,<br>
+                <b>Cuando</b> se realiza una petición POST al endpoint <code>/api/password-recovery</code> con el correo electrónico del usuario,<br>
+                <b>Entonces</b> el sistema debe enviar un correo con un enlace para restablecer la contraseña.<br>
+                <b>HTTP Status:</b> 200 OK<br><br>
+                <b>Escenario 2: Restablecimiento de Contraseña</b><br>
+                <b>Dado</b> que el usuario sigue el enlace para restablecer la contraseña,<br>
+                <b>Cuando</b> se realiza una petición POST al endpoint <code>/api/reset-password</code> con el nuevo password y el token de recuperación,<br>
+                <b>Entonces</b> el sistema debe actualizar la contraseña y confirmar el cambio.<br>
+                <b>HTTP Status:</b> 200 OK<br><br>
+                <b>Escenario 3: Expiración del Token de Recuperación</b><br>
+                <b>Dado</b> que el token de recuperación se envía al usuario,<br>
+                <b>Cuando</b> el token está expirado,<br>
+                <b>Entonces</b> el sistema debe rechazar la solicitud de restablecimiento y pedir al usuario que solicite un nuevo enlace.<br>
+                <b>HTTP Status:</b> 400 Bad Request<br>
+            </td>
+            <td style="text-align: center;">10</td>
+        </tr>
+    </tbody>
+    <!--US044-->
+    <tbody>
+        <tr>
+            <td style="text-align: center;">E10 - US044</td>
+            <td style="text-align: center;">Endpoint para Gestión de Pedidos Grupales</td>
+            <td style="text-align: justify;">
+                <b>Como</b> developer<br>
+                <b>Quiero</b> tener endpoints para gestionar los pedidos grupales<br>
+                <b>Para</b> permitir crear, actualizar, consultar y eliminar pedidos grupales.<br>
+            </td>
+            <td style="text-align: justify;">
+                <b>Escenario 1: Creación de Pedido Grupal</b><br>
+                <b>Dado</b> que un usuario crea un nuevo pedido grupal,<br>
+                <b>Cuando</b> se realiza una petición POST al endpoint <code>/api/group-orders</code> con los detalles del pedido,<br>
+                <b>Entonces</b> el sistema debe crear el pedido y devolver una confirmación con los detalles del pedido.<br>
+                <b>HTTP Status:</b> 201 Created<br><br>
+                <b>Escenario 2: Consulta de Pedido Grupal</b><br>
+                <b>Dado</b> que un usuario consulta un pedido grupal existente,<br>
+                <b>Cuando</b> se realiza una petición GET al endpoint <code>/api/group-orders/{orderId}</code>,<br>
+                <b>Entonces</b> el sistema debe devolver los detalles del pedido con el ID especificado.<br>
+                <b>HTTP Status:</b> 200 OK<br><br>
+                <b>Escenario 3: Actualización de Pedido Grupal</b><br>
+                <b>Dado</b> que un usuario actualiza un pedido grupal existente,<br>
+                <b>Cuando</b> se realiza una petición PUT al endpoint <code>/api/group-orders/{orderId}</code> con los nuevos detalles,<br>
+                <b>Entonces</b> el sistema debe actualizar el pedido y devolver una confirmación de éxito.<br>
+                <b>HTTP Status:</b> 200 OK<br><br>
+                <b>Escenario 4: Eliminación de Pedido Grupal</b><br>
+                <b>Dado</b> que un usuario elimina un pedido grupal,<br>
+                <b>Cuando</b> se realiza una petición DELETE al endpoint <code>/api/group-orders/{orderId}</code>,<br>
+                <b>Entonces</b> el sistema debe eliminar el pedido y confirmar la eliminación.<br>
+                <b>HTTP Status:</b> 200 OK<br>
+            </td>
+            <td style="text-align: center;">10</td>
+        </tr>
+    </tbody>
+    <!--US045-->
+    <tbody>
+        <tr>
+            <td style="text-align: center;">E10 - US045</td>
+            <td style="text-align: center;">Endpoint para Recomendaciones Personalizadas</td>
+            <td style="text-align: justify;">
+                <b>Como</b> developer<br>
+                <b>Quiero</b> tener un endpoint que proporcione recomendaciones personalizadas<br>
+                <b>Para</b> que los usuarios puedan recibir sugerencias de restaurantes y platos según sus preferencias.<br>
+            </td>
+            <td style="text-align: justify;">
+                <b>Escenario 1: Generación de Recomendaciones</b><br>
+                <b>Dado</b> que un usuario solicita recomendaciones personalizadas,<br>
+                <b>Cuando</b> se realiza una petición GET al endpoint <code>/api/recommendations</code>,<br>
+                <b>Entonces</b> el sistema debe devolver una lista de restaurantes y platos que se ajusten a las preferencias del usuario.<br>
+                <b>HTTP Status:</b> 200 OK<br><br>
+                <b>Escenario 2: Personalización basada en Historial</b><br>
+                <b>Dado</b> que un usuario tiene un historial de pedidos,<br>
+                <b>Cuando</b> se realiza una petición GET al endpoint <code>/api/recommendations</code>,<br>
+                <b>Entonces</b> el sistema debe personalizar las recomendaciones basadas en el historial de pedidos y preferencias previas del usuario.<br>
+                <b>HTTP Status:</b> 200 OK<br><br>
+                <b>Escenario 3: Manejo de Preferencias del Usuario</b><br>
+                <b>Dado</b> que un usuario actualiza sus preferencias de recomendación,<br>
+                <b>Cuando</b> se realiza una petición PUT al endpoint <code>/api/user-preferences</code>,<br>
+                <b>Entonces</b> el sistema debe ajustar las futuras recomendaciones según las nuevas preferencias.<br>
+                <b>HTTP Status:</b> 200 OK<br>
+            </td>
+            <td style="text-align: center;">10</td>
+        </tr>
+    </tbody>
 </table>
 
 ## 3.3. Impact Mapping  
