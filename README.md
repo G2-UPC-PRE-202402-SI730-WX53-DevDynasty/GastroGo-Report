@@ -1083,6 +1083,113 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             </td>
         </tr>
     </tbody>
+  <!--Epic 8-->
+    <th colspan="5" style="text-align: center;">
+        <b>Epic 8: Gestión de Pedidos Grupales</b><br>
+        <b>Como</b> restaurante<br>
+        <b>Quiero</b> gestionar pedidos grupales<br>
+        <b>Para</b> optimizar la preparación y entrega de grandes pedidos, asegurando la satisfacción del cliente y la eficiencia operativa.<br>
+    </th>
+    <!--US033-->
+    <tbody>
+        <tr>
+            <td style="text-align: center;">E8 - US033</td>
+            <td style="text-align: center;">Prioridad de Preparación para Pedidos Grupales</td>
+            <td style="text-align: justify;">
+                <b>Como</b> chef del restaurante<br>
+                <b>Quiero</b> priorizar la preparación de pedidos grupales grandes<br>
+                <b>Para</b> asegurarme de que se entreguen a tiempo.<br>
+            </td>
+            <td style="text-align: justify;">
+                <b>Escenario 1: Clasificación por Prioridad</b><br>
+                <b>Dado</b> que hay múltiples pedidos en cola,<br>
+                <b>Cuando</b> el sistema identifica un pedido grupal grande,<br>
+                <b>Entonces</b> lo clasifica con alta prioridad en la lista de preparación visible en el panel de gestión en el sidebar.<br><br>
+                <b>Escenario 2: Notificaciones de Prioridad</b><br>
+                <b>Dado</b> que un pedido grupal se clasifica como prioritario,<br>
+                <b>Cuando</b> el chef inicia la preparación,<br>
+                <b>Entonces</b> el sistema envía notificaciones al equipo de cocina sobre la prioridad del pedido desde la sección de notificaciones del sidebar.<br>
+            </td>
+            <td style="text-align: center;">
+                8
+            </td>
+        </tr>
+    </tbody>
+    <!--US034-->
+    <tbody>
+        <tr>
+            <td style="text-align: center;">E8 - US034</td>
+            <td style="text-align: center;">Confirmación de Capacidad de Gestión para Pedidos Grupales</td>
+            <td style="text-align: justify;">
+                <b>Como</b> administrador del restaurante<br>
+                <b>Quiero</b> confirmar la capacidad de gestión antes de aceptar un pedido grupal grande<br>
+                <b>Para</b> evitar sobrecargar la cocina y asegurar un servicio de calidad.<br>
+            </td>
+            <td style="text-align: justify;">
+                <b>Escenario 1: Verificación de Capacidad</b><br>
+                <b>Dado</b> que un cliente envía un pedido grupal,<br>
+                <b>Cuando</b> el sistema recibe el pedido,<br>
+                <b>Entonces</b> verifica automáticamente la capacidad actual de la cocina antes de confirmar el pedido, mostrando el estado en el panel de gestión del sidebar.<br><br>
+                <b>Escenario 2: Respuesta al Cliente</b><br>
+                <b>Dado</b> que el sistema verifica la capacidad,<br>
+                <b>Cuando</b> se determina que la cocina puede manejar el pedido,<br>
+                <b>Entonces</b> se envía una confirmación al cliente con un tiempo estimado de entrega; si no es posible, se sugiere un tiempo alternativo o se rechaza el pedido, y esta información es accesible desde el sidebar.<br>
+            </td>
+            <td style="text-align: center;">
+                8
+            </td>
+        </tr>
+    </tbody>
+    <!--US035-->
+    <tbody>
+        <tr>
+            <td style="text-align: center;">E8 - US035</td>
+            <td style="text-align: center;">Coordinación de Entregas para Pedidos Grupales</td>
+            <td style="text-align: justify;">
+                <b>Como</b> gerente de logística<br>
+                <b>Quiero</b> coordinar la entrega de pedidos grupales grandes<br>
+                <b>Para</b> asegurar que lleguen a tiempo y en las mejores condiciones.<br>
+            </td>
+            <td style="text-align: justify;">
+                <b>Escenario 1: Asignación de Conductores</b><br>
+                <b>Dado</b> que el sistema gestiona un pedido grupal grande,<br>
+                <b>Cuando</b> el pedido está listo para entrega,<br>
+                <b>Entonces</b> se asigna automáticamente un conductor con capacidad suficiente para manejar el pedido, y esta asignación se muestra en la sección de logística del sidebar.<br><br>
+                <b>Escenario 2: Seguimiento de Entregas</b><br>
+                <b>Dado</b> que un pedido grupal está en ruta,<br>
+                <b>Cuando</b> el pedido está en camino,<br>
+                <b>Entonces</b> el gerente de logística puede realizar un seguimiento en tiempo real de la ubicación del conductor y el estado de la entrega desde el panel de seguimiento del sidebar.<br>
+            </td>
+            <td style="text-align: center;">
+                8
+            </td>
+        </tr>
+    </tbody>
+    <!--US036-->
+    <tbody>
+        <tr>
+            <td style="text-align: center;">E8 - US036</td>
+            <td style="text-align: center;">Gestión de Cambios y Cancelaciones en Pedidos Grupales</td>
+            <td style="text-align: justify;">
+                <b>Como</b> administrador del restaurante<br>
+                <b>Quiero</b> gestionar cambios y cancelaciones en pedidos grupales de manera eficiente<br>
+                <b>Para</b> minimizar el impacto en la operación del restaurante.<br>
+            </td>
+            <td style="text-align: justify;">
+                <b>Escenario 1: Notificaciones de Cambios</b><br>
+                <b>Dado</b> que un cliente solicita un cambio en un pedido grupal,<br>
+                <b>Cuando</b> se realiza el cambio,<br>
+                <b>Entonces</b> el sistema notifica automáticamente a la cocina y al equipo de entrega sobre la modificación desde el panel de notificaciones en el sidebar.<br><br>
+                <b>Escenario 2: Políticas de Cancelación</b><br>
+                <b>Dado</b> que un cliente intenta cancelar un pedido grupal,<br>
+                <b>Cuando</b> la cancelación se recibe,<br>
+                <b>Entonces</b> el sistema verifica si la cancelación está dentro del tiempo permitido según la política del restaurante y procede a reembolsar o a rechazar la solicitud de acuerdo con las políticas establecidas, y se muestra en el sidebar.<br>
+            </td>
+            <td style="text-align: center;">
+                8
+            </td>
+        </tr>
+    </tbody>
 </table>
 
 ## 3.3. Impact Mapping  
