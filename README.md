@@ -371,6 +371,229 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             </td>
         </tr>
     </tbody>
+  <!--Epic 2-->
+    <th colspan="5" style="text-align: center;">
+        <b>Epic 2: Gestión de cuenta</b><br>
+        <b>Cómo</b> usuario<br>
+        <b>Quiero</b> poder acceder a mi cuenta de manera segura y personalizar mis datos de perfil<br>
+        <b>Para</b> hacer uso de sus funcionalidades.<br>
+    </th>
+    <!--US007-->
+    <tbody>
+        <tr>
+            <td style="text-align: center;">E2 - US007</td>
+            <td style="text-align: center;">Registro de usuario</td>
+            <td style="text-align: justify;">
+                <b>Como</b> nuevo usuario<br>
+                <b>Quiero</b> poder registrarme en la plataforma proporcionando mi información personal básica<br>
+                <b>Para</b> poder acceder a sus funcionalidades.<br>
+            </td>
+            <td style="text-align: justify;">
+                <b>Escenario 1: Validación de Campos</b><br>
+                <b>Dado</b> que un usuario completa el formulario de registro,<br>
+                <b>Cuando</b> proporciona todos los campos obligatorios correctamente,<br>
+                <b>Entonces</b> el sistema acepta el registro.<br><br>
+                <b>Escenario 2: Confirmación de Registro</b><br>
+                <b>Dado</b> que un usuario se registra con éxito,<br>
+                <b>Cuando</b> finaliza el proceso,<br>
+                <b>Entonces</b> el sistema envía un correo electrónico de confirmación.<br><br>
+                <b>Escenario 3: Registro con Email Existente</b><br>
+                <b>Dado</b> que un usuario intenta registrarse,<br>
+                <b>Cuando</b> utiliza un correo electrónico ya registrado,<br>
+                <b>Entonces</b> el sistema muestra un mensaje indicando que la dirección de correo ya está en uso.<br>
+            </td>
+            <td style="text-align: center;">
+                2
+            </td>
+        </tr>
+    </tbody>
+    <!--US008-->
+    <tbody>
+        <tr>
+            <td style="text-align: center;">E2 - US008</td>
+            <td style="text-align: center;">Inicio de sesión</td>
+            <td style="text-align: justify;">
+                <b>Como</b> usuario registrado<br>
+                <b>Quiero</b> iniciar sesión utilizando mi dirección de correo electrónico y contraseña<br>
+                <b>Para</b> acceder a mi cuenta.<br>
+            </td>
+            <td style="text-align: justify;">
+                <b>Escenario 1: Acceso a la Cuenta</b><br>
+                <b>Dado</b> que un usuario proporciona credenciales válidas,<br>
+                <b>Cuando</b> inicia sesión,<br>
+                <b>Entonces</b> el sistema permite el acceso a la cuenta.<br><br>
+                <b>Escenario 2: Autenticación Fallida</b><br>
+                <b>Dado</b> que un usuario proporciona credenciales incorrectas,<br>
+                <b>Cuando</b> intenta iniciar sesión,<br>
+                <b>Entonces</b> el sistema muestra un mensaje de error.<br><br>
+                <b>Escenario 3: Recordatorio de Contraseña</b><br>
+                <b>Dado</b> que un usuario intenta iniciar sesión,<br>
+                <b>Cuando</b> no recuerda su contraseña,<br>
+                <b>Entonces</b> el sistema ofrece una opción para recuperarla.<br>
+            </td>
+            <td style="text-align: center;">
+                2
+            </td>
+        </tr>
+    </tbody>
+    <!--US009-->
+    <tbody>
+        <tr>
+            <td style="text-align: center;">E2 - US009</td>
+            <td style="text-align: center;">Recuperación de contraseña</td>
+            <td style="text-align: justify;">
+                <b>Como</b> usuario<br>
+                <b>Quiero</b> recuperar mi contraseña en caso de olvidarla<br>
+                <b>Para</b> poder restablecer el acceso a mi cuenta.<br>
+            </td>
+            <td style="text-align: justify;">
+                <b>Escenario 1: Solicitud de Recuperación</b><br>
+                <b>Dado</b> que un usuario solicita recuperar su contraseña,<br>
+                <b>Cuando</b> proporciona su dirección de correo electrónico,<br>
+                <b>Entonces</b> el sistema envía un enlace para restablecer la contraseña.<br><br>
+                <b>Escenario 2: Restablecimiento de Contraseña</b><br>
+                <b>Dado</b> que un usuario accede al enlace de recuperación,<br>
+                <b>Cuando</b> ingresa y confirma la nueva contraseña,<br>
+                <b>Entonces</b> el sistema actualiza la contraseña y permite el acceso.<br><br>
+                <b>Escenario 3: Enlace Expirado</b><br>
+                <b>Dado</b> que un usuario accede al enlace de recuperación,<br>
+                <b>Cuando</b> el enlace ha expirado,<br>
+                <b>Entonces</b> el sistema muestra un mensaje indicando que la solicitud debe repetirse.<br>
+            </td>
+            <td style="text-align: center;">
+                2
+            </td>
+        </tr>
+    </tbody>
+    <!--US010-->
+    <tbody>
+        <tr>
+            <td style="text-align: center;">E2 - US010</td>
+            <td style="text-align: center;">Cierre de sesión</td>
+            <td style="text-align: justify;">
+                <b>Como</b> usuario<br>
+                <b>Quiero</b> poder cerrar sesión en la aplicación<br>
+                <b>Para</b> asegurar que mi cuenta permanezca protegida cuando no esté en uso.<br>
+            </td>
+            <td style="text-align: justify;">
+                <b>Escenario 1: Confirmación de Cierre de Sesión</b><br>
+                <b>Dado</b> que un usuario está autenticado,<br>
+                <b>Cuando</b> selecciona la opción de cerrar sesión,<br>
+                <b>Entonces</b> el sistema lo desconecta y lo redirige a la página de inicio de sesión.<br>
+            </td>
+            <td style="text-align: center;">
+                2
+            </td>
+        </tr>
+    </tbody>
+    <!--US011-->
+    <tbody>
+        <tr>
+            <td style="text-align: center;">E2 - US011</td>
+            <td style="text-align: center;">Edición de Cuenta</td>
+            <td style="text-align: justify;">
+                <b>Como</b> usuario<br>
+                <b>Quiero</b> poder editar mis datos personales y de contacto en mi perfil<br>
+                <b>Para</b> mantener mi información actualizada.<br>
+            </td>
+            <td style="text-align: justify;">
+                <b>Escenario 1: Actualización de Información</b><br>
+                <b>Dado</b> que un usuario desea actualizar su perfil,<br>
+                <b>Cuando</b> edita su información y guarda los cambios,<br>
+                <b>Entonces</b> el sistema refleja las actualizaciones en el perfil.<br><br>
+                <b>Escenario 2: Validación de Datos</b><br>
+                <b>Dado</b> que un usuario actualiza su perfil,<br>
+                <b>Cuando</b> los nuevos datos no cumplen con los requisitos,<br>
+                <b>Entonces</b> el sistema muestra mensajes de error específicos.<br><br>
+                <b>Escenario 3: Confirmación de Cambios</b><br>
+                <b>Dado</b> que un usuario guarda los cambios en su perfil,<br>
+                <b>Cuando</b> los datos se actualizan con éxito,<br>
+                <b>Entonces</b> el sistema muestra un mensaje de confirmación.<br>
+            </td>
+            <td style="text-align: center;">
+                2
+            </td>
+        </tr>
+    </tbody>
+    <!--US012-->
+    <tbody>
+        <tr>
+            <td style="text-align: center;">E2 - US012</td>
+            <td style="text-align: center;">Guardar Preferencias de Grupo</td>
+            <td style="text-align: justify;">
+                <b>Como</b> restaurante<br>
+                <b>Quiero</b> implementar un sistema que permita a los usuarios guardar las preferencias de grupo<br>
+                <b>Para</b> futuras órdenes, para hacer el proceso de pedido más rápido.<br>
+            </td>
+            <td style="text-align: justify;">
+                <b>Escenario 1: Opción para Guardar Preferencias</b><br>
+                <b>Dado</b> que un grupo ha realizado un pedido con preferencias específicas,<br>
+                <b>Cuando</b> el grupo finaliza el pedido,<br>
+                <b>Entonces</b> el sistema debe ofrecer la opción de guardar esas preferencias para futuros pedidos.<br><br>
+                <b>Escenario 2: Aplicar Preferencias Guardadas</b><br>
+                <b>Dado</b> que un usuario accede a la sección de pedidos futuros,<br>
+                <b>Cuando</b> el usuario elige usar preferencias guardadas,<br>
+                <b>Entonces</b> el sistema debe mostrar las preferencias guardadas previamente para que puedan ser aplicadas al nuevo pedido.<br>
+            </td>
+            <td style="text-align: center;">
+                2
+            </td>
+        </tr>
+    </tbody>
+    <!--US013-->
+    <tbody>
+        <tr>
+            <td style="text-align: center;">E2 - US013</td>
+            <td style="text-align: center;">Sistema de notificaciones y Recordatorios</td>
+            <td style="text-align: justify;">
+                <b>Como</b> restaurante<br>
+                <b>Quiero</b> desarrollar un sistema de notificaciones y recordatorios<br>
+                <b>Para</b> cada miembro del grupo, asegurando que todos estén al tanto de sus pedidos.<br>
+            </td>
+            <td style="text-align: justify;">
+                <b>Escenario 1: Notificación de Confirmación</b><br>
+                <b>Dado</b> que un grupo ha realizado un pedido,<br>
+                <b>Cuando</b> se confirme el pedido,<br>
+                <b>Entonces</b> cada miembro del grupo debe recibir una notificación de confirmación con los detalles del pedido.<br><br>
+                <b>Escenario 2: Recordatorio de Entrega</b><br>
+                <b>Dado</b> que se acerca la hora de entrega del pedido,<br>
+                <b>Cuando</b> falten 30 minutos para la entrega,<br>
+                <b>Entonces</b> cada miembro del grupo debe recibir un recordatorio con la información de entrega actualizada.<br><br>
+                <b>Escenario 3: Notificación Final de Entrega</b><br>
+                <b>Dado</b> que el pedido está en camino,<br>
+                <b>Cuando</b> el pedido esté a punto de llegar,<br>
+                <b>Entonces</b> cada miembro del grupo debe recibir una notificación final con la hora estimada de llegada.<br>
+            </td>
+            <td style="text-align: center;">
+                2
+            </td>
+        </tr>
+    </tbody>
+    <!--US014-->
+    <tbody>
+        <tr>
+            <td style="text-align: center;">E2 - US014</td>
+            <td style="text-align: center;">Encuestas Post-Compra</td>
+            <td style="text-align: justify;">
+                <b>Como</b> restaurante<br>
+                <b>Quiero</b> implementar un sistema de encuestas post-compra que permita a los usuarios compartir su experiencia y recibir recomendaciones para mejorar futuras órdenes<br>
+                <b>Para</b> mejorar futuras órdenes.<br>
+            </td>
+            <td style="text-align: justify;">
+                <b>Escenario 1: Envío de Encuesta Post-Compra</b><br>
+                <b>Dado</b> que un pedido ha sido entregado,<br>
+                <b>Cuando</b> el pedido se marca como completado,<br>
+                <b>Entonces</b> el sistema debe enviar una encuesta al usuario solicitando sus comentarios o valoraciones sobre el pedido.<br><br>
+                <b>Escenario 2: Generación de Informe de Feedback</b><br>
+                <b>Dado</b> que el usuario ha proporcionado una calificación baja,<br>
+                <b>Cuando</b> se envíe la encuesta,<br>
+                <b>Entonces</b> el sistema debe generar una notificación al restaurante con el feedback para tomar medidas correctivas.<br>
+            </td>
+            <td style="text-align: center;">
+                2
+            </td>
+        </tr>
+    </tbody>
 </table>
 
 ## 3.3. Impact Mapping  
