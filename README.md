@@ -705,6 +705,88 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             </td>
         </tr>
     </tbody>
+  <!--Epic 4-->
+    <th colspan="5" style="text-align: center;">
+        <b>Epic 4: Personalización del Menú</b><br>
+        <b>Como</b> líder del grupo,<br>
+        <b>Quiero</b> personalizar los pedidos dentro del grupo<br>
+        <b>Para</b> tener opciones que se adapten a nuestras preferencias.<br>
+    </th>
+    <!--US019-->
+    <tbody>
+        <tr>
+            <td style="text-align: center;">E4 - US019</td>
+            <td style="text-align: center;">Selección de Plato para Personalización</td>
+            <td style="text-align: justify;">
+                <b>Como</b> líder del grupo<br>
+                <b>Quiero</b> seleccionar un plato específico del menú<br>
+                <b>Para</b> personalizarlo según las preferencias del grupo.<br>
+            </td>
+            <td style="text-align: justify;">
+                <b>Escenario 1: Selección del Plato</b><br>
+                <b>Dado</b> que el líder ha seleccionado un restaurante,<br>
+                <b>Cuando</b> accede al menú,<br>
+                <b>Entonces</b> puede seleccionar un plato para personalizar.<br><br>
+                <b>Escenario 2: Ver Detalles del Plato</b><br>
+                <b>Dado</b> que el líder ha seleccionado un plato,<br>
+                <b>Cuando</b> accede a la personalización,<br>
+                <b>Entonces</b> se muestran las opciones disponibles para personalización.<br>
+            </td>
+            <td style="text-align: center;">
+                4
+            </td>
+        </tr>
+    </tbody>
+    <!--US020-->
+    <tbody>
+        <tr>
+            <td style="text-align: center;">E4 - US020</td>
+            <td style="text-align: center;">Personalización de Ingredientes</td>
+            <td style="text-align: justify;">
+                <b>Como</b> líder del grupo<br>
+                <b>Quiero</b> personalizar los ingredientes de un plato<br>
+                <b>Para</b> ajustarlos a las preferencias del grupo.<br>
+            </td>
+            <td style="text-align: justify;">
+                <b>Escenario 1: Añadir o Quitar Ingredientes</b><br>
+                <b>Dado</b> que el líder está personalizando un plato,<br>
+                <b>Cuando</b> selecciona un ingrediente,<br>
+                <b>Entonces</b> puede añadirlo o quitarlo según la preferencia.<br><br>
+                <b>Escenario 2: Guardar Personalización</b><br>
+                <b>Dado</b> que el líder ha personalizado un plato,<br>
+                <b>Cuando</b> guarda la personalización,<br>
+                <b>Entonces</b> se actualiza la información del plato en el pedido.<br>
+            </td>
+            <td style="text-align: center;">
+                4
+            </td>
+        </tr>
+    </tbody>
+    <!--US021-->
+    <tbody>
+        <tr>
+            <td style="text-align: center;">E4 - US021</td>
+            <td style="text-align: center;">Confirmar o Agregar a Votación</td>
+            <td style="text-align: justify;">
+                <b>Como</b> líder del grupo<br>
+                <b>Quiero</b> confirmar la personalización del plato o agregarlo a votación<br>
+                <b>Para</b> que el grupo decida.<br>
+            </td>
+            <td style="text-align: justify;">
+                <b>Escenario 1: Confirmar Pedido</b><br>
+                <b>Dado</b> que el líder ha personalizado un plato,<br>
+                <b>Cuando</b> decide confirmar,<br>
+                <b>Entonces</b> el plato se añade al pedido listo para pagar.<br><br>
+                <b>Escenario 2: Agregar a Votación</b><br>
+                <b>Dado</b> que el líder ha personalizado un plato,<br>
+                <b>Cuando</b> decide agregarlo a votación,<br>
+                <b>Entonces</b> el plato se guarda en una lista para votación posterior.<br>
+            </td>
+            <td style="text-align: center;">
+                4
+            </td>
+        </tr>
+    </tbody>
 </table>
 
 ## 3.3. Impact Mapping  
