@@ -1001,6 +1001,88 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             </td>
         </tr>
     </tbody>
+  <!--Epic 7-->
+    <th colspan="5" style="text-align: center;">
+        <b>Epic 7: Recomendaciones Personalizadas</b><br>
+        <b>Cómo</b> usuario<br>
+        <b>Quiero</b> recibir recomendaciones de restaurantes y platos basadas en pedidos anteriores<br>
+        <b>Para</b> descubrir opciones que se ajusten a mis preferencias.<br>
+    </th>
+    <!--US030-->
+    <tbody>
+        <tr>
+            <td style="text-align: center;">E7 - US030</td>
+            <td style="text-align: center;">Generación Automática de Recomendaciones</td>
+            <td style="text-align: justify;">
+                <b>Como</b> usuario<br>
+                <b>Quiero</b> que el sistema genere automáticamente recomendaciones de restaurantes y platos basadas en mis pedidos anteriores<br>
+                <b>Para</b> facilitar futuras elecciones.<br>
+            </td>
+            <td style="text-align: justify;">
+                <b>Escenario 1: Identificación de Preferencias</b><br>
+                <b>Dado</b> que el usuario ha realizado varios pedidos,<br>
+                <b>Cuando</b> vuelve a la página de inicio,<br>
+                <b>Entonces</b> el sistema genera recomendaciones basadas en la frecuencia de ciertos tipos de cocina o platos en sus pedidos anteriores.<br><br>
+                <b>Escenario 2: Presentación de Recomendaciones</b><br>
+                <b>Dado</b> que el sistema ha generado recomendaciones,<br>
+                <b>Cuando</b> el usuario accede a la sección de "Recomendaciones",<br>
+                <b>Entonces</b> se muestran opciones relevantes vinculadas a sus últimos pedidos.<br>
+            </td>
+            <td style="text-align: center;">
+                7
+            </td>
+        </tr>
+    </tbody>
+    <!--US031-->
+    <tbody>
+        <tr>
+            <td style="text-align: center;">E7 - US031</td>
+            <td style="text-align: center;">Notificaciones de Recomendaciones</td>
+            <td style="text-align: justify;">
+                <b>Como</b> usuario<br>
+                <b>Quiero</b> recibir notificaciones de nuevas recomendaciones basadas en mis pedidos recientes<br>
+                <b>Para</b> estar al tanto de opciones que podrían interesarme.<br>
+            </td>
+            <td style="text-align: justify;">
+                <b>Escenario 1: Envío de Notificaciones</b><br>
+                <b>Dado</b> que el usuario ha realizado un nuevo pedido,<br>
+                <b>Cuando</b> el sistema identifica restaurantes o platos relacionados,<br>
+                <b>Entonces</b> envía una notificación con las nuevas recomendaciones.<br><br>
+                <b>Escenario 2: Frecuencia de Notificaciones</b><br>
+                <b>Dado</b> que el usuario tiene configuradas notificaciones,<br>
+                <b>Cuando</b> se identifica una nueva recomendación,<br>
+                <b>Entonces</b> el sistema envía las notificaciones según la frecuencia establecida (diaria, semanal).<br>
+            </td>
+            <td style="text-align: center;">
+                7
+            </td>
+        </tr>
+    </tbody>
+    <!--US032-->
+    <tbody>
+        <tr>
+            <td style="text-align: center;">E7 - US032</td>
+            <td style="text-align: center;">Personalización de Recomendaciones en Función de Pedidos Grupales</td>
+            <td style="text-align: justify;">
+                <b>Como</b> líder de grupo<br>
+                <b>Quiero</b> recibir recomendaciones de restaurantes y platos basadas en los pedidos grupales anteriores<br>
+                <b>Para</b> facilitar futuras decisiones de grupo.<br>
+            </td>
+            <td style="text-align: justify;">
+                <b>Escenario 1: Análisis de Pedidos Grupales</b><br>
+                <b>Dado</b> que el grupo ha realizado pedidos anteriores,<br>
+                <b>Cuando</b> el líder consulta la sección de recomendaciones,<br>
+                <b>Entonces</b> el sistema sugiere restaurantes y platos que fueron populares en pedidos grupales anteriores.<br><br>
+                <b>Escenario 2: Adaptación a Preferencias del Grupo</b><br>
+                <b>Dado</b> que el sistema genera recomendaciones,<br>
+                <b>Cuando</b> el líder revisa las opciones,<br>
+                <b>Entonces</b> se destacan aquellos restaurantes y platos que satisfacen las preferencias colectivas del grupo.<br>
+            </td>
+            <td style="text-align: center;">
+                7
+            </td>
+        </tr>
+    </tbody>
 </table>
 
 ## 3.3. Impact Mapping  
