@@ -787,6 +787,88 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             </td>
         </tr>
     </tbody>
+  <!--Epic 5-->
+    <th colspan="5" style="text-align: center;">
+        <b>Epic 5: Coordinación de Decisión del Pedido</b><br>
+        <b>Cómo</b> grupo de trabajadores,<br>
+        <b>Queremos</b> votar o usar sorteos<br>
+        <b>Para</b> elegir el restaurante o plato de manera democrática.<br>
+    </th>
+    <!--US022-->
+    <tbody>
+        <tr>
+            <td style="text-align: center;">E5 - US022</td>
+            <td style="text-align: center;">Creación Automática de Votación</td>
+            <td style="text-align: justify;">
+                <b>Como</b> líder del grupo<br>
+                <b>Quiero</b> que se cree automáticamente una nueva votación cuando selecciono la opción "Dejarlo a votación"<br>
+                <b>Para</b> un plato, para coordinar las decisiones del grupo.<br>
+            </td>
+            <td style="text-align: justify;">
+                <b>Escenario 1: Generar Votación</b><br>
+                <b>Dado</b> que el líder ha personalizado un plato,<br>
+                <b>Cuando</b> selecciona la opción "Dejarlo a votación",<br>
+                <b>Entonces</b> se crea automáticamente una votación con ese plato.<br><br>
+                <b>Escenario 2: Agregar Platos a Votación Activa</b><br>
+                <b>Dado</b> que ya existe una votación activa,<br>
+                <b>Cuando</b> el líder selecciona otro plato y lo deja a votación,<br>
+                <b>Entonces</b> este nuevo plato se agrega a la votación existente.<br>
+            </td>
+            <td style="text-align: center;">
+                5
+            </td>
+        </tr>
+    </tbody>
+    <!--US023-->
+    <tbody>
+        <tr>
+            <td style="text-align: center;">E5 - US023</td>
+            <td style="text-align: center;">Compartir Código de Votación</td>
+            <td style="text-align: justify;">
+                <b>Como</b> líder del grupo<br>
+                <b>Quiero</b> compartir un código generado<br>
+                <b>Para</b> que los miembros del grupo puedan ingresar a la votación y votar por el plato de su elección.<br>
+            </td>
+            <td style="text-align: justify;">
+                <b>Escenario 1: Generar Código de Votación</b><br>
+                <b>Dado</b> que una votación ha sido creada,<br>
+                <b>Cuando</b> el líder decide compartirla,<br>
+                <b>Entonces</b> se genera un código único para que los miembros del grupo puedan acceder.<br><br>
+                <b>Escenario 2: Participación en la Votación</b><br>
+                <b>Dado</b> que los miembros del grupo tienen el código de votación,<br>
+                <b>Cuando</b> lo ingresan en la plataforma,<br>
+                <b>Entonces</b> pueden votar por el plato o restaurante de su preferencia.<br>
+            </td>
+            <td style="text-align: center;">
+                5
+            </td>
+        </tr>
+    </tbody>
+    <!--US024-->
+    <tbody>
+        <tr>
+            <td style="text-align: center;">E5 - US024</td>
+            <td style="text-align: center;">Resolución de Empates con Sorteo</td>
+            <td style="text-align: justify;">
+                <b>Como</b> grupo de trabajadores<br>
+                <b>Quiero</b> que en caso de empate en la votación, se realice un sorteo<br>
+                <b>Para</b> determinar el restaurante o plato ganador, para evitar decisiones inconclusas.<br>
+            </td>
+            <td style="text-align: justify;">
+                <b>Escenario 1: Detección de Empate</b><br>
+                <b>Dado</b> que la votación ha terminado,<br>
+                <b>Cuando</b> se detecta un empate entre opciones,<br>
+                <b>Entonces</b> se activa el proceso de sorteo.<br><br>
+                <b>Escenario 2: Realización de Sorteo</b><br>
+                <b>Dado</b> que se ha detectado un empate,<br>
+                <b>Cuando</b> se realiza el sorteo,<br>
+                <b>Entonces</b> se selecciona aleatoriamente uno de los platos o restaurantes empatados como ganador.<br>
+            </td>
+            <td style="text-align: center;">
+                5
+            </td>
+        </tr>
+    </tbody>
 </table>
 
 ## 3.3. Impact Mapping  
