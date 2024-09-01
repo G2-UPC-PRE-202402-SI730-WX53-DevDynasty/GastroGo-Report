@@ -1483,7 +1483,515 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 <img src="assets/img/Impact map S2 - 1.png">
 
-## 3.4. Product Backlog  
+## 3.4. Product Backlog
+<table border="1" cellpadding="5" cellspacing="0" width="100%">
+        <thead>
+            <tr>
+                <th style="text-align: center;">#Orden</th>
+                <th style="text-align: center;">User Story Id</th>
+                <th style="text-align: center;">Título</th>
+                <th style="text-align: center;">Descripción</th>
+                <th style="text-align: center;">Story Points (1 / 2 / 3 / 5 / 8)</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td style="text-align: center;">1</td>
+                <td style="text-align: center;">E1 - US001</td>
+                <td style="text-align: center;">Barra de navegación</td>
+                <td style="text-align: justify;">
+                    <b>Como</b> visitante<br>
+                    <b>Quiero</b> ver una barra de navegación en la parte superior de la página<br>
+                    <b>Para</b> poder acceder fácilmente a las secciones principales del sitio.
+                </td>
+                <td style="text-align: center;">3</td>
+            </tr>
+            <tr>
+                <td style="text-align: center;">2</td>
+                <td style="text-align: center;">E1 - US002</td>
+                <td style="text-align: center;">Sección de Introducción</td>
+                <td style="text-align: justify;">
+                    <b>Como</b> visitante<br>
+                    <b>Quiero</b> leer una breve introducción sobre "Gastro Go"<br>
+                    <b>Para</b> entender qué ofrece la aplicación.
+                </td>
+                <td style="text-align: center;">2</td>
+            </tr>
+            <tr>
+                <td style="text-align: center;">3</td>
+                <td style="text-align: center;">E1 - US003</td>
+                <td style="text-align: center;">Sección de Funcionalidades</td>
+                <td style="text-align: justify;">
+                    <b>Como</b> visitante<br>
+                    <b>Quiero</b> ver una lista de funcionalidades destacadas de la aplicación<br>
+                    <b>Para</b> evaluar si satisface mis necesidades.
+                </td>
+                <td style="text-align: center;">3</td>
+            </tr>
+            <tr>
+                <td style="text-align: center;">4</td>
+                <td style="text-align: center;">E1 - US004</td>
+                <td style="text-align: center;">Sección de Cómo Funciona</td>
+                <td style="text-align: justify;">
+                    <b>Como</b> visitante<br>
+                    <b>Quiero</b> comprender el proceso de uso de la aplicación “Gastro Go”<br>
+                    <b>Para</b> saber cómo funciona en la práctica.
+                </td>
+                <td style="text-align: center;">3</td>
+            </tr>
+            <tr>
+                <td style="text-align: center;">5</td>
+                <td style="text-align: center;">E1 - US005</td>
+                <td style="text-align: center;">Sección de Testimonios</td>
+                <td style="text-align: justify;">
+                    <b>Como</b> visitante<br>
+                    <b>Quiero</b> leer testimonios de usuarios actuales<br>
+                    <b>Para</b> conocer la experiencia de otras personas con la aplicación.
+                </td>
+                <td style="text-align: center;">2</td>
+            </tr>
+            <tr>
+                <td style="text-align: center;">6</td>
+                <td style="text-align: center;">E1 - US006</td>
+                <td style="text-align: center;">Sección de Contacto</td>
+                <td style="text-align: justify;">
+                    <b>Como</b> visitante<br>
+                    <b>Quiero</b> encontrar un formulario de contacto<br>
+                    <b>Para</b> poder enviar consultas o solicitar más información sobre la aplicación.
+                </td>
+                <td style="text-align: center;">2</td>
+            </tr>
+            <tr>
+                <td style="text-align: center;">7</td>
+                <td style="text-align: center;">E2 - US007</td>
+                <td style="text-align: center;">Registro de usuario</td>
+                <td style="text-align: justify;">
+                    <b>Como</b> nuevo usuario<br>
+                    <b>Quiero</b> poder registrarme en la plataforma proporcionando mi información personal básica<br>
+                    <b>Para</b> poder acceder a sus funcionalidades.
+                </td>
+                <td style="text-align: center;">5</td>
+            </tr>
+            <tr>
+                <td style="text-align: center;">8</td>
+                <td style="text-align: center;">E2 - US008</td>
+                <td style="text-align: center;">Inicio de sesión</td>
+                <td style="text-align: justify;">
+                    <b>Como</b> usuario registrado<br>
+                    <b>Quiero</b> iniciar sesión utilizando mi dirección de correo electrónico y contraseña<br>
+                    <b>Para</b> acceder a mi cuenta.
+                </td>
+                <td style="text-align: center;">3</td>
+            </tr>
+            <tr>
+                <td style="text-align: center;">9</td>
+                <td style="text-align: center;">E2 - US009</td>
+                <td style="text-align: center;">Recuperación de contraseña</td>
+                <td style="text-align: justify;">
+                    <b>Como</b> usuario<br>
+                    <b>Quiero</b> recuperar mi contraseña en caso de olvidarla<br>
+                    <b>Para</b> poder restablecer el acceso a mi cuenta.
+                </td>
+                <td style="text-align: center;">3</td>
+            </tr>
+            <tr>
+                <td style="text-align: center;">10</td>
+                <td style="text-align: center;">E2 - US010</td>
+                <td style="text-align: center;">Cierre de sesión</td>
+                <td style="text-align: justify;">
+                    <b>Como</b> usuario<br>
+                    <b>Quiero</b> poder cerrar sesión en la aplicación<br>
+                    <b>Para</b> asegurar que mi cuenta permanezca protegida cuando no esté en uso.
+                </td>
+                <td style="text-align: center;">2</td>
+            </tr>
+            <tr>
+                <td style="text-align: center;">11</td>
+                <td style="text-align: center;">E2 - US011</td>
+                <td style="text-align: center;">Edición de Cuenta</td>
+                <td style="text-align: justify;">
+                    <b>Como</b> usuario<br>
+                    <b>Quiero</b> poder editar mis datos personales y de contacto en mi perfil<br>
+                    <b>Para</b> mantener mi información actualizada.
+                </td>
+                <td style="text-align: center;">5</td>
+            </tr>
+            <tr>
+                <td style="text-align: center;">12</td>
+                <td style="text-align: center;">E2 - US012</td>
+                <td style="text-align: center;">Guardar Preferencias de Grupo</td>
+                <td style="text-align: justify;">
+                    <b>Como</b> restaurante<br>
+                    <b>Quiero</b> implementar un sistema que permita a los usuarios guardar las preferencias de grupo<br>
+                    <b>Para</b> futuras órdenes, para hacer el proceso de pedido más rápido.
+                </td>
+                <td style="text-align: center;">8</td>
+            </tr>
+            <tr>
+                <td style="text-align: center;">13</td>
+                <td style="text-align: center;">E2 - US013</td>
+                <td style="text-align: center;">Sistema de notificaciones y Recordatorios</td>
+                <td style="text-align: justify;">
+                    <b>Como</b> restaurante<br>
+                    <b>Quiero</b> desarrollar un sistema de notificaciones y recordatorios<br>
+                    <b>Para</b> cada miembro del grupo, asegurando que todos estén al tanto de sus pedidos.
+                </td>
+                <td style="text-align: center;">8</td>
+            </tr>
+            <tr>
+                <td style="text-align: center;">14</td>
+                <td style="text-align: center;">E2 - US014</td>
+                <td style="text-align: center;">Encuestas Post-Compra</td>
+                <td style="text-align: justify;">
+                    <b>Como</b> restaurante<br>
+                    <b>Quiero</b> implementar un sistema de encuestas post-compra que permita a los usuarios compartir su experiencia y recibir recomendaciones para mejorar futuras órdenes<br>
+                    <b>Para</b> mejorar futuras órdenes.
+                </td>
+                <td style="text-align: center;">5</td>
+            </tr>
+            <tr>
+                <td style="text-align: center;">15</td>
+                <td style="text-align: center;">E3 - US015</td>
+                <td style="text-align: center;">Búsqueda de Restaurantes</td>
+                <td style="text-align: justify;">
+                    <b>Como</b> usuario<br>
+                    <b>Quiero</b> poder buscar restaurantes por nombre, categoría o ubicación<br>
+                    <b>Para</b> encontrar opciones adecuadas para nuestro grupo.
+                </td>
+                <td style="text-align: center;">5</td>
+            </tr>
+            <tr>
+                <td style="text-align: center;">16</td>
+                <td style="text-align: center;">E3 - US016</td>
+                <td style="text-align: center;">Restaurantes Recomendados</td>
+                <td style="text-align: justify;">
+                    <b>Como</b> usuario<br>
+                    <b>Quiero</b> ver una lista de restaurantes recomendados basados en popularidad y satisfacción del cliente<br>
+                    <b>Para</b> facilitar la selección.
+                </td>
+                <td style="text-align: center;">5</td>
+            </tr>
+            <tr>
+                <td style="text-align: center;">17</td>
+                <td style="text-align: center;">E3 - US017</td>
+                <td style="text-align: center;">Información del Restaurante</td>
+                <td style="text-align: justify;">
+                    <b>Como</b> usuario<br>
+                    <b>Quiero</b> ver información detallada sobre el restaurante seleccionado, incluyendo horario, dirección, y menú<br>
+                    <b>Para</b> tomar una decisión informada.
+                </td>
+                <td style="text-align: center;">5</td>
+            </tr>
+            <tr>
+                <td style="text-align: center;">18</td>
+                <td style="text-align: center;">E3 - US018</td>
+                <td style="text-align: center;">Selección de Platos</td>
+                <td style="text-align: justify;">
+                    <b>Como</b> usuario<br>
+                    <b>Quiero</b> poder seleccionar platos del menú del restaurante<br>
+                    <b>Para</b> hacer un pedido grupal.
+                </td>
+                <td style="text-align: center;">5</td>
+            </tr>
+            <tr>
+                <td style="text-align: center;">19</td>
+                <td style="text-align: center;">E4 - US019</td>
+                <td style="text-align: center;">Selección de Plato para Personalización</td>
+                <td style="text-align: justify;">
+                    <b>Como</b> líder del grupo<br>
+                    <b>Quiero</b> seleccionar un plato específico del menú<br>
+                    <b>Para</b> personalizarlo según las preferencias del grupo.
+                </td>
+                <td style="text-align: center;">5</td>
+            </tr>
+            <tr>
+                <td style="text-align: center;">20</td>
+                <td style="text-align: center;">E4 - US020</td>
+                <td style="text-align: center;">Personalización de Ingredientes</td>
+                <td style="text-align: justify;">
+                    <b>Como</b> líder del grupo<br>
+                    <b>Quiero</b> personalizar los ingredientes de un plato<br>
+                    <b>Para</b> ajustarlos a las preferencias del grupo.
+                </td>
+                <td style="text-align: center;">5</td>
+            </tr>
+            <tr>
+                <td style="text-align: center;">21</td>
+                <td style="text-align: center;">E4 - US021</td>
+                <td style="text-align: center;">Confirmar o Agregar a Votación</td>
+                <td style="text-align: justify;">
+                    <b>Como</b> líder del grupo<br>
+                    <b>Quiero</b> confirmar la personalización del plato o agregarlo a votación<br>
+                    <b>Para</b> que el grupo decida.
+                </td>
+                <td style="text-align: center;">3</td>
+            </tr>
+            <tr>
+                <td style="text-align: center;">22</td>
+                <td style="text-align: center;">E5 - US022</td>
+                <td style="text-align: center;">Creación Automática de Votación</td>
+                <td style="text-align: justify;">
+                    <b>Como</b> líder del grupo<br>
+                    <b>Quiero</b> que se cree automáticamente una nueva votación cuando selecciono la opción "Dejarlo a votación" para un plato<br>
+                    <b>Para</b> coordinar las decisiones del grupo.
+                </td>
+                <td style="text-align: center;">5</td>
+            </tr>
+            <tr>
+                <td style="text-align: center;">23</td>
+                <td style="text-align: center;">E5 - US023</td>
+                <td style="text-align: center;">Compartir Código de Votación</td>
+                <td style="text-align: justify;">
+                    <b>Como</b> líder del grupo<br>
+                    <b>Quiero</b> compartir un código generado<br>
+                    <b>Para</b> que los miembros del grupo puedan ingresar a la votación y votar por el plato de su elección.
+                </td>
+                <td style="text-align: center;">3</td>
+            </tr>
+            <tr>
+                <td style="text-align: center;">24</td>
+                <td style="text-align: center;">E5 - US024</td>
+                <td style="text-align: center;">Resolución de Empates con Sorteo</td>
+                <td style="text-align: justify;">
+                    <b>Como</b> grupo de trabajadores<br>
+                    <b>Quiero</b> que en caso de empate en la votación, se realice un sorteo<br>
+                    <b>Para</b> determinar el restaurante o plato ganador, para evitar decisiones inconclusas.
+                </td>
+                <td style="text-align: center;">5</td>
+            </tr>
+          <tr>
+            <td style="text-align: center;">25</td>
+            <td style="text-align: center;">E6 - US025</td>
+            <td style="text-align: center;">Dividir el Costo del Pedido</td>
+            <td style="text-align: justify;">
+                <b>Como</b> miembro del grupo<br>
+                <b>Quiero</b> que el costo del pedido se divida automáticamente entre los participantes<br>
+                <b>Para</b> que cada uno pague su parte proporcional.
+            </td>
+            <td style="text-align: center;">5</td>
+        </tr>
+        <tr>
+            <td style="text-align: center;">26</td>
+            <td style="text-align: center;">E6 - US026</td>
+            <td style="text-align: center;">Métodos de Pago Diversos</td>
+            <td style="text-align: justify;">
+                <b>Como</b> miembro del grupo<br>
+                <b>Quiero</b> poder elegir entre diferentes métodos de pago (tarjeta de crédito, PayPal, transferencia bancaria)<br>
+                <b>Para</b> realizar mi parte del pago.
+            </td>
+            <td style="text-align: center;">5</td>
+        </tr>
+        <tr>
+            <td style="text-align: center;">27</td>
+            <td style="text-align: center;">E6 - US027</td>
+            <td style="text-align: center;">Notificaciones de Pago Pendiente</td>
+            <td style="text-align: justify;">
+                <b>Como</b> miembro del grupo<br>
+                <b>Quiero</b> recibir notificaciones de recordatorio en caso de que mi pago esté pendiente<br>
+                <b>Para</b> asegurarme de completar la transacción.
+            </td>
+            <td style="text-align: center;">3</td>
+        </tr>
+        <tr>
+            <td style="text-align: center;">28</td>
+            <td style="text-align: center;">E6 - US028</td>
+            <td style="text-align: center;">Registro y Confirmación de Pagos Grupales</td>
+            <td style="text-align: justify;">
+                <b>Como</b> líder del grupo<br>
+                <b>Quiero</b> poder ver un registro de todos los pagos realizados por los miembros del grupo<br>
+                <b>Para</b> confirmar que todos han contribuido.
+            </td>
+            <td style="text-align: center;">5</td>
+        </tr>
+        <tr>
+            <td style="text-align: center;">29</td>
+            <td style="text-align: center;">E6 - US029</td>
+            <td style="text-align: center;">Opción de Propina Compartida</td>
+            <td style="text-align: justify;">
+                <b>Como</b> miembro del grupo<br>
+                <b>Quiero</b> tener la opción de agregar una propina compartida al total del pedido<br>
+                <b>Para</b> recompensar el servicio del restaurante.
+            </td>
+            <td style="text-align: center;">3</td>
+        </tr>
+        <tr>
+            <td style="text-align: center;">30</td>
+            <td style="text-align: center;">E6 - US030</td>
+            <td style="text-align: center;">Generación Automática de Recomendaciones</td>
+            <td style="text-align: justify;">
+                <b>Como</b> usuario<br>
+                <b>Quiero</b> que el sistema genere automáticamente recomendaciones de restaurantes y platos basadas en mis pedidos anteriores<br>
+                <b>Para</b> facilitar futuras elecciones.
+            </td>
+            <td style="text-align: center;">5</td>
+        </tr>
+        <tr>
+            <td style="text-align: center;">31</td>
+            <td style="text-align: center;">E7 - US031</td>
+            <td style="text-align: center;">Notificaciones de Recomendaciones</td>
+            <td style="text-align: justify;">
+                <b>Como</b> usuario<br>
+                <b>Quiero</b> recibir notificaciones de nuevas recomendaciones basadas en mis pedidos recientes<br>
+                <b>Para</b> estar al tanto de opciones que podrían interesarme.
+            </td>
+            <td style="text-align: center;">3</td>
+        </tr>
+        <tr>
+            <td style="text-align: center;">32</td>
+            <td style="text-align: center;">E7 - US032</td>
+            <td style="text-align: center;">Personalización de Recomendaciones en Función de Pedidos Grupales</td>
+            <td style="text-align: justify;">
+                <b>Como</b> líder de grupo<br>
+                <b>Quiero</b> recibir recomendaciones de restaurantes y platos basadas en los pedidos grupales anteriores<br>
+                <b>Para</b> facilitar futuras decisiones de grupo.
+            </td>
+            <td style="text-align: center;">5</td>
+        </tr>
+        <tr>
+            <td style="text-align: center;">33</td>
+            <td style="text-align: center;">E8 - US033</td>
+            <td style="text-align: center;">Prioridad de Preparación para Pedidos Grupales</td>
+            <td style="text-align: justify;">
+                <b>Como</b> chef del restaurante<br>
+                <b>Quiero</b> priorizar la preparación de pedidos grupales grandes<br>
+                <b>Para</b> asegurarme de que se entreguen a tiempo.
+            </td>
+            <td style="text-align: center;">5</td>
+        </tr>
+        <tr>
+            <td style="text-align: center;">34</td>
+            <td style="text-align: center;">E8 - US034</td>
+            <td style="text-align: center;">Confirmación de Capacidad de Gestión para Pedidos Grupales</td>
+            <td style="text-align: justify;">
+                <b>Como</b> administrador del restaurante<br>
+                <b>Quiero</b> confirmar la capacidad de gestión antes de aceptar un pedido grupal grande<br>
+                <b>Para</b> evitar sobrecargar la cocina y asegurar un servicio de calidad.
+            </td>
+            <td style="text-align: center;">5</td>
+        </tr>
+        <tr>
+            <td style="text-align: center;">35</td>
+            <td style="text-align: center;">E8 - US035</td>
+            <td style="text-align: center;">Coordinación de Entregas para Pedidos Grupales</td>
+            <td style="text-align: justify;">
+                <b>Como</b> gerente de logística<br>
+                <b>Quiero</b> coordinar la entrega de pedidos grupales grandes<br>
+                <b>Para</b> asegurar que lleguen a tiempo y en las mejores condiciones.
+            </td>
+            <td style="text-align: center;">5</td>
+        </tr>
+        <tr>
+            <td style="text-align: center;">36</td>
+            <td style="text-align: center;">E8 - US036</td>
+            <td style="text-align: center;">Gestión de Cambios y Cancelaciones en Pedidos Grupales</td>
+            <td style="text-align: justify;">
+                <b>Como</b> administrador del restaurante<br>
+                <b>Quiero</b> gestionar cambios y cancelaciones en pedidos grupales de manera eficiente<br>
+                <b>Para</b> minimizar el impacto en la operación del restaurante.
+            </td>
+            <td style="text-align: center;">5</td>
+        </tr>
+        <tr>
+            <td style="text-align: center;">37</td>
+            <td style="text-align: center;">E9 - US037</td>
+            <td style="text-align: center;">Visualización de Planes de Suscripción</td>
+            <td style="text-align: justify;">
+                <b>Como</b> visitante en la landing page<br>
+                <b>Quiero</b> poder visualizar una sección que describa los diferentes planes de suscripción disponibles<br>
+                <b>Para</b> que pueda considerar sus beneficios y decidir si suscribirme.
+            </td>
+            <td style="text-align: center;">3</td>
+        </tr>
+        <tr>
+            <td style="text-align: center;">38</td>
+            <td style="text-align: center;">E9 - US038</td>
+            <td style="text-align: center;">Selección de Plan de Suscripción</td>
+            <td style="text-align: justify;">
+                <b>Como</b> empresa o restaurante<br>
+                <b>Quiero</b> poder seleccionar un plan de suscripción dentro de la aplicación<br>
+                <b>Para</b> acceder a funcionalidades premium.
+            </td>
+            <td style="text-align: center;">5</td>
+        </tr>
+        <tr>
+            <td style="text-align: center;">39</td>
+            <td style="text-align: center;">E9 - US039</td>
+            <td style="text-align: center;">Renovación de Plan de Suscripción</td>
+            <td style="text-align: justify;">
+                <b>Como</b> empresa o restaurante<br>
+                <b>Quiero</b> poder renovar mi plan de suscripción antes de que expire<br>
+                <b>Para</b> evitar la interrupción del servicio.
+            </td>
+            <td style="text-align: center;">3</td>
+        </tr>
+        <tr>
+            <td style="text-align: center;">40</td>
+            <td style="text-align: center;">E9 - US040</td>
+            <td style="text-align: center;">Cancelación de Plan de Suscripción</td>
+            <td style="text-align: justify;">
+                <b>Como</b> empresa o restaurante<br>
+                <b>Quiero</b> poder cancelar mi plan de suscripción en cualquier momento<br>
+                <b>Para</b> evitar cargos futuros.
+            </td>
+            <td style="text-align: center;">3</td>
+        </tr>
+        <tr>
+            <td style="text-align: center;">41</td>
+            <td style="text-align: center;">E10 - US041</td>
+            <td style="text-align: center;">Endpoint para Registro de Usuario</td>
+            <td style="text-align: justify;">
+                <b>Como</b> developer<br>
+                <b>Quiero</b> tener un endpoint para el registro de nuevos usuarios<br>
+                <b>Para</b> que los datos de los nuevos usuarios puedan ser enviados y almacenados en el backend.
+            </td>
+            <td style="text-align: center;">5</td>
+        </tr>
+        <tr>
+            <td style="text-align: center;">42</td>
+            <td style="text-align: center;">E10 - US042</td>
+            <td style="text-align: center;">Endpoint para Inicio de Sesión</td>
+            <td style="text-align: justify;">
+                <b>Como</b> developer<br>
+                <b>Quiero</b> tener un endpoint para que los usuarios puedan iniciar sesión<br>
+                <b>Para</b> obtener un token de autenticación.
+            </td>
+            <td style="text-align: center;">5</td>
+        </tr>
+        <tr>
+            <td style="text-align: center;">43</td>
+            <td style="text-align: center;">E10 - US043</td>
+            <td style="text-align: center;">Endpoint para Recuperación de Contraseña</td>
+            <td style="text-align: justify;">
+                <b>Como</b> developer<br>
+                <b>Quiero</b> tener un endpoint para la recuperación de contraseñas<br>
+                <b>Para</b> permitir a los usuarios restablecer sus contraseñas olvidadas.
+            </td>
+            <td style="text-align: center;">5</td>
+        </tr>
+        <tr>
+            <td style="text-align: center;">44</td>
+            <td style="text-align: center;">E10 - US044</td>
+            <td style="text-align: center;">Endpoint para Gestión de Pedidos Grupales</td>
+            <td style="text-align: justify;">
+                <b>Como</b> developer<br>
+                <b>Quiero</b> tener endpoints para gestionar los pedidos grupales<br>
+                <b>Para</b> permitir crear, actualizar, consultar y eliminar pedidos grupales.
+            </td>
+            <td style="text-align: center;">8</td>
+        </tr>
+        <tr>
+            <td style="text-align: center;">45</td>
+            <td style="text-align: center;">E10 - US045</td>
+            <td style="text-align: center;">Endpoint para Recomendaciones Personalizadas</td>
+            <td style="text-align: justify;">
+                <b>Como</b> developer<br>
+                <b>Quiero</b> tener un endpoint que proporcione recomendaciones personalizadas<br>
+                <b>Para</b> que los usuarios puedan recibir sugerencias de restaurantes y platos según sus preferencias.
+            </td>
+            <td style="text-align: center;">5</td>
+        </tr>
+        </tbody>
+    </table>
 # Capítulo IV: Product Design  
 ## 4.1. Style Guidelines  
 ## 4.2. Information Architecture  
