@@ -323,7 +323,24 @@ Para el sistema de búsqueda interno, en la aplicación web, se implementarán d
 
 Para la navegación se crearán menús principales que sean claros para facilitar el proceso a los usuarios de ambos segmentos. Dependiendo del usuario, se determinará el menú y tendrá botones para acceder a las distintas funcionalidades presentes en la aplicación.
 
-## 4.3. Landing Page UI Design  
+## 4.3. Landing Page UI Design 
+
+En esta sección mostraremos el proceso de diseño para nuestra landing page, desde los wireframes hasta los mock-ups. Hemos tenido en cuenta las reglas determinadas en la guía de estilo para mantener la coherencia visual en la página y que sea fácil de relacionar con la aplicación web.
+
+### 4.3.1. Landing Page Wireframe
+
+En esta sección se presentarán los wireframes de la landing page. Estos wireframes son esquemas de baja fidelidad que muestran la estructura de la página, sin tener en cuenta la paleta de colores ni las imágenes que se utilizarán. Enlace al Figma: https://www.figma.com/design/HGjzWSvewN97ZBYXu5FkdL/ApplicationWeb?node-id=1-3&t=wDYwqq80w6CGC5hD-1
+
+Para Desktop Browser:
+![Landing Page Wireframes](assets/img/chapter-4/landing-page-wireframes.png)
+
+### 4.3.2. Landing Page Mock-up
+
+En esta sección se presentarán los mock-ups de la landing page. Estos mock-ups son esquemas de alta fidelidad que muestran la estructura de la página, todas las guías de estilo indicadas en las secciones anteriores están presentes en estos esquemas. Enlace al Figma: https://www.figma.com/design/HGjzWSvewN97ZBYXu5FkdL/ApplicationWeb?node-id=1-3&t=wDYwqq80w6CGC5hD-1
+
+Para Desktop Browser:
+![Landing Page Mock-Up](assets/img/chapter-4/landing-page-mock-up.png)
+
 ## 4.4. Web Applications UX/UI Design  
 ### 4.4.1. Web Applications Wireframes  
 ### 4.4.2. Web Applications Wireflow Diagrams  
