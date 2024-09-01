@@ -612,15 +612,15 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
                 <b>Para</b> encontrar opciones adecuadas para nuestro grupo.<br>
             </td>
             <td style="text-align: justify;">
-                <b>Escenario: Búsqueda por Nombre</b><br>
+                <b>Escenario 1: Búsqueda por Nombre</b><br>
                 <b>Dado</b> un usuario en la barra de búsqueda,<br>
                 <b>Cuando</b> ingresa el nombre del restaurante,<br>
                 <b>Entonces</b> se muestran los resultados relevantes.<br><br>
-                <b>Escenario: Búsqueda por Categoría</b><br>
+                <b>Escenario 2: Búsqueda por Categoría</b><br>
                 <b>Dado</b> un usuario que selecciona una categoría,<br>
                 <b>Cuando</b> realiza la búsqueda,<br>
                 <b>Entonces</b> se muestran restaurantes que pertenecen a esa categoría.<br><br>
-                <b>Escenario: Búsqueda por Ubicación</b><br>
+                <b>Escenario 3: Búsqueda por Ubicación</b><br>
                 <b>Dado</b> un usuario que ingresa una ubicación,<br>
                 <b>Cuando</b> realiza la búsqueda,<br>
                 <b>Entonces</b> se muestran restaurantes cercanos a esa ubicación.<br>
@@ -641,15 +641,15 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
                 <b>Para</b> facilitar la selección.<br>
             </td>
             <td style="text-align: justify;">
-                <b>Escenario: Visualización de Recomendado</b><br>
+                <b>Escenario 1: Visualización de Recomendado</b><br>
                 <b>Dado</b> un usuario en la pantalla de inicio,<br>
                 <b>Cuando</b> la página carga,<br>
                 <b>Entonces</b> se muestra una lista de restaurantes recomendados.<br><br>
-                <b>Escenario: Restaurantes Más Buscados</b><br>
+                <b>Escenario 2: Restaurantes Más Buscados</b><br>
                 <b>Dado</b> un usuario en la pantalla de inicio,<br>
                 <b>Cuando</b> la página carga,<br>
                 <b>Entonces</b> se muestra una lista de los restaurantes más buscados.<br><br>
-                <b>Escenario: Personalización de Recomendaciones</b><br>
+                <b>Escenario 3: Personalización de Recomendaciones</b><br>
                 <b>Dado</b> un usuario con historial de pedidos,<br>
                 <b>Cuando</b> ingresa a la página de inicio,<br>
                 <b>Entonces</b> se muestran recomendaciones personalizadas basadas en pedidos anteriores.<br>
@@ -670,11 +670,11 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
                 <b>Para</b> tomar una decisión informada.<br>
             </td>
             <td style="text-align: justify;">
-                <b>Escenario: Visualización de Datos Generales</b><br>
+                <b>Escenario 1: Visualización de Datos Generales</b><br>
                 <b>Dado</b> un usuario que selecciona un restaurante,<br>
                 <b>Cuando</b> carga la página del restaurante,<br>
                 <b>Entonces</b> se muestra el nombre, dirección, horario de atención y calificación del restaurante.<br><br>
-                <b>Escenario: Visualización del Menú</b><br>
+                <b>Escenario 2: Visualización del Menú</b><br>
                 <b>Dado</b> un usuario que selecciona un restaurante,<br>
                 <b>Cuando</b> carga la página del restaurante,<br>
                 <b>Entonces</b> se muestra el menú disponible con precios y descripciones.<br>
@@ -695,7 +695,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
                 <b>Para</b> hacer un pedido grupal.<br>
             </td>
             <td style="text-align: justify;">
-                <b>Escenario: Selección Individual</b><br>
+                <b>Escenario 1: Selección Individual</b><br>
                 <b>Dado</b> un usuario que visualiza el menú,<br>
                 <b>Cuando</b> selecciona un plato,<br>
                 <b>Entonces</b> se añade el plato a su pedido.<br>
