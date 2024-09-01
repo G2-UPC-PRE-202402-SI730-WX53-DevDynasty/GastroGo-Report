@@ -790,7 +790,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
   <!--Epic 5-->
     <th colspan="5" style="text-align: center;">
         <b>Epic 5: Coordinación de Decisión del Pedido</b><br>
-        <b>Cómo</b> grupo de trabajadores,<br>
+        <b>Cómo</b> grupo de trabajadores<br>
         <b>Queremos</b> votar o usar sorteos<br>
         <b>Para</b> elegir el restaurante o plato de manera democrática.<br>
     </th>
@@ -866,6 +866,138 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             </td>
             <td style="text-align: center;">
                 5
+            </td>
+        </tr>
+    </tbody>
+  <!--Epic 6-->
+    <th colspan="5" style="text-align: center;">
+        <b>Epic 6: Gestión de Pagos</b><br>
+        <b>Cómo</b> grupo de trabajadores<br>
+        <b>Queremos</b> gestionar y realizar los pagos de manera eficiente y transparente<br>
+        <b>Para</b> los pedidos grupales, asegurando que cada miembro contribuya equitativamente.<br>
+    </th>
+    <!--US025-->
+    <tbody>
+        <tr>
+            <td style="text-align: center;">E6 - US025</td>
+            <td style="text-align: center;">Dividir el Costo del Pedido</td>
+            <td style="text-align: justify;">
+                <b>Como</b> miembro del grupo<br>
+                <b>Quiero</b> que el costo del pedido se divida automáticamente entre los participantes<br>
+                <b>Para</b> que cada uno pague su parte proporcional.<br>
+            </td>
+            <td style="text-align: justify;">
+                <b>Escenario 1: Cálculo de Costos Proporcionales</b><br>
+                <b>Dado</b> que el pedido ha sido finalizado,<br>
+                <b>Cuando</b> se confirma el número de participantes,<br>
+                <b>Entonces</b> el costo total del pedido se divide automáticamente entre ellos.<br><br>
+                <b>Escenario 2: Manejo de Excepciones</b><br>
+                <b>Dado</b> que hay un participante que no desea unirse al pago,<br>
+                <b>Cuando</b> se excluye,<br>
+                <b>Entonces</b> el sistema ajusta automáticamente la distribución del costo entre los demás.<br>
+            </td>
+            <td style="text-align: center;">
+                6
+            </td>
+        </tr>
+    </tbody>
+    <!--US026-->
+    <tbody>
+        <tr>
+            <td style="text-align: center;">E6 - US026</td>
+            <td style="text-align: center;">Métodos de Pago Diversos</td>
+            <td style="text-align: justify;">
+                <b>Como</b> miembro del grupo<br>
+                <b>Quiero</b> poder elegir entre diferentes métodos de pago (tarjeta de crédito, PayPal, transferencia bancaria)<br>
+                <b>Para</b> realizar mi parte del pago.<br>
+            </td>
+            <td style="text-align: justify;">
+                <b>Escenario 1: Selección de Método de Pago</b><br>
+                <b>Dado</b> que el usuario ha decidido realizar el pago,<br>
+                <b>Cuando</b> selecciona un método de pago preferido,<br>
+                <b>Entonces</b> puede completar la transacción usando ese método.<br><br>
+                <b>Escenario 2: Confirmación de Pago</b><br>
+                <b>Dado</b> que el pago ha sido procesado,<br>
+                <b>Cuando</b> la transacción es exitosa,<br>
+                <b>Entonces</b> el usuario recibe una confirmación y el pago se registra en la plataforma.<br>
+            </td>
+            <td style="text-align: center;">
+                6
+            </td>
+        </tr>
+    </tbody>
+    <!--US027-->
+    <tbody>
+        <tr>
+            <td style="text-align: center;">E6 - US027</td>
+            <td style="text-align: center;">Notificaciones de Pago Pendiente</td>
+            <td style="text-align: justify;">
+                <b>Como</b> miembro del grupo<br>
+                <b>Quiero</b> recibir notificaciones de recordatorio en caso de que mi pago esté pendiente<br>
+                <b>Para</b> asegurarme de completar la transacción.<br>
+            </td>
+            <td style="text-align: justify;">
+                <b>Escenario 1: Envío de Notificación</b><br>
+                <b>Dado</b> que el pedido ha sido realizado,<br>
+                <b>Cuando</b> un miembro del grupo no ha completado su pago,<br>
+                <b>Entonces</b> recibe una notificación de recordatorio.<br><br>
+                <b>Escenario 2: Frecuencia de Notificaciones</b><br>
+                <b>Dado</b> que el pago sigue pendiente,<br>
+                <b>Cuando</b> el plazo se acerca,<br>
+                <b>Entonces</b> se incrementa la frecuencia de las notificaciones.<br>
+            </td>
+            <td style="text-align: center;">
+                6
+            </td>
+        </tr>
+    </tbody>
+    <!--US028-->
+    <tbody>
+        <tr>
+            <td style="text-align: center;">E6 - US028</td>
+            <td style="text-align: center;">Registro y Confirmación de Pagos Grupales</td>
+            <td style="text-align: justify;">
+                <b>Como</b> líder del grupo<br>
+                <b>Quiero</b> poder ver un registro de todos los pagos realizados por los miembros del grupo<br>
+                <b>Para</b> confirmar que todos han contribuido.<br>
+            </td>
+            <td style="text-align: justify;">
+                <b>Escenario 1: Visualización de Pagos</b><br>
+                <b>Dado</b> que los pagos han sido realizados,<br>
+                <b>Cuando</b> el líder consulta el registro,<br>
+                <b>Entonces</b> puede ver el estado de los pagos de cada miembro.<br><br>
+                <b>Escenario 2: Confirmación Completa</b><br>
+                <b>Dado</b> que todos los miembros han completado sus pagos,<br>
+                <b>Cuando</b> se verifica el registro,<br>
+                <b>Entonces</b> el sistema confirma que el pedido está listo para ser procesado.<br>
+            </td>
+            <td style="text-align: center;">
+                6
+            </td>
+        </tr>
+    </tbody>
+    <!--US029-->
+    <tbody>
+        <tr>
+            <td style="text-align: center;">E6 - US029</td>
+            <td style="text-align: center;">Opción de Propina Compartida</td>
+            <td style="text-align: justify;">
+                <b>Como</b> miembro del grupo<br>
+                <b>Quiero</b> tener la opción de agregar una propina compartida al total del pedido<br>
+                <b>Para</b> recompensar el servicio del restaurante.<br>
+            </td>
+            <td style="text-align: justify;">
+                <b>Escenario 1: Selección de Propina</b><br>
+                <b>Dado</b> que el pedido está siendo finalizado,<br>
+                <b>Cuando</b> el grupo decide agregar una propina,<br>
+                <b>Entonces</b> el sistema la distribuye proporcionalmente entre los participantes.<br><br>
+                <b>Escenario 2: Confirmación de Propina</b><br>
+                <b>Dado</b> que la propina ha sido agregada,<br>
+                <b>Cuando</b> se completa el pago,<br>
+                <b>Entonces</b> el monto total reflejado incluye la propina compartida.<br>
+            </td>
+            <td style="text-align: center;">
+                6
             </td>
         </tr>
     </tbody>
