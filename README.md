@@ -1190,6 +1190,125 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             </td>
         </tr>
     </tbody>
+  <!--Epic 9-->
+    <th colspan="5" style="text-align: center;">
+        <b>Epic 9: Planes de Suscripción</b><br>
+        <b>Como</b> empresa o restaurante<br>
+        <b>Quiero</b> poder optar por diferentes planes de suscripción dentro de la aplicación<br>
+        <b>Para</b> acceder a funcionalidades premium y servicios adicionales.<br>
+    </th>
+    <!--US037-->
+    <tbody>
+        <tr>
+            <td style="text-align: center;">E9 - US037</td>
+            <td style="text-align: center;">Visualización de Planes de Suscripción</td>
+            <td style="text-align: justify;">
+                <b>Como</b> visitante en la landing page<br>
+                <b>Quiero</b> poder visualizar una sección que describa los diferentes planes de suscripción disponibles<br>
+                <b>Para</b> que pueda considerar sus beneficios y decidir si suscribirme.<br>
+            </td>
+            <td style="text-align: justify;">
+                <b>Escenario 1: Visualización de Planes Disponibles</b><br>
+                <b>Dado</b> que un visitante accede a la landing page,<br>
+                <b>Cuando</b> navega a la sección de planes de suscripción,<br>
+                <b>Entonces</b> debe ver una lista clara de los planes disponibles, con sus respectivas descripciones y beneficios.<br><br>
+                <b>Escenario 2: Accesibilidad de Información Detallada</b><br>
+                <b>Dado</b> que un visitante está en la sección de planes de suscripción,<br>
+                <b>Cuando</b> selecciona un plan específico,<br>
+                <b>Entonces</b> debe visualizar una página detallada que incluya los precios, beneficios, y una comparación con otros planes.<br>
+            </td>
+            <td style="text-align: center;">
+                9
+            </td>
+        </tr>
+    </tbody>
+    <!--US038-->
+    <tbody>
+        <tr>
+            <td style="text-align: center;">E9 - US038</td>
+            <td style="text-align: center;">Selección de Plan de Suscripción</td>
+            <td style="text-align: justify;">
+                <b>Como</b> empresa o restaurante<br>
+                <b>Quiero</b> poder seleccionar un plan de suscripción dentro de la aplicación<br>
+                <b>Para</b> acceder a funcionalidades premium.<br>
+            </td>
+            <td style="text-align: justify;">
+                <b>Escenario 1: Acceso a la Selección de Planes</b><br>
+                <b>Dado</b> que un usuario registrado accede a su cuenta,<br>
+                <b>Cuando</b> el usuario selecciona la opción de suscripción,<br>
+                <b>Entonces</b> se muestran todos los planes de suscripción disponibles con una opción para seleccionar y continuar con el proceso de compra.<br><br>
+                <b>Escenario 2: Validación de Requisitos Previos</b><br>
+                <b>Dado</b> que un usuario registrado intenta seleccionar un plan,<br>
+                <b>Cuando</b> el usuario no cumple con los requisitos previos (ej. completar el perfil, seleccionar método de pago),<br>
+                <b>Entonces</b> se muestra un mensaje que indica los pasos necesarios antes de continuar con la selección del plan.<br><br>
+                <b>Escenario 3: Confirmación de Selección</b><br>
+                <b>Dado</b> que un usuario ha seleccionado un plan,<br>
+                <b>Cuando</b> el usuario confirma su selección,<br>
+                <b>Entonces</b> se le envía una confirmación por correo electrónico y se actualiza su cuenta para reflejar el nuevo estado de suscripción.<br>
+            </td>
+            <td style="text-align: center;">
+                9
+            </td>
+        </tr>
+    </tbody>
+    <!--US039-->
+    <tbody>
+        <tr>
+            <td style="text-align: center;">E9 - US039</td>
+            <td style="text-align: center;">Renovación de Plan de Suscripción</td>
+            <td style="text-align: justify;">
+                <b>Como</b> empresa o restaurante<br>
+                <b>Quiero</b> poder renovar mi plan de suscripción antes de que expire<br>
+                <b>Para</b> evitar la interrupción del servicio.<br>
+            </td>
+            <td style="text-align: justify;">
+                <b>Escenario 1: Recordatorio de Renovación</b><br>
+                <b>Dado</b> que un plan de suscripción está próximo a expirar,<br>
+                <b>Cuando</b> faltan 30, 15 y 5 días para la expiración,<br>
+                <b>Entonces</b> el sistema envía recordatorios automáticos al correo electrónico del usuario.<br><br>
+                <b>Escenario 2: Proceso de Renovación Simplificado</b><br>
+                <b>Dado</b> que un usuario desea renovar su suscripción,<br>
+                <b>Cuando</b> el usuario accede a la sección de suscripciones en su cuenta,<br>
+                <b>Entonces</b> se muestra un botón de "Renovar" junto con las opciones de renovación disponibles (por ejemplo, 1 mes, 6 meses, 1 año).<br><br>
+                <b>Escenario 3: Confirmación de Renovación</b><br>
+                <b>Dado</b> que un usuario ha seleccionado renovar su plan,<br>
+                <b>Cuando</b> el usuario confirma la renovación,<br>
+                <b>Entonces</b> se le envía una confirmación por correo electrónico y se extiende la duración de su suscripción sin interrupciones.<br>
+            </td>
+            <td style="text-align: center;">
+                9
+            </td>
+        </tr>
+    </tbody>
+    <!--US040-->
+    <tbody>
+        <tr>
+            <td style="text-align: center;">E9 - US040</td>
+            <td style="text-align: center;">Cancelación de Plan de Suscripción</td>
+            <td style="text-align: justify;">
+                <b>Como</b> empresa o restaurante<br>
+                <b>Quiero</b> poder cancelar mi plan de suscripción en cualquier momento<br>
+                <b>Para</b> evitar cargos futuros.<br>
+            </td>
+            <td style="text-align: justify;">
+                <b>Escenario 1: Acceso a la Opción de Cancelación</b><br>
+                <b>Dado</b> que un usuario desea cancelar su suscripción,<br>
+                <b>Cuando</b> el usuario accede a la sección de suscripciones en su cuenta,<br>
+                <b>Entonces</b> se muestra una opción de "Cancelar Suscripción" con detalles sobre las implicaciones de la cancelación.<br><br>
+                <b>Escenario 2: Confirmación de Cancelación</b><br>
+                <b>Dado</b> que un usuario ha solicitado la cancelación,<br>
+                <b>Cuando</b> el usuario confirma su decisión,<br>
+                <b>Entonces</b> el sistema procesa la cancelación y envía un correo electrónico confirmando la finalización de la suscripción al final del período actual.<br><br>
+                <b>Escenario 3: Suspensión de Servicios Premium</b><br>
+                <b>Dado</b> que un usuario ha cancelado su suscripción,<br>
+                <b>Cuando</b> el período de suscripción actual finaliza,<br>
+                <b>Entonces</b> se desactivan automáticamente todas las funcionalidades premium asociadas con el plan cancelado.<br>
+            </td>
+            <td style="text-align: center;">
+                9
+            </td>
+        </tr>
+    </tbody>
 </table>
 
 ## 3.3. Impact Mapping  
