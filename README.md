@@ -1473,7 +1473,16 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
     </tbody>
 </table>
 
-## 3.3. Impact Mapping  
+## 3.3. Impact Mapping 
+**Grupos de Trabajadores:**
+
+<img src="assets/img/Impact map S1 - 1.png">
+<img src="assets/img/Impact map S1 - 2.png">
+
+**Restaurantes:**
+
+<img src="assets/img/Impact map S2 - 1.png">
+
 ## 3.4. Product Backlog  
 # Capítulo IV: Product Design  
 ## 4.1. Style Guidelines  
