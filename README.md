@@ -1992,6 +1992,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
         </tr>
         </tbody>
     </table>
+    
 # Capítulo IV: Product Design  
 ## 4.1. Style Guidelines  
 ## 4.2. Information Architecture  
