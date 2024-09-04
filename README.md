@@ -563,52 +563,19 @@ Estas convenciones no solo mejorarán la legibilidad de nuestras especificacione
 ### 5.2.1. Sprint 1  
 #### 5.2.1.1. Sprint Planning 1  
 
-<table>
-  <tr>
-    <th>Sprint #</th>
-    <td>Sprint 1</td>
-  </tr>
-  <tr>
-    <th>Sprint Planning Date</th>
-    <td>13/08/2024</td>
-  </tr>
-  <tr>
-    <th>Time</th>
-    <td>23:30 PM</td>
-  </tr>
-  <tr>
-    <th>Location</th>
-    <td>Google Meet</td>
-  </tr>
-  <tr>
-    <th>Prepared By</th>
-    <td>Camila Loli</td>
-  </tr>
-  <tr>
-    <th>Attendees</th>
-    <td>Ricardo Barrutia, Fabiola Espinoza, Marco Gongora </td>
-  </tr>
-  <tr>
-    <th>Sprint Review Summary</th>
-    <td>En esta entrega, no hay un Sprint anterior, por lo tanto, no hay resúmen del Sprint.</td>
-  </tr>
-  <tr>
-    <th>Sprint Retrospective Summary</th>
-    <td>En esta entrega, no hay un Sprint anterior, por lo tanto, no hay resúmen del Sprint.</td>
-  </tr>
-  <tr>
-    <th>Sprint Goal</th>
-    <td>La meta de este Sprint es asegurar que la Landing Page se encuentre opertaiva, incluyendo su visualización, el acceso a las redes sociales, la navegación dentro de la página y la correcta visualización de los canales de comunicación de la empresa.</td>
-  </tr>
-  <tr>
-    <th>Sprint Velocity</th>
-    <td></td>
-  </tr>
-  <tr>
-    <th>Sum of Story Points</th>
-    <td> Story points</td>
-  </tr>
-</table>
+| **Sprint #**                    | Sprint 1                                                                 |
+|---------------------------------|---------------------------------------------------------------------------|
+| **Sprint Planning Date**        | 13/08/2024                                                                |
+| **Time**                        | 23:30 PM                                                                  |
+| **Location**                    | Google Meet                                                               |
+| **Prepared By**                 | Camila Loli                                                               |
+| **Attendees**                   | Ricardo Barrutia, Fabiola Espinoza, Marco Gongora                         |
+| **Sprint Review Summary**       | En esta entrega, no hay un Sprint anterior, por lo tanto, no hay resúmen del Sprint. |
+| **Sprint Retrospective Summary**| En esta entrega, no hay un Sprint anterior, por lo tanto, no hay resúmen del Sprint. |
+| **Sprint Goal**                 | En este sprint se tiene como objetivo el desarrollo de la landing page y el despliegue de la misma. Además, durante las diversas reuniones del equipo se determinó el contenido y diseño de la landing page, el cual fue implementado en Figma. Una vez concluido el sprint, la landing debe estar desplegada en GitHub Pages y los usuarios podrán acceder a la misma a través del link. |
+| **Sprint Velocity**             |    8                                                                       |
+| **Sum of Story Points**         | 8 Story points                                                              |
+
 
 #### 5.2.1.2. Sprint Backlog 1  
 | **User Story**                              | **Work-item/Task**                                | **Description**                                        | **Estimation (Hours)** | **Assigned To**  | **Status**               |
