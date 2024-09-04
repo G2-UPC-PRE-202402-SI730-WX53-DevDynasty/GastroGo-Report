@@ -469,11 +469,13 @@ Para las pruebas de software de la landing page, se utilizaron las herramientas 
 
 Para gestionar y organizar los distintos cambios en el proyecto, se utilizó una organización en GitHub, lo que facilitó el control de versiones y la colaboración en el código fuente.
 
-- **Organización en GitHub:** https://github.com/G2-UPC-PRE-202402-SI730-WX53-DevDynasty
+- [**Organización en GitHub**](https://github.com/G2-UPC-PRE-202402-SI730-WX53-DevDynasty)
+  
+- [**Landing Page Repository**](https://github.com/G2-UPC-PRE-202402-SI730-WX53-DevDynasty/GastroGo-Landing-Page)
+  
+- [**Report Repository**](https://github.com/G2-UPC-PRE-202402-SI730-WX53-DevDynasty/GastroGo-Report) 
 
-- **Landing Page Repository:** https://github.com/G2-UPC-PRE-202402-SI730-WX53-DevDynasty/GastroGo-Landing-Page
 
-- **Report Repository:** https://github.com/G2-UPC-PRE-202402-SI730-WX53-DevDynasty/GastroGo-Report
 
 Con el fin de optimizar el manejo de ramas y la implementación de modificaciones en el código, se adoptó la metodología GitFlow. Este enfoque estructuró el desarrollo en dos ramas principales:
 
@@ -618,7 +620,7 @@ Estas convenciones no solo mejorarán la legibilidad de nuestras especificacione
 | E1-US005 Sección de testimonios             | W05 Testimonials section of the Landing Page      | Implementar testimonios de clientes.                   | 1                      | Fran             | Done                     |
 | E1-US006 Sección de contacto                | W06 Contact section of the Landing Page           | Implementar medio de contacto para el usuario.         | 0.5                    | Camila           | Done                     |
 | E1-US007 Sección de footer                  | W07 Footer section of the Landing Page            | Implementar footer section con sus respectivos enlaces. | 1                      | Camila           | Done                     |
-| E1-US008 Cambio de idioma         | W08 Language switch for the Landing Page          | Implementar el botón para la opción de lenguaje.       | 0.5                    | Fabiola          | Done                     |
+| E1-US008 Cambio de idioma         | W08 Language switch for the Landing Page          | Implementar el botón para la opción de lenguaje.       | 0.5                    | Ricardo          | Done                     |
 
   
 #### 5.2.1.3. Development Evidence for Sprint Review  
