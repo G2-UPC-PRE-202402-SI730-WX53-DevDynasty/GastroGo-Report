@@ -350,6 +350,7 @@ Para Desktop Browser:
 ## 4.6. Domain-Driven Software Architecture  
 ### 4.6.1. Software Architecture Context Diagram  
 Context diagram:
+
 ![Context Diagram](assets/img/chapter-4/contextdiagram.jpg)
 
 ### 4.6.2. Software Architecture Container Diagrams  
@@ -358,23 +359,36 @@ Container diagram:
 
 ### 4.6.3. Software Architecture Components Diagrams  
 Tracking component diagram:
+
 ![Tracking component](assets/img/chapter-4/trackingcomponetn.jpg)
+
+
 Sales component diagram:
+
 ![Sales component](assets/img/chapter-4/salescomponent.jpg)
+
+
 Payment component diagram:
+
 ![Payment component](assets/img/chapter-4/paymentcomponent.jpg)
+
+
 Authentication component diagram:
+
 ![Authentication component](assets/img/chapter-4/authenticationcomponent.jpg)
 ## 4.7. Software Object-Oriented Design  
 ### 4.7.1. Class Diagrams  
 Class diagram:
+
 ![Class Diagram](assets/img/chapter-4/classdiagram.png)
 ### 4.7.2. Class Dictionary  
 El sistema tiene las siguientes clases: Usuario (ID, nombre, correo, contraseña, rol, suscripción; métodos: registrarse, iniciar sesión, actualizar perfil, cancelar suscripción), relacionado con Pedido (ID, fecha, estado, total, participantes, método de pago; métodos: crear, actualizar, cancelar, dividir costos; asociado a Suscripción, Restaurante y Pago). Suscripción (ID, tipo, precio, beneficios, fecha inicio, expiración; métodos: crear, renovar, cancelar) está vinculado a Pedido. Restaurante (ID, nombre, dirección, menú; métodos: agregar, actualizar, eliminar platos) tiene muchos Platos y recibe muchos Pedidos. Plato (ID, nombre, descripción, precio, categoría; métodos: crear, actualizar, eliminar) está vinculado a Votación. Votación (ID, código, platos, estado, participantes) se relaciona con Usuario y Plato. Pago (ID, monto, estado, método) está asociado a Pedido. Notificación (ID, tipo, mensaje) se asocia a Usuario y Pedido.
 ## 4.8. Database Design  
 ### 4.8.1. Database Diagram
 Database diagram:
+
 ![Database Diagram](assets/img/chapter-4/databasediagram.png)
+
 # Capítulo V: Product Implementation, Validation & Deployment  
 ## 5.1. Software Configuration Management  
 ### 5.1.1. Software Development Environment Configuration  
