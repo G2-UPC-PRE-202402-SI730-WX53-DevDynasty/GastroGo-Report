@@ -415,7 +415,7 @@ Estas convenciones no solo mejorarán la legibilidad de nuestras especificacione
 ### 5.2.1. Sprint 1  
 
 <p align="center">
-  <img src="assets/img/chapter-5/img-sprint-1" alt=" " width="100%">
+  <img src="assets/img/chapter-5/img-sprint-1.png" alt=" " width="100%">
 </p>
 
 #### 5.2.1.1. Sprint Planning 1  
@@ -448,7 +448,19 @@ Estas convenciones no solo mejorarán la legibilidad de nuestras especificacione
 
   
 #### 5.2.1.3. Development Evidence for Sprint Review  
-  
+| **Repository** | **Branch** | **Commit Id**                              | **Commit Message**                                          | **Commit Message Body** | **Committed on (Date)** |
+|----------------|------------|--------------------------------------------|-------------------------------------------------------------|-------------------------|-------------------------|
+|GastroGo-Landing-Page| develop    | c8add7bb55905c1773cf2e1714223febf309a13c   | Initial commit                                               |                         | 17/08/2024               |
+|GastroGo-Landing-Page                |develop            | c2032295c903949148b30f3deb7a4315f061ea60   |fix(readme): change title for README.md      |                     |01/09/2024               |
+|GastroGo-Landing-Page                |develop            | 57d6342157ef7a80185af3d34730ce866bcd2dfe   |feat(readme): add introductory information for repository.  |       |01/09/2024           |
+|GastroGo-Landing-Page                |develop            | 19e986c8acd59ea08bee501758ff94195ff2b5a1   |feat(images): add images for favicon.     |                     |01/09/2024               |
+|GastroGo-Landing-Page                |develop            | acec7fd8f19bac3400d1e5615c4d8c15ccc2a9b3   |feat(styles): add styles.css for the index.html stylesheet.  |     |01/09/2024               |
+|GastroGo-Landing-Page                |develop            | 8a5f5a49f73b16ec5971eb5e360ff7151b83ae5a   |feat(index): add base of index.html for other branches.  |         |01/09/2024               |
+|GastroGo-Landing-Page                |develop            | 4bd0d5f97b59296863b20565240cac5d05ea8c6d   |feat(index): add the references for favicon images and font api.     |    |04/09/2024      |
+|GastroGo-Landing-Page                |develop            | bff9fc11f20b36ca4df0e9c9cef81228e6e7cd25   |chore: add css for roboto font.     |    |04/09/2024      |
+
+
+
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review  
   
 #### 5.2.1.5. Execution Evidence for Sprint Review  
