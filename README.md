@@ -8,44 +8,94 @@ Carrera: Ingeniería de Software
   
 Ciclo: 2024-02  
   
-Curso: Aplicaciones Web
-
-Sección: WX53 
+Curso: Aplicaciones Web   
   
-Profesor: Alberto Wilmer Sánchez Seña
+Sección: WX53   
   
-Informe del Trabajo Final  
+Profesor: Alberto Wilmer Sanchez Seña  
   
-Startup: DevDynasty
+Informe del Trabajo Final  - TB1
+  
+Startup: DevDynasty  
   
 Producto: GastroGo
 
-Integrantes:
-- 
-</div>
+### Team Members:
 
-<div align="center">
+| Member                                | Code       |
+|---------------------------------------|------------|
+| Barrutia Vaez, Ricardo Andree         | U201714765 |
+| Espinoza Inoñan, Fabiola Ximena       | U202214784 |
+| Gongora Sanchez, Marco Antonio         | U20211A085 |
+| Hurtado Palomino, Francisco Juan       | U202117498 |
+| Loli Ramirez, Camila Cristina          | U202110385 |
+
   
 **Agosto del 2024**
 </div>
   
 ---  
 # Registro de Versiones del Informe  
+
   
-  
+| Versión | Fecha      | Autor   | Descripción de modificaciones         |
+|---------|------------|---------|---------------------------------------|
+| 1.0     | 25/08/2024 | Barrutia Vaez, Ricardo Andree <br>	Espinoza Inoñan, Fabiola Ximena	<br> Gongora Sanchez, Marco Antonio	<br> Hurtado Palomino, Francisco Juan	<br> Loli Ramirez, Camila Cristina | Capítulo I <br> Capítulo II <br> Capítulo III <br> Capítulo IV <br> Capítulo V       |
+
+
+
 ---  
 # Project Report Collaboration Insights  
-  
-  
+
+Link del repositorio del reporte del TB1: https://github.com/G2-UPC-PRE-202402-SI730-WX53-DevDynasty/GastroGo-Report
+
+Durante la realizacion informe, se realizaron reuniones y se asignaron los temas a desarrollar para la entrega correspondiente a los Capítulos I al V del Sprint 1, quedando organizados de la siguiente forma:
+
+- Imágen de las Contribuciones del equipo: 
+<td><img src="static/img/Chapter 1/img-contributors-team.png" alt="Contribuciones del equipo" width="50%";"></img></td>
+<p>Ricardo Barrutia</p>
+- Imágen de las Contribuciones:
+<td><img src="static/img/Chapter 1/img-contributors-ricardo.png" alt="Contribuciones Ricardo" width="50%";"></img></td>
+- Imágen de los Commits:
+<td><img src="static/img/Chapter 1/img-commits-ricardo.png" alt="Commits Ricardo" width="50%";"></img></td>
+
+<p>Fabiola Espinoza</p>
+- Imágen de las Contribuciones:
+<td><img src="static/img/Chapter 1/img-contributors-fabiola.png" alt="Contribuciones Fabiola" width="50%";"></img></td>
+- Imágen de los Commits:
+<td><img src="static/img/Chapter 1/img-commits-fabiola.png" alt="Commits Fabiola" width="50%";"></img></td>
+
+<p>Marco Gongora</p>
+- Imágen de las Contribuciones:
+<td><img src="static/img/Chapter 1/img-contributors-marco.png" alt="Contribuciones Marco" width="50%";"></img></td>
+- Imágen de los Commits:
+<td><img src="static/img/Chapter 1/img-commits-marco.png" alt="Commits Marco" width="50%";"></img></td>
+
+<p>Francisco Hurtado</p>
+- Imágen de las Contribuciones:
+<td><img src="static/img/Chapter 1/img-contributors-francisco.png" alt="Contribuciones Francisco" width="50%";"></img></td>
+- Imágen de los Commits:
+<td><img src="static/img/Chapter 1/img-commits-francisco.png" alt="Commits Francisco" width="50%";"></img></td>
+
+<p>Camila Loli</p>
+- Imágen de las Contribuciones:
+<td><img src="static/img/Chapter 1/img-contributors-camila.png" alt="Contribuciones Camila" width="50%";"></img></td>
+- Imágen de los Commits:
+<td><img src="static/img/Chapter 1/img-commits-camila.png" alt="Commits Camila" width="50%";"></img></td>
+
+
+<br>
+
 ---  
 # Student Outcome  
 El curso contribuye al cumplimiento del Student Outcome ABET: **ABET – EAC - Student Outcome 3** <br> Criterio: *Capacidad de comunicarse efectivamente con un rango de audiencias.*  
   
 En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 3.  
   
-| Criterio específico                                                                                                                                                                | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Conclusiones                                                                                                                                                                                                                                                                                                                                                                         |  
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|  
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | **Apellido Apellido Nombre Nombre** <br> ***TB1:*** Morbi vel tortor id eros dictum venenatis id ut dui.Mauris quis tellus sed nunc hendrerit vehicula ac id mauris. <br> ***TP:*** Morbi vel tortor id eros dictum venenatis id ut dui.Mauris quis tellus sed nunc hendrerit vehicula ac id mauris. <br> ***TB2:*** Morbi vel tortor id eros dictum venenatis id ut dui.Mauris quis tellus sed nunc hendrerit vehicula ac id mauris. <br> ***TF:*** Morbi vel tortor id eros dictum venenatis id ut dui.Mauris quis tellus sed nunc hendrerit vehicula ac id mauris. <br><br> **Apellido Apellido Nombre Nombre** <br> ***TB1:*** Morbi vel tortor id eros dictum venenatis id ut dui.Mauris quis tellus sed nunc hendrerit vehicula ac id mauris. <br> ***TP:*** Morbi vel tortor id eros dictum venenatis id ut dui.Mauris quis tellus sed nunc hendrerit vehicula ac id mauris. <br> ***TB2:*** Morbi vel tortor id eros dictum venenatis id ut dui.Mauris quis tellus sed nunc hendrerit vehicula ac id mauris. <br> ***TF:*** Morbi vel tortor id eros dictum venenatis id ut dui.Mauris quis tellus sed nunc hendrerit vehicula ac id mauris. <br><br> | ***TB1:*** Fusce cursus dolor et nulla suscipit, sit amet ullamcorper nibh vestibulum. <br><br> ***TP:*** Fusce cursus dolor et nulla suscipit, sit amet ullamcorper nibh vestibulum. <br><br> ***TB2:*** Fusce cursus dolor et nulla suscipit, sit amet ullamcorper nibh vestibulum. <br><br> ***TF:*** Fusce cursus dolor et nulla suscipit, sit amet ullamcorper nibh vestibulum. | | Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | ***Apellido Apellido Nombre Nombre*** <br> ***TB1:*** Cras sed diam suscipit, malesuada ex rutrum, fringilla orci. Vestibulum in nunc quis elit suscipit sollicitudin. <br> ***TP:*** Cras sed diam suscipit, malesuada ex rutrum, fringilla orci. Vestibulum in nunc quis elit suscipit sollicitudin. <br> ***TB2:*** Cras sed diam suscipit, malesuada ex rutrum, fringilla orci. Vestibulum in nunc quis elit suscipit sollicitudin. <br> ***TF:*** Cras sed diam suscipit, malesuada ex rutrum, fringilla orci. Vestibulum in nunc quis elit suscipit sollicitudin. <br><br> ***Apellido Apellido Nombre Nombre*** <br> ***TB1:*** Cras sed diam suscipit, malesuada ex rutrum, fringilla orci. Vestibulum in nunc quis elit suscipit sollicitudin. <br> ***TP:*** Cras sed diam suscipit, malesuada ex rutrum, fringilla orci. Vestibulum in nunc quis elit suscipit sollicitudin. <br> ***TB2:*** Cras sed diam suscipit, malesuada ex rutrum, fringilla orci. Vestibulum in nunc quis elit suscipit sollicitudin. <br> ***TF:*** Cras sed diam suscipit, malesuada ex rutrum, fringilla orci. Vestibulum in nunc quis elit suscipit sollicitudin. | ***TB1:*** FEtiam imperdiet quam condimentum velit tempor porttitor. <br><br> ***TP:*** FEtiam imperdiet quam condimentum velit tempor porttitor. <br><br> ***TB2:*** FEtiam imperdiet quam condimentum velit tempor porttitor. <br><br> ***TF:*** FEtiam imperdiet quam condimentum velit tempor porttitor. |  
+| Criterio específico | Acciones realizadas | Conclusiones |  
+| - | - | - |  
+| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | ***TB1:***  <br> **Barrutia Vaez, Ricardo Andree** <br><br> **Espinoza Inoñan, Fabiola Ximena** <br><br>  **Gongora Sanchez, Marco Antonio** <br><br> **Hurtado Palomino, Francisco Juan** <br><br> **Loli Ramirez, Camila Cristina** <br><br>  | En conclusion .... |
+| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software. |  ***TB1:***  <br> **Barrutia Vaez, Ricardo Andree** <br><br> **Espinoza Inoñan, Fabiola Ximena** <br><br>  **Gongora Sanchez, Marco Antonio** <br><br> **Hurtado Palomino, Francisco Juan** <br><br> **Loli Ramirez, Camila Cristina** <br><br>| En conclusion .... |
   
 ---  
 # Contenido  
@@ -423,6 +473,20 @@ Database diagram:
   
 ---  
 # Bibliografía  
-  
+- Altametrics. (n.d.). Common challenges in restaurant operations and supply chain management. Altametrics. 
+https://altametrics.com/topics/common-challenges-in-restaurant-operations-and-supply-chain-management/ 
+
+- Picker Express. (n.d.). Logística en restaurantes. Picker Express. <br>
+https://www.pickerexpress.com/blog/logistica-en-restaurantes 
+
+- Universidad Científica del Sur. (2021). Análisis de la cadena de suministro en restaurantes de Lima Metropolitana (Tesis de licenciatura). Repositorio Institucional de la Universidad Científica del Sur.<br> https://repositorio.cientifica.edu.pe/handle/20.500.12805/728 
+
+- Built In. (2023). How Cheetah and Choco are transforming the food supply chain. Built In.<br> https://builtin.com/articles/food-supply-chain-cheetah-choco 
+
+- Euromonitor International. (2023). Limited-service restaurants in Peru. Euromonitor International. <br>https://www.euromonitor.com/limited-service-restaurants-in-peru/report 
+
 ---  
 # Anexos
+- Enlace de la Organización de Github: https://github.com/G2-UPC-PRE-202402-SI730-WX53-DevDynasty/GastroGo-Report
+- Videos de Exposiciones:
+- TB1:
