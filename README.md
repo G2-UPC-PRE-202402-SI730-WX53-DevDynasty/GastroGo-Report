@@ -52,39 +52,7 @@ Link del repositorio del reporte del TB1: https://github.com/G2-UPC-PRE-202402-S
 Durante la realizacion informe, se realizaron reuniones y se asignaron los temas a desarrollar para la entrega correspondiente a los Capítulos I al V del Sprint 1, quedando organizados de la siguiente forma:
 
 - Imágen de las Contribuciones del equipo: 
-<td><img src="static/img/Chapter 1/img-contributors-team.png" alt="Contribuciones del equipo" width="50%";"></img></td>
-<p>Ricardo Barrutia</p>
-- Imágen de las Contribuciones:
-<td><img src="static/img/Chapter 1/img-contributors-ricardo.png" alt="Contribuciones Ricardo" width="50%";"></img></td>
-- Imágen de los Commits:
-<td><img src="static/img/Chapter 1/img-commits-ricardo.png" alt="Commits Ricardo" width="50%";"></img></td>
 
-<p>Fabiola Espinoza</p>
-- Imágen de las Contribuciones:
-<td><img src="static/img/Chapter 1/img-contributors-fabiola.png" alt="Contribuciones Fabiola" width="50%";"></img></td>
-- Imágen de los Commits:
-<td><img src="static/img/Chapter 1/img-commits-fabiola.png" alt="Commits Fabiola" width="50%";"></img></td>
-
-<p>Marco Gongora</p>
-- Imágen de las Contribuciones:
-<td><img src="static/img/Chapter 1/img-contributors-marco.png" alt="Contribuciones Marco" width="50%";"></img></td>
-- Imágen de los Commits:
-<td><img src="static/img/Chapter 1/img-commits-marco.png" alt="Commits Marco" width="50%";"></img></td>
-
-<p>Francisco Hurtado</p>
-- Imágen de las Contribuciones:
-<td><img src="static/img/Chapter 1/img-contributors-francisco.png" alt="Contribuciones Francisco" width="50%";"></img></td>
-- Imágen de los Commits:
-<td><img src="static/img/Chapter 1/img-commits-francisco.png" alt="Commits Francisco" width="50%";"></img></td>
-
-<p>Camila Loli</p>
-- Imágen de las Contribuciones:
-<td><img src="static/img/Chapter 1/img-contributors-camila.png" alt="Contribuciones Camila" width="50%";"></img></td>
-- Imágen de los Commits:
-<td><img src="static/img/Chapter 1/img-commits-camila.png" alt="Commits Camila" width="50%";"></img></td>
-
-
-<br>
 
 ---  
 # Student Outcome  
