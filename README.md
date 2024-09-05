@@ -452,7 +452,45 @@ Estas convenciones no solo mejorarán la legibilidad de nuestras especificacione
 Durante el sprint 1, se centró en el desarrollo de la landing page como primera tarea prioritaria. Dado que el enfoque principal fue establecer la estructura y diseño inicial de la página, no se integraron ni utilizaron servicios web en esta etapa. La implementación de servicios web se considerará en sprints futuros, una vez que la landing page esté completamente desplegada.
   
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review  
-  
+El Execution Evidence para la revisión del sprint está orientado a documentar y presentar evidencia sobre el desarrollo logrado a lo largo del sprint, prestando especial atención al progreso en la landing page. Estas pruebas son esenciales para demostrar cómo se han cumplido los objetivos establecidos y qué partes del trabajo están terminadas, asegurando que se corresponden con las expectativas del cliente.
+
+<p align="center">
+  <img src="assets/img/chapter-5/img-evidence-1.png" alt=" " width="50%">
+</p>
+
+<p align="center">
+  <img src="assets/img/chapter-5/img-evidence-2.png" alt=" " width="50%">
+</p>
+
+<p align="center">
+  <img src="assets/img/chapter-5/img-evidence-3.png" alt=" " width="50%">
+</p>
+
+<p align="center">
+  <img src="assets/img/chapter-5/img-evidence-3.png" alt=" " width="50%">
+</p>
+
+<p align="center">
+  <img src="assets/img/chapter-5/img-evidence-4.png" alt=" " width="50%">
+</p>
+
+<p align="center">
+  <img src="assets/img/chapter-5/img-evidence-5.png" alt=" " width="50%">
+</p>
+
+<p align="center">
+  <img src="assets/img/chapter-5/img-evidence-6.png" alt=" " width="50%">
+</p>
+
+<p align="center">
+  <img src="assets/img/chapter-5/img-evidence-7.png" alt=" " width="50%">
+</p>
+
+<p align="center">
+  <img src="assets/img/chapter-5/img-evidence-8.png" alt=" " width="50%">
+</p>
+
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint  
   
 # Conclusiones  
