@@ -1586,7 +1586,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
                     <b>Quiero</b> ver una barra de navegación en la parte superior de la página<br>
                     <b>Para</b> poder acceder fácilmente a las secciones principales del sitio.
                 </td>
-                <td style="text-align: center;">3</td>
+                <td style="text-align: center;">1</td>
             </tr>
             <tr>
                 <td style="text-align: center;">2</td>
@@ -1597,7 +1597,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
                     <b>Quiero</b> leer una breve introducción sobre "Gastro Go"<br>
                     <b>Para</b> entender qué ofrece la aplicación.
                 </td>
-                <td style="text-align: center;">2</td>
+                <td style="text-align: center;">1</td>
             </tr>
             <tr>
                 <td style="text-align: center;">3</td>
@@ -1608,7 +1608,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
                     <b>Quiero</b> ver una lista de funcionalidades destacadas de la aplicación<br>
                     <b>Para</b> evaluar si satisface mis necesidades.
                 </td>
-                <td style="text-align: center;">3</td>
+                <td style="text-align: center;">1</td>
             </tr>
             <tr>
                 <td style="text-align: center;">4</td>
@@ -1619,7 +1619,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
                     <b>Quiero</b> comprender el proceso de uso de la aplicación “Gastro Go”<br>
                     <b>Para</b> saber cómo funciona en la práctica.
                 </td>
-                <td style="text-align: center;">3</td>
+                <td style="text-align: center;">1</td>
             </tr>
             <tr>
                 <td style="text-align: center;">5</td>
@@ -1630,7 +1630,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
                     <b>Quiero</b> leer testimonios de usuarios actuales<br>
                     <b>Para</b> conocer la experiencia de otras personas con la aplicación.
                 </td>
-                <td style="text-align: center;">2</td>
+                <td style="text-align: center;">1</td>
             </tr>
             <tr>
                 <td style="text-align: center;">6</td>
@@ -1641,7 +1641,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
                     <b>Quiero</b> encontrar un formulario de contacto<br>
                     <b>Para</b> poder enviar consultas o solicitar más información sobre la aplicación.
                 </td>
-                <td style="text-align: center;">2</td>
+                <td style="text-align: center;">1</td>
             </tr>
             <tr>
                 <td style="text-align: center;">7</td>
@@ -1652,7 +1652,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
                     <b>Quiero</b> ver un footer en la página<br>
                     <b>Para</b> poder acceder rápidamente a enlaces importantes, redes sociales, y suscribirme al boletín.
                 </td>
-                <td style="text-align: center;">3</td>
+                <td style="text-align: center;">1</td>
             </tr>
             <tr>
                 <td style="text-align: center;">8</td>
@@ -1663,7 +1663,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
                     <b>Quiero</b> poder cambiar el idioma de la aplicación<br>
                     <b>Para</b> visualizar el contenido en mi idioma preferido.
                 </td>
-                <td style="text-align: center;">2</td>
+                <td style="text-align: center;">1</td>
             </tr>
             <tr>
                 <td style="text-align: center;">9</td>
