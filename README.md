@@ -20,35 +20,15 @@ Startup: DevDynasty
   
 Producto: GastroGo
 
-<div style="text-align:center;">
-    <h3>Team Members:</h3>
-    <table align="center">
-        <tr>
-            <th style="text-align:center;">Member</th>
-            <th style="text-align:center;">Code</th>
-        </tr>
-        <tr>
-            <td>Barrutia Vaez, Ricardo Andree</td>
-            <td>U201714765</td>
-        </tr>
-        <tr>
-            <td>Espinoza Inoñan, Fabiola Ximena</td>
-            <td>U202214784</td>
-        </tr>
-         <tr>
-            <td>Gongora Sanchez, Marco Antonio </td>
-            <td>U20211A085</td>
-        </tr>
-        <tr>
-            <td>Hurtado Palomino, Francisco Juan </td>
-            <td>U202117498</td>
-        </tr>
-        <tr>
-            <td>Loli Ramirez, Camila Cristina </td>
-            <td>U202110385</td>
-        </tr>
-    </table>
-</div>
+### Team Members:
+
+| Member                                | Code       |
+|---------------------------------------|------------|
+| Barrutia Vaez, Ricardo Andree         | U201714765 |
+| Espinoza Inoñan, Fabiola Ximena       | U202214784 |
+| Gongora Sanchez, Marco Antonio         | U20211A085 |
+| Hurtado Palomino, Francisco Juan       | U202117498 |
+| Loli Ramirez, Camila Cristina          | U202110385 |
 
   
 **Agosto del 2024**
@@ -58,138 +38,10 @@ Producto: GastroGo
 # Registro de Versiones del Informe  
 
   
-  <table>
-        <thead>
-            <tr>
-                <th>Versión</th>
-                <th>Fecha</th>
-                <th>Autor</th>
-                <th>Descripción de modificaciones</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <th>1.0</th>
-                <td>25/08/2024</td>
-                <td>Ricardo</td>
-                <td>Se añadió el Startup profile.</td>
-            </tr>
-              <tr>                
-                <th>1.1</th>
-                <td>25/08/2024</td>
-                <td>Fabiola</td>
-                <td>Se añadió el Solution profile.</td>
-             </tr>
-              <tr>
-                <th>1.2</th>
-                <td>26/08/2024</td>
-                <td>Ricardo</td>
-                <td>Se agregó la sección de los competidores.</td>
-            </tr> 
-             <tr>
-                <th>1.3</th>
-                <td>26/08/2024</td>
-                <td>Fabiola</td>
-                <td>Se agregaron la seccion de entrevistas.</td>
-            </tr> 
-             <tr>
-                <th>1.4</th>
-                <td>27/08/2024</td>
-                <td>Fabiola</td>
-                <td>Se agregó el Needfinding.</td>
-            </tr>
-             <tr>
-                <th>1.5</th>
-                <td>27/08/2024</td>
-                <td>Ricardo</td>
-                <td>Se agregó el Ubiquitous Language.</td>
-            </tr> 
-             <tr>
-                <th>1.6</th>
-                <td>Fecha</td>
-                <td>Nombre</td>
-                <td>Se agregó el To-Be Scenario Mapping.</td>
-            </tr>
-             <tr>
-                <th>1.7</th>
-                <td>Fecha</td>
-                <td>Nombre</td>
-                <td>Se agregó las User Stories.</td>
-            </tr>
-             <tr>
-                <th>1.8</th>
-                <td>Fecha</td>
-                <td>Nombre</td>
-                <td>Se agregó el Impact Mapping.</td>
-            </tr>
-             <tr>
-                <th>1.9</th>
-                <td>Fecha</td>
-                <td>Nombre</td>
-                <td>Se agregó el Product Backlog.</td>
-            </tr>
-            <tr>
-                <th>1.10</th>
-                <td>Fecha</td>
-                <td>Nombre</td>
-                <td>Se agregó el Style Guidelines.</td>
-            </tr>
-            <tr>
-                <th>1.11</th>
-                <td>Fecha</td>
-                <td>Nombre</td>
-                <td>Se agregó la Information Architecture.</td>
-            </tr>
-            <tr>
-                <th>1.12</th>
-                <td>Fecha</td>
-                <td>Nombre</td>
-                <td>Se agregó la Landing Page UI Design.</td>
-            </tr>
-            <tr>
-                <th>1.13</th>
-                <td>Fecha</td>
-                <td>Nombre</td>
-                <td>Se agregó la Web Applications UX/UI Design.</td>
-            </tr>
-            <tr>
-                <th>1.14</th>
-                <td>Fecha</td>
-                <td>Nombre</td>
-                <td>Se agregó la Web Applications Prototyping.</td>
-            </tr>
-            <tr>
-                <th>1.15</th>
-                <td>Fecha</td>
-                <td>Nombre</td>
-                <td>Se agregó Domain-Driven Software Architecture.</td>
-            </tr>
-            <tr>
-                <th>1.16</th>
-                <td>Fecha</td>
-                <td>Nombre</td>
-                <td>Se agregó la Software Object-Oriented Design.</td>
-            </tr>
-            <tr>
-                <th>1.17</th>
-                <td>Fecha</td>
-                <td>Nombre</td>
-                <td>Se agregó la Database Design.</td>
-            </tr>
-             <tr>
-                <th>1.18</th>
-                <td>Fecha</td>
-                <td>Nombre</td>
-                <td>Se agregó el Software Configuration Management.</td>
-            </tr>
-             <tr>
-                <th>1.19</th>
-                <td>Fecha</td>
-                <td>Nombre</td>
-                <td>Se agregó el Landing Page, Services & Applications Implementation.</td>
-            </tr>
-                    </tbody>
-</table>
+| Versión | Fecha      | Autor   | Descripción de modificaciones         |
+|---------|------------|---------|---------------------------------------|
+| 1.0     | 25/08/2024 | Barrutia Vaez, Ricardo Andree <br>	Espinoza Inoñan, Fabiola Ximena	<br> Gongora Sanchez, Marco Antonio	<br> Hurtado Palomino, Francisco Juan	<br> Loli Ramirez, Camila Cristina | Capítulo I <br> Capítulo II <br> Capítulo III <br> Capítulo IV <br> Capítulo V       |
+
 
 
 ---  
@@ -609,6 +461,20 @@ Durante el sprint 1, se centró en el desarrollo de la landing page como primera
   
 ---  
 # Bibliografía  
-  
+- Altametrics. (n.d.). Common challenges in restaurant operations and supply chain management. Altametrics. 
+https://altametrics.com/topics/common-challenges-in-restaurant-operations-and-supply-chain-management/ 
+
+- Picker Express. (n.d.). Logística en restaurantes. Picker Express. <br>
+https://www.pickerexpress.com/blog/logistica-en-restaurantes 
+
+- Universidad Científica del Sur. (2021). Análisis de la cadena de suministro en restaurantes de Lima Metropolitana (Tesis de licenciatura). Repositorio Institucional de la Universidad Científica del Sur.<br> https://repositorio.cientifica.edu.pe/handle/20.500.12805/728 
+
+- Built In. (2023). How Cheetah and Choco are transforming the food supply chain. Built In.<br> https://builtin.com/articles/food-supply-chain-cheetah-choco 
+
+- Euromonitor International. (2023). Limited-service restaurants in Peru. Euromonitor International. <br>https://www.euromonitor.com/limited-service-restaurants-in-peru/report 
+
 ---  
 # Anexos
+- Enlace de la Organización de Github: https://github.com/G2-UPC-PRE-202402-SI730-WX53-DevDynasty/GastroGo-Report
+- Videos de Exposiciones:
+- TB1:
