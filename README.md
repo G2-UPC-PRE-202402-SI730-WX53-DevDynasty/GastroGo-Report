@@ -371,6 +371,56 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             </td>
         </tr>
     </tbody>
+    <!--US007-->
+    <tbody>
+        <tr>
+            <td style="text-align: center;">E1 - US007</td>
+            <td style="text-align: center;">Sección de footer</td>
+            <td tyle="text-align: justify;"> 
+                <b>Como</b> visitante<br>
+                <b>Quiero</b> ver un footer en la página<br>
+                <b>Para</b> poder acceder rápidamente a enlaces importantes, redes sociales, y suscribirme al boletín.<br>
+            </td>
+            <td  style="text-align: justify;">
+                <b>Escenario 1: Visualización del footer</b><br>
+                <b>Dado</b> que el visitante está navegando por la página,<br>
+                <b>Cuando</b> llega al final de la página,<br>
+                <b>Entonces</b> debe ver una sección de footer que incluya enlaces a las redes sociales, contenido relevante del landing page, y una opción de suscripción al boletín.<br><br>
+                <b>Escenario 2: Suscripción al boletín</b><br>
+                <b>Dado</b> que el usuario quiere suscribirse al boletín,<br>
+                <b>Cuando</b> ingrese su dirección de correo electrónico y haga clic en el botón de suscripción,<br>
+                <b>Entonces</b> el sistema debe enviar y almacenar el email.<br>
+            </td>
+            <td style="text-align: center;">
+                1
+            </td>
+        </tr>
+    </tbody>
+    <!--US008-->
+    <tbody>
+        <tr>
+            <td style="text-align: center;">E1 - US008</td>
+            <td style="text-align: center;">Cambio de idioma</td>
+            <td tyle="text-align: justify;"> 
+                <b>Como</b> visitante<br>
+                <b>Quiero</b> poder cambiar el idioma de la aplicación<br>
+                <b>Para</b> visualizar el contenido en mi idioma preferido.<br>
+            </td>
+            <td  style="text-align: justify;">
+                <b>Escenario 1: Cambio de idioma en la misma página</b><br>
+                <b>Dado</b> que el visitante está navegando en la página,<br>
+                <b>Cuando</b> seleccione una opción de idioma,<br>
+                <b>Entonces</b> el contenido de la página debe cambiar al idioma seleccionado.<br><br>
+                <b>Escenario 2: Persistencia del idioma seleccionado</b><br>
+                <b>Dado</b> que el visitante cambia el idioma,<br>
+                <b>Cuando</b> navegue a otras secciones de la página,<br>
+                <b>Entonces</b> el idioma seleccionado debe mantenerse activo en todas las páginas sin necesidad de volver a configurarlo.<br>
+            </td>
+            <td style="text-align: center;">
+                1
+            </td>
+        </tr>
+    </tbody>
   <!--Epic 2-->
     <th colspan="5" style="text-align: center;">
         <b>Epic 2: Gestión de cuenta</b><br>
@@ -378,10 +428,10 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
         <b>Quiero</b> poder acceder a mi cuenta de manera segura y personalizar mis datos de perfil<br>
         <b>Para</b> hacer uso de sus funcionalidades.<br>
     </th>
-    <!--US007-->
+    <!--US009-->
     <tbody>
         <tr>
-            <td style="text-align: center;">E2 - US007</td>
+            <td style="text-align: center;">E2 - US009</td>
             <td style="text-align: center;">Registro de usuario</td>
             <td style="text-align: justify;">
                 <b>Como</b> nuevo usuario<br>
@@ -407,10 +457,10 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             </td>
         </tr>
     </tbody>
-    <!--US008-->
+    <!--US010-->
     <tbody>
         <tr>
-            <td style="text-align: center;">E2 - US008</td>
+            <td style="text-align: center;">E2 - US010</td>
             <td style="text-align: center;">Inicio de sesión</td>
             <td style="text-align: justify;">
                 <b>Como</b> usuario registrado<br>
@@ -436,10 +486,10 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             </td>
         </tr>
     </tbody>
-    <!--US009-->
+    <!--US011-->
     <tbody>
         <tr>
-            <td style="text-align: center;">E2 - US009</td>
+            <td style="text-align: center;">E2 - US011</td>
             <td style="text-align: center;">Recuperación de contraseña</td>
             <td style="text-align: justify;">
                 <b>Como</b> usuario<br>
@@ -465,10 +515,10 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             </td>
         </tr>
     </tbody>
-    <!--US010-->
+    <!--US012-->
     <tbody>
         <tr>
-            <td style="text-align: center;">E2 - US010</td>
+            <td style="text-align: center;">E2 - US012</td>
             <td style="text-align: center;">Cierre de sesión</td>
             <td style="text-align: justify;">
                 <b>Como</b> usuario<br>
@@ -486,10 +536,10 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             </td>
         </tr>
     </tbody>
-    <!--US011-->
+    <!--US013-->
     <tbody>
         <tr>
-            <td style="text-align: center;">E2 - US011</td>
+            <td style="text-align: center;">E2 - US013</td>
             <td style="text-align: center;">Edición de Cuenta</td>
             <td style="text-align: justify;">
                 <b>Como</b> usuario<br>
@@ -515,10 +565,10 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             </td>
         </tr>
     </tbody>
-    <!--US012-->
+    <!--US014-->
     <tbody>
         <tr>
-            <td style="text-align: center;">E2 - US012</td>
+            <td style="text-align: center;">E2 - US014</td>
             <td style="text-align: center;">Guardar Preferencias de Grupo</td>
             <td style="text-align: justify;">
                 <b>Como</b> restaurante<br>
@@ -540,10 +590,10 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             </td>
         </tr>
     </tbody>
-    <!--US013-->
+    <!--US015-->
     <tbody>
         <tr>
-            <td style="text-align: center;">E2 - US013</td>
+            <td style="text-align: center;">E2 - US015</td>
             <td style="text-align: center;">Notificación de confirmación de pedido grupals</td>
             <td style="text-align: justify;">
                 <b>Como</b> restaurante<br>
@@ -561,10 +611,10 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             </td>
         </tr>
     </tbody>
-  <!--US014-->
+  <!--US016-->
     <tbody>
         <tr>
-            <td style="text-align: center;">E2 - US014</td>
+            <td style="text-align: center;">E2 - US016</td>
             <td style="text-align: center;">Sistema de notificaciones y Recordatorios</td>
             <td style="text-align: justify;">
                 <b>Como</b> restaurante<br>
@@ -586,10 +636,10 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             </td>
         </tr>
     </tbody>
-    <!--US015-->
+    <!--US017-->
     <tbody>
         <tr>
-            <td style="text-align: center;">E2 - US015</td>
+            <td style="text-align: center;">E2 - US017</td>
             <td style="text-align: center;">Encuestas Post-Compra</td>
             <td style="text-align: justify;">
                 <b>Como</b> restaurante<br>
@@ -618,10 +668,10 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
         <b>Queremos</b> elegir fácilmente un restaurante<br>
         <b>Para</b> realizar pedidos grupales de almuerzo.<br>
     </th>
-    <!--US016-->
+    <!--US018-->
     <tbody>
         <tr>
-            <td style="text-align: center;">E3 - US016</td>
+            <td style="text-align: center;">E3 - US018</td>
             <td style="text-align: center;">Búsqueda de Restaurantes</td>
             <td style="text-align: justify;">
                 <b>Como</b> usuario<br>
@@ -647,10 +697,10 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             </td>
         </tr>
     </tbody>
-    <!--US017-->
+    <!--US019-->
     <tbody>
         <tr>
-            <td style="text-align: center;">E3 - US017</td>
+            <td style="text-align: center;">E3 - US019</td>
             <td style="text-align: center;">Restaurantes Recomendados</td>
             <td style="text-align: justify;">
                 <b>Como</b> usuario<br>
@@ -676,10 +726,10 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             </td>
         </tr>
     </tbody>
-    <!--US018-->
+    <!--US020-->
     <tbody>
         <tr>
-            <td style="text-align: center;">E3 - US018</td>
+            <td style="text-align: center;">E3 - US020</td>
             <td style="text-align: center;">Información del Restaurante</td>
             <td style="text-align: justify;">
                 <b>Como</b> usuario<br>
@@ -701,10 +751,10 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             </td>
         </tr>
     </tbody>
-    <!--US019-->
+    <!--US021-->
     <tbody>
         <tr>
-            <td style="text-align: center;">E3 - US019</td>
+            <td style="text-align: center;">E3 - US021</td>
             <td style="text-align: center;">Selección de Platos</td>
             <td style="text-align: justify;">
                 <b>Como</b> usuario<br>
@@ -729,10 +779,10 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
         <b>Quiero</b> personalizar los pedidos dentro del grupo<br>
         <b>Para</b> tener opciones que se adapten a nuestras preferencias.<br>
     </th>
-    <!--US020-->
+    <!--US022-->
     <tbody>
         <tr>
-            <td style="text-align: center;">E4 - US020</td>
+            <td style="text-align: center;">E4 - US022</td>
             <td style="text-align: center;">Selección de Plato para Personalización</td>
             <td style="text-align: justify;">
                 <b>Como</b> líder del grupo<br>
@@ -754,10 +804,10 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             </td>
         </tr>
     </tbody>
-    <!--US021-->
+    <!--US023-->
     <tbody>
         <tr>
-            <td style="text-align: center;">E4 - US021</td>
+            <td style="text-align: center;">E4 - US023</td>
             <td style="text-align: center;">Personalización de Ingredientes</td>
             <td style="text-align: justify;">
                 <b>Como</b> líder del grupo<br>
@@ -779,10 +829,10 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             </td>
         </tr>
     </tbody>
-    <!--US022-->
+    <!--US024-->
     <tbody>
         <tr>
-            <td style="text-align: center;">E4 - US022</td>
+            <td style="text-align: center;">E4 - US024</td>
             <td style="text-align: center;">Confirmar o Agregar a Votación</td>
             <td style="text-align: justify;">
                 <b>Como</b> líder del grupo<br>
@@ -811,10 +861,10 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
         <b>Queremos</b> votar o usar sorteos<br>
         <b>Para</b> elegir el restaurante o plato de manera democrática.<br>
     </th>
-    <!--US023-->
+    <!--US025-->
     <tbody>
         <tr>
-            <td style="text-align: center;">E5 - US023</td>
+            <td style="text-align: center;">E5 - US025</td>
             <td style="text-align: center;">Creación Automática de Votación</td>
             <td style="text-align: justify;">
                 <b>Como</b> líder del grupo<br>
@@ -836,10 +886,10 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             </td>
         </tr>
     </tbody>
-    <!--US024-->
+    <!--US026-->
     <tbody>
         <tr>
-            <td style="text-align: center;">E5 - US024</td>
+            <td style="text-align: center;">E5 - US026</td>
             <td style="text-align: center;">Compartir Código de Votación</td>
             <td style="text-align: justify;">
                 <b>Como</b> líder del grupo<br>
@@ -861,10 +911,10 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             </td>
         </tr>
     </tbody>
-    <!--US025-->
+    <!--US027-->
     <tbody>
         <tr>
-            <td style="text-align: center;">E5 - US025</td>
+            <td style="text-align: center;">E5 - US027</td>
             <td style="text-align: center;">Resolución de Empates con Sorteo</td>
             <td style="text-align: justify;">
                 <b>Como</b> grupo de trabajadores<br>
@@ -893,10 +943,10 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
         <b>Queremos</b> gestionar y realizar los pagos de manera eficiente y transparente<br>
         <b>Para</b> los pedidos grupales, asegurando que cada miembro contribuya equitativamente.<br>
     </th>
-    <!--US026-->
+    <!--US028-->
     <tbody>
         <tr>
-            <td style="text-align: center;">E6 - US026</td>
+            <td style="text-align: center;">E6 - US028</td>
             <td style="text-align: center;">Dividir el Costo del Pedido</td>
             <td style="text-align: justify;">
                 <b>Como</b> miembro del grupo<br>
@@ -918,10 +968,10 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             </td>
         </tr>
     </tbody>
-    <!--US027-->
+    <!--US029-->
     <tbody>
         <tr>
-            <td style="text-align: center;">E6 - US027</td>
+            <td style="text-align: center;">E6 - US029</td>
             <td style="text-align: center;">Métodos de Pago Diversos</td>
             <td style="text-align: justify;">
                 <b>Como</b> miembro del grupo<br>
@@ -943,10 +993,10 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             </td>
         </tr>
     </tbody>
-    <!--US028-->
+    <!--US030-->
     <tbody>
         <tr>
-            <td style="text-align: center;">E6 - US028</td>
+            <td style="text-align: center;">E6 - US030</td>
             <td style="text-align: center;">Notificaciones de Pago Pendiente</td>
             <td style="text-align: justify;">
                 <b>Como</b> miembro del grupo<br>
@@ -968,10 +1018,10 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             </td>
         </tr>
     </tbody>
-    <!--US029-->
+    <!--US031-->
     <tbody>
         <tr>
-            <td style="text-align: center;">E6 - US029</td>
+            <td style="text-align: center;">E6 - US031</td>
             <td style="text-align: center;">Registro y Confirmación de Pagos Grupales</td>
             <td style="text-align: justify;">
                 <b>Como</b> líder del grupo<br>
@@ -993,10 +1043,10 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             </td>
         </tr>
     </tbody>
-    <!--US030-->
+    <!--US032-->
     <tbody>
         <tr>
-            <td style="text-align: center;">E6 - US030</td>
+            <td style="text-align: center;">E6 - US032</td>
             <td style="text-align: center;">Opción de Propina Compartida</td>
             <td style="text-align: justify;">
                 <b>Como</b> miembro del grupo<br>
@@ -1025,10 +1075,10 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
         <b>Quiero</b> recibir recomendaciones de restaurantes y platos basadas en pedidos anteriores<br>
         <b>Para</b> descubrir opciones que se ajusten a mis preferencias.<br>
     </th>
-    <!--US031-->
+    <!--US033-->
     <tbody>
         <tr>
-            <td style="text-align: center;">E7 - US031</td>
+            <td style="text-align: center;">E7 - US033</td>
             <td style="text-align: center;">Generación Automática de Recomendaciones</td>
             <td style="text-align: justify;">
                 <b>Como</b> usuario<br>
@@ -1050,10 +1100,10 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             </td>
         </tr>
     </tbody>
-    <!--US032-->
+    <!--US034-->
     <tbody>
         <tr>
-            <td style="text-align: center;">E7 - US032</td>
+            <td style="text-align: center;">E7 - US034</td>
             <td style="text-align: center;">Notificaciones de Recomendaciones</td>
             <td style="text-align: justify;">
                 <b>Como</b> usuario<br>
@@ -1075,10 +1125,10 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             </td>
         </tr>
     </tbody>
-    <!--US033-->
+    <!--US035-->
     <tbody>
         <tr>
-            <td style="text-align: center;">E7 - US033</td>
+            <td style="text-align: center;">E7 - US035</td>
             <td style="text-align: center;">Personalización de Recomendaciones en Función de Pedidos Grupales</td>
             <td style="text-align: justify;">
                 <b>Como</b> líder de grupo<br>
@@ -1107,10 +1157,10 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
         <b>Quiero</b> gestionar pedidos grupales<br>
         <b>Para</b> optimizar la preparación y entrega de grandes pedidos, asegurando la satisfacción del cliente y la eficiencia operativa.<br>
     </th>
-    <!--US034-->
+    <!--US036-->
     <tbody>
         <tr>
-            <td style="text-align: center;">E8 - US034</td>
+            <td style="text-align: center;">E8 - US036</td>
             <td style="text-align: center;">Prioridad de Preparación para Pedidos Grupales</td>
             <td style="text-align: justify;">
                 <b>Como</b> chef del restaurante<br>
@@ -1132,10 +1182,10 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             </td>
         </tr>
     </tbody>
-    <!--US035-->
+    <!--US037-->
     <tbody>
         <tr>
-            <td style="text-align: center;">E8 - US035</td>
+            <td style="text-align: center;">E8 - US037</td>
             <td style="text-align: center;">Confirmación de Capacidad de Gestión para Pedidos Grupales</td>
             <td style="text-align: justify;">
                 <b>Como</b> administrador del restaurante<br>
@@ -1157,10 +1207,10 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             </td>
         </tr>
     </tbody>
-    <!--US036-->
+    <!--US038-->
     <tbody>
         <tr>
-            <td style="text-align: center;">E8 - US036</td>
+            <td style="text-align: center;">E8 - US038</td>
             <td style="text-align: center;">Coordinación de Entregas para Pedidos Grupales</td>
             <td style="text-align: justify;">
                 <b>Como</b> gerente de logística<br>
@@ -1182,10 +1232,10 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             </td>
         </tr>
     </tbody>
-    <!--US037-->
+    <!--US039-->
     <tbody>
         <tr>
-            <td style="text-align: center;">E8 - US037</td>
+            <td style="text-align: center;">E8 - US039</td>
             <td style="text-align: center;">Gestión de Cambios y Cancelaciones en Pedidos Grupales</td>
             <td style="text-align: justify;">
                 <b>Como</b> administrador del restaurante<br>
@@ -1214,10 +1264,10 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
         <b>Quiero</b> poder optar por diferentes planes de suscripción dentro de la aplicación<br>
         <b>Para</b> acceder a funcionalidades premium y servicios adicionales.<br>
     </th>
-    <!--US038-->
+    <!--US040-->
     <tbody>
         <tr>
-            <td style="text-align: center;">E9 - US038</td>
+            <td style="text-align: center;">E9 - US040</td>
             <td style="text-align: center;">Visualización de Planes de Suscripción</td>
             <td style="text-align: justify;">
                 <b>Como</b> visitante en la landing page<br>
@@ -1239,10 +1289,10 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             </td>
         </tr>
     </tbody>
-    <!--US039-->
+    <!--US041-->
     <tbody>
         <tr>
-            <td style="text-align: center;">E9 - US039</td>
+            <td style="text-align: center;">E9 - US041</td>
             <td style="text-align: center;">Selección de Plan de Suscripción</td>
             <td style="text-align: justify;">
                 <b>Como</b> empresa o restaurante<br>
@@ -1268,10 +1318,10 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             </td>
         </tr>
     </tbody>
-    <!--US040-->
+    <!--US042-->
     <tbody>
         <tr>
-            <td style="text-align: center;">E9 - US040</td>
+            <td style="text-align: center;">E9 - US042</td>
             <td style="text-align: center;">Renovación de Plan de Suscripción</td>
             <td style="text-align: justify;">
                 <b>Como</b> empresa o restaurante<br>
@@ -1297,10 +1347,10 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             </td>
         </tr>
     </tbody>
-    <!--US041-->
+    <!--US043-->
     <tbody>
         <tr>
-            <td style="text-align: center;">E9 - US041</td>
+            <td style="text-align: center;">E9 - US043</td>
             <td style="text-align: center;">Cancelación de Plan de Suscripción</td>
             <td style="text-align: justify;">
                 <b>Como</b> empresa o restaurante<br>
@@ -1333,10 +1383,10 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
         <b>Quiero</b> utilizar un backend API para que los usuarios puedan interactuar con la aplicación<br>
         <b>Para</b> permitir operaciones como la gestión de cuentas, pedidos, personalización de menús, y más.<br>
     </th>
-    <!--US042-->
+    <!--US044-->
     <tbody>
         <tr>
-            <td style="text-align: center;">E10 - US042</td>
+            <td style="text-align: center;">E10 - US044</td>
             <td style="text-align: center;">Endpoint para Registro de Usuario</td>
             <td style="text-align: justify;">
                 <b>Como</b> developer<br>
@@ -1363,10 +1413,10 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             <td style="text-align: center;">10</td>
         </tr>
     </tbody>
-    <!--US043-->
+    <!--US045-->
     <tbody>
         <tr>
-            <td style="text-align: center;">E10 - US043</td>
+            <td style="text-align: center;">E10 - US045</td>
             <td style="text-align: center;">Endpoint para Inicio de Sesión</td>
             <td style="text-align: justify;">
                 <b>Como</b> developer<br>
@@ -1393,10 +1443,10 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             <td style="text-align: center;">10</td>
         </tr>
     </tbody>
-    <!--US044-->
+    <!--US046-->
     <tbody>
         <tr>
-            <td style="text-align: center;">E10 - US044</td>
+            <td style="text-align: center;">E10 - US046</td>
             <td style="text-align: center;">Endpoint para Recuperación de Contraseña</td>
             <td style="text-align: justify;">
                 <b>Como</b> developer<br>
@@ -1423,10 +1473,10 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             <td style="text-align: center;">10</td>
         </tr>
     </tbody>
-    <!--US045-->
+    <!--US047-->
     <tbody>
         <tr>
-            <td style="text-align: center;">E10 - US045</td>
+            <td style="text-align: center;">E10 - US047</td>
             <td style="text-align: center;">Endpoint para la Creación y consulta de pedidos grupales</td>
             <td style="text-align: justify;">
                 <b>Como</b> developer<br>
@@ -1448,10 +1498,10 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             <td style="text-align: center;">10</td>
         </tr>
     </tbody>
-  <!--US046-->
+  <!--US048-->
     <tbody>
         <tr>
-            <td style="text-align: center;">E10 - US046</td>
+            <td style="text-align: center;">E10 - US048</td>
             <td style="text-align: center;">Endpoint para la Actualización y eliminación de pedidos grupales</td>
             <td style="text-align: justify;">
                 <b>Como</b> developer<br>
@@ -1473,10 +1523,10 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             <td style="text-align: center;">10</td>
         </tr>
     </tbody>
-    <!--US047-->
+    <!--US049-->
     <tbody>
         <tr>
-            <td style="text-align: center;">E10 - US047</td>
+            <td style="text-align: center;">E10 - US049</td>
             <td style="text-align: center;">Endpoint para Recomendaciones Personalizadas</td>
             <td style="text-align: justify;">
                 <b>Como</b> developer<br>
@@ -1595,7 +1645,29 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             </tr>
             <tr>
                 <td style="text-align: center;">7</td>
-                <td style="text-align: center;">E2 - US007</td>
+                <td style="text-align: center;">E1 - US007</td>
+                <td style="text-align: center;">Sección de footer</td>
+                <td style="text-align: justify;">
+                    <b>Como</b> visitante<br>
+                    <b>Quiero</b> ver un footer en la página<br>
+                    <b>Para</b> poder acceder rápidamente a enlaces importantes, redes sociales, y suscribirme al boletín.
+                </td>
+                <td style="text-align: center;">3</td>
+            </tr>
+            <tr>
+                <td style="text-align: center;">8</td>
+                <td style="text-align: center;">E1 - US008</td>
+                <td style="text-align: center;">Cambio de idioma</td>
+                <td style="text-align: justify;">
+                    <b>Como</b> visitante<br>
+                    <b>Quiero</b> poder cambiar el idioma de la aplicación<br>
+                    <b>Para</b> visualizar el contenido en mi idioma preferido.
+                </td>
+                <td style="text-align: center;">2</td>
+            </tr>
+            <tr>
+                <td style="text-align: center;">9</td>
+                <td style="text-align: center;">E2 - US009</td>
                 <td style="text-align: center;">Registro de usuario</td>
                 <td style="text-align: justify;">
                     <b>Como</b> nuevo usuario<br>
@@ -1605,8 +1677,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
                 <td style="text-align: center;">5</td>
             </tr>
             <tr>
-                <td style="text-align: center;">8</td>
-                <td style="text-align: center;">E2 - US008</td>
+                <td style="text-align: center;">10</td>
+                <td style="text-align: center;">E2 - US010</td>
                 <td style="text-align: center;">Inicio de sesión</td>
                 <td style="text-align: justify;">
                     <b>Como</b> usuario registrado<br>
@@ -1616,8 +1688,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
                 <td style="text-align: center;">3</td>
             </tr>
             <tr>
-                <td style="text-align: center;">9</td>
-                <td style="text-align: center;">E2 - US009</td>
+                <td style="text-align: center;">11</td>
+                <td style="text-align: center;">E2 - US011</td>
                 <td style="text-align: center;">Recuperación de contraseña</td>
                 <td style="text-align: justify;">
                     <b>Como</b> usuario<br>
@@ -1627,8 +1699,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
                 <td style="text-align: center;">3</td>
             </tr>
             <tr>
-                <td style="text-align: center;">10</td>
-                <td style="text-align: center;">E2 - US010</td>
+                <td style="text-align: center;">12</td>
+                <td style="text-align: center;">E2 - US012</td>
                 <td style="text-align: center;">Cierre de sesión</td>
                 <td style="text-align: justify;">
                     <b>Como</b> usuario<br>
@@ -1638,8 +1710,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
                 <td style="text-align: center;">2</td>
             </tr>
             <tr>
-                <td style="text-align: center;">11</td>
-                <td style="text-align: center;">E2 - US011</td>
+                <td style="text-align: center;">13</td>
+                <td style="text-align: center;">E2 - US013</td>
                 <td style="text-align: center;">Edición de Cuenta</td>
                 <td style="text-align: justify;">
                     <b>Como</b> usuario<br>
@@ -1649,8 +1721,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
                 <td style="text-align: center;">5</td>
             </tr>
             <tr>
-                <td style="text-align: center;">12</td>
-                <td style="text-align: center;">E2 - US012</td>
+                <td style="text-align: center;">14</td>
+                <td style="text-align: center;">E2 - US014</td>
                 <td style="text-align: center;">Guardar Preferencias de Grupo</td>
                 <td style="text-align: justify;">
                     <b>Como</b> restaurante<br>
@@ -1660,8 +1732,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
                 <td style="text-align: center;">5</td>
             </tr>
             <tr>
-                <td style="text-align: center;">13</td>
-                <td style="text-align: center;">E2 - US013</td>
+                <td style="text-align: center;">15</td>
+                <td style="text-align: center;">E2 - US015</td>
                 <td style="text-align: center;">Notificación de confirmación de pedido grupal</td>
                 <td style="text-align: justify;">
                     <b>Como</b> restaurante<br>
@@ -1671,8 +1743,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
                 <td style="text-align: center;">3</td>
             </tr>
             <tr>
-                <td style="text-align: center;">14</td>
-                <td style="text-align: center;">E2 - US014</td>
+                <td style="text-align: center;">16</td>
+                <td style="text-align: center;">E2 - US016</td>
                 <td style="text-align: center;">Implementar recordatorios de entrega para pedidos grupales</td>
                 <td style="text-align: justify;">
                     <b>Como</b> restaurante<br>
@@ -1682,8 +1754,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
                 <td style="text-align: center;">5</td>
             </tr>
             <tr>
-                <td style="text-align: center;">15</td>
-                <td style="text-align: center;">E2 - US015</td>
+                <td style="text-align: center;">17</td>
+                <td style="text-align: center;">E2 - US017</td>
                 <td style="text-align: center;">Encuestas Post-Compra</td>
                 <td style="text-align: justify;">
                     <b>Como</b> restaurante<br>
@@ -1693,8 +1765,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
                 <td style="text-align: center;">5</td>
             </tr>
             <tr>
-                <td style="text-align: center;">16</td>
-                <td style="text-align: center;">E3 - US016</td>
+                <td style="text-align: center;">18</td>
+                <td style="text-align: center;">E3 - US018</td>
                 <td style="text-align: center;">Búsqueda de Restaurantes</td>
                 <td style="text-align: justify;">
                     <b>Como</b> usuario<br>
@@ -1704,8 +1776,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
                 <td style="text-align: center;">5</td>
             </tr>
             <tr>
-                <td style="text-align: center;">17</td>
-                <td style="text-align: center;">E3 - US017</td>
+                <td style="text-align: center;">19</td>
+                <td style="text-align: center;">E3 - US019</td>
                 <td style="text-align: center;">Restaurantes Recomendados</td>
                 <td style="text-align: justify;">
                     <b>Como</b> usuario<br>
@@ -1715,8 +1787,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
                 <td style="text-align: center;">5</td>
             </tr>
             <tr>
-                <td style="text-align: center;">17</td>
-                <td style="text-align: center;">E3 - US017</td>
+                <td style="text-align: center;">20</td>
+                <td style="text-align: center;">E3 - US020</td>
                 <td style="text-align: center;">Información del Restaurante</td>
                 <td style="text-align: justify;">
                     <b>Como</b> usuario<br>
@@ -1726,8 +1798,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
                 <td style="text-align: center;">5</td>
             </tr>
             <tr>
-                <td style="text-align: center;">19</td>
-                <td style="text-align: center;">E3 - US019</td>
+                <td style="text-align: center;">21</td>
+                <td style="text-align: center;">E3 - US021</td>
                 <td style="text-align: center;">Selección de Platos</td>
                 <td style="text-align: justify;">
                     <b>Como</b> usuario<br>
@@ -1737,8 +1809,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
                 <td style="text-align: center;">5</td>
             </tr>
             <tr>
-                <td style="text-align: center;">20</td>
-                <td style="text-align: center;">E4 - US020</td>
+                <td style="text-align: center;">22</td>
+                <td style="text-align: center;">E4 - US022</td>
                 <td style="text-align: center;">Selección de Plato para Personalización</td>
                 <td style="text-align: justify;">
                     <b>Como</b> líder del grupo<br>
@@ -1748,8 +1820,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
                 <td style="text-align: center;">5</td>
             </tr>
             <tr>
-                <td style="text-align: center;">21</td>
-                <td style="text-align: center;">E4 - US021</td>
+                <td style="text-align: center;">23</td>
+                <td style="text-align: center;">E4 - US023</td>
                 <td style="text-align: center;">Personalización de Ingredientes</td>
                 <td style="text-align: justify;">
                     <b>Como</b> líder del grupo<br>
@@ -1759,8 +1831,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
                 <td style="text-align: center;">5</td>
             </tr>
             <tr>
-                <td style="text-align: center;">22</td>
-                <td style="text-align: center;">E4 - US022</td>
+                <td style="text-align: center;">24</td>
+                <td style="text-align: center;">E4 - US024</td>
                 <td style="text-align: center;">Confirmar o Agregar a Votación</td>
                 <td style="text-align: justify;">
                     <b>Como</b> líder del grupo<br>
@@ -1770,8 +1842,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
                 <td style="text-align: center;">3</td>
             </tr>
             <tr>
-                <td style="text-align: center;">23</td>
-                <td style="text-align: center;">E5 - US023</td>
+                <td style="text-align: center;">25</td>
+                <td style="text-align: center;">E5 - US025</td>
                 <td style="text-align: center;">Creación Automática de Votación</td>
                 <td style="text-align: justify;">
                     <b>Como</b> líder del grupo<br>
@@ -1781,8 +1853,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
                 <td style="text-align: center;">5</td>
             </tr>
             <tr>
-                <td style="text-align: center;">24</td>
-                <td style="text-align: center;">E5 - US024</td>
+                <td style="text-align: center;">26</td>
+                <td style="text-align: center;">E5 - US026</td>
                 <td style="text-align: center;">Compartir Código de Votación</td>
                 <td style="text-align: justify;">
                     <b>Como</b> líder del grupo<br>
@@ -1792,8 +1864,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
                 <td style="text-align: center;">3</td>
             </tr>
             <tr>
-                <td style="text-align: center;">25</td>
-                <td style="text-align: center;">E5 - US025</td>
+                <td style="text-align: center;">27</td>
+                <td style="text-align: center;">E5 - US027</td>
                 <td style="text-align: center;">Resolución de Empates con Sorteo</td>
                 <td style="text-align: justify;">
                     <b>Como</b> grupo de trabajadores<br>
@@ -1803,8 +1875,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
                 <td style="text-align: center;">5</td>
             </tr>
           <tr>
-            <td style="text-align: center;">26</td>
-            <td style="text-align: center;">E6 - US026</td>
+            <td style="text-align: center;">28</td>
+            <td style="text-align: center;">E6 - US028</td>
             <td style="text-align: center;">Dividir el Costo del Pedido</td>
             <td style="text-align: justify;">
                 <b>Como</b> miembro del grupo<br>
@@ -1814,8 +1886,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             <td style="text-align: center;">5</td>
         </tr>
         <tr>
-            <td style="text-align: center;">27</td>
-            <td style="text-align: center;">E6 - US027</td>
+            <td style="text-align: center;">29</td>
+            <td style="text-align: center;">E6 - US029</td>
             <td style="text-align: center;">Métodos de Pago Diversos</td>
             <td style="text-align: justify;">
                 <b>Como</b> miembro del grupo<br>
@@ -1825,8 +1897,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             <td style="text-align: center;">5</td>
         </tr>
         <tr>
-            <td style="text-align: center;">28</td>
-            <td style="text-align: center;">E6 - US028</td>
+            <td style="text-align: center;">30</td>
+            <td style="text-align: center;">E6 - US031</td>
             <td style="text-align: center;">Notificaciones de Pago Pendiente</td>
             <td style="text-align: justify;">
                 <b>Como</b> miembro del grupo<br>
@@ -1836,8 +1908,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             <td style="text-align: center;">3</td>
         </tr>
         <tr>
-            <td style="text-align: center;">29</td>
-            <td style="text-align: center;">E6 - US029</td>
+            <td style="text-align: center;">31</td>
+            <td style="text-align: center;">E6 - US031</td>
             <td style="text-align: center;">Registro y Confirmación de Pagos Grupales</td>
             <td style="text-align: justify;">
                 <b>Como</b> líder del grupo<br>
@@ -1847,8 +1919,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             <td style="text-align: center;">5</td>
         </tr>
         <tr>
-            <td style="text-align: center;">30</td>
-            <td style="text-align: center;">E6 - US030</td>
+            <td style="text-align: center;">32</td>
+            <td style="text-align: center;">E6 - US032</td>
             <td style="text-align: center;">Opción de Propina Compartida</td>
             <td style="text-align: justify;">
                 <b>Como</b> miembro del grupo<br>
@@ -1858,8 +1930,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             <td style="text-align: center;">3</td>
         </tr>
         <tr>
-            <td style="text-align: center;">31</td>
-            <td style="text-align: center;">E6 - US031</td>
+            <td style="text-align: center;">33</td>
+            <td style="text-align: center;">E6 - US033</td>
             <td style="text-align: center;">Generación Automática de Recomendaciones</td>
             <td style="text-align: justify;">
                 <b>Como</b> usuario<br>
@@ -1869,8 +1941,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             <td style="text-align: center;">5</td>
         </tr>
         <tr>
-            <td style="text-align: center;">32</td>
-            <td style="text-align: center;">E7 - US032</td>
+            <td style="text-align: center;">34</td>
+            <td style="text-align: center;">E7 - US034</td>
             <td style="text-align: center;">Notificaciones de Recomendaciones</td>
             <td style="text-align: justify;">
                 <b>Como</b> usuario<br>
@@ -1880,8 +1952,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             <td style="text-align: center;">3</td>
         </tr>
         <tr>
-            <td style="text-align: center;">33</td>
-            <td style="text-align: center;">E7 - US033</td>
+            <td style="text-align: center;">35</td>
+            <td style="text-align: center;">E7 - US035</td>
             <td style="text-align: center;">Personalización de Recomendaciones en Función de Pedidos Grupales</td>
             <td style="text-align: justify;">
                 <b>Como</b> líder de grupo<br>
@@ -1891,8 +1963,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             <td style="text-align: center;">5</td>
         </tr>
         <tr>
-            <td style="text-align: center;">34</td>
-            <td style="text-align: center;">E8 - US034</td>
+            <td style="text-align: center;">36</td>
+            <td style="text-align: center;">E8 - US036</td>
             <td style="text-align: center;">Prioridad de Preparación para Pedidos Grupales</td>
             <td style="text-align: justify;">
                 <b>Como</b> chef del restaurante<br>
@@ -1902,8 +1974,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             <td style="text-align: center;">5</td>
         </tr>
         <tr>
-            <td style="text-align: center;">35</td>
-            <td style="text-align: center;">E8 - US035</td>
+            <td style="text-align: center;">37</td>
+            <td style="text-align: center;">E8 - US037</td>
             <td style="text-align: center;">Confirmación de Capacidad de Gestión para Pedidos Grupales</td>
             <td style="text-align: justify;">
                 <b>Como</b> administrador del restaurante<br>
@@ -1913,8 +1985,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             <td style="text-align: center;">5</td>
         </tr>
         <tr>
-            <td style="text-align: center;">36</td>
-            <td style="text-align: center;">E8 - US036</td>
+            <td style="text-align: center;">38</td>
+            <td style="text-align: center;">E8 - US038</td>
             <td style="text-align: center;">Coordinación de Entregas para Pedidos Grupales</td>
             <td style="text-align: justify;">
                 <b>Como</b> gerente de logística<br>
@@ -1924,8 +1996,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             <td style="text-align: center;">5</td>
         </tr>
         <tr>
-            <td style="text-align: center;">37</td>
-            <td style="text-align: center;">E8 - US037</td>
+            <td style="text-align: center;">39</td>
+            <td style="text-align: center;">E8 - US039</td>
             <td style="text-align: center;">Gestión de Cambios y Cancelaciones en Pedidos Grupales</td>
             <td style="text-align: justify;">
                 <b>Como</b> administrador del restaurante<br>
@@ -1935,8 +2007,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             <td style="text-align: center;">5</td>
         </tr>
         <tr>
-            <td style="text-align: center;">38</td>
-            <td style="text-align: center;">E9 - US038</td>
+            <td style="text-align: center;">40</td>
+            <td style="text-align: center;">E9 - US040</td>
             <td style="text-align: center;">Visualización de Planes de Suscripción</td>
             <td style="text-align: justify;">
                 <b>Como</b> visitante en la landing page<br>
@@ -1946,8 +2018,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             <td style="text-align: center;">3</td>
         </tr>
         <tr>
-            <td style="text-align: center;">39</td>
-            <td style="text-align: center;">E9 - US039</td>
+            <td style="text-align: center;">41</td>
+            <td style="text-align: center;">E9 - US042</td>
             <td style="text-align: center;">Selección de Plan de Suscripción</td>
             <td style="text-align: justify;">
                 <b>Como</b> empresa o restaurante<br>
@@ -1957,8 +2029,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             <td style="text-align: center;">5</td>
         </tr>
         <tr>
-            <td style="text-align: center;">40</td>
-            <td style="text-align: center;">E9 - US040</td>
+            <td style="text-align: center;">42</td>
+            <td style="text-align: center;">E9 - US042</td>
             <td style="text-align: center;">Renovación de Plan de Suscripción</td>
             <td style="text-align: justify;">
                 <b>Como</b> empresa o restaurante<br>
@@ -1968,8 +2040,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             <td style="text-align: center;">3</td>
         </tr>
         <tr>
-            <td style="text-align: center;">41</td>
-            <td style="text-align: center;">E9 - US041</td>
+            <td style="text-align: center;">43</td>
+            <td style="text-align: center;">E9 - US043</td>
             <td style="text-align: center;">Cancelación de Plan de Suscripción</td>
             <td style="text-align: justify;">
                 <b>Como</b> empresa o restaurante<br>
@@ -1979,8 +2051,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             <td style="text-align: center;">3</td>
         </tr>
         <tr>
-            <td style="text-align: center;">42</td>
-            <td style="text-align: center;">E10 - US042</td>
+            <td style="text-align: center;">44</td>
+            <td style="text-align: center;">E10 - US044</td>
             <td style="text-align: center;">Endpoint para Registro de Usuario</td>
             <td style="text-align: justify;">
                 <b>Como</b> developer<br>
@@ -1990,8 +2062,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             <td style="text-align: center;">5</td>
         </tr>
         <tr>
-            <td style="text-align: center;">43</td>
-            <td style="text-align: center;">E10 - US043</td>
+            <td style="text-align: center;">45</td>
+            <td style="text-align: center;">E10 - US045</td>
             <td style="text-align: center;">Endpoint para Inicio de Sesión</td>
             <td style="text-align: justify;">
                 <b>Como</b> developer<br>
@@ -2001,8 +2073,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             <td style="text-align: center;">5</td>
         </tr>
         <tr>
-            <td style="text-align: center;">44</td>
-            <td style="text-align: center;">E10 - US044</td>
+            <td style="text-align: center;">46</td>
+            <td style="text-align: center;">E10 - US046</td>
             <td style="text-align: center;">Endpoint para Recuperación de Contraseña</td>
             <td style="text-align: justify;">
                 <b>Como</b> developer<br>
@@ -2012,8 +2084,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             <td style="text-align: center;">5</td>
         </tr>
         <tr>
-            <td style="text-align: center;">45</td>
-            <td style="text-align: center;">E10 - US045</td>
+            <td style="text-align: center;">47</td>
+            <td style="text-align: center;">E10 - US047</td>
             <td style="text-align: center;">Endpoint para la Creación y consulta de pedidos grupales</td>
             <td style="text-align: justify;">
                 <b>Como</b> developer<br>
@@ -2023,8 +2095,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             <td style="text-align: center;">3</td>
         </tr>
         <tr>
-            <td style="text-align: center;">46</td>
-            <td style="text-align: center;">E10 - US046</td>
+            <td style="text-align: center;">48</td>
+            <td style="text-align: center;">E10 - US048</td>
             <td style="text-align: center;">Endpoint para la Actualización y eliminación de pedidos grupales</td>
             <td style="text-align: justify;">
                 <b>Como</b> developer<br>
@@ -2034,8 +2106,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
             <td style="text-align: center;">3</td>
         </tr>
         <tr>
-            <td style="text-align: center;">47</td>
-            <td style="text-align: center;">E10 - US046</td>
+            <td style="text-align: center;">49</td>
+            <td style="text-align: center;">E10 - US049</td>
             <td style="text-align: center;">Endpoint para Recomendaciones Personalizadas</td>
             <td style="text-align: justify;">
                 <b>Como</b> developer<br>
