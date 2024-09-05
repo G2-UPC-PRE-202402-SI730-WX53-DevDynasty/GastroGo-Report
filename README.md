@@ -20,35 +20,15 @@ Startup: DevDynasty
   
 Producto: GastroGo
 
-<div style="text-align:center;">
-    <h3>Team Members:</h3>
-    <table align="center">
-        <tr>
-            <th style="text-align:center;">Member</th>
-            <th style="text-align:center;">Code</th>
-        </tr>
-        <tr>
-            <td>Barrutia Vaez, Ricardo Andree</td>
-            <td>U201714765</td>
-        </tr>
-        <tr>
-            <td>Espinoza Inoñan, Fabiola Ximena</td>
-            <td>U202214784</td>
-        </tr>
-         <tr>
-            <td>Gongora Sanchez, Marco Antonio </td>
-            <td>U20211A085</td>
-        </tr>
-        <tr>
-            <td>Hurtado Palomino, Francisco Juan </td>
-            <td>U202117498</td>
-        </tr>
-        <tr>
-            <td>Loli Ramirez, Camila Cristina </td>
-            <td>U202110385</td>
-        </tr>
-    </table>
-</div>
+### Team Members:
+
+| Member                                | Code       |
+|---------------------------------------|------------|
+| Barrutia Vaez, Ricardo Andree         | U201714765 |
+| Espinoza Inoñan, Fabiola Ximena       | U202214784 |
+| Gongora Sanchez, Marco Antonio         | U20211A085 |
+| Hurtado Palomino, Francisco Juan       | U202117498 |
+| Loli Ramirez, Camila Cristina          | U202110385 |
 
   
 **Agosto del 2024**
