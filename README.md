@@ -345,7 +345,7 @@ Las entrevistas son fundamentales porque nos permiten conocer mejor a nuestro p�
   <img src="assets/img/chapter-2/img-entrevista-trabajadores-1.png" alt=" " width="50%">
 </p>
 
-[GastroGo - Registro de Entrevistas.mp4](https://acortar.link/JUGkwH) (Comienzo 00:00:00 Fin - 00:05:48)
+[GastroGo - Registro de Entrevistas.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EWIpimdxe6ZHoMD_xHk62dQBUgZ6DXhQhyfx2nwDKM6IQg?e=Z6ZJw4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D) (Comienzo 00:00:00 Fin - 00:05:48)
 
 Jonathan Berrocal en la actualidad es un estudiante de séptimo ciclo de la carrera de ingeniería de sistemas de información en la universidad de ciencias aplicadas. Asimismo se encuentra realizando prácticas en la empresa Diners Club.
 
@@ -381,7 +381,7 @@ Por último, le gustaría que la aplicación de pedidos grupales ofreciera recom
   <img src="assets/img/chapter-2/img-entrevista-trabajadores-2.png" alt=" " width="55%">
 </p>
 
-[GastroGo - Registro de Entrevistas.mp4](https://acortar.link/sz8Z97)  (Comienzo 00:05:48 - Fin 00:13:02)
+[GastroGo - Registro de Entrevistas.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EWIpimdxe6ZHoMD_xHk62dQBUgZ6DXhQhyfx2nwDKM6IQg?e=3mAPA9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzQ4Ljc5fX0%3D)  (Comienzo 00:05:48 - Fin 00:13:02)
 
 
 Raul Sulca nos comentó que estudió en la Universidad Nacional Mayor de San Marcos, y actualmente es Ingeniero Agromono. Asimismo, se encuentra trabajando en SGS del Perú S.A.C. en el distrito del Callao.
@@ -406,7 +406,7 @@ Por último, le gustaría que la aplicación de pedido grupales sea amigable con
 
 **Entrevista #03: Daniel Vazquez (25 años - San Juan de Lurigancho) - 28 de agosto del 2024**
 
-[GastroGo - Registro de Entrevistas.mp4](https://acortar.link/pc2xcc)  (Comienzo 00:13:02 - Fin 00:23:01)
+[GastroGo - Registro de Entrevistas.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EWIpimdxe6ZHoMD_xHk62dQBUgZ6DXhQhyfx2nwDKM6IQg?e=pkLHZB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NzgyLjYyfX0%3D)  (Comienzo 00:13:02 - Fin 00:23:01)
 
 <p align="center">
   <img src="assets/img/chapter-2/img-entrevista-trabajadores-3.png" alt=" " width="55%">
@@ -435,7 +435,7 @@ Daniel estaría interesado en una plataforma que facilite la gestión de pedidos
   <img src="assets/img/chapter-2/img-entrevista-restaurantes-1.png" alt=" " width="50%">
 </p>
 
-[GastroGo - Registro de Entrevistas.mp4](https://acortar.link/O7LebV)  (Comienzo 00:23:02 - Fin 00:30:01)
+[GastroGo - Registro de Entrevistas.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EWIpimdxe6ZHoMD_xHk62dQBUgZ6DXhQhyfx2nwDKM6IQg?e=7h4rjj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTM4Mi41OX19)  (Comienzo 00:23:02 - Fin 00:30:01)
 
 Juan Esteban Espinoza es actualmente gerente general y cuenta con 56 años. Dirige dos restaurantes ubicados en los distritos de Mala y Surco, siendo este último de reciente apertura. El restaurante en Mala atrae principalmente a familias, mientras que en Surco se enfoca en parejas y clientes individuales.
 
@@ -453,7 +453,7 @@ Juan Esteban estaría interesado en una herramienta tecnológica que le permita 
 
 **Entrevista #05: Zaid Arauco (47 años - Miraflores) - 26 de agosto del 2024**
 
-[GastroGo - Registro de Entrevistas.mp4](https://acortar.link/OVVJ6p)  (Comienzo 00:30:02 - Fin 00:39:42)
+[GastroGo - Registro de Entrevistas.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EWIpimdxe6ZHoMD_xHk62dQBUgZ6DXhQhyfx2nwDKM6IQg?e=nJtWhl&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTgwMS45NH19)  (Comienzo 00:30:02 - Fin 00:39:42)
 
 <p align="center">
   <img src="assets/img/chapter-2/img-entrevista-restaurantes-2.png" alt=" " width="50%">
@@ -481,7 +481,7 @@ Finalmente, Zaid menciona que, aunque las plataformas de delivery como Rappi cob
   <img src="assets/img/chapter-2/img-entrevista-restaurantes-3.png" alt=" " width="50%">
 </p>
 
-[GastroGo - Registro de Entrevistas.mp4](https://acortar.link/fZKGEE)  (Comienzo 00:39:42 - Fin 00:43:49)
+[GastroGo - Registro de Entrevistas.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EWIpimdxe6ZHoMD_xHk62dQBUgZ6DXhQhyfx2nwDKM6IQg?e=8chJ9M&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MjM4My4wNH19)  (Comienzo 00:39:42 - Fin 00:43:49)
 
 Martín Zuñiga es el dueño y cocinero principal de un restaurante ubicado en La Victoria. Lleva 10 años al frente del negocio, y su experiencia en el rubro le ha permitido conocer a fondo las necesidades y preferencias de sus clientes.
 
