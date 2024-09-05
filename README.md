@@ -413,6 +413,11 @@ Estas convenciones no solo mejorarán la legibilidad de nuestras especificacione
   
 ## 5.2. Landing Page, Services & Applications Implementation  
 ### 5.2.1. Sprint 1  
+
+<p align="center">
+  <img src="assets/img/chapter-5/img-sprint-1" alt=" " width="100%">
+</p>
+
 #### 5.2.1.1. Sprint Planning 1  
 
 | **Sprint #**                    | Sprint 1                                                                 |
@@ -455,39 +460,35 @@ Durante el sprint 1, se centró en el desarrollo de la landing page como primera
 El Execution Evidence para la revisión del sprint está orientado a documentar y presentar evidencia sobre el desarrollo logrado a lo largo del sprint, prestando especial atención al progreso en la landing page. Estas pruebas son esenciales para demostrar cómo se han cumplido los objetivos establecidos y qué partes del trabajo están terminadas, asegurando que se corresponden con las expectativas del cliente.
 
 <p align="center">
-  <img src="assets/img/chapter-5/img-evidence-1.png" alt=" " width="50%">
+  <img src="assets/img/chapter-5/img-evidence-1.png" alt=" " width="100%">
 </p>
 
 <p align="center">
-  <img src="assets/img/chapter-5/img-evidence-2.png" alt=" " width="50%">
+  <img src="assets/img/chapter-5/img-evidence-2.png" alt=" " width="100%">
 </p>
 
 <p align="center">
-  <img src="assets/img/chapter-5/img-evidence-3.png" alt=" " width="50%">
+  <img src="assets/img/chapter-5/img-evidence-3.png" alt=" " width="100%">
 </p>
 
 <p align="center">
-  <img src="assets/img/chapter-5/img-evidence-3.png" alt=" " width="50%">
+  <img src="assets/img/chapter-5/img-evidence-4.png" alt=" " width="100%">
 </p>
 
 <p align="center">
-  <img src="assets/img/chapter-5/img-evidence-4.png" alt=" " width="50%">
+  <img src="assets/img/chapter-5/img-evidence-5.png" alt=" " width="100%">
 </p>
 
 <p align="center">
-  <img src="assets/img/chapter-5/img-evidence-5.png" alt=" " width="50%">
+  <img src="assets/img/chapter-5/img-evidence-6.png" alt=" " width="100%">
 </p>
 
 <p align="center">
-  <img src="assets/img/chapter-5/img-evidence-6.png" alt=" " width="50%">
+  <img src="assets/img/chapter-5/img-evidence-7.png" alt=" " width="100%">
 </p>
 
 <p align="center">
-  <img src="assets/img/chapter-5/img-evidence-7.png" alt=" " width="50%">
-</p>
-
-<p align="center">
-  <img src="assets/img/chapter-5/img-evidence-8.png" alt=" " width="50%">
+  <img src="assets/img/chapter-5/img-evidence-8.png" alt=" " width="100%">
 </p>
 
 
