@@ -295,7 +295,11 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 #### 5.2.1.8. Team Collaboration Insights during Sprint  
   
 # Conclusiones  
-### Conclusiones y recomendaciones  
+### Conclusiones y recomendaciones
+El avance del proyecto logra cumplir con los objetivos planteados incicialmente, incluyendo la contextualización del problema y solución a este, cómo también el desarrollo y despliegue de la primera versión de la landing page, junto con la implementación de funcionalidades clave. Cada miembro del equipo contribuyó en el avance de las distintas fases del proyecto.
+
+La importancia de la comunicación y la colaboración entre los miembros del equipo fue uno de los aprendizajes más significativos. Además, las herramientas de colaboración tales cómo GitHub o Figma jugaron un papel crucial en la coordinación del trabajo, permitiendo una gestión eficiente del código y una visualización clara del diseño de la landing page. Aprendimos que el manejo de las herramientas mejoran la organización, planificación y eficiencia del trabajo en equipo.
+
 ### Video About-the-Team  
   
 ---  
