@@ -268,7 +268,7 @@ Se decidió utilizar la jerarquía visual para organizar la información del con
 
 **Categorization Schemes**
 
-Para la categorización, se escogieron dos esquemas:
+Para la categorización, se escogieron tres esquemas:
 
 **Alfabético**
 
@@ -292,9 +292,11 @@ Hemos utilizado palabras claves para optimizar nuestros SEO Tags y Meta Tags par
 
 **Landing Page**
 
+**Landing Page**
+
 ```
 <meta charset="UTF-8">
-<meta name="viewport" content="width=devide-width, initial-scale=1.0> // for mobile
+<meta name="viewport" content="width=device-width, initial-scale=1.0> // for mobile
 <title>GastroGo - Corporate ordering platform</title>
 <meta name="description" content="Discover the best local restaurants at the palm of your hand and order a good meal for you and your team with GastroGo!">
 <meta name="keywords" content="local restaurants, online ordering, food delivery, GastroGo>
@@ -305,12 +307,21 @@ Hemos utilizado palabras claves para optimizar nuestros SEO Tags y Meta Tags par
 
 ```
 <meta charset="UTF-8">
-<meta name="viewport" content="width=devide-width, initial-scale=1.0> // for mobile
+<meta name="viewport" content="width=device-width, initial-scale=1.0> // for mobile
 <title>GastroGo - Corporate ordering platform</title>
 <meta name="description" content="Order your dishes, manage your orders, track deliveries and explore all the restaurants available with GastroGo! Start now!">
-<meta name="keywords" content="local restaurants, online ordering, food delivery, order tracking, GastroGo>
+<meta name="keywords" content="local restaurants, online ordering, food delivery, order tracking, GastroGo">
 <meta name="author" content="DevDynasty">
 ```
+
+Explicación:
+
+* charset UTF-8: codificación de caracteres que se utilizarán en la landing page y aplicación web
+* meta name="viewport" content="width=device-width, initial-scale=1.0: Este la línea de código es para que ambos productos se adapten al dispositivo que el cliente utilice.
+* GastroGo - Corporate ordering platform: Este es el título de nuestra página, aparecerá en la pestaña y por ello será más fácil reconocer nuestro producto.
+* meta name="description" content="Order your dishes, manage your orders, track deliveries and explore all the restaurants available with GastroGo! Start now!: Esta descripción breve es para que, en los motores de búsqueda, pueda mostrar de qué trata la página de manera resumida y clara.
+* meta name="keywords" content="local restaurants, online ordering, food delivery, order tracking, GastroGo": Estas palabras claves permiten que los motores de búsqueda permitan relacionar nuestra página con búsquedas relevantes.
+* meta name="author" content="DevDynasty": Esta línea es para indicar quién es el autor que, en este caso, somos nosotros los desarrolladores.
 
 ### 4.2.4. Searching Systems.
 
@@ -334,6 +345,9 @@ En esta sección se presentarán los wireframes de la landing page. Estos wirefr
 Para Desktop Browser:
 ![Landing Page Wireframes](assets/img/chapter-4/landing-page-wireframes.png)
 
+Para Mobile Browser:
+![Landing Page Mobile Wireframes](assets/img/chapter-4/landing-page-mobile-wireframes.png)
+
 ### 4.3.2. Landing Page Mock-up
 
 En esta sección se presentarán los mock-ups de la landing page. Estos mock-ups son esquemas de alta fidelidad que muestran la estructura de la página, todas las guías de estilo indicadas en las secciones anteriores están presentes en estos esquemas. Enlace al Figma: https://www.figma.com/design/HGjzWSvewN97ZBYXu5FkdL/ApplicationWeb?node-id=1-3&t=wDYwqq80w6CGC5hD-1
@@ -341,12 +355,42 @@ En esta sección se presentarán los mock-ups de la landing page. Estos mock-ups
 Para Desktop Browser:
 ![Landing Page Mock-Up](assets/img/chapter-4/landing-page-mock-up.png)
 
-## 4.4. Web Applications UX/UI Design  
+Para Mobile Browser:
+![Landing Page Mobile Mock-Up](assets/img/chapter-4/landing-page-mobile-mock-up.png)
+
+## 4.4. Web Applications UX/UI Design 
+
+En este segmento se presentará el proceso de diseño de la aplicación web, desde los wireframes hasta los mock-ups. Se tuvo en cuenta las guías de estilo y arquitectura de información previamente explicadas para mantener una apropiada coherencia visual con la landing page.
+
 ### 4.4.1. Web Applications Wireframes  
-### 4.4.2. Web Applications Wireflow Diagrams  
+
+En esta sección se presentarán los wireframes de la aplicación web. Estos son los esquemas de baja fidelidad, un blueprint para saber cómo vamos a estructurar la aplicación web antes de continuar con las guías de estilo e imágenes.
+
+### 4.4.2. Web Applications Wireflow Diagrams
+
+En esta sección se presentarán los wireflow diagrams, que son diagramas que muestran la navegación de la aplicación web. Estos diagramas nos permitirán dar una noción de cómo será la experiencia del usuario al navegar por la aplicación web.
+
+
+
+
 ### 4.4.3. Web Applications Mock-ups  
+
+En esta sección se presentan los mock-ups de la aplicación web. Es decir, a base de los wireframes vistos anteriormente se ha creado una esquematización de alta fidelidad, acorde a las guías de estilo, arquitectura de la información y componentes mencionados en secciones anteriores.
+Enlace al Figma: https://www.figma.com/design/HGjzWSvewN97ZBYXu5FkdL/ApplicationWeb?node-id=121-156&t=nBFBpuZ4klesT9br-1
+
+
+
+
 ### 4.4.4. Web Applications User Flow Diagrams  
+
+En esta sección se mostrarán los posibles caminos que puede seguir el usuario (happy path y unhappy path) al momento de navegar por la aplicación web. De esta forma, se podrá tener una base de cómo los usuarios navegarán en la aplicación.
+
 ## 4.5. Web Applications Prototyping  
+
+En este punto se demostrará el funcionamiento de nuestra aplicación web mediante un prototipo interactivo explicado. De esta forma, obtenemos una guía de lo que esperamos lograr con la aplicación y una noción tangible de su futuro funcionamiento.
+
+Enlace al video del prototipo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110385_upc_edu_pe/EUtluo1uE8ZLhSNlmzhk4r8BdyUbW0yyxQkt5zigPNIcAA?e=YmmwUS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
 ## 4.6. Domain-Driven Software Architecture  
 ### 4.6.1. Software Architecture Context Diagram  
 ### 4.6.2. Software Architecture Container Diagrams  
