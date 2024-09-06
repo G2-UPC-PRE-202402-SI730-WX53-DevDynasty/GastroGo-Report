@@ -1019,11 +1019,12 @@ Definición: Un restaurante que ha firmado un acuerdo con GastroGo para ofrecer 
 ## 3.1. To-Be Scenario Mapping 
 **Segmento Objetivo:** Restaurantes locales en Lima Metropolitana que gestionan pedidos grupales con frecuencia.
 
-<img src="assets/img/T-B SM S1.jpg">
+<img src="assets/img/chapter-3/img-to-be-1.jpg">
 
 **Segmento Objetivo:** Grupos de trabajadores en oficinas y empresas que realizan pedidos de almuerzo en conjunto.
 
-<img src="assets/img/T-B SM S2.jpg">
+<img src="assets/img/chapter-3/img-to-be-2.jpg">
+img-to-be-1
 
 ## 3.2. User Stories
 
@@ -1173,12 +1174,12 @@ Definición: Un restaurante que ha firmado un acuerdo con GastroGo para ofrecer 
 ## 3.3. Impact Mapping 
 **Grupos de Trabajadores:**
 
-<img src="assets/img/Impact map S1 - 1.png">
-<img src="assets/img/Impact map S1 - 2.png">
+<img src="assets/img/chapter-3/img-impact-map-workers-1.png">
+<img src="assets/img/chapter-3/img-impact-map-workers-2.png">
 
 **Restaurantes:**
 
-<img src="assets/img/Impact map S2 - 1.png">
+<img src="assets/img/chapter-3/img-impact-map-restaurant-1.png">
 
 ## 3.4. Product Backlog
 
