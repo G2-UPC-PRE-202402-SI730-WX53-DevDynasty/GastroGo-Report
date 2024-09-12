@@ -310,8 +310,6 @@ Hemos utilizado palabras claves para optimizar nuestros SEO Tags y Meta Tags par
 
 **Landing Page**
 
-**Landing Page**
-
 ```
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0> // for mobile
