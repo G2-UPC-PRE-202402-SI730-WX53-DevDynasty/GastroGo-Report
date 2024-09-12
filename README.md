@@ -52,39 +52,7 @@ Link del repositorio del reporte del TB1: https://github.com/G2-UPC-PRE-202402-S
 Durante la realizacion informe, se realizaron reuniones y se asignaron los temas a desarrollar para la entrega correspondiente a los Capítulos I al V del Sprint 1, quedando organizados de la siguiente forma:
 
 - Imágen de las Contribuciones del equipo: 
-<td><img src="static/img/Chapter 1/img-contributors-team.png" alt="Contribuciones del equipo" width="50%";"></img></td>
-<p>Ricardo Barrutia</p>
-- Imágen de las Contribuciones:
-<td><img src="static/img/Chapter 1/img-contributors-ricardo.png" alt="Contribuciones Ricardo" width="50%";"></img></td>
-- Imágen de los Commits:
-<td><img src="static/img/Chapter 1/img-commits-ricardo.png" alt="Commits Ricardo" width="50%";"></img></td>
 
-<p>Fabiola Espinoza</p>
-- Imágen de las Contribuciones:
-<td><img src="static/img/Chapter 1/img-contributors-fabiola.png" alt="Contribuciones Fabiola" width="50%";"></img></td>
-- Imágen de los Commits:
-<td><img src="static/img/Chapter 1/img-commits-fabiola.png" alt="Commits Fabiola" width="50%";"></img></td>
-
-<p>Marco Gongora</p>
-- Imágen de las Contribuciones:
-<td><img src="static/img/Chapter 1/img-contributors-marco.png" alt="Contribuciones Marco" width="50%";"></img></td>
-- Imágen de los Commits:
-<td><img src="static/img/Chapter 1/img-commits-marco.png" alt="Commits Marco" width="50%";"></img></td>
-
-<p>Francisco Hurtado</p>
-- Imágen de las Contribuciones:
-<td><img src="static/img/Chapter 1/img-contributors-francisco.png" alt="Contribuciones Francisco" width="50%";"></img></td>
-- Imágen de los Commits:
-<td><img src="static/img/Chapter 1/img-commits-francisco.png" alt="Commits Francisco" width="50%";"></img></td>
-
-<p>Camila Loli</p>
-- Imágen de las Contribuciones:
-<td><img src="static/img/Chapter 1/img-contributors-camila.png" alt="Contribuciones Camila" width="50%";"></img></td>
-- Imágen de los Commits:
-<td><img src="static/img/Chapter 1/img-commits-camila.png" alt="Commits Camila" width="50%";"></img></td>
-
-
-<br>
 
 ---  
 # Student Outcome  
@@ -246,11 +214,11 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 ## 3.1. To-Be Scenario Mapping 
 **Segmento Objetivo:** Restaurantes locales en Lima Metropolitana que gestionan pedidos grupales con frecuencia.
 
-<img src="assets/img/T-B SM S1.jpg">
+![to-be scenario mapping 1](assets/img/chapter-3/img-to-be-workers-1.jpg)
 
 **Segmento Objetivo:** Grupos de trabajadores en oficinas y empresas que realizan pedidos de almuerzo en conjunto.
 
-<img src="assets/img/T-B SM S2.jpg">
+![to-be scenario mapping 2](assets/img/chapter-3/img-to-be-restaurant-1.jpg)
 
 ## 3.2. User Stories
 
@@ -259,6 +227,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 | **Epic 1: Landing Page**                                                                                              |
 |------------------------------------------------------------------------------------------------------------------------|
 | **Cómo** visitante<br>**Quiero** saber información de la aplicación web<br>**Para** ver si me interesa sus funcionalidades |
+
 
 ### Historias de Usuario para Epic 1
 
@@ -272,6 +241,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 | E1 - US006      | Sección de Contacto        | **Como** visitante<br> **Quiero** encontrar un formulario de contacto<br> **Para** poder enviar consultas o solicitar más información sobre la aplicación. | **Escenario 1: Formulario de Contacto**<br> **Dado** que el visitante accede a la landing page,<br> **Cuando** se desplaza a la sección de Contacto,<br> **Entonces** debe encontrar un formulario de contacto con campos para nombre, correo electrónico, y mensaje.<br><br> **Escenario 2: Confirmación de Envío**<br> **Dado** que el visitante completa el formulario de contacto,<br> **Cuando** hace clic en el botón de enviar,<br> **Entonces** debe recibir un mensaje de confirmación y la consulta debe ser enviada al equipo de soporte de "Gastro Go". | 1                         |
 | E1 - US007      | Sección de footer          | **Como** visitante<br> **Quiero** ver un footer en la página<br> **Para** poder acceder rápidamente a enlaces importantes, redes sociales, y suscribirme al boletín. | **Escenario 1: Visualización del footer**<br> **Dado** que el visitante está navegando por la página,<br> **Cuando** llega al final de la página,<br> **Entonces** debe ver una sección de footer que incluya enlaces a las redes sociales, contenido relevante del landing page, y una opción de suscripción al boletín.<br><br> **Escenario 2: Suscripción al boletín**<br> **Dado** que el usuario quiere suscribirse al boletín,<br> **Cuando** ingrese su dirección de correo electrónico y haga clic en el botón de suscripción,<br> **Entonces** el sistema debe enviar y almacenar el email. | 1                         |
 | E1 - US008      | Cambio de idioma           | **Como** visitante<br> **Quiero** poder cambiar el idioma de la aplicación<br> **Para** visualizar el contenido en mi idioma preferido. | **Escenario 1: Cambio de idioma en la misma página**<br> **Dado** que el visitante está navegando en la página,<br> **Cuando** seleccione una opción de idioma,<br> **Entonces** el contenido de la página debe cambiar al idioma seleccionado.<br><br> **Escenario 2: Persistencia del idioma seleccionado**<br> **Dado** que el visitante cambia el idioma,<br> **Cuando** navegue a otras secciones de la página,<br> **Entonces** el idioma seleccionado debe mantenerse activo en todas las páginas sin necesidad de volver a configurarlo. | 1                         |
+
 
 ### Epic 2: Gestión de cuenta
 | **Epic 2: Gestión de cuenta**                                                                                              |
@@ -290,6 +260,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 | E2 - US015  | Notificación de confirmación de pedidos grupales | **Como** restaurante<br>**Quiero** que cada miembro del grupo reciba una notificación de confirmación<br>**Para** que aprecien los detalles del pedido cuando el pedido se confirme. | **Escenario 1: Notificación de Confirmación**<br>**Dado** que un grupo ha realizado un pedido,<br>**Cuando** se confirme el pedido,<br>**Entonces** cada miembro del grupo debe recibir una notificación de confirmación con los detalles del pedido. | 2             |
 | E2 - US016  | Sistema de notificaciones y Recordatorios | **Como** restaurante<br>**Quiero** que cada miembro del grupo reciba recordatorios y notificaciones de entrega<br>**Para** asegurarse de que estén al tanto de sus pedidos. | **Escenario 1: Recordatorio de Entrega**<br>**Dado** que se acerca la hora de entrega del pedido,<br>**Cuando** falten 30 minutos para la entrega,<br>**Entonces** cada miembro del grupo debe recibir un recordatorio con la información de entrega actualizada.<br><br>**Escenario 2: Notificación Final de Entrega**<br>**Dado** que el pedido está en camino,<br>**Cuando** el pedido esté a punto de llegar,<br>**Entonces** cada miembro del grupo debe recibir una notificación final con la hora estimada de llegada. | 2             |
 | E2 - US017  | Encuestas Post-Compra             | **Como** restaurante<br>**Quiero** implementar un sistema de encuestas post-compra que permita a los usuarios compartir su experiencia y recibir recomendaciones para mejorar futuras órdenes<br>**Para** mejorar futuras órdenes. | **Escenario 1: Envío de Encuesta Post-Compra**<br>**Dado** que un pedido ha sido entregado,<br>**Cuando** el pedido se marca como completado,<br>**Entonces** el sistema debe enviar una encuesta al usuario solicitando sus comentarios o valoraciones sobre el pedido.<br><br>**Escenario 2: Generación de Informe de Feedback**<br>**Dado** que el usuario ha proporcionado una calificación baja,<br>**Cuando** se envíe la encuesta,<br>**Entonces** el sistema debe generar una notificación al restaurante con el feedback para tomar medidas correctivas. | 2             |
+
 
 ### Epic 3: Selección de Restaurante
 | **Epic 3: Selección de Restaurante**                                                                                              |
@@ -316,6 +287,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 | E4 - US023  | Personalización de Ingredientes      | **Como** líder del grupo<br>**Quiero** personalizar los ingredientes de un plato<br>**Para** ajustarlos a las preferencias del grupo. | **Escenario 1: Añadir o Quitar Ingredientes**<br>**Dado** que el líder está personalizando un plato,<br>**Cuando** selecciona un ingrediente,<br>**Entonces** puede añadirlo o quitarlo según la preferencia.<br><br>**Escenario 2: Guardar Personalización**<br>**Dado** que el líder ha personalizado un plato,<br>**Cuando** guarda la personalización,<br>**Entonces** se actualiza la información del plato en el pedido. | 4             |
 | E4 - US024  | Confirmar o Agregar a Votación       | **Como** líder del grupo<br>**Quiero** confirmar la personalización del plato o agregarlo a votación<br>**Para** que el grupo decida. | **Escenario 1: Confirmar Pedido**<br>**Dado** que el líder ha personalizado un plato,<br>**Cuando** decide confirmar,<br>**Entonces** el plato se añade al pedido listo para pagar.<br><br>**Escenario 2: Agregar a Votación**<br>**Dado** que el líder ha personalizado un plato,<br>**Cuando** decide agregarlo a votación,<br>**Entonces** el plato se guarda en una lista para votación posterior. | 4             |
 
+
 ### Epic 5: Coordinación de Decisión del Pedido
 | **Epic 5: Coordinación de Decisión del Pedido**                                                                                              |
 |----------------------------------------------------------------------------------------------------------------------------|
@@ -327,6 +299,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 | E5 - US025  | Creación Automática de Votación      | **Como** líder del grupo<br>**Quiero** que se cree automáticamente una nueva votación cuando selecciono la opción "Dejarlo a votación"<br>**Para** un plato, para coordinar las decisiones del grupo. | **Escenario 1: Generar Votación**<br>**Dado** que el líder ha personalizado un plato,<br>**Cuando** selecciona la opción "Dejarlo a votación",<br>**Entonces** se crea automáticamente una votación con ese plato.<br><br>**Escenario 2: Agregar Platos a Votación Activa**<br>**Dado** que ya existe una votación activa,<br>**Cuando** el líder selecciona otro plato y lo deja a votación,<br>**Entonces** este nuevo plato se agrega a la votación existente. | 5             |
 | E5 - US026  | Compartir Código de Votación          | **Como** líder del grupo<br>**Quiero** compartir un código generado<br>**Para** que los miembros del grupo puedan ingresar a la votación y votar por el plato de su elección. | **Escenario 1: Generar Código de Votación**<br>**Dado** que una votación ha sido creada,<br>**Cuando** el líder decide compartirla,<br>**Entonces** se genera un código único para que los miembros del grupo puedan acceder.<br><br>**Escenario 2: Participación en la Votación**<br>**Dado** que los miembros del grupo tienen el código de votación,<br>**Cuando** lo ingresan en la plataforma,<br>**Entonces** pueden votar por el plato o restaurante de su preferencia. | 5             |
 | E5 - US027  | Resolución de Empates con Sorteo     | **Como** grupo de trabajadores<br>**Quiero** que en caso de empate en la votación, se realice un sorteo<br>**Para** determinar el restaurante o plato ganador, para evitar decisiones inconclusas. | **Escenario 1: Detección de Empate**<br>**Dado** que la votación ha terminado,<br>**Cuando** se detecta un empate entre opciones,<br>**Entonces** se activa el proceso de sorteo.<br><br>**Escenario 2: Realización de Sorteo**<br>**Dado** que se ha detectado un empate,<br>**Cuando** se realiza el sorteo,<br>**Entonces** se selecciona aleatoriamente uno de los platos o restaurantes empatados como ganador. | 5             |
+
 
 ### Epic 6: Gestión de Pagos
 | **Epic 6: Gestión de Pagos**                                                                                              |
@@ -342,6 +315,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 | E6 - US031  | Registro y Confirmación de Pagos Grupales | **Como** líder del grupo<br>**Quiero** poder ver un registro de todos los pagos realizados por los miembros del grupo<br>**Para** confirmar que todos han contribuido. | **Escenario 1: Visualización de Pagos**<br>**Dado** que los pagos han sido realizados,<br>**Cuando** el líder consulta el registro,<br>**Entonces** puede ver el estado de los pagos de cada miembro.<br><br>**Escenario 2: Confirmación Completa**<br>**Dado** que todos los miembros han completado sus pagos,<br>**Cuando** se verifica el registro,<br>**Entonces** el sistema confirma que el pedido está listo para ser procesado. | 6             |
 | E6 - US032  | Opción de Propina Compartida          | **Como** miembro del grupo<br>**Quiero** tener la opción de agregar una propina compartida al total del pedido<br>**Para** recompensar el servicio del restaurante. | **Escenario 1: Selección de Propina**<br>**Dado** que el pedido está siendo finalizado,<br>**Cuando** el grupo decide agregar una propina,<br>**Entonces** el sistema la distribuye proporcionalmente entre los participantes.<br><br>**Escenario 2: Confirmación de Propina**<br>**Dado** que la propina ha sido agregada,<br>**Cuando** se completa el pago,<br>**Entonces** el monto total reflejado incluye la propina compartida. | 6             |
 
+
 ### Epic 7: Recomendaciones Personalizadas
 | **Epic 7: Recomendaciones Personalizadas**                                                                                       |
 |----------------------------------------------------------------------------------------------------------------------------|
@@ -353,6 +327,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 | E7 - US033  | Generación Automática de Recomendaciones       | **Como** usuario<br>**Quiero** que el sistema genere automáticamente recomendaciones de restaurantes y platos basadas en mis pedidos anteriores<br>**Para** facilitar futuras elecciones. | **Escenario 1: Identificación de Preferencias**<br>**Dado** que el usuario ha realizado varios pedidos,<br>**Cuando** vuelve a la página de inicio,<br>**Entonces** el sistema genera recomendaciones basadas en la frecuencia de ciertos tipos de cocina o platos en sus pedidos anteriores.<br><br>**Escenario 2: Presentación de Recomendaciones**<br>**Dado** que el sistema ha generado recomendaciones,<br>**Cuando** el usuario accede a la sección de "Recomendaciones",<br>**Entonces** se muestran opciones relevantes vinculadas a sus últimos pedidos. | 7             |
 | E7 - US034  | Notificaciones de Recomendaciones               | **Como** usuario<br>**Quiero** recibir notificaciones de nuevas recomendaciones basadas en mis pedidos recientes<br>**Para** estar al tanto de opciones que podrían interesarme. | **Escenario 1: Envío de Notificaciones**<br>**Dado** que el usuario ha realizado un nuevo pedido,<br>**Cuando** el sistema identifica restaurantes o platos relacionados,<br>**Entonces** envía una notificación con las nuevas recomendaciones.<br><br>**Escenario 2: Frecuencia de Notificaciones**<br>**Dado** que el usuario tiene configuradas notificaciones,<br>**Cuando** se identifica una nueva recomendación,<br>**Entonces** el sistema envía las notificaciones según la frecuencia establecida (diaria, semanal). | 7             |
 | E7 - US035  | Personalización de Recomendaciones en Función de Pedidos Grupales | **Como** líder de grupo<br>**Quiero** recibir recomendaciones de restaurantes y platos basadas en los pedidos grupales anteriores<br>**Para** facilitar futuras decisiones de grupo. | **Escenario 1: Análisis de Pedidos Grupales**<br>**Dado** que el grupo ha realizado pedidos anteriores,<br>**Cuando** el líder consulta la sección de recomendaciones,<br>**Entonces** el sistema sugiere restaurantes y platos que fueron populares en pedidos grupales anteriores.<br><br>**Escenario 2: Adaptación a Preferencias del Grupo**<br>**Dado** que el sistema genera recomendaciones,<br>**Cuando** el líder revisa las opciones,<br>**Entonces** se destacan aquellos restaurantes y platos que satisfacen las preferencias colectivas del grupo. | 7             |
+
 
 ### Epic 8: Gestión de Pedidos Grupales
 | **Epic 8: Gestión de Pedidos Grupales**                                                                                     |
@@ -367,6 +342,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 | E8 - US038  | Coordinación de Entregas para Pedidos Grupales | **Como** gerente de logística<br>**Quiero** coordinar la entrega de pedidos grupales grandes<br>**Para** asegurar que lleguen a tiempo y en las mejores condiciones. | **Escenario 1: Asignación de Conductores**<br>**Dado** que el sistema gestiona un pedido grupal grande,<br>**Cuando** el pedido está listo para entrega,<br>**Entonces** se asigna automáticamente un conductor con capacidad suficiente para manejar el pedido, y esta asignación se muestra en la sección de logística del sidebar.<br><br>**Escenario 2: Seguimiento de Entregas**<br>**Dado** que un pedido grupal está en ruta,<br>**Cuando** el pedido está en camino,<br>**Entonces** el gerente de logística puede realizar un seguimiento en tiempo real de la ubicación del conductor y el estado de la entrega desde el panel de seguimiento del sidebar. | 8             |
 | E8 - US039  | Gestión de Cambios y Cancelaciones en Pedidos Grupales | **Como** administrador del restaurante<br>**Quiero** gestionar cambios y cancelaciones en pedidos grupales de manera eficiente<br>**Para** minimizar el impacto en la operación del restaurante. | **Escenario 1: Notificaciones de Cambios**<br>**Dado** que un cliente solicita un cambio en un pedido grupal,<br>**Cuando** se realiza el cambio,<br>**Entonces** el sistema notifica automáticamente a la cocina y al equipo de entrega sobre la modificación desde el panel de notificaciones en el sidebar.<br><br>**Escenario 2: Políticas de Cancelación**<br>**Dado** que un cliente intenta cancelar un pedido grupal,<br>**Cuando** la cancelación se recibe,<br>**Entonces** el sistema verifica si la cancelación está dentro del tiempo permitido según la política del restaurante y procede a reembolsar o a rechazar la solicitud de acuerdo con las políticas establecidas, y se muestra en el sidebar. | 8             |
 
+
 ### Epic 9: Planes de Suscripción
 | **Epic 9: Planes de Suscripción**                                                                                           |
 |----------------------------------------------------------------------------------------------------------------------------|
@@ -379,6 +355,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 | E9 - US041  | Selección de Plan de Suscripción      | **Como** empresa o restaurante<br>**Quiero** poder seleccionar un plan de suscripción dentro de la aplicación<br>**Para** acceder a funcionalidades premium. | **Escenario 1: Acceso a la Selección de Planes**<br>**Dado** que un usuario registrado accede a su cuenta,<br>**Cuando** el usuario selecciona la opción de suscripción,<br>**Entonces** se muestran todos los planes de suscripción disponibles con una opción para seleccionar y continuar con el proceso de compra.<br><br>**Escenario 2: Validación de Requisitos Previos**<br>**Dado** que un usuario registrado intenta seleccionar un plan,<br>**Cuando** el usuario no cumple con los requisitos previos (ej. completar el perfil, seleccionar método de pago),<br>**Entonces** se muestra un mensaje que indica los pasos necesarios antes de continuar con la selección del plan.<br><br>**Escenario 3: Confirmación de Selección**<br>**Dado** que un usuario ha seleccionado un plan,<br>**Cuando** el usuario confirma su selección,<br>**Entonces** se le envía una confirmación por correo electrónico y se actualiza su cuenta para reflejar el nuevo estado de suscripción. | 9             |
 | E9 - US042  | Renovación de Plan de Suscripción     | **Como** empresa o restaurante<br>**Quiero** poder renovar mi plan de suscripción antes de que expire<br>**Para** evitar la interrupción del servicio. | **Escenario 1: Recordatorio de Renovación**<br>**Dado** que un plan de suscripción está próximo a expirar,<br>**Cuando** faltan 30, 15 y 5 días para la expiración,<br>**Entonces** el sistema envía recordatorios automáticos al correo electrónico del usuario.<br><br>**Escenario 2: Proceso de Renovación Simplificado**<br>**Dado** que un usuario desea renovar su suscripción,<br>**Cuando** el usuario accede a la sección de suscripciones en su cuenta,<br>**Entonces** se muestra un botón de "Renovar" junto con las opciones de renovación disponibles (por ejemplo, 1 mes, 6 meses, 1 año).<br><br>**Escenario 3: Confirmación de Renovación**<br>**Dado** que un usuario ha seleccionado renovar su plan,<br>**Cuando** el usuario confirma la renovación,<br>**Entonces** se le envía una confirmación por correo electrónico y se extiende la duración de su suscripción sin interrupciones. | 9             |
 | E9 - US043  | Cancelación de Plan de Suscripción    | **Como** empresa o restaurante<br>**Quiero** poder cancelar mi plan de suscripción en cualquier momento<br>**Para** evitar cargos futuros. | **Escenario 1: Acceso a la Opción de Cancelación**<br>**Dado** que un usuario desea cancelar su suscripción,<br>**Cuando** el usuario accede a la sección de suscripciones en su cuenta,<br>**Entonces** se muestra una opción de "Cancelar Suscripción" con detalles sobre las implicaciones de la cancelación.<br><br>**Escenario 2: Confirmación de Cancelación**<br>**Dado** que un usuario ha solicitado la cancelación,<br>**Cuando** el usuario confirma su decisión,<br>**Entonces** el sistema procesa la cancelación y envía un correo electrónico confirmando la finalización de la suscripción al final del período actual.<br><br>**Escenario 3: Suspensión de Servicios Premium**<br>**Dado** que un usuario ha cancelado su suscripción,<br>**Cuando** el período de suscripción actual finaliza,<br>**Entonces** se desactivan automáticamente todas las funcionalidades premium asociadas con el plan cancelado. | 9             |
+
 
 ### Epic 10: Backend API
 | **Epic 10: Backend API**                                                                                           |
@@ -400,12 +377,13 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 ## 3.3. Impact Mapping 
 **Grupos de Trabajadores:**
 
-<img src="assets/img/Impact map S1 - 1.png">
-<img src="assets/img/Impact map S1 - 2.png">
+![Impact Map 1](assets/img/chapter-3/img-impact-map-workers-1.png) 
+
+![Impact Map 2](assets/img/chapter-3/img-impact-map-workers-2.png) 
 
 **Restaurantes:**
 
-<img src="assets/img/Impact map S2 - 1.png">
+![Impact Map 3](assets/img/chapter-3/img-impact-map-restaurant-1.png) 
 
 ## 3.4. Product Backlog
 
@@ -440,7 +418,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 | 27         | E5 - US027         | Resolución de empates con sorteo                  | **Como** grupo de trabajadores<br>**Quiero** que en caso de empate en la votación, se realice un sorteo<br>**Para** determinar el restaurante o plato ganador, para evitar decisiones inconclusas.                                                 | 5                               |
 | 28         | E6 - US028         | Dividir el costo del pedido                        | **Como** miembro del grupo<br>**Quiero** que el costo del pedido se divida automáticamente entre los participantes<br>**Para** que cada uno pague su parte proporcional.                                                                          | 5                               |
 | 29         | E6 - US029         | Métodos de pago diversos                           | **Como** miembro del grupo<br>**Quiero** poder elegir entre diferentes métodos de pago (tarjeta de crédito, PayPal, transferencia bancaria)<br>**Para** realizar mi parte del pago.                                                                  | 5                               |
-| 30         | E6 - US031         | Notificaciones de pago pendiente                   | **Como** miembro del grupo<br>**Quiero** recibir notificaciones de recordatorio en caso de que mi pago esté pendiente<br>**Para** asegurarme de completar la transacción.                                                                           | 3                               |
+| 30         | E6 - US030         | Notificaciones de pago pendiente                   | **Como** miembro del grupo<br>**Quiero** recibir notificaciones de recordatorio en caso de que mi pago esté pendiente<br>**Para** asegurarme de completar la transacción.                                                                           | 3                               |
 | 31         | E6 - US031         | Registro y confirmación de pagos grupales          | **Como** líder del grupo<br>**Quiero** poder ver un registro de todos los pagos realizados por los miembros del grupo<br>**Para** confirmar que todos han contribuido.                                                                           | 5                               |
 | 32         | E6 - US032         | Opción de propina compartida                       | **Como** miembro del grupo<br>**Quiero** tener la opción de agregar una propina compartida<br>**Para** mostrar aprecio por el servicio.      
 | 33     | E6 - US033    | Generación automática de recomendaciones           | **Como** usuario<br>**Quiero** que el sistema genere automáticamente recomendaciones de restaurantes y platos basadas en mis pedidos anteriores<br>**Para** facilitar futuras elecciones.                                | 5                            |
@@ -451,7 +429,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 | 38     | E8 - US038    | Coordinación de entregas para pedidos grupales     | **Como** gerente de logística<br>**Quiero** coordinar la entrega de pedidos grupales grandes<br>**Para** asegurar que lleguen a tiempo y en las mejores condiciones.                                                        | 5                            |
 | 39     | E8 - US039    | Gestión de cambios y cancelaciones en pedidos grupales | **Como** administrador del restaurante<br>**Quiero** gestionar cambios y cancelaciones en pedidos grupales de manera eficiente<br>**Para** minimizar el impacto en la operación del restaurante.                             | 5                            |
 | 40     | E9 - US040    | Visualización de planes de suscripción              | **Como** visitante en la landing page<br>**Quiero** poder visualizar una sección que describa los diferentes planes de suscripción disponibles<br>**Para** que pueda considerar sus beneficios y decidir si suscribirme. | 3                            |
-| 41     | E9 - US042    | Selección de plan de suscripción                    | **Como** empresa o restaurante<br>**Quiero** poder seleccionar un plan de suscripción dentro de la aplicación<br>**Para** acceder a funcionalidades premium.                                                                     | 5                            |
+| 41     | E9 - US041    | Selección de plan de suscripción                    | **Como** empresa o restaurante<br>**Quiero** poder seleccionar un plan de suscripción dentro de la aplicación<br>**Para** acceder a funcionalidades premium.                                                                     | 5                            |
 | 42     | E9 - US042    | Renovación de plan de suscripción                   | **Como** empresa o restaurante<br>**Quiero** poder renovar mi plan de suscripción antes de que expire<br>**Para** evitar la interrupción del servicio.                                                                           | 3                            |
 | 43     | E9 - US043    | Cancelación de plan de suscripción                  | **Como** empresa o restaurante<br>**Quiero** poder cancelar mi plan de suscripción en cualquier momento<br>**Para** evitar cargos futuros.                                                                                   | 3                            |
 | 44     | E10 - US044   | Endpoint para registro de usuario                   | **Como** developer<br>**Quiero** tener un endpoint para el registro de nuevos usuarios<br>**Para** que los datos de los nuevos usuarios puedan ser enviados y almacenados en el backend.                                  | 5                            |
