@@ -469,7 +469,18 @@ En este sprint, se ha completado el desarrollo de la landing page. Para su despl
 
 | **Repository** | **Branch** | **Commit Id**                              | **Commit Message**                                         | **Committed on (Date)** |
 |----------------|------------|--------------------------------------------|--------------------------------------------------------------------------------------|-------------------------|
-|acceptnace-test| develop    |    | Initial commit                                                                        | 17/08/2024               |
+|acceptance-test| develop    | 55eb1646d73316ec2929ffafa95af8dfcef3adc5   | Initial commit                                                                        | 12/09/2024               |
+|acceptnace-test| develop    | 9a399e19e898f0dd693654c70be3bd1fe67ea40e   | feat(readme): added description readme                                                                       | 12/09/2024               |
+|acceptnace-test| develop    | 4b738eb74073aacbdcf2d3a37eabdaf21040c5a5   | chore: added epic 1 acceptance test                                                                     | 12/09/2024               |
+|acceptnace-test| develop    | 06c167e00c191b77c03da4aa7cb13fab0d86c9d7   | chore: added epic 2 acceptance test                                                                       | 12/09/2024               |
+|acceptnace-test| develop    | 62b806ee10782f3b6e3125964aaefd0ff552652c   | chore: added epic 3 acceptance test                                                                       | 12/09/2024               |
+|acceptnace-test| develop    | 3ca6c4208a62a6b5ffa6d6dffe8d4f088918af5d   | chore: added epic 4 acceptance test                                                                      | 12/09/2024               |
+|acceptnace-test| develop    | 2e7a6166e776f0d2f6d97368d384457e7bde7ca7   | chore: added epic 5 acceptance test                                                                        | 12/09/2024               |
+|acceptnace-test| develop    | 5846374f45b976d826580c0855565212811be5e8   | chore: added epic 6 acceptance test                                                                       | 12/09/2024               |
+|acceptnace-test| develop    | b41662bc5609e8d7bb84b24b99910ab621001c09   | chore: added epic 7 acceptance test                                                                       | 12/09/2024               |
+|acceptnace-test| develop    | 64d26478f1b9e23cf51c31a56dbd17e63c4ad283   | chore: added epic 8 acceptance test                                                                       | 12/09/2024               |
+|acceptnace-test| develop    | 9520021ae13032e410798dd06dbde7252b5d8d0f   | chore: added epic 9 acceptance test                                                                       | 12/09/2024               |
+|acceptnace-test| develop    | 568eb409dc3fbf273ab11fcbf42f88b7ae9662ca   | chore: added epic 10 acceptance test                                                                       | 12/09/2024               |
 
 
 
