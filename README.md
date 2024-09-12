@@ -523,7 +523,7 @@ El Execution Evidence para la revisión del sprint está orientado a documentar 
 El equipo trabajó en el desarrollo de la landing page utilizando ramas de cada feature, lo que permitió mejorar, actualizar y realizar modificaciones de manera más organizada. El uso de estas ramas facilita la integración y revisión antes de fusionarlas con la rama principal (main), asegurando que no se introduzcan errores. A continuación, se muestra el network graph y  code frecuency mediante la plataforma GitHub:
 
 Network graph:
-![Network Graph](assets/img/chapter-5/img-network-github.jpg)
+![Network Graph](assets/img/chapter-5/img-network-github.png)
 
 <br>
 
