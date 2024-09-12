@@ -417,9 +417,8 @@ En esta sección explicaremos el proceso de despliegue de nuestra página de ate
 ## 5.2. Landing Page, Services & Applications Implementation  
 ### 5.2.1. Sprint 1  
 
-<p align="center">
-  <img src="assets/img/chapter-5/img-sprint-1.png" alt=" " width="100%">
-</p>
+![Sprint Verduritas](assets/img/chapter-5/img-sprint-verduritas-1.png)
+
 
 #### 5.2.1.1. Sprint Planning 1  
 
@@ -451,6 +450,7 @@ En esta sección explicaremos el proceso de despliegue de nuestra página de ate
 
   
 #### 5.2.1.3. Development Evidence for Sprint Review  
+
 | **Repository** | **Branch** | **Commit Id**                              | **Commit Message**                                          | **Commit Message Body** | **Committed on (Date)** |
 |----------------|------------|--------------------------------------------|-------------------------------------------------------------|-------------------------|-------------------------|
 |GastroGo-Landing-Page| develop    | c8add7bb55905c1773cf2e1714223febf309a13c   | Initial commit                                               |                         | 17/08/2024               |
@@ -465,8 +465,35 @@ En esta sección explicaremos el proceso de despliegue de nuestra página de ate
 
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review  
-  
+En este sprint, se ha completado el desarrollo de la landing page. Para su despliegue, se emplearon varias herramientas clave, entre ellas:
+
+| **Repository** | **Branch** | **Commit Id**                              | **Commit Message**                                         | **Committed on (Date)** |
+|----------------|------------|--------------------------------------------|--------------------------------------------------------------------------------------|-------------------------|
+|acceptnace-test| develop    |    | Initial commit                                                                        | 17/08/2024               |
+
+
+
 #### 5.2.1.5. Execution Evidence for Sprint Review  
+
+En esta entrega, el equipo Verduritas logró implementar la landing page, la cual presenta distintas secciones que ofrecen información esencial para los usuarios. Estas secciones están diseñadas para explicar quiénes somos, qué nos diferencia, cómo funciona nuestra plataforma, y brindar una visión general de la experiencia, los planes disponibles y un espacio para contactarnos. Con este enfoque, se busca proporcionar una experiencia clara y completa para los visitantes.
+
+![Evidence 1](assets/img/chapter-5/img-evidence-1.png)
+
+![Evidence 2](assets/img/chapter-5/img-evidence-2.png)
+
+![Evidence 3](assets/img/chapter-5/img-evidence-3.png)
+
+![Evidence 4](assets/img/chapter-5/img-evidence-4.png)
+
+![Evidence 5](assets/img/chapter-5/img-evidence-5.png)
+
+![Evidence 6](assets/img/chapter-5/img-evidence-6.png)
+
+![Evidence 7](assets/img/chapter-5/img-evidence-7.png)
+
+![Evidence 8](assets/img/chapter-5/img-evidence-8.png)
+
+![Evidence 9](assets/img/chapter-5/img-evidence-9.png)
   
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review  
 Durante el sprint 1, se centró en el desarrollo de la landing page como primera tarea prioritaria. Dado que el enfoque principal fue establecer la estructura y diseño inicial de la página, no se integraron ni utilizaron servicios web en esta etapa. La implementación de servicios web se considerará en sprints futuros, una vez que la landing page esté completamente desplegada.
@@ -474,41 +501,24 @@ Durante el sprint 1, se centró en el desarrollo de la landing page como primera
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review  
 El Execution Evidence para la revisión del sprint está orientado a documentar y presentar evidencia sobre el desarrollo logrado a lo largo del sprint, prestando especial atención al progreso en la landing page. Estas pruebas son esenciales para demostrar cómo se han cumplido los objetivos establecidos y qué partes del trabajo están terminadas, asegurando que se corresponden con las expectativas del cliente.
 
-<p align="center">
-  <img src="assets/img/chapter-5/img-evidence-1.png" alt=" " width="100%">
-</p>
-
-<p align="center">
-  <img src="assets/img/chapter-5/img-evidence-2.png" alt=" " width="100%">
-</p>
-
-<p align="center">
-  <img src="assets/img/chapter-5/img-evidence-3.png" alt=" " width="100%">
-</p>
-
-<p align="center">
-  <img src="assets/img/chapter-5/img-evidence-4.png" alt=" " width="100%">
-</p>
-
-<p align="center">
-  <img src="assets/img/chapter-5/img-evidence-5.png" alt=" " width="100%">
-</p>
-
-<p align="center">
-  <img src="assets/img/chapter-5/img-evidence-6.png" alt=" " width="100%">
-</p>
-
-<p align="center">
-  <img src="assets/img/chapter-5/img-evidence-7.png" alt=" " width="100%">
-</p>
-
-<p align="center">
-  <img src="assets/img/chapter-5/img-evidence-8.png" alt=" " width="100%">
-</p>
+- Git: Utilizado como sistema de control de versiones, facilitó la colaboración efectiva entre los miembros del equipo durante el proceso de desarrollo.
+- GitFlow: Implementado como metodología de trabajo, permitió organizar y gestionar de manera eficiente los aportes de cada integrante, garantizando un flujo continuo en el progreso del proyecto.
+- GitHub: Plataforma esencial para el trabajo colaborativo, donde se gestionaron y almacenaron todas las versiones del proyecto, asegurando un control adecuado de los cambios.
+- GitHub Pages: Utilizado para desplegar la landing de forma rápida y sencilla, permitiendo que la aplicación esté disponible públicamente desde un repositorio de GitHub.
 
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint  
-  
+
+El equipo trabajó en el desarrollo de la landing page utilizando ramas de cada feature, lo que permitió mejorar, actualizar y realizar modificaciones de manera más organizada. El uso de estas ramas facilita la integración y revisión antes de fusionarlas con la rama principal (main), asegurando que no se introduzcan errores. A continuación, se muestra el network graph y  code frecuency mediante la plataforma GitHub:
+
+Network graph:
+![Network Graph](assets/img/chapter-5/img-network-github.jpg)
+
+<br>
+
+Code frecuency:
+![Code Frecuency](assets/img/chapter-5/img-code-frecuency.png)
+
 # Conclusiones  
 ### Conclusiones y recomendaciones  
 ### Video About-the-Team  
