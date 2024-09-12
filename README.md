@@ -8,35 +8,94 @@ Carrera: Ingeniería de Software
   
 Ciclo: 2024-02  
   
-Curso:   
+Curso: Aplicaciones Web   
   
-Sección:   
+Sección: WX53   
   
-Profesor:   
+Profesor: Alberto Wilmer Sanchez Seña  
   
-Informe del Trabajo Final  
+Informe del Trabajo Final  - TB1
   
-Startup:   
+Startup: DevDynasty  
   
-Producto:   
+Producto: GastroGo
 
-Integrantes:
-- 
-</div>
+### Team Members:
 
-<div align="center">
+| Member                                | Code       |
+|---------------------------------------|------------|
+| Barrutia Vaez, Ricardo Andree         | U201714765 |
+| Espinoza Inoñan, Fabiola Ximena       | U202214784 |
+| Gongora Sanchez, Marco Antonio         | U20211A085 |
+| Hurtado Palomino, Francisco Juan       | U202117498 |
+| Loli Ramirez, Camila Cristina          | U202110385 |
+
   
 **Agosto del 2024**
 </div>
   
 ---  
 # Registro de Versiones del Informe  
+
   
-  
+| Versión | Fecha      | Autor   | Descripción de modificaciones         |
+|---------|------------|---------|---------------------------------------|
+| 1.0     | 25/08/2024 | Barrutia Vaez, Ricardo Andree <br>	Espinoza Inoñan, Fabiola Ximena	<br> Gongora Sanchez, Marco Antonio	<br> Hurtado Palomino, Francisco Juan	<br> Loli Ramirez, Camila Cristina | Capítulo I <br> Capítulo II <br> Capítulo III <br> Capítulo IV <br> Capítulo V       |
+
+
+
 ---  
 # Project Report Collaboration Insights  
-  
-  
+
+TB1:
+
+Durante la realizacion del informe, se realizaron reuniones y se asignaron los temas a desarrollar para la entrega correspondiente a los Capítulos I al V del Sprint 1, estos los insights de la organizacion de Github.
+
+Contribuciones del equipo
+
+![Contribuciones del equipo](assets/img/develop/img-contributors-team.png)
+
+**Imágen de las contribuciones Ricardo:**
+
+![Contribuciones Ricardo](assets/img/develop/img-contributors-ricardo.png)
+
+**Imágen de los commits Ricardo:**
+
+![Commits Ricardo](assets/img/develop/img-commits-ricardo.png)
+
+**Imágen de las contribuciones Fabiola:**
+
+![Contribuciones Fabiola](assets/img/develop/img-contributors-fabiola.png)
+
+**Imágen de los commits Fabiola:**
+
+![Commits Fabiola](assets/img/develop/img-commits-fabiola.png)
+
+**Imágen de las contribuciones Marco:**
+
+![Contribuciones Marco](assets/img/develop/img-contributors-marco.png)
+
+**Imágen de los commits Marco:**
+
+![Commits Marco](assets/img/develop/img-commits-marco.png)
+
+**Imágen de las contribuciones Francisco:**
+
+![Contribuciones Francisco](assets/img/develop/img-contributors-francisco.png)
+
+**Imágen de los commits Francisco:**
+
+![Commits Francisco](assets/img/develop/img-commits-francisco.png)
+
+**Imágen de las contribuciones Francisco:**
+
+![Contribuciones Camila](assets/img/develop/img-contributors-camila.png)
+
+**Imágen de los commits Camila:**
+
+![Commits Camila](assets/img/develop/img-commits-camila.png)
+
+
 ---  
 # Student Outcome  
 El curso contribuye al cumplimiento del Student Outcome ABET: **ABET – EAC - Student Outcome 5** <br> Criterio: *Capacidad de comunicarse efectivamente con un rango de audiencias.*  
@@ -171,18 +230,234 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 # Capítulo I: Introducción  
 ## 1.1. Startup Profile  
 ### 1.1.1 Descripción de la Startup  
+Somos DevDynasty, un equipo de estudiantes de la Universidad Peruana de Ciencias Aplicadas (UPC) dedicados a innovar en el ámbito de la alimentación y la tecnología. Nuestra startup, GastroGo, conecta de manera eficiente a restaurantes de Lima Metropolitana con grupos de trabajadores, permitiendo pedidos en cantidad de forma rápida y organizada.
+
+Misión: Facilitar la conexión entre grupos de trabajadores y restaurantes locales para optimizar y simplificar el proceso de pedido de almuerzos en cantidad, apoyando tanto a los empleados como a los restaurantes de Lima Metropolitana.
+
+Visión: Convertirnos en la plataforma líder en la gestión de pedidos grupales de comidas, impulsando la eficiencia y fomentando el crecimiento de la gastronomía local.
 ### 1.1.2 Perfiles de integrantes del equipo  
+
+| Información                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Foto                                                         |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------|
+| **Ricardo Andree Barrutia**<br><br>Código: U201714765<br><br>Conocimientos y Habilidades: <br> <br>Como estudiante de ingeniería de software he adquirido conocimientos de C++, Java y de Ionic. Con respecto a las habilidades más destacables de mi persona, considero que el trabajo en equipo es una de ellas. Además de la capacidad resolutiva a la par que adaptativa ante diversas situaciones.<br>                                                                                                                                                                                                                                                                                                                               | ![Ricardo Barrutia](assets/img/chapter-1/img-ricardo.jpg)    |
+| **Camila Cristina Loli Ramirez**<br><br>Código: U202110385<br><br>Conocimientos y Habilidades:<br><br>Soy estudiante de la carrera Ingeniería de Software. Mi carrera se basa en los conocimientos y técnicas científicas para crear un programa informático. Tengo experiencia con el trabajo en equipo, creación de proyectos y creación de programas básicos. Aportaré al equipo mi creatividad, compromiso de trabajo en equipo, puntualidad y responsabilidad. Además, las metas, sean grupales o individuales, son muy importantes para mí, porque permiten que nos esforcemos al máximo para lograrlas. Me comprometo a trabajar constantemente para mejorar nuestro proyecto y a generar un entorno de trabajo sano con mi grupo. | ![Camila Loli](assets/img/chapter-1/img-camila.jpeg)         |
+| **Marco Antonio Góngora Sánchez**<br><br>Código: U20211A085<br><br>Conocimientos y Habilidades:<br><br>Mi nombre completo es Marco Antonio Góngora Sánchez (U20211A085),  estoy en la carrera de Ingeniería de Software donde se centra en la creación, desarrollo y el mantenimiento de sistemas informáticos eficientes mediante el uso de principios de ingeniería y herramientas tecnológicas. Tengo conocimientos del lenguaje de programación C++, Python, HTML-CSS y SQL. Algunas habilidades que rescato son la de trabajar en equipo y la creatividad.                                                                                                                                                                           | ![Marco Góngora](assets/img/chapter-1/img-marco.jpg)         |
+| **Fabiola Ximena Espinoza Inoñan**<br><br>Código: u202214784<br><br>Conocimientos y Habilidades: <br><br>Mi nombre es Fabiola Espinoza, tengo 21 años y estudio Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Me considero una persona responsable, creativa y empática, con habilidades destacadas en el trabajo en equipo y la convivencia con otras personas. He participado en el programa Coder Bloom, 28h y más. Y actualmente soy coordinadora de ACM Women UPC.                                                                                                                                                                                                                                                                                                                                                                         | ![Fabiola Espinoza](assets/img/chapter-1/img-fabiola.png)    |
+| **Francisco Hurtado Palomino**<br><br>Código: U202117498<br><br>Conocimientos y Habilidades:  <br><br>Tengo 20 años y soy estudiante de la Universidad Peruana de Ciencias Aplicadas y actualmente me encuentro en el séptimo ciclo de la carrera de Ingeniería de Software, cuento con una gran fluidez verbal, lo cual me permite trabajar en equipo. Cuento con un nivel medio en HTML, CSS y C++, actualmente me encuentro en el desarrollo de conocimiento en Java, JavaScript, Vue y TypeScript. Además, cuento con un gran conocimiento en edición de videos e imágenes.                                                                                                                                                           | ![Francisco Hurtado](assets/img/chapter-1/img-francisco.jpg) |
+
+
 ## 1.2 Solution Profile  
 ### 1.2.1 Antecedentes y problemática  
+Antecedentes: 
+
+Identificamos que la gestión de pedidos grupales se realizaba de manera tradicional, generalmente mediante llamadas telefónicas o visitas personales. Esto representa un desafío significativo para la gestión eficiente de los pedidos, afectando principalmente a los trabajadores, quienes buscan opciones de almuerzo accesibles y convenientes. Al realizarse los pedidos de forma manual, se generan ineficiencias y errores en el proceso, lo que repercute negativamente en la experiencia tanto de los clientes como de los restaurantes.
+
+Problemática:
+
+La problemática radica en la falta de una plataforma especializada que permita a los trabajadores realizar pedidos grupales de manera eficiente, sin generar dificultades en el proceso. Esto incluye demoras en la recepción de los pedidos, errores en las entregas, y una experiencia deficiente para los usuarios. De esta situación surge la necesidad de optimizar y digitalizar estos procesos para mejorar la productividad de los restaurantes y satisfacer las necesidades de los trabajadores.
+
+Para la elaboración de la descripción de los antecedentes y problemática, hemos aplicado la técnica de The 5 ’W’s y 2 ’H’s:
+
+**What**
+
+El problema radica en la dificultad de un grupo de trabajadores de una empresa para realizar pedidos grupales de comida en restaurantes de manera eficiente y organizada.
+
+**When** 
+
+El problema sucede cuando un grupo de trabajadores no llevan almuerzo a sus trabajos y suelen ir a un restaurante, que en reiteradas ocasiones está a su máxima capacidad o tienen mucha demanda. 
+
+**Where**
+
+Se enfoca inicialmente en Lima Metropolitana, abarcando distritos claves donde se concentran grandes cantidades de oficinas y negocios, como San Isidro, Miraflores, Surco, y San Borja. Estos son los lugares donde hay una alta demanda de servicios de alimentación para grupos de trabajadores.
+
+**Who**
+
+Los principales involucrados en esta problemática son los restaurantes de Lima metropolitana y grupo de trabajadores (oficinas, empresas, y más)
+
+**Why**
+
+Existe una necesidad en el mercado para realizar pedidos grupales de comida en restaurantes. Por tal motivo, GastroGo busca solucionar esta problemática y ofrecer beneficios tantos a los restaurantes y trabajadores.
+
+**How** 
+
+GastroGo nace de la necesidad de simplificar la experiencia de pedir comidas grupales. Los trabajadores al enfrentar varias dificultades como: encontrar su plato favorito, disponibilidad en un restaurante y más, encuentran en nuestra plataforma una solución práctica y eficiente.
+
+**How much**
+
+Se estima que en el mercado de pedidos de comida aumentó  un 47% en los últimos años segun la INEI, la actividad en restaurantes aumentó considerablemnte. 
+
+
+Según el Instituto Nacional de Estadística e Informática (INEI) (2022), en abril de 2022 la actividad de los restaurantes en Lima Metropolitana aumentó un 47,65 %, lo que refleja un crecimiento significativo en la demanda de servicios gastronómicos. Este incremento resalta la oportunidad y necesidad de plataformas como GastroGo, que buscan optimizar y digitalizar los procesos de pedidos grupales para satisfacer tanto a los restaurantes como a los grupos de trabajadores, mejorando así la eficiencia y la experiencia del cliente en un mercado en expansión. <br><br>
+
+![Inei](assets/img/chapter-1/img-inei-estadistica.png)
+
+
 ### 1.2.2 Lean UX Process  
-#### 1.2.2.1. Lean UX Problem Statements  
+#### 1.2.2.1. Lean UX Problem Statements
+**Problem Statement 1:**
+
+El estado actual del proceso de gestión de pedidos en restaurantes de Lima Metropolitana se ha centrado principalmente en métodos manuales y dependientes de llamadas telefónicas o aplicaciones genéricas de delivery, lo que presenta desafíos significativos, especialmente en la gestión de pedidos grupales. Los servicios existentes no logran abordar la eficiencia en la gestión de pedidos grupales, resultando en retrasos, errores frecuentes y alta insatisfacción del cliente. Nuestro servicio abordará esta brecha mediante el desarrollo de una plataforma especializada, GastroGo, que permitirá a los restaurantes manejar pedidos grupales de manera más eficiente, reduciendo los errores y mejorando la satisfacción del cliente. Nuestro enfoque inicial será restaurantes en Lima Metropolitana que gestionan pedidos grupales regularmente. Sabremos que hemos tenido éxito cuando veamos una reducción significativa en los errores de pedidos y un aumento en la satisfacción del cliente, así como en la adopción de la plataforma por parte de los restaurantes
+
+
+**Problem Statement 2:**
+
+El estado actual del proceso de pedidos grupales para trabajadores en Lima Metropolitana,  se ha centrado principalmente en métodos manuales y sistemas no optimizados, lo que dificulta la coordinación eficiente y precisa de los pedidos grupales.Los servicios existentes no logran abordar la falta de una solución integral que simplifique el proceso de pedido, eliminando demoras, errores en las entregas y problemas en la coordinación.Nuestro servicio abordará esta brecha mediante el desarrollo de GastroGo, una plataforma que facilita la gestión de pedidos grupales para trabajadores, ofreciendo una experiencia simplificada y precisa que asegura rapidez y conveniencia para los trabajadores.Nuestro enfoque inicial será grupos de trabajadores de diversas empresas que requieran realizar pedidos de almuerzo en conjunto.Sabremos que hemos tenido éxito cuando veamos una reducción significativa en los tiempos de procesamiento de pedidos, una disminución en los errores de entrega y una mayor satisfacción general entre los trabajadores que utilizan la plataforma.
+
 #### 1.2.2.2. Lean UX Assumptions  
+**Business Assumptions:**
+
+**Creo que mis usuarios necesitan** una plataforma que les permita gestionar pedidos grupales de manera eficiente y confiable asimismo les permita optimizar su flujo de trabajo al recibir y procesar múltiples pedidos al mismo tiempo.
+
+**Estas necesidades se pueden resolver** mediante el desarrollo de una plataforma especializada en la gestión de pedidos grupales. Para los restaurantes, esta plataforma debe contar con funcionalidades que automaticen y simplifiquen la recepción y gestión de múltiples pedidos, reduciendo la carga operativa, minimizando errores y acelerando la entrega.
+
+**Mis clientes iniciales son** los restaurantes en Lima Metropolitana que actualmente gestionan pedidos grupales con regularidad, así como los grupos de trabajadores de empresas que suelen realizar pedidos de almuerzo en conjunto. Estos clientes valorarán la simplicidad y confiabilidad durante el proceso de hacer pedidos.
+
+**El valor #1 que un cliente requiere de mi servicio es** la eficiencia en la realización de pedidos, minimización de errores en la entrega, y la conveniencia para realizar pedidos conjuntos.
+
+**El cliente también puede obtener estos beneficios adicionales:**
+
+Adicionalmente, los clientes podrán beneficiarse de una plataforma que ofrece una experiencia de usuario mejorada, permitiéndoles realizar sus pedidos de manera sencilla y rápida. A su vez, los restaurantes experimentan una mayor fidelización de sus clientes al poder brindarles una mejor experiencia.
+
+**Voy a adquirir a mis clientes a través de** una estrategia de marketing digital enfocada y segmentada. Colaboraremos con restaurantes locales para integrarnos en sus procesos de pedidos, ofreciendo pruebas gratuitas de nuestra plataforma. Además, promocionamos nuestro servicio mediante campañas de publicidad en redes sociales y plataformas profesionales.
+
+**Haré dinero a través de** un modelo de suscripción, adaptado a cada segmento objetivo, que ofrecerá funcionalidades adicionales y personalizadas.
+
+**Mi competencia de mercado serán** aplicaciones o servicios que brindan menús o planes de alimentación personalizados, como Manzana Verde, LifeSum y KnowEats, los cuales ofrecen opciones para pedir comida adaptadas a necesidades específicas de nutrición.
+
+**Los venceremos debido a que** nuestra propuesta se diferencia al ofrecer un modelo de suscripción que proporciona acceso a una amplia variedad de menús saludables de diversos restaurantes afiliados, combinando esta oferta con una experiencia de usuario simplificada.
+
+**Mis mayores riesgos de producto son** la posible resistencia de los restaurantes a adoptar una tecnología que implicaría cambiar sus procesos y la posibilidad de que los grupos de trabajadores no adopten la plataforma debido a su preferencia por aplicaciones de delivery existentes.
+
+**Resolveremos esto mediante** un proceso de desarrollo que incluya un diseño previo detallado de la aplicación, basado en las necesidades y deficiencias identificadas en las entrevistas realizadas. Esto nos permitirá comprender la situación actual y evaluar el nivel de satisfacción con nuestra propuesta.
+
+**Sabremos que hemos tenido éxito cuando uno de estos cambios en el comportamiento de nuestro cliente:**
+
+- Observemos un aumento significativo en la cantidad de pedidos grupales gestionados a través de la plataforma por parte de los restaurantes, lo que indicará que los establecimientos están adoptando y utilizando activamente el sistema
+- Notemos una reducción en la tasa de errores en la gestión de pedidos y una mejora en la velocidad de entrega, señalando que la plataforma está mejorando la eficiencia operativa.
+- Cuando los trabajadores usen la plataforma con frecuencia, su satisfacción con el servicio ha aumentado, lo que demuestra que consideran la solución valiosa y útil para sus pedidos grupales.
+
+**Qué otras suposiciones tenemos que, de probarse falsas, pueden causar que nuestro proyecto fracase:**
+
+- Los restaurantes y grupo de trabajadores estarán dispuestos a cambiar sus procesos actuales y adoptar nuestra tecnología dejando de lado los métodos tradicionales.
+- Suponer que el mercado está listo para adoptar una nueva solución tecnológica para pedidos grupales
+- Creer que los grupos de trabajadores valorarán una plataforma especializada para pedidos grupales.
+
+**User Assumptions:**
+
+**¿Quiénes serán nuestros usuarios?**
+
+Nuestros usuarios principales son:
+
+- Restaurantes locales en Lima Metropolitana que gestionan pedidos grupales con frecuencia.
+
+- Grupos de trabajadores en oficinas y empresas que realizan pedidos de almuerzo en conjunto.
+
+**¿Dónde encaja nuestro producto en su vida o trabajo?**
+
+Para los restaurantes: GastroGo encaja en el flujo de trabajo al integrar una herramienta digital que facilita la recepción y gestión de pedidos grupales, mejorando la eficiencia operativa.
+
+Para los grupos de trabajadores: La plataforma encaja en su rutina diaria al ofrecer una solución simplificada y conveniente para coordinar y realizar pedidos de almuerzo de manera organizada y sin complicaciones.
+
+**¿Qué problemas tiene nuestro producto y cómo se pueden resolver?**
+
+Problemas:
+
+- Los usuarios podrían tener preocupaciones sobre la seguridad y privacidad de sus datos en la plataforma.
+- Los trabajadores y restaurantes podrían no percibir un valor significativo en la plataforma.
+- Los usuarios pueden encontrar complicado integrar la plataforma  en sus rutinas
+
+Soluciones:
+
+- Desarrollar una interfaz intuitiva y fácil de usar, y proporcionar tutoriales y soporte para ayudar a los usuarios a integrar la plataforma.
+- Realizar estudios de caso y presentar datos que muestran cómo la plataforma mejora la eficiencia y la experiencia en comparación con los métodos tradicionales
+- Implementar diversidad  de medidas de seguridad y comunicar claramente estas medidas a los usuarios.
+
+**¿Cómo y cuándo es usado nuestro producto?**
+
+Nuestro producto, GastroGo, es utilizado por los restaurantes para recibir y gestionar pedidos grupales, integrándose en sus sistemas de operaciones diarias para optimizar el manejo de grandes volúmenes de pedidos.
+
+Los restaurantes usan la plataforma principalmente durante las horas de almuerzo, cuando los grupos de trabajadores realizan pedidos en masa para sus comidas.
+
+Además, el producto también se usa en cualquier momento del día en que los restaurantes reciben y procesan estos pedidos, asegurando una gestión eficiente y organizada del flujo de trabajo en distintos horarios.
+
+**¿Qué características son importantes?**
+
+- Interfaz intuitiva y fácil de navegar, que permita a los trabajadores realizar y coordinar pedidos grupales sin complicaciones.
+- Sistema de gestión de pedidos fácil de usar, que permita a los restaurantes recibir y procesar pedidos grupales de manera eficiente.
+- Funcionalidades para automatizar la recepción y el procesamiento de pedidos, reduciendo el riesgo de errores y mejorando la rapidez en el manejo de grandes volúmenes.
+- Funcionalidades para visualizar menús y precios de manera clara, ayudando a tomar decisiones informadas.
+
+**¿Cómo debe verse y comportarse nuestro producto?**
+
+- La interfaz de usuario (UI) de nuestra plataforma debe ser moderna y clara, con un diseño que facilite la navegación y destaque por su simplicidad y eficiencia.
+- La experiencia de usuario (UX) debe priorizar la fluidez y rapidez en la interacción, asegurando que los procesos de pedido y gestión se realicen sin complicaciones.
+- El comportamiento de la plataforma debe ser óptimo y eficiente, garantizando una experiencia de usuario efectiva y satisfactoria al realizar pedidos.
+
+**Features:**
+
+- Desde una cuenta con el rol de restaurante, la plataforma debe ser compatible con diversos sistemas de pago, facilitando la integración con los procesos operativos del restaurante. Esto garantizará una sincronización precisa de los pedidos y una integración total.
+
+- Desde una cuenta con el rol de restaurante, la plataforma debe permitir la gestión eficiente de pedidos grupales, mediante funcionalidades para automatizar la recepción y procesamiento de pedidos.
+
+- Desde una cuenta con el rol de trabajador, la plataforma debe ofrecer una interfaz intuitiva y fácil de navegar, que permita la creación y coordinación de pedidos grupales de manera rápida y sin complicaciones.
+
+- Desde una cuenta con el rol de trabajador, la plataforma debe permitir la visualización de menús y precios de los restaurantes, facilitando la selección de opciones adecuadas para los pedidos grupales.
+
+- Desde una cuenta con el rol de trabajador, la plataforma debe incluir notificaciones y confirmaciones de pedidos en tiempo real, manteniendo a los usuarios informados sobre el estado de sus pedidos.
+
 #### 1.2.2.3. Lean UX Hypothesis Statements  
+**Creemos que** los restaurantes de Lima metropolitana estarán interesados en GastroGo porque les permite recibir pedidos en cantidad de manera rápida y organizada.
+
+**Sabremos que** los restaurantes encuentran valor en la plataforma cuando al menos el 70% de los restaurantes están registrados y utilizan regularmente la plataforma para gestionar sus pedidos.
+
+**Creemos que** al implementar un plan promocional (descuentos, cupones, promociones) por realizar pedidos con frecuencia obtendremos la atención de los usuarios. 
+
+**Sabremos que** el plan promocional es efectivo cuando los usuarios que hayan ganado algún descuento, realicen un pedido adicional en su compra.  
+
+**Creemos que** la interfaz de GastroGo debe ser amigable y fácil de usar, va a mejorar la experiencia del usuario al realizar sus pedidos.
+
+**Sabremos que** la experiencia del usuario es satisfactoria cuando al menos un 85% de usuarios hayan completado sus pedidos sin necesidad de alguna ayuda o soporte adicional.
+
+
 #### 1.2.2.4. Lean UX Canvas  
+
+| **1. Business Problems**                                                                                                                                                                                                                                                                         | **5. Solution Ideas**                                                                                                                                                                                                                                                                                                                                                             | **2. Business Outcome**                                                                                                                                                                                                              |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Grupo de trabajadores de pequeñas y medianas empresas enfrentan el desafío de no contar con una plataforma especializada que facilite los procesos para realizar pedidos de comida de forma grupal debido a los servicios de reparto tradicional. <br> <br> Esto resulta en dificultades para llevar a cabo una gestión eficiente de pedidos en grupo, el problema se agrava cuando los restaurantes no tienen la capacidad tecnológica para manejar grandes volúmenes de pedidos de manera rápida y efectiva, lo que resulta en pérdida de clientes e ingresos. | Una aplicación web responsiva que permita a los usuarios trabajadores realizar pedidos grupales sin dificultades. <br> <br> Desde una cuenta con el rol de restaurante, la plataforma debe ser compatible con diversos sistemas de pago, facilitando la integración con los procesos operativos del restaurante. Esto garantizará una sincronización precisa de los pedidos y una integración total. <br> <br> Desde una cuenta con el rol de trabajador, la plataforma debe ofrecer una interfaz intuitiva y fácil de navegar, que permita la creación y coordinación de pedidos grupales de manera rápida y sin complicaciones. <br> <br> Desde una cuenta con el rol de trabajador, la plataforma debe permitir la visualización de menús y precios de los restaurantes, facilitando la selección de opciones adecuadas para los pedidos grupales. <br> <br> Desde una cuenta con el rol de trabajador, la plataforma debe incluir notificaciones y confirmaciones de pedidos en tiempo real, manteniendo a los usuarios informados sobre el estado de sus pedidos. | Tendremos mayor satisfacción del cliente al simplificar los pedidos de comida, mejorando la experiencia del cliente. <br> <br> Aumentar la productividad de pedidos masivos para restaurantes. <br> <br> Incremento de ventas y conexión efectiva entre restaurantes y grupos de trabajadores, personalizando un plan promocional (descuentos, cupones, promociones, ofertas). |
+
+| **3. User**                                                                                                                                                                                                                                                                                       | **4. User Outcome & Benefit**                                                                                                                                                                                                                                                                                                                   |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Grupos de trabajadores en entornos laborales que desean simplificar la organización de pedidos de comida en grupo. <br> <br> Diversos establecimientos de comida buscan incrementar sus ventas al recibir y gestionar pedidos en cantidad de manera eficiente, especialmente durante las horas de almuerzo.                                 | Ahorro de tiempo: <br> Los usuarios podrán realizar pedidos grupales de manera rápida y sencilla, evitando largas colas, no disponibilidad y problemas en los restaurantes. <br> <br> Experiencia de pedido simplificada: <br> GastroGo, la plataforma que organiza los pedidos, reduciendo la complejidad y errores comunes en los pedidos grupales. <br> <br> Facilidad de uso: <br> Una interfaz intuitiva y fácil de manejar que hace que ordenar pedidos en grupo sea una experiencia sin errores. <br> <br> Mejor integración con el equipo: <br> Facilita la unión entre colegas al simplificar el proceso de ordenar juntos, mejorando la experiencia colectiva durante las horas de comida. |
+
+| **6. Hypothesis**                                                                                                                                                                                                                                                                                  | **7. What is the most important thing we need to learn first?**                                                                                                                                                                                                                                      | **8. What is the least amount of work we need to do to learn the next most important thing?**                                                                                                                                                                       |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Creemos que los restaurantes de Lima metropolitana estarán interesados en GastroGo porque les permite recibir pedidos en cantidad de manera rápida y organizada. <br> <br> Creemos que al implementar un plan promocional (descuentos, cupones, promociones) por realizar pedidos con frecuencia obtendremos la atención de los usuarios. <br> <br> Creemos que la interfaz de GastroGo debe ser amigable y fácil de usar, va a mejorar la experiencia del usuario al realizar sus pedidos. | Entender las necesidades de nuestros usuarios para poder resolver sus problemas. <br> <br> Conocer los precios que manejan los productos y/o servicios ya existentes en el mercado para analizarlos y establecer un precio altamente competitivo y accesible para los usuarios. <br> <br> Tener conocimientos sólidos en el diseño y desarrollo de aplicaciones web con un framework escalable y robusto. <br> <br> Conocer detalladamente la gestión de los restaurantes y la atención a su público objetivo. | El enfoque más eficiente para obtener información de primera mano para nuestro proyecto, es realizar entrevistas a los dos segmentos objetivos. <br> <br> Investigar los precios que se manejan en el mercado para servicios similares. <br> <br> Practicar las habilidades técnicas de desarrollo en C# y otros lenguajes de programación para que la solución de software desarrollada se convierta en una experiencia única para nuestros clientes. |
+
+
+
 ## 1.3. Segmentos objetivo  
+Para nuestro proyecto GastroGo se ha establecido dos segmentos objetivos:
+
+Restaurantes de Lima Metropolitana:
+
+Diversos establecimientos de comida buscan incrementar sus ventas al recibir y gestionar pedidos en cantidad de manera eficiente, especialmente durante las horas de almuerzo. Estos restaurantes requieren de herramientas para optimizar el proceso de pedidos grupales y acceder a clientes recurrentes.
+
+
+Grupo de trabajadores:
+
+Equipos de trabajadores en entornos laborales que desean simplificar la organización de pedidos de comida en grupo. Buscan una plataforma fácil de usar que les permita realizar pedidos colectivos de manera rápida y eficiente, con la posibilidad de obtener beneficios adicionales como descuentos o recompensas.
+
+
 # Capítulo II: Requirements Elicitation & Analysis  
 ## 2.1 Competidores
 Entender el entorno competitivo es crucial para el éxito de cualquier negocio. En esta parte, analizaremos detalladamente quiénes son nuestros competidores, tanto directos como indirectos, y examinaremos las estrategias que utilizan, así como sus fortalezas y debilidades.
+
+| EMPRESA         | DESCRIPCIÓN                                                                 | IMAGEN                                                                                               |
+|-----------------|-----------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| **Manzana Verde** | Es una plataforma de nutrición que ofrece asesoramiento personalizado y recetas saludables para mejorar el bienestar general. | ![Manzana Verde](assets/img/chapter-2/img-manzana-verde-logo.png) |
+| **Knoweats**     | Es una aplicación que ofrece opciones de comida saludable a domicilio, permitiendo a los usuarios hacer pedidos de alimentos nutritivos y equilibrados. | ![Knoweats](assets/img/chapter-2/img-knoweats-logo.png)     |
+| **Pedidos Ya**   | Es una aplicación de entrega de alimentos y productos que conecta a los usuarios con una amplia variedad de restaurantes y tiendas para realizar pedidos rápidos y convenientes. | ![Pedidos Ya](assets/img/chapter-2/img-pedidosya-logo.png)   |
+
 ## 2.1.1. Analisis competitivo
 El análisis competitivo se enfoca en estudiar detalladamente a nuestros competidores para reconocer sus puntos fuertes, débiles, oportunidades y amenazas. Este proceso nos permitirá entender mejor nuestra posición en el mercado y formular estrategias más efectivas.
 
@@ -292,9 +567,7 @@ Las entrevistas son fundamentales porque nos permiten conocer mejor a nuestro p�
 
 **Entrevista #01: Jonathan Berrocal (22 años - Villa Maria del Triunfo) - 25 de agosto del 2024**
 
-<p align="center">
-  <img src="assets/img/chapter-2/img-entrevista-trabajadores-1.png" alt=" " width="50%">
-</p>
+![Jonathan Berrocal](assets/img/chapter-2/img-entrevista-trabajadores-1.png)
 
 [GastroGo - Registro de Entrevistas.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EWIpimdxe6ZHoMD_xHk62dQBUgZ6DXhQhyfx2nwDKM6IQg?e=Z6ZJw4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D) (Comienzo 00:00:00 Fin - 00:05:48)
 
@@ -328,9 +601,7 @@ Por último, le gustaría que la aplicación de pedidos grupales ofreciera recom
 **Entrevista #02: Raul Sulca Ynoñan (29 años - Comas) - 29 de agosto del 2024**
 
 
-<p align="center">
-  <img src="assets/img/chapter-2/img-entrevista-trabajadores-2.png" alt=" " width="55%">
-</p>
+![Raul Sulca Ynoñan](assets/img/chapter-2/img-entrevista-trabajadores-2.png)
 
 [GastroGo - Registro de Entrevistas.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EWIpimdxe6ZHoMD_xHk62dQBUgZ6DXhQhyfx2nwDKM6IQg?e=3mAPA9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzQ4Ljc5fX0%3D)  (Comienzo 00:05:48 - Fin 00:13:02)
 
@@ -359,9 +630,7 @@ Por último, le gustaría que la aplicación de pedido grupales sea amigable con
 
 [GastroGo - Registro de Entrevistas.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EWIpimdxe6ZHoMD_xHk62dQBUgZ6DXhQhyfx2nwDKM6IQg?e=pkLHZB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NzgyLjYyfX0%3D)  (Comienzo 00:13:02 - Fin 00:23:01)
 
-<p align="center">
-  <img src="assets/img/chapter-2/img-entrevista-trabajadores-3.png" alt=" " width="55%">
-</p>
+![Daniel Vazquez](assets/img/chapter-2/img-entrevista-trabajadores-3.png)
 
 Daniel Vasquez nos comenta que es bachiller de Derecho de la Universidad Nacional Pedro Ruiz Gallo de Chiclayo. Asimismo, se encuentra trabajando en la Corte Superior de Lima. 
 
@@ -382,9 +651,7 @@ Daniel estaría interesado en una plataforma que facilite la gestión de pedidos
 
 **Entrevista #04: Juan Esteban Espinoza (56 años - La Molina) 26 de agosto del 2024**
 
-<p align="center">
-  <img src="assets/img/chapter-2/img-entrevista-restaurantes-1.png" alt=" " width="50%">
-</p>
+![Juan Esteban Espinoza ](assets/img/chapter-2/img-entrevista-restaurantes-1.png)
 
 [GastroGo - Registro de Entrevistas.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EWIpimdxe6ZHoMD_xHk62dQBUgZ6DXhQhyfx2nwDKM6IQg?e=7h4rjj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTM4Mi41OX19)  (Comienzo 00:23:02 - Fin 00:30:01)
 
@@ -406,9 +673,7 @@ Juan Esteban estaría interesado en una herramienta tecnológica que le permita 
 
 [GastroGo - Registro de Entrevistas.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EWIpimdxe6ZHoMD_xHk62dQBUgZ6DXhQhyfx2nwDKM6IQg?e=nJtWhl&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTgwMS45NH19)  (Comienzo 00:30:02 - Fin 00:39:42)
 
-<p align="center">
-  <img src="assets/img/chapter-2/img-entrevista-restaurantes-2.png" alt=" " width="50%">
-</p>
+![Zaid Arauco ](assets/img/chapter-2/img-entrevista-restaurantes-2.png)
 
 Zaid Arauco es la Gerente General de un restaurante ubicado en Miraflores. Tiene 47 años y se dedica a gestionar las operaciones diarias del restaurante, asegurando que todo funcione de manera óptima.
 
@@ -428,9 +693,7 @@ Finalmente, Zaid menciona que, aunque las plataformas de delivery como Rappi cob
 **#06: Martín Zuñiga (48 años - Victoria) - 29 de agosto de 2024**
 
 
-<p align="center">
-  <img src="assets/img/chapter-2/img-entrevista-restaurantes-3.png" alt=" " width="50%">
-</p>
+![Martín Zuñiga ](assets/img/chapter-2/img-entrevista-restaurantes-3.png)
 
 [GastroGo - Registro de Entrevistas.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EWIpimdxe6ZHoMD_xHk62dQBUgZ6DXhQhyfx2nwDKM6IQg?e=8chJ9M&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MjM4My4wNH19)  (Comienzo 00:39:42 - Fin 00:43:49)
 
@@ -547,19 +810,16 @@ En esta sección, mostramos perfiles ficticios que representan a los segmentos d
 
 **User Persona: Grupo de Trabajadores**
 
-<p align="center">
-  <img src="assets/img/chapter-2/img-user-persona-1.png" alt=" " width="50%">
-</p>
+![User Persona 1 ](assets/img/chapter-2/img-user-persona-1.png)
 
 **User Persona: Restaurantes**
 
-<p align="center">
-  <img src="assets/img/chapter-2/img-user-persona-2.png" alt=" " width="50%">
-</p>
+![User Persona 2](assets/img/chapter-2/img-user-persona-2.png)
 
 ### 2.3.2. User Task Matrix  
 
 La User Task Matrix nos permite descomponer las actividades y tareas que nuestros usuarios llevan a cabo al utilizar nuestra startup. Al clasificar estas tareas según su frecuencia e importancia para los usuarios, podemos priorizar nuestros recursos en desarrollo y diseño para optimizar su experiencia.
+
 | User task                                       | Lucas Fernández<br>Trabajador | Carlos López<br>Gerente de Restaurante |
 |-------------------------------------------------|-------------------------------|---------------------------------------|
 |                                                 | Frecuencia | Importante            | Frecuencia | Importante            |
@@ -627,15 +887,11 @@ a través de nuestra plataforma. Desde el momento en que un “líder de equipo"
 
 User Journey Mapping: Grupo de trabajadores
 
-<p align="center">
-  <img src="assets/img/chapter-2/img-journey-mapping-1.png" alt=" " width="100%">
-</p>
+![Journey mapping 1](assets/img/chapter-2/img-journey-mapping-1.png)
 
 User Journey Mapping: Restaurantes
 
-<p align="center">
-  <img src="assets/img/chapter-2/img-journey-mapping-2.png" alt=" " width="100%">
-</p>
+![Journey mapping 2](assets/img/chapter-2/img-journey-mapping-1.png)
 
 
 ### 2.3.4. Empathy Mapping  
@@ -643,24 +899,19 @@ User Journey Mapping: Restaurantes
 En esta sección se presenta el Empathy Mapping, una herramienta para crear un perfil detallado de los user personas y desarrollar una comprensión profunda de su perspectiva y experiencia. Para cada user persona, se incluyen cinco elementos clave: lo que el usuario ve, lo que el usuario escucha, lo que el usuario dice, lo que el usuario hace y lo que el usuario siente. Además, se incluyen los pains y gains identificados en base a las preguntas: ¿Qué le preocupa? Y ¿Qué puede ayudar a resolver sus problemas? ¿Qué puede convencerlo de que somos la alternativa correcta? ¿Qué dice? Los mapas de empatía se han desarrollado con la herramienta UXPressia.
 
 Empathy Mapping: Grupo de trabajadores
-<p align="center">
-  <img src="assets/img/chapter-2/img-empathy-map-1.png" alt=" " width="100%">
-</p>
+
+![Empathy mapping 1](assets/img/chapter-2/img-empathy-map-1.png)
 
 Empathy Mapping: Restaurantes
 
-<p align="center">
-  <img src="assets/img/chapter-2/img-empathy-map-2.png" alt=" " width="100%">
-</p>
+![Empathy mapping 2 ](assets/img/chapter-2/img-empathy-map-2.png)
 
 ### 2.3.5. As-is Scenario Mapping  
 En esta sección se presentan los As-is Scenario mapping para ambos segmentos objetivos donde se va a identificar y comprender los puntos contacto entre usuarios y el software de gestión de alimentos o comida. Para la elaboración de esta actividad se ha utilizado la herramienta Miro.
 
 As-is Scenario Mapping: Grupo de Trabajadores
 
-<p align="center">
-  <img src="assets/img/chapter-2/img-as-is-1.png" alt=" " width="100%">
-</p>
+![Empathy mapping 2 ](assets/img/chapter-2/img-empathy-map-2.png)
 
 **Positive Points:**
 
@@ -694,9 +945,7 @@ Personalizar los pedidos para cada miembro del grupo:
 
 As-is Scenario Mapping: Restaurantes
 
-<p align="center">
-  <img src="assets/img/chapter-2/img-as-is-2.png" alt=" " width="100%">
-</p>
+![As-is 2](assets/img/chapter-2/img-as-is-2.png)
 
 **Positive Points:**
 
@@ -791,11 +1040,11 @@ Definición: Un restaurante que ha firmado un acuerdo con GastroGo para ofrecer 
 ## 3.1. To-Be Scenario Mapping 
 **Segmento Objetivo:** Restaurantes locales en Lima Metropolitana que gestionan pedidos grupales con frecuencia.
 
-<img src="assets/img/T-B SM S1.jpg">
+![to-be scenario mapping 1](assets/img/chapter-3/img-to-be-workers-1.jpg)
 
 **Segmento Objetivo:** Grupos de trabajadores en oficinas y empresas que realizan pedidos de almuerzo en conjunto.
 
-<img src="assets/img/T-B SM S2.jpg">
+![to-be scenario mapping 2](assets/img/chapter-3/img-to-be-restaurant-1.jpg)
 
 ## 3.2. User Stories
 
@@ -804,6 +1053,7 @@ Definición: Un restaurante que ha firmado un acuerdo con GastroGo para ofrecer 
 | **Epic 1: Landing Page**                                                                                              |
 |------------------------------------------------------------------------------------------------------------------------|
 | **Cómo** visitante<br>**Quiero** saber información de la aplicación web<br>**Para** ver si me interesa sus funcionalidades |
+
 
 ### Historias de Usuario para Epic 1
 
@@ -817,6 +1067,7 @@ Definición: Un restaurante que ha firmado un acuerdo con GastroGo para ofrecer 
 | E1 - US006      | Sección de Contacto        | **Como** visitante<br> **Quiero** encontrar un formulario de contacto<br> **Para** poder enviar consultas o solicitar más información sobre la aplicación. | **Escenario 1: Formulario de Contacto**<br> **Dado** que el visitante accede a la landing page,<br> **Cuando** se desplaza a la sección de Contacto,<br> **Entonces** debe encontrar un formulario de contacto con campos para nombre, correo electrónico, y mensaje.<br><br> **Escenario 2: Confirmación de Envío**<br> **Dado** que el visitante completa el formulario de contacto,<br> **Cuando** hace clic en el botón de enviar,<br> **Entonces** debe recibir un mensaje de confirmación y la consulta debe ser enviada al equipo de soporte de "Gastro Go". | 1                         |
 | E1 - US007      | Sección de footer          | **Como** visitante<br> **Quiero** ver un footer en la página<br> **Para** poder acceder rápidamente a enlaces importantes, redes sociales, y suscribirme al boletín. | **Escenario 1: Visualización del footer**<br> **Dado** que el visitante está navegando por la página,<br> **Cuando** llega al final de la página,<br> **Entonces** debe ver una sección de footer que incluya enlaces a las redes sociales, contenido relevante del landing page, y una opción de suscripción al boletín.<br><br> **Escenario 2: Suscripción al boletín**<br> **Dado** que el usuario quiere suscribirse al boletín,<br> **Cuando** ingrese su dirección de correo electrónico y haga clic en el botón de suscripción,<br> **Entonces** el sistema debe enviar y almacenar el email. | 1                         |
 | E1 - US008      | Cambio de idioma           | **Como** visitante<br> **Quiero** poder cambiar el idioma de la aplicación<br> **Para** visualizar el contenido en mi idioma preferido. | **Escenario 1: Cambio de idioma en la misma página**<br> **Dado** que el visitante está navegando en la página,<br> **Cuando** seleccione una opción de idioma,<br> **Entonces** el contenido de la página debe cambiar al idioma seleccionado.<br><br> **Escenario 2: Persistencia del idioma seleccionado**<br> **Dado** que el visitante cambia el idioma,<br> **Cuando** navegue a otras secciones de la página,<br> **Entonces** el idioma seleccionado debe mantenerse activo en todas las páginas sin necesidad de volver a configurarlo. | 1                         |
+
 
 ### Epic 2: Gestión de cuenta
 | **Epic 2: Gestión de cuenta**                                                                                              |
@@ -835,6 +1086,7 @@ Definición: Un restaurante que ha firmado un acuerdo con GastroGo para ofrecer 
 | E2 - US015  | Notificación de confirmación de pedidos grupales | **Como** restaurante<br>**Quiero** que cada miembro del grupo reciba una notificación de confirmación<br>**Para** que aprecien los detalles del pedido cuando el pedido se confirme. | **Escenario 1: Notificación de Confirmación**<br>**Dado** que un grupo ha realizado un pedido,<br>**Cuando** se confirme el pedido,<br>**Entonces** cada miembro del grupo debe recibir una notificación de confirmación con los detalles del pedido. | 2             |
 | E2 - US016  | Sistema de notificaciones y Recordatorios | **Como** restaurante<br>**Quiero** que cada miembro del grupo reciba recordatorios y notificaciones de entrega<br>**Para** asegurarse de que estén al tanto de sus pedidos. | **Escenario 1: Recordatorio de Entrega**<br>**Dado** que se acerca la hora de entrega del pedido,<br>**Cuando** falten 30 minutos para la entrega,<br>**Entonces** cada miembro del grupo debe recibir un recordatorio con la información de entrega actualizada.<br><br>**Escenario 2: Notificación Final de Entrega**<br>**Dado** que el pedido está en camino,<br>**Cuando** el pedido esté a punto de llegar,<br>**Entonces** cada miembro del grupo debe recibir una notificación final con la hora estimada de llegada. | 2             |
 | E2 - US017  | Encuestas Post-Compra             | **Como** restaurante<br>**Quiero** implementar un sistema de encuestas post-compra que permita a los usuarios compartir su experiencia y recibir recomendaciones para mejorar futuras órdenes<br>**Para** mejorar futuras órdenes. | **Escenario 1: Envío de Encuesta Post-Compra**<br>**Dado** que un pedido ha sido entregado,<br>**Cuando** el pedido se marca como completado,<br>**Entonces** el sistema debe enviar una encuesta al usuario solicitando sus comentarios o valoraciones sobre el pedido.<br><br>**Escenario 2: Generación de Informe de Feedback**<br>**Dado** que el usuario ha proporcionado una calificación baja,<br>**Cuando** se envíe la encuesta,<br>**Entonces** el sistema debe generar una notificación al restaurante con el feedback para tomar medidas correctivas. | 2             |
+
 
 ### Epic 3: Selección de Restaurante
 | **Epic 3: Selección de Restaurante**                                                                                              |
@@ -861,6 +1113,7 @@ Definición: Un restaurante que ha firmado un acuerdo con GastroGo para ofrecer 
 | E4 - US023  | Personalización de Ingredientes      | **Como** líder del grupo<br>**Quiero** personalizar los ingredientes de un plato<br>**Para** ajustarlos a las preferencias del grupo. | **Escenario 1: Añadir o Quitar Ingredientes**<br>**Dado** que el líder está personalizando un plato,<br>**Cuando** selecciona un ingrediente,<br>**Entonces** puede añadirlo o quitarlo según la preferencia.<br><br>**Escenario 2: Guardar Personalización**<br>**Dado** que el líder ha personalizado un plato,<br>**Cuando** guarda la personalización,<br>**Entonces** se actualiza la información del plato en el pedido. | 4             |
 | E4 - US024  | Confirmar o Agregar a Votación       | **Como** líder del grupo<br>**Quiero** confirmar la personalización del plato o agregarlo a votación<br>**Para** que el grupo decida. | **Escenario 1: Confirmar Pedido**<br>**Dado** que el líder ha personalizado un plato,<br>**Cuando** decide confirmar,<br>**Entonces** el plato se añade al pedido listo para pagar.<br><br>**Escenario 2: Agregar a Votación**<br>**Dado** que el líder ha personalizado un plato,<br>**Cuando** decide agregarlo a votación,<br>**Entonces** el plato se guarda en una lista para votación posterior. | 4             |
 
+
 ### Epic 5: Coordinación de Decisión del Pedido
 | **Epic 5: Coordinación de Decisión del Pedido**                                                                                              |
 |----------------------------------------------------------------------------------------------------------------------------|
@@ -872,6 +1125,7 @@ Definición: Un restaurante que ha firmado un acuerdo con GastroGo para ofrecer 
 | E5 - US025  | Creación Automática de Votación      | **Como** líder del grupo<br>**Quiero** que se cree automáticamente una nueva votación cuando selecciono la opción "Dejarlo a votación"<br>**Para** un plato, para coordinar las decisiones del grupo. | **Escenario 1: Generar Votación**<br>**Dado** que el líder ha personalizado un plato,<br>**Cuando** selecciona la opción "Dejarlo a votación",<br>**Entonces** se crea automáticamente una votación con ese plato.<br><br>**Escenario 2: Agregar Platos a Votación Activa**<br>**Dado** que ya existe una votación activa,<br>**Cuando** el líder selecciona otro plato y lo deja a votación,<br>**Entonces** este nuevo plato se agrega a la votación existente. | 5             |
 | E5 - US026  | Compartir Código de Votación          | **Como** líder del grupo<br>**Quiero** compartir un código generado<br>**Para** que los miembros del grupo puedan ingresar a la votación y votar por el plato de su elección. | **Escenario 1: Generar Código de Votación**<br>**Dado** que una votación ha sido creada,<br>**Cuando** el líder decide compartirla,<br>**Entonces** se genera un código único para que los miembros del grupo puedan acceder.<br><br>**Escenario 2: Participación en la Votación**<br>**Dado** que los miembros del grupo tienen el código de votación,<br>**Cuando** lo ingresan en la plataforma,<br>**Entonces** pueden votar por el plato o restaurante de su preferencia. | 5             |
 | E5 - US027  | Resolución de Empates con Sorteo     | **Como** grupo de trabajadores<br>**Quiero** que en caso de empate en la votación, se realice un sorteo<br>**Para** determinar el restaurante o plato ganador, para evitar decisiones inconclusas. | **Escenario 1: Detección de Empate**<br>**Dado** que la votación ha terminado,<br>**Cuando** se detecta un empate entre opciones,<br>**Entonces** se activa el proceso de sorteo.<br><br>**Escenario 2: Realización de Sorteo**<br>**Dado** que se ha detectado un empate,<br>**Cuando** se realiza el sorteo,<br>**Entonces** se selecciona aleatoriamente uno de los platos o restaurantes empatados como ganador. | 5             |
+
 
 ### Epic 6: Gestión de Pagos
 | **Epic 6: Gestión de Pagos**                                                                                              |
@@ -887,6 +1141,7 @@ Definición: Un restaurante que ha firmado un acuerdo con GastroGo para ofrecer 
 | E6 - US031  | Registro y Confirmación de Pagos Grupales | **Como** líder del grupo<br>**Quiero** poder ver un registro de todos los pagos realizados por los miembros del grupo<br>**Para** confirmar que todos han contribuido. | **Escenario 1: Visualización de Pagos**<br>**Dado** que los pagos han sido realizados,<br>**Cuando** el líder consulta el registro,<br>**Entonces** puede ver el estado de los pagos de cada miembro.<br><br>**Escenario 2: Confirmación Completa**<br>**Dado** que todos los miembros han completado sus pagos,<br>**Cuando** se verifica el registro,<br>**Entonces** el sistema confirma que el pedido está listo para ser procesado. | 6             |
 | E6 - US032  | Opción de Propina Compartida          | **Como** miembro del grupo<br>**Quiero** tener la opción de agregar una propina compartida al total del pedido<br>**Para** recompensar el servicio del restaurante. | **Escenario 1: Selección de Propina**<br>**Dado** que el pedido está siendo finalizado,<br>**Cuando** el grupo decide agregar una propina,<br>**Entonces** el sistema la distribuye proporcionalmente entre los participantes.<br><br>**Escenario 2: Confirmación de Propina**<br>**Dado** que la propina ha sido agregada,<br>**Cuando** se completa el pago,<br>**Entonces** el monto total reflejado incluye la propina compartida. | 6             |
 
+
 ### Epic 7: Recomendaciones Personalizadas
 | **Epic 7: Recomendaciones Personalizadas**                                                                                       |
 |----------------------------------------------------------------------------------------------------------------------------|
@@ -898,6 +1153,7 @@ Definición: Un restaurante que ha firmado un acuerdo con GastroGo para ofrecer 
 | E7 - US033  | Generación Automática de Recomendaciones       | **Como** usuario<br>**Quiero** que el sistema genere automáticamente recomendaciones de restaurantes y platos basadas en mis pedidos anteriores<br>**Para** facilitar futuras elecciones. | **Escenario 1: Identificación de Preferencias**<br>**Dado** que el usuario ha realizado varios pedidos,<br>**Cuando** vuelve a la página de inicio,<br>**Entonces** el sistema genera recomendaciones basadas en la frecuencia de ciertos tipos de cocina o platos en sus pedidos anteriores.<br><br>**Escenario 2: Presentación de Recomendaciones**<br>**Dado** que el sistema ha generado recomendaciones,<br>**Cuando** el usuario accede a la sección de "Recomendaciones",<br>**Entonces** se muestran opciones relevantes vinculadas a sus últimos pedidos. | 7             |
 | E7 - US034  | Notificaciones de Recomendaciones               | **Como** usuario<br>**Quiero** recibir notificaciones de nuevas recomendaciones basadas en mis pedidos recientes<br>**Para** estar al tanto de opciones que podrían interesarme. | **Escenario 1: Envío de Notificaciones**<br>**Dado** que el usuario ha realizado un nuevo pedido,<br>**Cuando** el sistema identifica restaurantes o platos relacionados,<br>**Entonces** envía una notificación con las nuevas recomendaciones.<br><br>**Escenario 2: Frecuencia de Notificaciones**<br>**Dado** que el usuario tiene configuradas notificaciones,<br>**Cuando** se identifica una nueva recomendación,<br>**Entonces** el sistema envía las notificaciones según la frecuencia establecida (diaria, semanal). | 7             |
 | E7 - US035  | Personalización de Recomendaciones en Función de Pedidos Grupales | **Como** líder de grupo<br>**Quiero** recibir recomendaciones de restaurantes y platos basadas en los pedidos grupales anteriores<br>**Para** facilitar futuras decisiones de grupo. | **Escenario 1: Análisis de Pedidos Grupales**<br>**Dado** que el grupo ha realizado pedidos anteriores,<br>**Cuando** el líder consulta la sección de recomendaciones,<br>**Entonces** el sistema sugiere restaurantes y platos que fueron populares en pedidos grupales anteriores.<br><br>**Escenario 2: Adaptación a Preferencias del Grupo**<br>**Dado** que el sistema genera recomendaciones,<br>**Cuando** el líder revisa las opciones,<br>**Entonces** se destacan aquellos restaurantes y platos que satisfacen las preferencias colectivas del grupo. | 7             |
+
 
 ### Epic 8: Gestión de Pedidos Grupales
 | **Epic 8: Gestión de Pedidos Grupales**                                                                                     |
@@ -912,6 +1168,7 @@ Definición: Un restaurante que ha firmado un acuerdo con GastroGo para ofrecer 
 | E8 - US038  | Coordinación de Entregas para Pedidos Grupales | **Como** gerente de logística<br>**Quiero** coordinar la entrega de pedidos grupales grandes<br>**Para** asegurar que lleguen a tiempo y en las mejores condiciones. | **Escenario 1: Asignación de Conductores**<br>**Dado** que el sistema gestiona un pedido grupal grande,<br>**Cuando** el pedido está listo para entrega,<br>**Entonces** se asigna automáticamente un conductor con capacidad suficiente para manejar el pedido, y esta asignación se muestra en la sección de logística del sidebar.<br><br>**Escenario 2: Seguimiento de Entregas**<br>**Dado** que un pedido grupal está en ruta,<br>**Cuando** el pedido está en camino,<br>**Entonces** el gerente de logística puede realizar un seguimiento en tiempo real de la ubicación del conductor y el estado de la entrega desde el panel de seguimiento del sidebar. | 8             |
 | E8 - US039  | Gestión de Cambios y Cancelaciones en Pedidos Grupales | **Como** administrador del restaurante<br>**Quiero** gestionar cambios y cancelaciones en pedidos grupales de manera eficiente<br>**Para** minimizar el impacto en la operación del restaurante. | **Escenario 1: Notificaciones de Cambios**<br>**Dado** que un cliente solicita un cambio en un pedido grupal,<br>**Cuando** se realiza el cambio,<br>**Entonces** el sistema notifica automáticamente a la cocina y al equipo de entrega sobre la modificación desde el panel de notificaciones en el sidebar.<br><br>**Escenario 2: Políticas de Cancelación**<br>**Dado** que un cliente intenta cancelar un pedido grupal,<br>**Cuando** la cancelación se recibe,<br>**Entonces** el sistema verifica si la cancelación está dentro del tiempo permitido según la política del restaurante y procede a reembolsar o a rechazar la solicitud de acuerdo con las políticas establecidas, y se muestra en el sidebar. | 8             |
 
+
 ### Epic 9: Planes de Suscripción
 | **Epic 9: Planes de Suscripción**                                                                                           |
 |----------------------------------------------------------------------------------------------------------------------------|
@@ -924,6 +1181,7 @@ Definición: Un restaurante que ha firmado un acuerdo con GastroGo para ofrecer 
 | E9 - US041  | Selección de Plan de Suscripción      | **Como** empresa o restaurante<br>**Quiero** poder seleccionar un plan de suscripción dentro de la aplicación<br>**Para** acceder a funcionalidades premium. | **Escenario 1: Acceso a la Selección de Planes**<br>**Dado** que un usuario registrado accede a su cuenta,<br>**Cuando** el usuario selecciona la opción de suscripción,<br>**Entonces** se muestran todos los planes de suscripción disponibles con una opción para seleccionar y continuar con el proceso de compra.<br><br>**Escenario 2: Validación de Requisitos Previos**<br>**Dado** que un usuario registrado intenta seleccionar un plan,<br>**Cuando** el usuario no cumple con los requisitos previos (ej. completar el perfil, seleccionar método de pago),<br>**Entonces** se muestra un mensaje que indica los pasos necesarios antes de continuar con la selección del plan.<br><br>**Escenario 3: Confirmación de Selección**<br>**Dado** que un usuario ha seleccionado un plan,<br>**Cuando** el usuario confirma su selección,<br>**Entonces** se le envía una confirmación por correo electrónico y se actualiza su cuenta para reflejar el nuevo estado de suscripción. | 9             |
 | E9 - US042  | Renovación de Plan de Suscripción     | **Como** empresa o restaurante<br>**Quiero** poder renovar mi plan de suscripción antes de que expire<br>**Para** evitar la interrupción del servicio. | **Escenario 1: Recordatorio de Renovación**<br>**Dado** que un plan de suscripción está próximo a expirar,<br>**Cuando** faltan 30, 15 y 5 días para la expiración,<br>**Entonces** el sistema envía recordatorios automáticos al correo electrónico del usuario.<br><br>**Escenario 2: Proceso de Renovación Simplificado**<br>**Dado** que un usuario desea renovar su suscripción,<br>**Cuando** el usuario accede a la sección de suscripciones en su cuenta,<br>**Entonces** se muestra un botón de "Renovar" junto con las opciones de renovación disponibles (por ejemplo, 1 mes, 6 meses, 1 año).<br><br>**Escenario 3: Confirmación de Renovación**<br>**Dado** que un usuario ha seleccionado renovar su plan,<br>**Cuando** el usuario confirma la renovación,<br>**Entonces** se le envía una confirmación por correo electrónico y se extiende la duración de su suscripción sin interrupciones. | 9             |
 | E9 - US043  | Cancelación de Plan de Suscripción    | **Como** empresa o restaurante<br>**Quiero** poder cancelar mi plan de suscripción en cualquier momento<br>**Para** evitar cargos futuros. | **Escenario 1: Acceso a la Opción de Cancelación**<br>**Dado** que un usuario desea cancelar su suscripción,<br>**Cuando** el usuario accede a la sección de suscripciones en su cuenta,<br>**Entonces** se muestra una opción de "Cancelar Suscripción" con detalles sobre las implicaciones de la cancelación.<br><br>**Escenario 2: Confirmación de Cancelación**<br>**Dado** que un usuario ha solicitado la cancelación,<br>**Cuando** el usuario confirma su decisión,<br>**Entonces** el sistema procesa la cancelación y envía un correo electrónico confirmando la finalización de la suscripción al final del período actual.<br><br>**Escenario 3: Suspensión de Servicios Premium**<br>**Dado** que un usuario ha cancelado su suscripción,<br>**Cuando** el período de suscripción actual finaliza,<br>**Entonces** se desactivan automáticamente todas las funcionalidades premium asociadas con el plan cancelado. | 9             |
+
 
 ### Epic 10: Backend API
 | **Epic 10: Backend API**                                                                                           |
@@ -945,12 +1203,13 @@ Definición: Un restaurante que ha firmado un acuerdo con GastroGo para ofrecer 
 ## 3.3. Impact Mapping 
 **Grupos de Trabajadores:**
 
-<img src="assets/img/Impact map S1 - 1.png">
-<img src="assets/img/Impact map S1 - 2.png">
+![Impact Map 1](assets/img/chapter-3/img-impact-map-workers-1.png) 
+
+![Impact Map 2](assets/img/chapter-3/img-impact-map-workers-2.png) 
 
 **Restaurantes:**
 
-<img src="assets/img/Impact map S2 - 1.png">
+![Impact Map 3](assets/img/chapter-3/img-impact-map-restaurant-1.png) 
 
 ## 3.4. Product Backlog
 
@@ -985,7 +1244,7 @@ Definición: Un restaurante que ha firmado un acuerdo con GastroGo para ofrecer 
 | 27         | E5 - US027         | Resolución de empates con sorteo                  | **Como** grupo de trabajadores<br>**Quiero** que en caso de empate en la votación, se realice un sorteo<br>**Para** determinar el restaurante o plato ganador, para evitar decisiones inconclusas.                                                 | 5                               |
 | 28         | E6 - US028         | Dividir el costo del pedido                        | **Como** miembro del grupo<br>**Quiero** que el costo del pedido se divida automáticamente entre los participantes<br>**Para** que cada uno pague su parte proporcional.                                                                          | 5                               |
 | 29         | E6 - US029         | Métodos de pago diversos                           | **Como** miembro del grupo<br>**Quiero** poder elegir entre diferentes métodos de pago (tarjeta de crédito, PayPal, transferencia bancaria)<br>**Para** realizar mi parte del pago.                                                                  | 5                               |
-| 30         | E6 - US031         | Notificaciones de pago pendiente                   | **Como** miembro del grupo<br>**Quiero** recibir notificaciones de recordatorio en caso de que mi pago esté pendiente<br>**Para** asegurarme de completar la transacción.                                                                           | 3                               |
+| 30         | E6 - US030         | Notificaciones de pago pendiente                   | **Como** miembro del grupo<br>**Quiero** recibir notificaciones de recordatorio en caso de que mi pago esté pendiente<br>**Para** asegurarme de completar la transacción.                                                                           | 3                               |
 | 31         | E6 - US031         | Registro y confirmación de pagos grupales          | **Como** líder del grupo<br>**Quiero** poder ver un registro de todos los pagos realizados por los miembros del grupo<br>**Para** confirmar que todos han contribuido.                                                                           | 5                               |
 | 32         | E6 - US032         | Opción de propina compartida                       | **Como** miembro del grupo<br>**Quiero** tener la opción de agregar una propina compartida<br>**Para** mostrar aprecio por el servicio.      
 | 33     | E6 - US033    | Generación automática de recomendaciones           | **Como** usuario<br>**Quiero** que el sistema genere automáticamente recomendaciones de restaurantes y platos basadas en mis pedidos anteriores<br>**Para** facilitar futuras elecciones.                                | 5                            |
@@ -996,7 +1255,7 @@ Definición: Un restaurante que ha firmado un acuerdo con GastroGo para ofrecer 
 | 38     | E8 - US038    | Coordinación de entregas para pedidos grupales     | **Como** gerente de logística<br>**Quiero** coordinar la entrega de pedidos grupales grandes<br>**Para** asegurar que lleguen a tiempo y en las mejores condiciones.                                                        | 5                            |
 | 39     | E8 - US039    | Gestión de cambios y cancelaciones en pedidos grupales | **Como** administrador del restaurante<br>**Quiero** gestionar cambios y cancelaciones en pedidos grupales de manera eficiente<br>**Para** minimizar el impacto en la operación del restaurante.                             | 5                            |
 | 40     | E9 - US040    | Visualización de planes de suscripción              | **Como** visitante en la landing page<br>**Quiero** poder visualizar una sección que describa los diferentes planes de suscripción disponibles<br>**Para** que pueda considerar sus beneficios y decidir si suscribirme. | 3                            |
-| 41     | E9 - US042    | Selección de plan de suscripción                    | **Como** empresa o restaurante<br>**Quiero** poder seleccionar un plan de suscripción dentro de la aplicación<br>**Para** acceder a funcionalidades premium.                                                                     | 5                            |
+| 41     | E9 - US041    | Selección de plan de suscripción                    | **Como** empresa o restaurante<br>**Quiero** poder seleccionar un plan de suscripción dentro de la aplicación<br>**Para** acceder a funcionalidades premium.                                                                     | 5                            |
 | 42     | E9 - US042    | Renovación de plan de suscripción                   | **Como** empresa o restaurante<br>**Quiero** poder renovar mi plan de suscripción antes de que expire<br>**Para** evitar la interrupción del servicio.                                                                           | 3                            |
 | 43     | E9 - US043    | Cancelación de plan de suscripción                  | **Como** empresa o restaurante<br>**Quiero** poder cancelar mi plan de suscripción en cualquier momento<br>**Para** evitar cargos futuros.                                                                                   | 3                            |
 | 44     | E10 - US044   | Endpoint para registro de usuario                   | **Como** developer<br>**Quiero** tener un endpoint para el registro de nuevos usuarios<br>**Para** que los datos de los nuevos usuarios puedan ser enviados y almacenados en el backend.                                  | 5                            |
@@ -1102,8 +1361,6 @@ Hemos utilizado palabras claves para optimizar nuestros SEO Tags y Meta Tags par
 
 **Landing Page**
 
-**Landing Page**
-
 ```
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0> // for mobile
@@ -1153,9 +1410,11 @@ En esta sección mostraremos el proceso de diseño para nuestra landing page, de
 En esta sección se presentarán los wireframes de la landing page. Estos wireframes son esquemas de baja fidelidad que muestran la estructura de la página, sin tener en cuenta la paleta de colores ni las imágenes que se utilizarán. Enlace al Figma: https://www.figma.com/design/HGjzWSvewN97ZBYXu5FkdL/ApplicationWeb?node-id=1-3&t=wDYwqq80w6CGC5hD-1
 
 Para Desktop Browser:
+
 ![Landing Page Wireframes](assets/img/chapter-4/landing-page-wireframes.png)
 
 Para Mobile Browser:
+
 ![Landing Page Mobile Wireframes](assets/img/chapter-4/landing-page-mobile-wireframes.png)
 
 ### 4.3.2. Landing Page Mock-up
@@ -1163,9 +1422,11 @@ Para Mobile Browser:
 En esta sección se presentarán los mock-ups de la landing page. Estos mock-ups son esquemas de alta fidelidad que muestran la estructura de la página, todas las guías de estilo indicadas en las secciones anteriores están presentes en estos esquemas. Enlace al Figma: https://www.figma.com/design/HGjzWSvewN97ZBYXu5FkdL/ApplicationWeb?node-id=1-3&t=wDYwqq80w6CGC5hD-1
 
 Para Desktop Browser:
+
 ![Landing Page Mock-Up](assets/img/chapter-4/landing-page-mock-up.png)
 
 Para Mobile Browser:
+
 ![Landing Page Mobile Mock-Up](assets/img/chapter-4/landing-page-mobile-mock-up.png)
 
 ## 4.4. Web Applications UX/UI Design 
@@ -1374,6 +1635,7 @@ Context diagram:
 
 ### 4.6.2. Software Architecture Container Diagrams  
 Container diagram:
+
 ![Container Diagram](assets/img/chapter-4/containerdiagram.jpg)
 
 ### 4.6.3. Software Architecture Components Diagrams  
@@ -1397,9 +1659,17 @@ Authentication component diagram:
 ![Authentication component](assets/img/chapter-4/authenticationcomponent.jpg)
 ## 4.7. Software Object-Oriented Design  
 ### 4.7.1. Class Diagrams  
+Class diagram:
+
+![Class diagram](assets/img/chapter-4/nclassdiagram.png)
 ### 4.7.2. Class Dictionary  
+El sistema tiene las siguientes clases: Usuario (ID, nombre, correo, contraseña, rol, suscripción; métodos: registrarse, iniciar sesión, actualizar perfil, cancelar suscripción), relacionado con Pedido (ID, fecha, estado, total, participantes, método de pago; métodos: crear, actualizar, cancelar, dividir costos; asociado a Suscripción, Restaurante y Pago). Suscripción (ID, tipo, precio, beneficios, fecha inicio, expiración; métodos: crear, renovar, cancelar) está vinculado a Pedido. Restaurante (ID, nombre, dirección, menú; métodos: agregar, actualizar, eliminar platos) tiene muchos Platos y recibe muchos Pedidos. Plato (ID, nombre, descripción, precio, categoría; métodos: crear, actualizar, eliminar) está vinculado a Votación. Votación (ID, código, platos, estado, participantes) se relaciona con Usuario y Plato. Pago (ID, monto, estado, método) está asociado a Pedido. Notificación (ID, tipo, mensaje) se asocia a Usuario y Pedido.
 ## 4.8. Database Design  
-### 4.8.1. Database Diagram  
+### 4.8.1. Database Diagram
+Database diagram:
+
+![Database Diagram](assets/img/chapter-4/databasediagram.png)
+
 # Capítulo V: Product Implementation, Validation & Deployment  
 ## 5.1. Software Configuration Management  
 ### 5.1.1. Software Development Environment Configuration  
@@ -1459,8 +1729,9 @@ Para gestionar y organizar los distintos cambios en el proyecto, se utilizó una
   
 - [**Landing Page Repository**](https://github.com/G2-UPC-PRE-202402-SI730-WX53-DevDynasty/GastroGo-Landing-Page)
   
-- [**Report Repository**](https://github.com/G2-UPC-PRE-202402-SI730-WX53-DevDynasty/GastroGo-Report) 
-
+- [**Report Repository**](https://github.com/G2-UPC-PRE-202402-SI730-WX53-DevDynasty/GastroGo-Report)
+  
+- [**Acceptance Test Repository**](https://github.com/G2-UPC-PRE-202402-SI730-WX53-DevDynasty/acceptance-test) 
 
 
 Con el fin de optimizar el manejo de ramas y la implementación de modificaciones en el código, se adoptó la metodología GitFlow. Este enfoque estructuró el desarrollo en dos ramas principales:
@@ -1486,6 +1757,16 @@ Donde:
 - Feature: Es el nombre de la rama.
 
 - Feature-name: Es el nombre de la características que se están por desarrollar
+
+Donde:
+
+**type:** Especifica el tipo de cambio introducido en el commit. Los tipos mas comunes son:
+
+- `feat`: Implementación de una nueva característica
+- `fix`: Corrección de errores
+- `chore`: Tareas de mantenimiento
+- `docs`: Actualización de la documentación
+
 
 Ejemplo Report:
 - Se crea una rama de `'feature/chapter-1'` a partir de la rama develop
@@ -1544,13 +1825,37 @@ A continuación, se destacan algunas de las convenciones que seguiremos:
 Estas convenciones no solo mejorarán la legibilidad de nuestras especificaciones, sino que también facilitarán la colaboración entre los diferentes miembros del equipo, asegurando que todos comprendan y sigan las mismas directrices.
 
 ### 5.1.4. Software Deployment Configuration  
-  
+
+En esta sección explicaremos el proceso de despliegue de nuestra página de aterrizaje utilizando el servicio automatizado de GitHub Pages. A continuación, se detallarán los pasos requeridos para alcanzar el despliegue.
+-   Debemos asegurarnos de tener un repositorio con la landing page a desplegar.
+
+![Configuration 1](assets/img/chapter-5/img-configuration-1.png)
+
+-   Accedemos a nuestro repositorio y debemos de añadir el html, css y js segun corresponda.
+
+![Configuration 2](assets/img/chapter-5/img-configuration-2.png)
+
+- Debemos ingresar al apartado de configuracion de nuestro repositorio.
+
+![Configuration 3](assets/img/chapter-5/img-configuration-3.png)
+
+- Dentro de la configuracion debemos seleccionar el apartado de GitHub Pages.
+
+![Configuration 4](assets/img/chapter-5/img-configuration-4.png)
+
+- Una vez dentro de GitHub Pages debemos seleccionar la branch que deseamos desplegar y presionar el boton de save para que empieze a desplegarse.
+
+![Configuration 5](assets/img/chapter-5/img-configuration-5.png)
+
+- Una vez final el build podremos visualizar el enlace con el que podremos visualizar nuestra landing page desplegada.
+
+![Configuration 6](assets/img/chapter-5/img-configuration-6.png)
+
 ## 5.2. Landing Page, Services & Applications Implementation  
 ### 5.2.1. Sprint 1  
 
-<p align="center">
-  <img src="assets/img/chapter-5/img-sprint-1.png" alt=" " width="100%">
-</p>
+![Sprint Verduritas](assets/img/chapter-5/img-sprint-devdynasty-1.png)
+
 
 #### 5.2.1.1. Sprint Planning 1  
 
@@ -1582,22 +1887,93 @@ Estas convenciones no solo mejorarán la legibilidad de nuestras especificacione
 
   
 #### 5.2.1.3. Development Evidence for Sprint Review  
-| **Repository** | **Branch** | **Commit Id**                              | **Commit Message**                                          | **Commit Message Body** | **Committed on (Date)** |
-|----------------|------------|--------------------------------------------|-------------------------------------------------------------|-------------------------|-------------------------|
-|GastroGo-Landing-Page| develop    | c8add7bb55905c1773cf2e1714223febf309a13c   | Initial commit                                               |                         | 17/08/2024               |
-|GastroGo-Landing-Page                |develop            | c2032295c903949148b30f3deb7a4315f061ea60   |fix(readme): change title for README.md      |                     |01/09/2024               |
-|GastroGo-Landing-Page                |develop            | 57d6342157ef7a80185af3d34730ce866bcd2dfe   |feat(readme): add introductory information for repository.  |       |01/09/2024           |
-|GastroGo-Landing-Page                |develop            | 19e986c8acd59ea08bee501758ff94195ff2b5a1   |feat(images): add images for favicon.     |                     |01/09/2024               |
-|GastroGo-Landing-Page                |develop            | acec7fd8f19bac3400d1e5615c4d8c15ccc2a9b3   |feat(styles): add styles.css for the index.html stylesheet.  |     |01/09/2024               |
-|GastroGo-Landing-Page                |develop            | 8a5f5a49f73b16ec5971eb5e360ff7151b83ae5a   |feat(index): add base of index.html for other branches.  |         |01/09/2024               |
-|GastroGo-Landing-Page                |develop            | 4bd0d5f97b59296863b20565240cac5d05ea8c6d   |feat(index): add the references for favicon images and font api.     |    |04/09/2024      |
-|GastroGo-Landing-Page                |develop            | bff9fc11f20b36ca4df0e9c9cef81228e6e7cd25   |chore: add css for roboto font.     |    |04/09/2024      |
+
+| **Repository** | **Branch** | **Commit Id**                              | **Commit Message**                                           | **Committed on (Date)** |
+|----------------|------------|--------------------------------------------|--------------------------------------------------------------------------------------|-------------------------|
+|GastroGo-Landing-Page| develop    | c8add7bb55905c1773cf2e1714223febf309a13c   | Initial commit                                                                        | 17/08/2024               |
+|GastroGo-Landing-Page                |develop            | c2032295c903949148b30f3deb7a4315f061ea60   |fix(readme): change title for README.md                           |01/09/2024               |
+|GastroGo-Landing-Page                |develop            | 57d6342157ef7a80185af3d34730ce866bcd2dfe   |feat(readme): add introductory information for repository.         |01/09/2024           |
+|GastroGo-Landing-Page                |develop            | 19e986c8acd59ea08bee501758ff94195ff2b5a1   |feat(images): add images for favicon.                         |01/09/2024               |
+|GastroGo-Landing-Page                |develop            | acec7fd8f19bac3400d1e5615c4d8c15ccc2a9b3   |feat(styles): add styles.css for the index.html stylesheet.       |01/09/2024               |
+|GastroGo-Landing-Page                |develop            | 8a5f5a49f73b16ec5971eb5e360ff7151b83ae5a   |feat(index): add base of index.html for other branches.           |01/09/2024               |
+|GastroGo-Landing-Page                |develop            | 4bd0d5f97b59296863b20565240cac5d05ea8c6d   |feat(index): add the references for favicon images and font api.         |04/09/2024      |
+|GastroGo-Landing-Page                |develop            | bff9fc11f20b36ca4df0e9c9cef81228e6e7cd25   |chore: add css for roboto font.         |04/09/2024      |
+|GastroGo-Landing-Page                |develop            | 131d7114b8ded142a499fa69079bb8354d08a5eb   |feat(index): add footer for the Landing Page.         |04/09/2024      |
+|GastroGo-Landing-Page                |develop            | 6e54bfbed9d244090aba12540b5bbbe274105535   |feat(index): add Contact Us section for the Landing Page.        |04/09/2024      |
+|GastroGo-Landing-Page                |develop            | 6d27558d801ad5ce2fecfa946cf2a3ee2d00e11d   |feat(index): add responsive web design for Contact Us section.        |04/09/2024      |
+|GastroGo-Landing-Page                |develop            | 3eeaf24ba945bbf6d35b822e754b9fcb64b819cc   |feat(index): add responsive web design for footer section.        |04/09/2024      |
+|GastroGo-Landing-Page                |develop            | 09fc93633c5b04ae50551a439bb4f21298664db3   |feat(index): add experience section for the landing page         |04/09/2024      |
+|GastroGo-Landing-Page                |develop            | 70f88f825ff9b267dff5ba435cb78975e07d7458   |feat(index): add web design for the experience section         |04/09/2024      |
+|GastroGo-Landing-Page                |develop            | 2d26575cb887c7949d0ec9b4b019ac0ad4710b56   |feat(index): add images for experience section.        |04/09/2024      |
+|GastroGo-Landing-Page                |develop            | 7bd10ee2ed182b9d0b87921ce2ac491b22d0666a   |feat(index): add experience section for the landing page        |04/09/2024      |
+|GastroGo-Landing-Page                |develop            | 811d8294bd1f02c4def7c9595a191ded2e2e3a45   |feat(index): add images for experience section.        |04/09/2024      |
+|GastroGo-Landing-Page                |develop            | 3454a9ceb0eac7ceaee53b7f91f48bb910c06b9b   |feat(index): add plans section for the landing page        |04/09/2024      |
+|GastroGo-Landing-Page                |develop            | 964cc881d6250b68545606509ddb48cdfcbfe5fe   |feat(index): add web design to the plans section        |04/09/2024      |
+|GastroGo-Landing-Page                |develop            | 49818e0aadd4b89f5245f5b799e68f8595604b37   |feat(index): add images for plans section.        |04/09/2024      |
+|GastroGo-Landing-Page                |develop            | 375ec9eeeacb7d7de6e138e69305340cc3a5817f   |feat(index): add feature for the Landing Page.        |04/09/2024      |
+|GastroGo-Landing-Page                |develop            | 853c31f9c69992f261d8b9bac23be0c374eada72   |feat(styles): add new styles for feature section      |04/09/2024      |
+|GastroGo-Landing-Page                |develop            | 474e2d3c970feb1b2ab703bb8335211fb4c2f2bd   |style(images): update src for images       |04/09/2024      |
+|GastroGo-Landing-Page                |develop            | 8e627e821b1b347e51b8c38f6a9a6814f1fb59c6   |feat(assets): add images for feature section      |04/09/2024      |
+|GastroGo-Landing-Page                |develop            | 51d47af2f995d724ac21f2ab4ef2a30d8698bc94   |feat(index): add steps for the Landing Page.       |04/09/2024      |
+|GastroGo-Landing-Page                |develop            | 7ce74ca116cfeb93d1de3927d1c9e5d8c5316106   |feat(styles): add new styles for steps section        |04/09/2024      |
+|GastroGo-Landing-Page                |develop            | dda1c287c97d0b866ea8e585e5fb98aab8993df5   |feat(assets): add images for steps section      |04/09/2024      |
+|GastroGo-Landing-Page                |develop            | f36420d4f8911612b88468d6b7e5fac0054a842e   |feat(index): added structure for nav bar       |05/09/2024      |
+|GastroGo-Landing-Page                |develop            | 68cfce3aad6eca12f2af9425f3a4980e39c1ea05   |feat(styles): added responsive nav-bar css      |05/09/2024      |
+|GastroGo-Landing-Page                |develop            | be60c0af2d562e615c675ff120e3384c54906bcf   |feat: added logo-gastrogo        |04/09/2024      |
+|GastroGo-Landing-Page                |develop            | 8580bfbfa4e1ab985971a20099bef5c88b218645   |feat(html): added introduction section html        |05/09/2024      |
+|GastroGo-Landing-Page                |develop            | 31d8c1172b3ff828a27f73ecf69f4832f11a9c3f   |feat(styles): added introduction section responsive css      |05/09/2024      |
+|GastroGo-Landing-Page                |develop            | 5f853fcf64012a813d62646143a8caccbea22b30   |feat(html): added about us section html      |05/09/2024      |
+|GastroGo-Landing-Page                |develop            | 48c1dd4c191d2f6a4a9e0e1cdce431df88ab9038   |feat(css): added about us section css       |05/09/2024      |
+|GastroGo-Landing-Page                |develop            | 38da364f7c8e0c61e3aefbb7c0660ae040408519   |feat(html): added why us section html       |05/09/2024      |
+|GastroGo-Landing-Page                |develop            | aff390c8d84e3f4b71c96ab923d1c32ff2545898   |feat(css): added why us section css       |05/09/2024      |
+|GastroGo-Landing-Page                |develop            | a8df00ed4b9ebd8075c63917c47f244f63587cc9   |feat(scritps): added scripts for html       |05/09/2024      |
+
+
+
 
 
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review  
-  
+En este sprint, se ha completado el desarrollo de la landing page. Para su despliegue, se emplearon varias herramientas clave, entre ellas:
+
+| **Repository** | **Branch** | **Commit Id**                              | **Commit Message**                                         | **Committed on (Date)** |
+|----------------|------------|--------------------------------------------|--------------------------------------------------------------------------------------|-------------------------|
+|acceptance-test| develop    | 55eb1646d73316ec2929ffafa95af8dfcef3adc5   | Initial commit                                                                        | 12/09/2024               |
+|acceptnace-test| develop    | 9a399e19e898f0dd693654c70be3bd1fe67ea40e   | feat(readme): added description readme                                                                       | 12/09/2024               |
+|acceptnace-test| develop    | 4b738eb74073aacbdcf2d3a37eabdaf21040c5a5   | chore: added epic 1 acceptance test                                                                     | 12/09/2024               |
+|acceptnace-test| develop    | 06c167e00c191b77c03da4aa7cb13fab0d86c9d7   | chore: added epic 2 acceptance test                                                                       | 12/09/2024               |
+|acceptnace-test| develop    | 62b806ee10782f3b6e3125964aaefd0ff552652c   | chore: added epic 3 acceptance test                                                                       | 12/09/2024               |
+|acceptnace-test| develop    | 3ca6c4208a62a6b5ffa6d6dffe8d4f088918af5d   | chore: added epic 4 acceptance test                                                                      | 12/09/2024               |
+|acceptnace-test| develop    | 2e7a6166e776f0d2f6d97368d384457e7bde7ca7   | chore: added epic 5 acceptance test                                                                        | 12/09/2024               |
+|acceptnace-test| develop    | 5846374f45b976d826580c0855565212811be5e8   | chore: added epic 6 acceptance test                                                                       | 12/09/2024               |
+|acceptnace-test| develop    | b41662bc5609e8d7bb84b24b99910ab621001c09   | chore: added epic 7 acceptance test                                                                       | 12/09/2024               |
+|acceptnace-test| develop    | 64d26478f1b9e23cf51c31a56dbd17e63c4ad283   | chore: added epic 8 acceptance test                                                                       | 12/09/2024               |
+|acceptnace-test| develop    | 9520021ae13032e410798dd06dbde7252b5d8d0f   | chore: added epic 9 acceptance test                                                                       | 12/09/2024               |
+|acceptnace-test| develop    | 568eb409dc3fbf273ab11fcbf42f88b7ae9662ca   | chore: added epic 10 acceptance test                                                                       | 12/09/2024               |
+
+
+
 #### 5.2.1.5. Execution Evidence for Sprint Review  
+
+En esta entrega, el equipo Verduritas logró implementar la landing page, la cual presenta distintas secciones que ofrecen información esencial para los usuarios. Estas secciones están diseñadas para explicar quiénes somos, qué nos diferencia, cómo funciona nuestra plataforma, y brindar una visión general de la experiencia, los planes disponibles y un espacio para contactarnos. Con este enfoque, se busca proporcionar una experiencia clara y completa para los visitantes.
+
+![Evidence 1](assets/img/chapter-5/img-evidence-1.png)
+
+![Evidence 2](assets/img/chapter-5/img-evidence-2.png)
+
+![Evidence 3](assets/img/chapter-5/img-evidence-3.png)
+
+![Evidence 4](assets/img/chapter-5/img-evidence-4.png)
+
+![Evidence 5](assets/img/chapter-5/img-evidence-5.png)
+
+![Evidence 6](assets/img/chapter-5/img-evidence-6.png)
+
+![Evidence 7](assets/img/chapter-5/img-evidence-7.png)
+
+![Evidence 8](assets/img/chapter-5/img-evidence-8.png)
+
+![Evidence 9](assets/img/chapter-5/img-evidence-9.png)
   
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review  
 Durante el sprint 1, se centró en el desarrollo de la landing page como primera tarea prioritaria. Dado que el enfoque principal fue establecer la estructura y diseño inicial de la página, no se integraron ni utilizaron servicios web en esta etapa. La implementación de servicios web se considerará en sprints futuros, una vez que la landing page esté completamente desplegada.
@@ -1605,41 +1981,25 @@ Durante el sprint 1, se centró en el desarrollo de la landing page como primera
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review  
 El Execution Evidence para la revisión del sprint está orientado a documentar y presentar evidencia sobre el desarrollo logrado a lo largo del sprint, prestando especial atención al progreso en la landing page. Estas pruebas son esenciales para demostrar cómo se han cumplido los objetivos establecidos y qué partes del trabajo están terminadas, asegurando que se corresponden con las expectativas del cliente.
 
-<p align="center">
-  <img src="assets/img/chapter-5/img-evidence-1.png" alt=" " width="100%">
-</p>
-
-<p align="center">
-  <img src="assets/img/chapter-5/img-evidence-2.png" alt=" " width="100%">
-</p>
-
-<p align="center">
-  <img src="assets/img/chapter-5/img-evidence-3.png" alt=" " width="100%">
-</p>
-
-<p align="center">
-  <img src="assets/img/chapter-5/img-evidence-4.png" alt=" " width="100%">
-</p>
-
-<p align="center">
-  <img src="assets/img/chapter-5/img-evidence-5.png" alt=" " width="100%">
-</p>
-
-<p align="center">
-  <img src="assets/img/chapter-5/img-evidence-6.png" alt=" " width="100%">
-</p>
-
-<p align="center">
-  <img src="assets/img/chapter-5/img-evidence-7.png" alt=" " width="100%">
-</p>
-
-<p align="center">
-  <img src="assets/img/chapter-5/img-evidence-8.png" alt=" " width="100%">
-</p>
+- Git: Utilizado como sistema de control de versiones, facilitó la colaboración efectiva entre los miembros del equipo durante el proceso de desarrollo.
+- GitFlow: Implementado como metodología de trabajo, permitió organizar y gestionar de manera eficiente los aportes de cada integrante, garantizando un flujo continuo en el progreso del proyecto.
+- GitHub: Plataforma esencial para el trabajo colaborativo, donde se gestionaron y almacenaron todas las versiones del proyecto, asegurando un control adecuado de los cambios.
+- GitHub Pages: Utilizado para desplegar la landing de forma rápida y sencilla, permitiendo que la aplicación esté disponible públicamente desde un repositorio de GitHub.
 
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint  
-  
+
+El equipo trabajó en el desarrollo de la landing page utilizando ramas de cada feature, lo que permitió mejorar, actualizar y realizar modificaciones de manera más organizada. El uso de estas ramas facilita la integración y revisión antes de fusionarlas con la rama principal (main), asegurando que no se introduzcan errores. A continuación, se muestra el network graph y  code frecuency mediante la plataforma GitHub:
+
+Network graph:
+![Network Graph](assets/img/chapter-5/img-network-github.png)
+
+
+
+Code frecuency:
+
+![Code Frecuency](assets/img/chapter-5/img-code-frecuency.png)
+
 # Conclusiones  
 ### Conclusiones y recomendaciones
 El avance del proyecto logra cumplir con los objetivos planteados incicialmente, incluyendo la contextualización del problema y solución a este, cómo también el desarrollo y despliegue de la primera versión de la landing page, junto con la implementación de funcionalidades clave. Cada miembro del equipo contribuyó en el avance de las distintas fases del proyecto.
@@ -1650,9 +2010,26 @@ La importancia de la comunicación y la colaboración entre los miembros del equ
   
 ---  
 # Bibliografía  
-  
+- Altametrics. (n.d.). Common challenges in restaurant operations and supply chain management. Altametrics. 
+https://altametrics.com/topics/common-challenges-in-restaurant-operations-and-supply-chain-management/ 
+
+- Picker Express. (n.d.). Logística en restaurantes. Picker Express. <br>
+https://www.pickerexpress.com/blog/logistica-en-restaurantes 
+
+- Universidad Científica del Sur. (2021). Análisis de la cadena de suministro en restaurantes de Lima Metropolitana (Tesis de licenciatura). Repositorio Institucional de la Universidad Científica del Sur.<br> https://repositorio.cientifica.edu.pe/handle/20.500.12805/728 
+
+- Built In. (2023). How Cheetah and Choco are transforming the food supply chain. Built In.<br> https://builtin.com/articles/food-supply-chain-cheetah-choco 
+
+- Euromonitor International. (2023). Limited-service restaurants in Peru. Euromonitor International. <br>https://www.euromonitor.com/limited-service-restaurants-in-peru/report 
+
 ---  
 # Anexos
-- Enlace de la Organización de Github: https://github.com/G2-UPC-PRE-202402-SI730-WX53-DevDynasty/GastroGo-Report
+- [**Organización de Github**](https://github.com/G2-UPC-PRE-202402-SI730-WX53-DevDynasty/GastroGo-Report)
+- [**Report Repository**](https://github.com/G2-UPC-PRE-202402-SI730-WX53-DevDynasty/GastroGo-Report)
+- [**Acceptance Test**](https://github.com/G2-UPC-PRE-202402-SI730-WX53-DevDynasty/acceptance-test)
+- [**Landing Page**](https://github.com/G2-UPC-PRE-202402-SI730-WX53-DevDynasty/GastroGo-Landing-Page)
 - Videos de Exposiciones:
-- TB1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/ETQ3H29FNBZLl6gPo91GM4gBbbJHq6zPilf8wkxnCAbA7g?e=UoCVY3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+- TB1: [upc-pre-202401-si730-wx53-devdynasty-expo-tb1.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/ETQ3H29FNBZLl6gPo91GM4gBbbJHq6zPilf8wkxnCAbA7g?e=UoCVY3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- Web Applications Prototyping: [**upc-pre-202402-si730-wx53-devdynasty-prototype-gastrogo-navigation-sprint-1.mp4**](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110385_upc_edu_pe/EUtluo1uE8ZLhSNlmzhk4r8BdyUbW0yyxQkt5zigPNIcAA?e=YmmwUS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- Needfinding: [**upc-pre-202401-si730-wx53-DevDynasty-needfinding-sprint-1.mp4**](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EWIpimdxe6ZHoMD_xHk62dQBUgZ6DXhQhyfx2nwDKM6IQg?e=Z6ZJw4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D)
+
