@@ -52,39 +52,7 @@ Link del repositorio del reporte del TB1: https://github.com/G2-UPC-PRE-202402-S
 Durante la realizacion informe, se realizaron reuniones y se asignaron los temas a desarrollar para la entrega correspondiente a los Capítulos I al V del Sprint 1, quedando organizados de la siguiente forma:
 
 - Imágen de las Contribuciones del equipo: 
-<td><img src="static/img/Chapter 1/img-contributors-team.png" alt="Contribuciones del equipo" width="50%";"></img></td>
-<p>Ricardo Barrutia</p>
-- Imágen de las Contribuciones:
-<td><img src="static/img/Chapter 1/img-contributors-ricardo.png" alt="Contribuciones Ricardo" width="50%";"></img></td>
-- Imágen de los Commits:
-<td><img src="static/img/Chapter 1/img-commits-ricardo.png" alt="Commits Ricardo" width="50%";"></img></td>
 
-<p>Fabiola Espinoza</p>
-- Imágen de las Contribuciones:
-<td><img src="static/img/Chapter 1/img-contributors-fabiola.png" alt="Contribuciones Fabiola" width="50%";"></img></td>
-- Imágen de los Commits:
-<td><img src="static/img/Chapter 1/img-commits-fabiola.png" alt="Commits Fabiola" width="50%";"></img></td>
-
-<p>Marco Gongora</p>
-- Imágen de las Contribuciones:
-<td><img src="static/img/Chapter 1/img-contributors-marco.png" alt="Contribuciones Marco" width="50%";"></img></td>
-- Imágen de los Commits:
-<td><img src="static/img/Chapter 1/img-commits-marco.png" alt="Commits Marco" width="50%";"></img></td>
-
-<p>Francisco Hurtado</p>
-- Imágen de las Contribuciones:
-<td><img src="static/img/Chapter 1/img-contributors-francisco.png" alt="Contribuciones Francisco" width="50%";"></img></td>
-- Imágen de los Commits:
-<td><img src="static/img/Chapter 1/img-commits-francisco.png" alt="Commits Francisco" width="50%";"></img></td>
-
-<p>Camila Loli</p>
-- Imágen de las Contribuciones:
-<td><img src="static/img/Chapter 1/img-contributors-camila.png" alt="Contribuciones Camila" width="50%";"></img></td>
-- Imágen de los Commits:
-<td><img src="static/img/Chapter 1/img-commits-camila.png" alt="Commits Camila" width="50%";"></img></td>
-
-
-<br>
 
 ---  
 # Student Outcome  
@@ -279,9 +247,7 @@ Se estima que en el mercado de pedidos de comida aumentó  un 47% en los último
 
 Según el Instituto Nacional de Estadística e Informática (INEI) (2022), en abril de 2022 la actividad de los restaurantes en Lima Metropolitana aumentó un 47,65 %, lo que refleja un crecimiento significativo en la demanda de servicios gastronómicos. Este incremento resalta la oportunidad y necesidad de plataformas como GastroGo, que buscan optimizar y digitalizar los procesos de pedidos grupales para satisfacer tanto a los restaurantes como a los grupos de trabajadores, mejorando así la eficiencia y la experiencia del cliente en un mercado en expansión. <br><br>
 
-<p align="center">
-  <img src="assets/img/chapter-1/img-inei-estadistica.png" alt=" " width="50%">
-</p>
+![Inei](assets/img/chapter-1/img-inei-estadistica.png)
 
 
 ### 1.2.2 Lean UX Process  
