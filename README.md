@@ -52,39 +52,7 @@ Link del repositorio del reporte del TB1: https://github.com/G2-UPC-PRE-202402-S
 Durante la realizacion informe, se realizaron reuniones y se asignaron los temas a desarrollar para la entrega correspondiente a los Capítulos I al V del Sprint 1, quedando organizados de la siguiente forma:
 
 - Imágen de las Contribuciones del equipo: 
-<td><img src="static/img/Chapter 1/img-contributors-team.png" alt="Contribuciones del equipo" width="50%";"></img></td>
-<p>Ricardo Barrutia</p>
-- Imágen de las Contribuciones:
-<td><img src="static/img/Chapter 1/img-contributors-ricardo.png" alt="Contribuciones Ricardo" width="50%";"></img></td>
-- Imágen de los Commits:
-<td><img src="static/img/Chapter 1/img-commits-ricardo.png" alt="Commits Ricardo" width="50%";"></img></td>
 
-<p>Fabiola Espinoza</p>
-- Imágen de las Contribuciones:
-<td><img src="static/img/Chapter 1/img-contributors-fabiola.png" alt="Contribuciones Fabiola" width="50%";"></img></td>
-- Imágen de los Commits:
-<td><img src="static/img/Chapter 1/img-commits-fabiola.png" alt="Commits Fabiola" width="50%";"></img></td>
-
-<p>Marco Gongora</p>
-- Imágen de las Contribuciones:
-<td><img src="static/img/Chapter 1/img-contributors-marco.png" alt="Contribuciones Marco" width="50%";"></img></td>
-- Imágen de los Commits:
-<td><img src="static/img/Chapter 1/img-commits-marco.png" alt="Commits Marco" width="50%";"></img></td>
-
-<p>Francisco Hurtado</p>
-- Imágen de las Contribuciones:
-<td><img src="static/img/Chapter 1/img-contributors-francisco.png" alt="Contribuciones Francisco" width="50%";"></img></td>
-- Imágen de los Commits:
-<td><img src="static/img/Chapter 1/img-commits-francisco.png" alt="Commits Francisco" width="50%";"></img></td>
-
-<p>Camila Loli</p>
-- Imágen de las Contribuciones:
-<td><img src="static/img/Chapter 1/img-contributors-camila.png" alt="Contribuciones Camila" width="50%";"></img></td>
-- Imágen de los Commits:
-<td><img src="static/img/Chapter 1/img-commits-camila.png" alt="Commits Camila" width="50%";"></img></td>
-
-
-<br>
 
 ---  
 # Student Outcome  
@@ -232,6 +200,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 # Capítulo II: Requirements Elicitation & Analysis  
 ## 2.1 Competidores
 Entender el entorno competitivo es crucial para el éxito de cualquier negocio. En esta parte, analizaremos detalladamente quiénes son nuestros competidores, tanto directos como indirectos, y examinaremos las estrategias que utilizan, así como sus fortalezas y debilidades.
+
 ## 2.1.1. Analisis competitivo
 El análisis competitivo se enfoca en estudiar detalladamente a nuestros competidores para reconocer sus puntos fuertes, débiles, oportunidades y amenazas. Este proceso nos permitirá entender mejor nuestra posición en el mercado y formular estrategias más efectivas.
 
@@ -341,9 +310,7 @@ Las entrevistas son fundamentales porque nos permiten conocer mejor a nuestro p�
 
 **Entrevista #01: Jonathan Berrocal (22 años - Villa Maria del Triunfo) - 25 de agosto del 2024**
 
-<p align="center">
-  <img src="assets/img/chapter-2/img-entrevista-trabajadores-1.png" alt=" " width="50%">
-</p>
+![Jonathan Berrocal](assets/img/chapter-2/img-entrevista-trabajadores-1.png)
 
 [GastroGo - Registro de Entrevistas.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EWIpimdxe6ZHoMD_xHk62dQBUgZ6DXhQhyfx2nwDKM6IQg?e=Z6ZJw4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D) (Comienzo 00:00:00 Fin - 00:05:48)
 
@@ -377,9 +344,7 @@ Por último, le gustaría que la aplicación de pedidos grupales ofreciera recom
 **Entrevista #02: Raul Sulca Ynoñan (29 años - Comas) - 29 de agosto del 2024**
 
 
-<p align="center">
-  <img src="assets/img/chapter-2/img-entrevista-trabajadores-2.png" alt=" " width="55%">
-</p>
+![Raul Sulca Ynoñan](assets/img/chapter-2/img-entrevista-trabajadores-2.png)
 
 [GastroGo - Registro de Entrevistas.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EWIpimdxe6ZHoMD_xHk62dQBUgZ6DXhQhyfx2nwDKM6IQg?e=3mAPA9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MzQ4Ljc5fX0%3D)  (Comienzo 00:05:48 - Fin 00:13:02)
 
@@ -408,9 +373,7 @@ Por último, le gustaría que la aplicación de pedido grupales sea amigable con
 
 [GastroGo - Registro de Entrevistas.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EWIpimdxe6ZHoMD_xHk62dQBUgZ6DXhQhyfx2nwDKM6IQg?e=pkLHZB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6NzgyLjYyfX0%3D)  (Comienzo 00:13:02 - Fin 00:23:01)
 
-<p align="center">
-  <img src="assets/img/chapter-2/img-entrevista-trabajadores-3.png" alt=" " width="55%">
-</p>
+![Daniel Vazquez](assets/img/chapter-2/img-entrevista-trabajadores-3.png)
 
 Daniel Vasquez nos comenta que es bachiller de Derecho de la Universidad Nacional Pedro Ruiz Gallo de Chiclayo. Asimismo, se encuentra trabajando en la Corte Superior de Lima. 
 
@@ -431,9 +394,7 @@ Daniel estaría interesado en una plataforma que facilite la gestión de pedidos
 
 **Entrevista #04: Juan Esteban Espinoza (56 años - La Molina) 26 de agosto del 2024**
 
-<p align="center">
-  <img src="assets/img/chapter-2/img-entrevista-restaurantes-1.png" alt=" " width="50%">
-</p>
+![Juan Esteban Espinoza ](assets/img/chapter-2/img-entrevista-restaurantes-1.png)
 
 [GastroGo - Registro de Entrevistas.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EWIpimdxe6ZHoMD_xHk62dQBUgZ6DXhQhyfx2nwDKM6IQg?e=7h4rjj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTM4Mi41OX19)  (Comienzo 00:23:02 - Fin 00:30:01)
 
@@ -455,9 +416,7 @@ Juan Esteban estaría interesado en una herramienta tecnológica que le permita 
 
 [GastroGo - Registro de Entrevistas.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EWIpimdxe6ZHoMD_xHk62dQBUgZ6DXhQhyfx2nwDKM6IQg?e=nJtWhl&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MTgwMS45NH19)  (Comienzo 00:30:02 - Fin 00:39:42)
 
-<p align="center">
-  <img src="assets/img/chapter-2/img-entrevista-restaurantes-2.png" alt=" " width="50%">
-</p>
+![Zaid Arauco ](assets/img/chapter-2/img-entrevista-restaurantes-2.png)
 
 Zaid Arauco es la Gerente General de un restaurante ubicado en Miraflores. Tiene 47 años y se dedica a gestionar las operaciones diarias del restaurante, asegurando que todo funcione de manera óptima.
 
@@ -477,9 +436,7 @@ Finalmente, Zaid menciona que, aunque las plataformas de delivery como Rappi cob
 **#06: Martín Zuñiga (48 años - Victoria) - 29 de agosto de 2024**
 
 
-<p align="center">
-  <img src="assets/img/chapter-2/img-entrevista-restaurantes-3.png" alt=" " width="50%">
-</p>
+![Martín Zuñiga ](assets/img/chapter-2/img-entrevista-restaurantes-3.png)
 
 [GastroGo - Registro de Entrevistas.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EWIpimdxe6ZHoMD_xHk62dQBUgZ6DXhQhyfx2nwDKM6IQg?e=8chJ9M&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6MjM4My4wNH19)  (Comienzo 00:39:42 - Fin 00:43:49)
 
@@ -596,15 +553,11 @@ En esta sección, mostramos perfiles ficticios que representan a los segmentos d
 
 **User Persona: Grupo de Trabajadores**
 
-<p align="center">
-  <img src="assets/img/chapter-2/img-user-persona-1.png" alt=" " width="50%">
-</p>
+![User Persona 1 ](assets/img/chapter-2/img-user-persona-1.png)
 
 **User Persona: Restaurantes**
 
-<p align="center">
-  <img src="assets/img/chapter-2/img-user-persona-2.png" alt=" " width="50%">
-</p>
+![User Persona 2](assets/img/chapter-2/img-user-persona-2.png)
 
 ### 2.3.2. User Task Matrix  
 
@@ -676,15 +629,11 @@ a través de nuestra plataforma. Desde el momento en que un “líder de equipo"
 
 User Journey Mapping: Grupo de trabajadores
 
-<p align="center">
-  <img src="assets/img/chapter-2/img-journey-mapping-1.png" alt=" " width="100%">
-</p>
+![Journey mapping 1](assets/img/chapter-2/img-journey-mapping-1.png)
 
 User Journey Mapping: Restaurantes
 
-<p align="center">
-  <img src="assets/img/chapter-2/img-journey-mapping-2.png" alt=" " width="100%">
-</p>
+![Journey mapping 2](assets/img/chapter-2/img-journey-mapping-1.png)
 
 
 ### 2.3.4. Empathy Mapping  
@@ -692,24 +641,19 @@ User Journey Mapping: Restaurantes
 En esta sección se presenta el Empathy Mapping, una herramienta para crear un perfil detallado de los user personas y desarrollar una comprensión profunda de su perspectiva y experiencia. Para cada user persona, se incluyen cinco elementos clave: lo que el usuario ve, lo que el usuario escucha, lo que el usuario dice, lo que el usuario hace y lo que el usuario siente. Además, se incluyen los pains y gains identificados en base a las preguntas: ¿Qué le preocupa? Y ¿Qué puede ayudar a resolver sus problemas? ¿Qué puede convencerlo de que somos la alternativa correcta? ¿Qué dice? Los mapas de empatía se han desarrollado con la herramienta UXPressia.
 
 Empathy Mapping: Grupo de trabajadores
-<p align="center">
-  <img src="assets/img/chapter-2/img-empathy-map-1.png" alt=" " width="100%">
-</p>
+
+![Empathy mapping 1](assets/img/chapter-2/img-empathy-map-1.png)
 
 Empathy Mapping: Restaurantes
 
-<p align="center">
-  <img src="assets/img/chapter-2/img-empathy-map-2.png" alt=" " width="100%">
-</p>
+![Empathy mapping 2 ](assets/img/chapter-2/img-empathy-map-2.png)
 
 ### 2.3.5. As-is Scenario Mapping  
 En esta sección se presentan los As-is Scenario mapping para ambos segmentos objetivos donde se va a identificar y comprender los puntos contacto entre usuarios y el software de gestión de alimentos o comida. Para la elaboración de esta actividad se ha utilizado la herramienta Miro.
 
 As-is Scenario Mapping: Grupo de Trabajadores
 
-<p align="center">
-  <img src="assets/img/chapter-2/img-as-is-1.png" alt=" " width="100%">
-</p>
+![Empathy mapping 2 ](assets/img/chapter-2/img-empathy-map-2.png)
 
 **Positive Points:**
 
@@ -743,9 +687,7 @@ Personalizar los pedidos para cada miembro del grupo:
 
 As-is Scenario Mapping: Restaurantes
 
-<p align="center">
-  <img src="assets/img/chapter-2/img-as-is-2.png" alt=" " width="100%">
-</p>
+![As-is 2](assets/img/chapter-2/img-as-is-2.png)
 
 **Positive Points:**
 
