@@ -417,7 +417,7 @@ En esta sección explicaremos el proceso de despliegue de nuestra página de ate
 ## 5.2. Landing Page, Services & Applications Implementation  
 ### 5.2.1. Sprint 1  
 
-![Sprint Verduritas](assets/img/chapter-5/img-sprint-verduritas-1.png)
+![Sprint Verduritas](assets/img/chapter-5/img-sprint-1.png)
 
 
 #### 5.2.1.1. Sprint Planning 1  
