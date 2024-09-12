@@ -1685,8 +1685,9 @@ Para gestionar y organizar los distintos cambios en el proyecto, se utilizó una
   
 - [**Landing Page Repository**](https://github.com/G2-UPC-PRE-202402-SI730-WX53-DevDynasty/GastroGo-Landing-Page)
   
-- [**Report Repository**](https://github.com/G2-UPC-PRE-202402-SI730-WX53-DevDynasty/GastroGo-Report) 
-
+- [**Report Repository**](https://github.com/G2-UPC-PRE-202402-SI730-WX53-DevDynasty/GastroGo-Report)
+  
+- [**Acceptance Test Repository**](https://github.com/G2-UPC-PRE-202402-SI730-WX53-DevDynasty/acceptance-test) 
 
 
 Con el fin de optimizar el manejo de ramas y la implementación de modificaciones en el código, se adoptó la metodología GitFlow. Este enfoque estructuró el desarrollo en dos ramas principales:
@@ -1712,6 +1713,16 @@ Donde:
 - Feature: Es el nombre de la rama.
 
 - Feature-name: Es el nombre de la características que se están por desarrollar
+
+Donde:
+
+**type:** Especifica el tipo de cambio introducido en el commit. Los tipos mas comunes son:
+
+- `feat`: Implementación de una nueva característica
+- `fix`: Corrección de errores
+- `chore`: Tareas de mantenimiento
+- `docs`: Actualización de la documentación
+
 
 Ejemplo Report:
 - Se crea una rama de `'feature/chapter-1'` a partir de la rama develop
@@ -1770,13 +1781,37 @@ A continuación, se destacan algunas de las convenciones que seguiremos:
 Estas convenciones no solo mejorarán la legibilidad de nuestras especificaciones, sino que también facilitarán la colaboración entre los diferentes miembros del equipo, asegurando que todos comprendan y sigan las mismas directrices.
 
 ### 5.1.4. Software Deployment Configuration  
-  
+
+En esta sección explicaremos el proceso de despliegue de nuestra página de aterrizaje utilizando el servicio automatizado de GitHub Pages. A continuación, se detallarán los pasos requeridos para alcanzar el despliegue.
+-   Debemos asegurarnos de tener un repositorio con la landing page a desplegar.
+
+![Configuration 1](assets/img/chapter-5/img-configuration-1.png)
+
+-   Accedemos a nuestro repositorio y debemos de añadir el html, css y js segun corresponda.
+
+![Configuration 2](assets/img/chapter-5/img-configuration-2.png)
+
+- Debemos ingresar al apartado de configuracion de nuestro repositorio.
+
+![Configuration 3](assets/img/chapter-5/img-configuration-3.png)
+
+- Dentro de la configuracion debemos seleccionar el apartado de GitHub Pages.
+
+![Configuration 4](assets/img/chapter-5/img-configuration-4.png)
+
+- Una vez dentro de GitHub Pages debemos seleccionar la branch que deseamos desplegar y presionar el boton de save para que empieze a desplegarse.
+
+![Configuration 5](assets/img/chapter-5/img-configuration-5.png)
+
+- Una vez final el build podremos visualizar el enlace con el que podremos visualizar nuestra landing page desplegada.
+
+![Configuration 6](assets/img/chapter-5/img-configuration-6.png)
+
 ## 5.2. Landing Page, Services & Applications Implementation  
 ### 5.2.1. Sprint 1  
 
-<p align="center">
-  <img src="assets/img/chapter-5/img-sprint-1.png" alt=" " width="100%">
-</p>
+![Sprint Verduritas](assets/img/chapter-5/img-sprint-devdynasty-1.png)
+
 
 #### 5.2.1.1. Sprint Planning 1  
 
@@ -1808,22 +1843,93 @@ Estas convenciones no solo mejorarán la legibilidad de nuestras especificacione
 
   
 #### 5.2.1.3. Development Evidence for Sprint Review  
-| **Repository** | **Branch** | **Commit Id**                              | **Commit Message**                                          | **Commit Message Body** | **Committed on (Date)** |
-|----------------|------------|--------------------------------------------|-------------------------------------------------------------|-------------------------|-------------------------|
-|GastroGo-Landing-Page| develop    | c8add7bb55905c1773cf2e1714223febf309a13c   | Initial commit                                               |                         | 17/08/2024               |
-|GastroGo-Landing-Page                |develop            | c2032295c903949148b30f3deb7a4315f061ea60   |fix(readme): change title for README.md      |                     |01/09/2024               |
-|GastroGo-Landing-Page                |develop            | 57d6342157ef7a80185af3d34730ce866bcd2dfe   |feat(readme): add introductory information for repository.  |       |01/09/2024           |
-|GastroGo-Landing-Page                |develop            | 19e986c8acd59ea08bee501758ff94195ff2b5a1   |feat(images): add images for favicon.     |                     |01/09/2024               |
-|GastroGo-Landing-Page                |develop            | acec7fd8f19bac3400d1e5615c4d8c15ccc2a9b3   |feat(styles): add styles.css for the index.html stylesheet.  |     |01/09/2024               |
-|GastroGo-Landing-Page                |develop            | 8a5f5a49f73b16ec5971eb5e360ff7151b83ae5a   |feat(index): add base of index.html for other branches.  |         |01/09/2024               |
-|GastroGo-Landing-Page                |develop            | 4bd0d5f97b59296863b20565240cac5d05ea8c6d   |feat(index): add the references for favicon images and font api.     |    |04/09/2024      |
-|GastroGo-Landing-Page                |develop            | bff9fc11f20b36ca4df0e9c9cef81228e6e7cd25   |chore: add css for roboto font.     |    |04/09/2024      |
+
+| **Repository** | **Branch** | **Commit Id**                              | **Commit Message**                                           | **Committed on (Date)** |
+|----------------|------------|--------------------------------------------|--------------------------------------------------------------------------------------|-------------------------|
+|GastroGo-Landing-Page| develop    | c8add7bb55905c1773cf2e1714223febf309a13c   | Initial commit                                                                        | 17/08/2024               |
+|GastroGo-Landing-Page                |develop            | c2032295c903949148b30f3deb7a4315f061ea60   |fix(readme): change title for README.md                           |01/09/2024               |
+|GastroGo-Landing-Page                |develop            | 57d6342157ef7a80185af3d34730ce866bcd2dfe   |feat(readme): add introductory information for repository.         |01/09/2024           |
+|GastroGo-Landing-Page                |develop            | 19e986c8acd59ea08bee501758ff94195ff2b5a1   |feat(images): add images for favicon.                         |01/09/2024               |
+|GastroGo-Landing-Page                |develop            | acec7fd8f19bac3400d1e5615c4d8c15ccc2a9b3   |feat(styles): add styles.css for the index.html stylesheet.       |01/09/2024               |
+|GastroGo-Landing-Page                |develop            | 8a5f5a49f73b16ec5971eb5e360ff7151b83ae5a   |feat(index): add base of index.html for other branches.           |01/09/2024               |
+|GastroGo-Landing-Page                |develop            | 4bd0d5f97b59296863b20565240cac5d05ea8c6d   |feat(index): add the references for favicon images and font api.         |04/09/2024      |
+|GastroGo-Landing-Page                |develop            | bff9fc11f20b36ca4df0e9c9cef81228e6e7cd25   |chore: add css for roboto font.         |04/09/2024      |
+|GastroGo-Landing-Page                |develop            | 131d7114b8ded142a499fa69079bb8354d08a5eb   |feat(index): add footer for the Landing Page.         |04/09/2024      |
+|GastroGo-Landing-Page                |develop            | 6e54bfbed9d244090aba12540b5bbbe274105535   |feat(index): add Contact Us section for the Landing Page.        |04/09/2024      |
+|GastroGo-Landing-Page                |develop            | 6d27558d801ad5ce2fecfa946cf2a3ee2d00e11d   |feat(index): add responsive web design for Contact Us section.        |04/09/2024      |
+|GastroGo-Landing-Page                |develop            | 3eeaf24ba945bbf6d35b822e754b9fcb64b819cc   |feat(index): add responsive web design for footer section.        |04/09/2024      |
+|GastroGo-Landing-Page                |develop            | 09fc93633c5b04ae50551a439bb4f21298664db3   |feat(index): add experience section for the landing page         |04/09/2024      |
+|GastroGo-Landing-Page                |develop            | 70f88f825ff9b267dff5ba435cb78975e07d7458   |feat(index): add web design for the experience section         |04/09/2024      |
+|GastroGo-Landing-Page                |develop            | 2d26575cb887c7949d0ec9b4b019ac0ad4710b56   |feat(index): add images for experience section.        |04/09/2024      |
+|GastroGo-Landing-Page                |develop            | 7bd10ee2ed182b9d0b87921ce2ac491b22d0666a   |feat(index): add experience section for the landing page        |04/09/2024      |
+|GastroGo-Landing-Page                |develop            | 811d8294bd1f02c4def7c9595a191ded2e2e3a45   |feat(index): add images for experience section.        |04/09/2024      |
+|GastroGo-Landing-Page                |develop            | 3454a9ceb0eac7ceaee53b7f91f48bb910c06b9b   |feat(index): add plans section for the landing page        |04/09/2024      |
+|GastroGo-Landing-Page                |develop            | 964cc881d6250b68545606509ddb48cdfcbfe5fe   |feat(index): add web design to the plans section        |04/09/2024      |
+|GastroGo-Landing-Page                |develop            | 49818e0aadd4b89f5245f5b799e68f8595604b37   |feat(index): add images for plans section.        |04/09/2024      |
+|GastroGo-Landing-Page                |develop            | 375ec9eeeacb7d7de6e138e69305340cc3a5817f   |feat(index): add feature for the Landing Page.        |04/09/2024      |
+|GastroGo-Landing-Page                |develop            | 853c31f9c69992f261d8b9bac23be0c374eada72   |feat(styles): add new styles for feature section      |04/09/2024      |
+|GastroGo-Landing-Page                |develop            | 474e2d3c970feb1b2ab703bb8335211fb4c2f2bd   |style(images): update src for images       |04/09/2024      |
+|GastroGo-Landing-Page                |develop            | 8e627e821b1b347e51b8c38f6a9a6814f1fb59c6   |feat(assets): add images for feature section      |04/09/2024      |
+|GastroGo-Landing-Page                |develop            | 51d47af2f995d724ac21f2ab4ef2a30d8698bc94   |feat(index): add steps for the Landing Page.       |04/09/2024      |
+|GastroGo-Landing-Page                |develop            | 7ce74ca116cfeb93d1de3927d1c9e5d8c5316106   |feat(styles): add new styles for steps section        |04/09/2024      |
+|GastroGo-Landing-Page                |develop            | dda1c287c97d0b866ea8e585e5fb98aab8993df5   |feat(assets): add images for steps section      |04/09/2024      |
+|GastroGo-Landing-Page                |develop            | f36420d4f8911612b88468d6b7e5fac0054a842e   |feat(index): added structure for nav bar       |05/09/2024      |
+|GastroGo-Landing-Page                |develop            | 68cfce3aad6eca12f2af9425f3a4980e39c1ea05   |feat(styles): added responsive nav-bar css      |05/09/2024      |
+|GastroGo-Landing-Page                |develop            | be60c0af2d562e615c675ff120e3384c54906bcf   |feat: added logo-gastrogo        |04/09/2024      |
+|GastroGo-Landing-Page                |develop            | 8580bfbfa4e1ab985971a20099bef5c88b218645   |feat(html): added introduction section html        |05/09/2024      |
+|GastroGo-Landing-Page                |develop            | 31d8c1172b3ff828a27f73ecf69f4832f11a9c3f   |feat(styles): added introduction section responsive css      |05/09/2024      |
+|GastroGo-Landing-Page                |develop            | 5f853fcf64012a813d62646143a8caccbea22b30   |feat(html): added about us section html      |05/09/2024      |
+|GastroGo-Landing-Page                |develop            | 48c1dd4c191d2f6a4a9e0e1cdce431df88ab9038   |feat(css): added about us section css       |05/09/2024      |
+|GastroGo-Landing-Page                |develop            | 38da364f7c8e0c61e3aefbb7c0660ae040408519   |feat(html): added why us section html       |05/09/2024      |
+|GastroGo-Landing-Page                |develop            | aff390c8d84e3f4b71c96ab923d1c32ff2545898   |feat(css): added why us section css       |05/09/2024      |
+|GastroGo-Landing-Page                |develop            | a8df00ed4b9ebd8075c63917c47f244f63587cc9   |feat(scritps): added scripts for html       |05/09/2024      |
+
+
+
 
 
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review  
-  
+En este sprint, se ha completado el desarrollo de la landing page. Para su despliegue, se emplearon varias herramientas clave, entre ellas:
+
+| **Repository** | **Branch** | **Commit Id**                              | **Commit Message**                                         | **Committed on (Date)** |
+|----------------|------------|--------------------------------------------|--------------------------------------------------------------------------------------|-------------------------|
+|acceptance-test| develop    | 55eb1646d73316ec2929ffafa95af8dfcef3adc5   | Initial commit                                                                        | 12/09/2024               |
+|acceptnace-test| develop    | 9a399e19e898f0dd693654c70be3bd1fe67ea40e   | feat(readme): added description readme                                                                       | 12/09/2024               |
+|acceptnace-test| develop    | 4b738eb74073aacbdcf2d3a37eabdaf21040c5a5   | chore: added epic 1 acceptance test                                                                     | 12/09/2024               |
+|acceptnace-test| develop    | 06c167e00c191b77c03da4aa7cb13fab0d86c9d7   | chore: added epic 2 acceptance test                                                                       | 12/09/2024               |
+|acceptnace-test| develop    | 62b806ee10782f3b6e3125964aaefd0ff552652c   | chore: added epic 3 acceptance test                                                                       | 12/09/2024               |
+|acceptnace-test| develop    | 3ca6c4208a62a6b5ffa6d6dffe8d4f088918af5d   | chore: added epic 4 acceptance test                                                                      | 12/09/2024               |
+|acceptnace-test| develop    | 2e7a6166e776f0d2f6d97368d384457e7bde7ca7   | chore: added epic 5 acceptance test                                                                        | 12/09/2024               |
+|acceptnace-test| develop    | 5846374f45b976d826580c0855565212811be5e8   | chore: added epic 6 acceptance test                                                                       | 12/09/2024               |
+|acceptnace-test| develop    | b41662bc5609e8d7bb84b24b99910ab621001c09   | chore: added epic 7 acceptance test                                                                       | 12/09/2024               |
+|acceptnace-test| develop    | 64d26478f1b9e23cf51c31a56dbd17e63c4ad283   | chore: added epic 8 acceptance test                                                                       | 12/09/2024               |
+|acceptnace-test| develop    | 9520021ae13032e410798dd06dbde7252b5d8d0f   | chore: added epic 9 acceptance test                                                                       | 12/09/2024               |
+|acceptnace-test| develop    | 568eb409dc3fbf273ab11fcbf42f88b7ae9662ca   | chore: added epic 10 acceptance test                                                                       | 12/09/2024               |
+
+
+
 #### 5.2.1.5. Execution Evidence for Sprint Review  
+
+En esta entrega, el equipo Verduritas logró implementar la landing page, la cual presenta distintas secciones que ofrecen información esencial para los usuarios. Estas secciones están diseñadas para explicar quiénes somos, qué nos diferencia, cómo funciona nuestra plataforma, y brindar una visión general de la experiencia, los planes disponibles y un espacio para contactarnos. Con este enfoque, se busca proporcionar una experiencia clara y completa para los visitantes.
+
+![Evidence 1](assets/img/chapter-5/img-evidence-1.png)
+
+![Evidence 2](assets/img/chapter-5/img-evidence-2.png)
+
+![Evidence 3](assets/img/chapter-5/img-evidence-3.png)
+
+![Evidence 4](assets/img/chapter-5/img-evidence-4.png)
+
+![Evidence 5](assets/img/chapter-5/img-evidence-5.png)
+
+![Evidence 6](assets/img/chapter-5/img-evidence-6.png)
+
+![Evidence 7](assets/img/chapter-5/img-evidence-7.png)
+
+![Evidence 8](assets/img/chapter-5/img-evidence-8.png)
+
+![Evidence 9](assets/img/chapter-5/img-evidence-9.png)
   
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review  
 Durante el sprint 1, se centró en el desarrollo de la landing page como primera tarea prioritaria. Dado que el enfoque principal fue establecer la estructura y diseño inicial de la página, no se integraron ni utilizaron servicios web en esta etapa. La implementación de servicios web se considerará en sprints futuros, una vez que la landing page esté completamente desplegada.
@@ -1831,41 +1937,25 @@ Durante el sprint 1, se centró en el desarrollo de la landing page como primera
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review  
 El Execution Evidence para la revisión del sprint está orientado a documentar y presentar evidencia sobre el desarrollo logrado a lo largo del sprint, prestando especial atención al progreso en la landing page. Estas pruebas son esenciales para demostrar cómo se han cumplido los objetivos establecidos y qué partes del trabajo están terminadas, asegurando que se corresponden con las expectativas del cliente.
 
-<p align="center">
-  <img src="assets/img/chapter-5/img-evidence-1.png" alt=" " width="100%">
-</p>
-
-<p align="center">
-  <img src="assets/img/chapter-5/img-evidence-2.png" alt=" " width="100%">
-</p>
-
-<p align="center">
-  <img src="assets/img/chapter-5/img-evidence-3.png" alt=" " width="100%">
-</p>
-
-<p align="center">
-  <img src="assets/img/chapter-5/img-evidence-4.png" alt=" " width="100%">
-</p>
-
-<p align="center">
-  <img src="assets/img/chapter-5/img-evidence-5.png" alt=" " width="100%">
-</p>
-
-<p align="center">
-  <img src="assets/img/chapter-5/img-evidence-6.png" alt=" " width="100%">
-</p>
-
-<p align="center">
-  <img src="assets/img/chapter-5/img-evidence-7.png" alt=" " width="100%">
-</p>
-
-<p align="center">
-  <img src="assets/img/chapter-5/img-evidence-8.png" alt=" " width="100%">
-</p>
+- Git: Utilizado como sistema de control de versiones, facilitó la colaboración efectiva entre los miembros del equipo durante el proceso de desarrollo.
+- GitFlow: Implementado como metodología de trabajo, permitió organizar y gestionar de manera eficiente los aportes de cada integrante, garantizando un flujo continuo en el progreso del proyecto.
+- GitHub: Plataforma esencial para el trabajo colaborativo, donde se gestionaron y almacenaron todas las versiones del proyecto, asegurando un control adecuado de los cambios.
+- GitHub Pages: Utilizado para desplegar la landing de forma rápida y sencilla, permitiendo que la aplicación esté disponible públicamente desde un repositorio de GitHub.
 
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint  
-  
+
+El equipo trabajó en el desarrollo de la landing page utilizando ramas de cada feature, lo que permitió mejorar, actualizar y realizar modificaciones de manera más organizada. El uso de estas ramas facilita la integración y revisión antes de fusionarlas con la rama principal (main), asegurando que no se introduzcan errores. A continuación, se muestra el network graph y  code frecuency mediante la plataforma GitHub:
+
+Network graph:
+![Network Graph](assets/img/chapter-5/img-network-github.png)
+
+
+
+Code frecuency:
+
+![Code Frecuency](assets/img/chapter-5/img-code-frecuency.png)
+
 # Conclusiones  
 ### Conclusiones y recomendaciones
 El avance del proyecto logra cumplir con los objetivos planteados incicialmente, incluyendo la contextualización del problema y solución a este, cómo también el desarrollo y despliegue de la primera versión de la landing page, junto con la implementación de funcionalidades clave. Cada miembro del equipo contribuyó en el avance de las distintas fases del proyecto.
