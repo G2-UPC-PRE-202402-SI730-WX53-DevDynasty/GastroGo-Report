@@ -47,11 +47,53 @@ Producto: GastroGo
 ---  
 # Project Report Collaboration Insights  
 
-Link del repositorio del reporte del TB1: https://github.com/G2-UPC-PRE-202402-SI730-WX53-DevDynasty/GastroGo-Report
+TB1:
 
-Durante la realizacion informe, se realizaron reuniones y se asignaron los temas a desarrollar para la entrega correspondiente a los Capítulos I al V del Sprint 1, quedando organizados de la siguiente forma:
+Durante la realizacion del informe, se realizaron reuniones y se asignaron los temas a desarrollar para la entrega correspondiente a los Capítulos I al V del Sprint 1, estos los insights de la organizacion de Github.
 
-- Imágen de las Contribuciones del equipo: 
+Contribuciones del equipo
+
+![Contribuciones del equipo](assets/img/develop/img-contributors-team.png)
+
+**Imágen de las contribuciones Ricardo:**
+
+![Contribuciones Ricardo](assets/img/develop/img-contributors-ricardo.png)
+
+**Imágen de los commits Ricardo:**
+
+![Commits Ricardo](assets/img/develop/img-commits-ricardo.png)
+
+**Imágen de las contribuciones Fabiola:**
+
+![Contribuciones Fabiola](assets/img/develop/img-contributors-fabiola.png)
+
+**Imágen de los commits Fabiola:**
+
+![Commits Fabiola](assets/img/develop/img-commits-fabiola.png)
+
+**Imágen de las contribuciones Marco:**
+
+![Contribuciones Marco](assets/img/develop/img-contributors-marco.png)
+
+**Imágen de los commits Marco:**
+
+![Commits Marco](assets/img/develop/img-commits-marco.png)
+
+**Imágen de las contribuciones Francisco:**
+
+![Contribuciones Francisco](assets/img/develop/img-contributors-francisco.png)
+
+**Imágen de los commits Francisco:**
+
+![Commits Francisco](assets/img/develop/img-commits-francisco.png)
+
+**Imágen de las contribuciones Francisco:**
+
+![Contribuciones Camila](assets/img/develop/img-contributors-camila.png)
+
+**Imágen de los commits Camila:**
+
+![Commits Camila](assets/img/develop/img-commits-camila.png)
 
 
 ---  
@@ -777,6 +819,7 @@ En esta sección, mostramos perfiles ficticios que representan a los segmentos d
 ### 2.3.2. User Task Matrix  
 
 La User Task Matrix nos permite descomponer las actividades y tareas que nuestros usuarios llevan a cabo al utilizar nuestra startup. Al clasificar estas tareas según su frecuencia e importancia para los usuarios, podemos priorizar nuestros recursos en desarrollo y diseño para optimizar su experiencia.
+
 | User task                                       | Lucas Fernández<br>Trabajador | Carlos López<br>Gerente de Restaurante |
 |-------------------------------------------------|-------------------------------|---------------------------------------|
 |                                                 | Frecuencia | Importante            | Frecuencia | Importante            |
@@ -1592,6 +1635,7 @@ Context diagram:
 
 ### 4.6.2. Software Architecture Container Diagrams  
 Container diagram:
+
 ![Container Diagram](assets/img/chapter-4/containerdiagram.jpg)
 
 ### 4.6.3. Software Architecture Components Diagrams  
@@ -1980,6 +2024,12 @@ https://www.pickerexpress.com/blog/logistica-en-restaurantes
 
 ---  
 # Anexos
-- Enlace de la Organización de Github: https://github.com/G2-UPC-PRE-202402-SI730-WX53-DevDynasty/GastroGo-Report
+- [**Organización de Github**](https://github.com/G2-UPC-PRE-202402-SI730-WX53-DevDynasty/GastroGo-Report)
+- [**Report Repository**](https://github.com/G2-UPC-PRE-202402-SI730-WX53-DevDynasty/GastroGo-Report)
+- [**Acceptance Test**](https://github.com/G2-UPC-PRE-202402-SI730-WX53-DevDynasty/acceptance-test)
+- [**Landing Page**](https://github.com/G2-UPC-PRE-202402-SI730-WX53-DevDynasty/GastroGo-Landing-Page)
 - Videos de Exposiciones:
-- TB1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/ETQ3H29FNBZLl6gPo91GM4gBbbJHq6zPilf8wkxnCAbA7g?e=UoCVY3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+- TB1: [upc-pre-202401-si730-wx53-devdynasty-expo-tb1.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/ETQ3H29FNBZLl6gPo91GM4gBbbJHq6zPilf8wkxnCAbA7g?e=UoCVY3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- Web Applications Prototyping: [**upc-pre-202402-si730-wx53-devdynasty-prototype-gastrogo-navigation-sprint-1.mp4**](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110385_upc_edu_pe/EUtluo1uE8ZLhSNlmzhk4r8BdyUbW0yyxQkt5zigPNIcAA?e=YmmwUS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- Needfinding: [**upc-pre-202401-si730-wx53-DevDynasty-needfinding-sprint-1.mp4**](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/EWIpimdxe6ZHoMD_xHk62dQBUgZ6DXhQhyfx2nwDKM6IQg?e=Z6ZJw4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D)
+
