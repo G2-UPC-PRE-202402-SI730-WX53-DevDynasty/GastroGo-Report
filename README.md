@@ -1265,8 +1265,7 @@ Definición: Un restaurante que ha firmado un acuerdo con GastroGo para ofrecer 
 | 48     | E10 - US048   | Endpoint para la actualización y eliminación de pedidos grupales | **Como** developer<br>**Quiero** tener un endpoint que permita la actualización y eliminación de pedidos grupales<br>**Para** que los usuarios puedan modificar o eliminar pedidos grupales de manera sencilla y rápida. | 3                            |
 | 49     | E10 - US049   | Endpoint para recomendaciones personalizadas       | **Como** developer<br>**Quiero** tener un endpoint que proporcione recomendaciones personalizadas<br>**Para** que los usuarios puedan recibir sugerencias de restaurantes y platos según sus preferencias.                    | 5                            |
 
-    
-# Capítulo IV: Product Design  
+
 # Capítulo IV: Product Design
 
 Este capítulo se plantea en el proceso de diseño de los productos digitales que brinda DevDynasty. Asimismo, se enfocará en el diseño visual y la arquitectura de la información con la que se alinearán los productos para crear interfaces de usuario (UI) y experiencias de usuario (UX) efectivas.
