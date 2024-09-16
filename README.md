@@ -1436,9 +1436,9 @@ En este segmento se presentará el proceso de diseño de la aplicación web, des
 
 En esta sección se presentarán los wireframes de la aplicación web. Estos son los esquemas de baja fidelidad, un blueprint para saber cómo vamos a estructurar la aplicación web antes de continuar con las guías de estilo e imágenes.
 
-Iniciar Sesión
+Iniciar Sesión / Registro
 
-![Log In](assets/img/chapter-4/LogIn.png)
+![Log In | Sign In](assets/img/chapter-4/LogIn.png)
 
 Pago de membresía
 
@@ -1460,6 +1460,8 @@ Ingreso de información para el tipo de usuario
 
 ![Forms](assets/img/chapter-4/Forms.png)
 
+**Grupo de Trabajadores:**
+
 Pantalla principal para segmento de grupo de trabajadores
 
 ![Home](assets/img/chapter-4/Home.png)
@@ -1472,41 +1474,43 @@ Ordenar una comida y añadir notas para el restaurante
 
 ![Orders](assets/img/chapter-4/Order.png)
 
-Pantalla de órdenes realizadas por el grupo de trabajadores
+Pantalla de órdenes realizadas por el grupo de trabajadores (incluye los detalles del pedido seleccionadio y su respectivo tracker)
 
-![img.png](assets/img/chapter-4/OrdersUser.png)
+![Order Details](assets/img/chapter-4/OrdersUsers.png)
 
 Pantalla de actividades grupales para los trabajadores y pago equitativo de cuenta
 
-![img_1.png](assets/img/chapter-4/Group.png)
+![Team Activities](assets/img/chapter-4/Group.png)
 
 Perfil del trabajador y su respectiva suscripción
 
-![img_2.png](assets/img/chapter-4/ProfileWorker.png)
+![Profile Worker](assets/img/chapter-4/ProfileWorker.png)
 
 Pantalla de notificaciones para los trabajadores
 
-![img_3.png](assets/img/chapter-4/NotificationsWorker.png)
+![Worker's notifications](assets/img/chapter-4/NotificationsWorker.png)
+
+**Restaurantes:**
 
 Pantalla principal para segmento de restaurantes (incluye órdenes recientes y su reputación en la página web)
 
-![img_4.png](assets/img/chapter-4/HomeRestaurants.png)
+![Home Page for Restaurants](assets/img/chapter-4/HomeRestaurants.png)
 
-Pantalla de órdenes y detalles del restaurante
+Pantalla de órdenes y detalles del restaurante 
 
-![img_5.png](assets/img/chapter-4/OrdersRestaurants.png)
+![Screen for orders and details of the restaurant](assets/img/chapter-4/OrdersRestaurants.png)
 
 Pantalla para crear menús y visualizar el detalle de cada uno
 
-![img_6.png](assets/img/chapter-4/MenuRestaurants.png)
+![Creation of menus and its details](assets/img/chapter-4/MenuRestaurants.png)
 
 Perfil del restaurante y su respectiva suscripción
 
-![img_7.png](assets/img/chapter-4/ProfileRestaurant.png)
+![Restaurant's profile and subscription](assets/img/chapter-4/ProfileRestaurant.png)
 
 Pantalla de notificaciones para los restaurantes
 
-![img_8.png](assets/img/chapter-4/NotificationsRestaurant.png)
+![Restaurant's notifications](assets/img/chapter-4/NotificationsRestaurant.png)
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
@@ -1556,26 +1560,81 @@ User Goal: Como dueño de un restaurante, quiero revisar las órdenes y denegar 
 En esta sección se presentan los mock-ups de la aplicación web. Es decir, a base de los wireframes vistos anteriormente se ha creado una esquematización de alta fidelidad, acorde a las guías de estilo, arquitectura de la información y componentes mencionados en secciones anteriores.
 Enlace al Figma: https://www.figma.com/design/HGjzWSvewN97ZBYXu5FkdL/ApplicationWeb?node-id=121-156&t=nBFBpuZ4klesT9br-1
 
+Iniciar Sesión / Registro
+
+![Log In | Sign In](assets/img/chapter-4/LogInM.png)
+
+Pago de membresía
+
+![Membership Payment](assets/img/chapter-4/PaymentsM.png)
+
+Recuperar Contraseña
+
+![Recover Password](assets/img/chapter-4/RecoverPasswordM.png)
+
+Determinar el tipo de usuario (Grupo de Trabajadores o Restaurantes)
+
+![User Type](assets/img/chapter-4/UserTypeM.png)
+
+Explicación de Planes
+
+![Plans for App](assets/img/chapter-4/PlansM.png)
+
+Ingreso de información para el tipo de usuario
+
+![Forms](assets/img/chapter-4/FormsM.png)
+
+**Grupo de Trabajadores:**
+
+Pantalla principal para segmento de grupo de trabajadores
+
+![Home](assets/img/chapter-4/HomeM.png)
 
 Detalles de cada restaurante para los trabajadores
 
-![img_2.png](assets/img/chapter-4/DetailsRestaurant.png)
+![Restaurants](assets/img/chapter-4/RestaurantSearchM.png)
 
 Ordenar una comida y añadir notas para el restaurante
 
-![img_3.png](assets/img/chapter-4/OrderFood.png)
+![Orders](assets/img/chapter-4/OrdersM.png)
 
-Pantalla de órdenes realizadas por el grupo de trabajadores
+Pantalla de órdenes realizadas por el grupo de trabajadores (incluye los detalles del pedido seleccionadio y su respectivo tracker)
 
-![img.png](assets/img/chapter-4/OrdersRestaurantM.png)
+![Order Details](assets/img/chapter-4/OrdersUsersM.png)
+
+Pantalla de actividades grupales para los trabajadores y pago equitativo de cuenta
+
+![Team Activities](assets/img/chapter-4/TeamM.png)
+
+Perfil del trabajador y su respectiva suscripción
+
+![Profile Worker](assets/img/chapter-4/ProfileWorkerM.png)
+
+Pantalla de notificaciones para los trabajadores
+
+![Worker's notifications](assets/img/chapter-4/NotificationsWorkerM.png)
+
+**Restaurantes:**
+
+Pantalla principal para segmento de restaurantes (incluye órdenes recientes y su reputación en la página web)
+
+![Home Page for Restaurants](assets/img/chapter-4/HomeRestaurantsM.png)
 
 Pantalla de órdenes y detalles del restaurante
 
-![img_1.png](assets/img/chapter-4/OrdersByWorkers.png)
+![Screen for orders and details of the restaurant](assets/img/chapter-4/OrdersRestaurantsM.png)
 
 Pantalla para crear menús y visualizar el detalle de cada uno
 
+![Creation of menus and its details](assets/img/chapter-4/MenuRestaurantsM.png)
 
+Perfil del restaurante y su respectiva suscripción
+
+![Restaurant's profile and subscription](assets/img/chapter-4/ProfileRestaurantM.png)
+
+Pantalla de notificaciones para los restaurantes
+
+![Restaurant's notifications](assets/img/chapter-4/NotificationsRestaurantM.png)
 
 ### 4.4.4. Web Applications User Flow Diagrams  
 
@@ -1704,7 +1763,7 @@ Landing Page:
 
 
 **IDE's de desarrollo**
-Visual Studio Code : https://code.visualstudio.com/.es 
+Visual Studio Code: https://code.visualstudio.com/.es 
 - Es un IDE muy adaptable que ofrece una experiencia de desarrollo optimizada y personalizable. Dispone de una extensa selección de extensiones que permiten ampliar sus capacidades.
 
 **Software testing**
