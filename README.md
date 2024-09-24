@@ -445,7 +445,10 @@ Diversos establecimientos de comida buscan incrementar sus ventas al recibir y g
 
 Grupo de trabajadores:
 
-Equipos de trabajadores en entornos laborales que desean simplificar la organización de pedidos de comida en grupo. Buscan una plataforma fácil de usar que les permita realizar pedidos colectivos de manera rápida y eficiente, con la posibilidad de obtener beneficios adicionales como descuentos o recompensas.
+Equipos de trabajadores en entornos laborales que desean simplificar la organización de pedidos de comida en grupo. Buscan una plataforma fácil de usar que les permita realizar pedidos colectivos de manera rápida y eficiente, con la posibilidad de obtener beneficios adicionales como descuentos o recompensas. En este segmento, hay dos tipos de roles: líder y miembro del grupo. 
+
+- Líder del grupo: Es quien escoge el restaurante de preferencia y realiza las ordenes.
+- Miembro del grupo: Es quien visualiza los detalles del pedido que se realizó, recibe notificaciones y más.
 
 
 # Capítulo II: Requirements Elicitation & Analysis  
