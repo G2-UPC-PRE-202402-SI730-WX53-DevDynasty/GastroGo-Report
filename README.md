@@ -1761,10 +1761,18 @@ Trello: En el manejo de los requerimientos se utilizó Trello, una herramienta q
 Landing Page:
 - El landing page fue desarrollado empleando HTML5, CSS3 y JavaScript. HTML5 se encargó de la estructura básica del contenido, mientras que CSS3 se utilizó para estilizar la página, asegurando un diseño visual atractivo y coherente. JavaScript, por su parte, agregó interactividad, permitiendo funcionalidades dinámicas que mejoraron la experiencia del usuario. Estas tecnologías combinadas permitieron la creación de un landing page funcional y estéticamente agradable.
 
+Web Application:
+
+- Para el desarrollo de la aplicación web, se utilizó el framework Vue.js, que ofrece una estructura de componentes reutilizables y una arquitectura de desarrollo eficiente. Vue.js es una herramienta versátil que permite la creación de interfaces de usuario interactivas y dinámicas, lo que resulta ideal para aplicaciones web modernas. 
 
 **IDE's de desarrollo**
+
 Visual Studio Code: https://code.visualstudio.com/.es 
 - Es un IDE muy adaptable que ofrece una experiencia de desarrollo optimizada y personalizable. Dispone de una extensa selección de extensiones que permiten ampliar sus capacidades.
+
+Webstorm: https://www.jetbrains.com/webstorm/
+
+- Es un entorno de desarrollo integrado enfocado en proyectos web, que proporciona numerosas herramientas y características diseñadas para la creación de aplicaciones web actuales. Su compatibilidad con tecnologías como JavaScript, HTML y CSS lo hace una opción sólida para desarrolladores web.
 
 **Software testing**
 
@@ -1912,7 +1920,7 @@ En esta sección explicaremos el proceso de despliegue de nuestra página de ate
 ## 5.2. Landing Page, Services & Applications Implementation  
 ### 5.2.1. Sprint 1  
 
-![Sprint Verduritas](assets/img/chapter-5/img-sprint-devdynasty-1.png)
+![Sprint DevDynasty 1](assets/img/chapter-5/img-sprint-devdynasty-1.png)
 
 
 #### 5.2.1.1. Sprint Planning 1  
@@ -2058,6 +2066,130 @@ Code frecuency:
 
 ![Code Frecuency](assets/img/chapter-5/img-code-frecuency.png)
 
+
+### 5.2.2. Sprint 2
+
+![Sprint DevDynasty 2](assets/img/chapter-5/img-sprint-devdynasty-2.png)
+
+
+#### 5.2.1.1. Sprint Planning 2
+
+| **Sprint #**                    | Sprint 2                                                                                                                                                                                                                                                                                                                                                                                  |
+|---------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sprint Planning Date**        | 21/09/2024                                                                                                                                                                                                                                                                                                                                                                                |
+| **Time**                        | 11:30 PM                                                                                                                                                                                                                                                                                                                                                                                  |
+| **Location**                    | Google Meet                                                                                                                                                                                                                                                                                                                                                                               |
+| **Prepared By**                 | Camila Loli                                                                                                                                                                                                                                                                                                                                                                               |
+| **Attendees**                   | Ricardo Barrutia, Fabiola Espinoza, Marco Gongora, Francisco Hurtado                                                                                                                                                                                                                                                                                                                      |
+| **Sprint Review Summary**       | Se desplego la Landing Page de GastroGo en Github Pages y se empezo con el desarrollo del Front-End de la apliacion web.                                                                                                                                                                                                                                                                  |
+| **Sprint Retrospective Summary**| Se consideró la opción de presentar los call to action de manera diferenciada para cada segmento objetivo. Se comenzó el desarrollo del Front End de GastroGo, dando prioridad a la creación de componentes dirigidos al segmento de trabajadores.                                                                                                                                        |
+| **Sprint Goal**                 | En este sprint se tiene como objetivo el desarrollo de la paginas principales de la aplicacion web y el despliegue de la misma. Durante las diversas reuniones del equipo se determinó el contenido por cada integrante para el front end. Una vez concluido el sprint, la Web Application debe estar desplegada en GitHub Pages|
+| **Sprint Velocity**             |                                                                                                                                                                                                                                                                                                                                                                                           |
+| **Sum of Story Points**         |                                                                                                                                                                                                                                                                                                                                                                          |
+
+
+#### 5.2.1.2. Sprint Backlog 1
+| **User Story**                              | **Work-item/Task**                               | **Description**                                       | **Estimation (Hours)** | **Assigned To**  | **Status**               |
+|---------------------------------------------|--------------------------------------------------|------------------------------------------------------|------------------------|------------------|--------------------------|
+|               |                 |  |                   | Ricardo          | Done                     |
+|             |                          |               | 0.5                    | Fabiola          | Done                     |
+|         |      |        | 2                      | Marco            | Done                     |
+|            |      |          | 1                      | Marco            | Done                     |
+|              |      |                   | 1                      | Fran             | Done                     |
+|                 |           |        | 0.5                    | Camila           | Done                     |
+|                   |            |  | 1                      | Camila           | Done                     |
+|         |          |       | 0.5                    | Ricardo          | Done                     |
+
+
+#### 5.2.1.3. Development Evidence for Sprint Review
+
+| **Repository** | **Branch** | **Commit Id**                              | **Commit Message**                                          | **Committed on (Date)** |
+|----------------|------------|--------------------------------------------|-------------------------------------------------------------------------------------|-------------------------|
+|GastroGo-FrontEnd| develop    |    | Initial commit                                                                       | 24/09/2024              |
+|GastroGo-FrontEnd               |develop            |    |                          | 24/09/2024               |
+|GastroGo-FrontEnd               |develop            |    |                          | 24/09/2024               | 
+|GastroGo-FrontEnd               |develop            |    |                          | 24/09/2024               |
+|GastroGo-FrontEnd               |develop            |    |                          | 24/09/2024               |
+|GastroGo-FrontEnd               |develop            |    |                          | 24/09/2024               |
+
+
+
+
+
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review
+En este sprint, se ha completado el desarrollo de la landing page. Para su despliegue, se emplearon varias herramientas clave, entre ellas:
+
+| **Repository** | **Branch** | **Commit Id**                              | **Commit Message**                                         | **Committed on (Date)** |
+|----------------|------------|--------------------------------------------|--------------------------------------------------------------------------------------|-------------------------|
+|acceptance-test| develop    | 55eb1646d73316ec2929ffafa95af8dfcef3adc5   | Initial commit                                                                        | 12/09/2024               |
+|acceptnace-test| develop    | 9a399e19e898f0dd693654c70be3bd1fe67ea40e   | feat(readme): added description readme                                                                       | 12/09/2024               |
+|acceptnace-test| develop    | 4b738eb74073aacbdcf2d3a37eabdaf21040c5a5   | chore: added epic 1 acceptance test                                                                     | 12/09/2024               |
+|acceptnace-test| develop    | 06c167e00c191b77c03da4aa7cb13fab0d86c9d7   | chore: added epic 2 acceptance test                                                                       | 12/09/2024               |
+|acceptnace-test| develop    | 62b806ee10782f3b6e3125964aaefd0ff552652c   | chore: added epic 3 acceptance test                                                                       | 12/09/2024               |
+|acceptnace-test| develop    | 3ca6c4208a62a6b5ffa6d6dffe8d4f088918af5d   | chore: added epic 4 acceptance test                                                                      | 12/09/2024               |
+|acceptnace-test| develop    | 2e7a6166e776f0d2f6d97368d384457e7bde7ca7   | chore: added epic 5 acceptance test                                                                        | 12/09/2024               |
+|acceptnace-test| develop    | 5846374f45b976d826580c0855565212811be5e8   | chore: added epic 6 acceptance test                                                                       | 12/09/2024               |
+|acceptnace-test| develop    | b41662bc5609e8d7bb84b24b99910ab621001c09   | chore: added epic 7 acceptance test                                                                       | 12/09/2024               |
+|acceptnace-test| develop    | 64d26478f1b9e23cf51c31a56dbd17e63c4ad283   | chore: added epic 8 acceptance test                                                                       | 12/09/2024               |
+|acceptnace-test| develop    | 9520021ae13032e410798dd06dbde7252b5d8d0f   | chore: added epic 9 acceptance test                                                                       | 12/09/2024               |
+|acceptnace-test| develop    | 568eb409dc3fbf273ab11fcbf42f88b7ae9662ca   | chore: added epic 10 acceptance test                                                                       | 12/09/2024               |
+
+
+
+#### 5.2.1.5. Execution Evidence for Sprint Review
+
+En esta entrega, el equipo Verduritas logró implementar la landing page, la cual presenta distintas secciones que ofrecen información esencial para los usuarios. Estas secciones están diseñadas para explicar quiénes somos, qué nos diferencia, cómo funciona nuestra plataforma, y brindar una visión general de la experiencia, los planes disponibles y un espacio para contactarnos. Con este enfoque, se busca proporcionar una experiencia clara y completa para los visitantes.
+
+![Evidence 1 Front](assets/img/chapter-5/img-evidence-front-1.png)
+
+![Evidence 2 Front](assets/img/chapter-5/img-evidence-front-2.png)
+
+![Evidence 3 Front](assets/img/chapter-5/img-evidence-front-3.png)
+
+![Evidence 4 Front](assets/img/chapter-5/img-evidence-front-4.png)
+
+![Evidence 5 Front](assets/img/chapter-5/img-evidence-front-5.png)
+
+![Evidence 6 Front](assets/img/chapter-5/img-evidence-front-6.png)
+
+![Evidence 7 Front](assets/img/chapter-5/img-evidence-front-7.png)
+
+![Evidence 8 Front](assets/img/chapter-5/img-evidence-front-8.png)
+
+![Evidence 9 Front](assets/img/chapter-5/img-evidence-front-9.png)
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+Para el desarrollo de la plataforma, específicamente en la parte del Frontend, utilizamos lo siguiente:
+
+Webstorm (IDE de desarrollo): Usamos Webstorm como nuestro entorno de desarrollo integrado para trabajar en el Frontend.
+
+Vue (Framework): Optamos por Vue como el framework principal para el desarrollo.
+
+GitHub: Nuestro repositorio del Frontend está alojado en GitHub, lo que facilita la colaboración y el seguimiento de los cambios en el código.
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+El Execution Evidence para la revisión del sprint está orientado a documentar y presentar evidencia sobre el desarrollo logrado a lo largo del sprint, prestando especial atención al progreso en la landing page. Estas pruebas son esenciales para demostrar cómo se han cumplido los objetivos establecidos y qué partes del trabajo están terminadas, asegurando que se corresponden con las expectativas del cliente.
+
+- Git: Utilizado como sistema de control de versiones, facilitó la colaboración efectiva entre los miembros del equipo durante el proceso de desarrollo.
+- GitFlow: Implementado como metodología de trabajo, permitió organizar y gestionar de manera eficiente los aportes de cada integrante, garantizando un flujo continuo en el progreso del proyecto.
+- GitHub: Plataforma esencial para el trabajo colaborativo, donde se gestionaron y almacenaron todas las versiones del proyecto, asegurando un control adecuado de los cambios.
+- GitHub Pages: Utilizado para desplegar la landing de forma rápida y sencilla, permitiendo que la aplicación esté disponible públicamente desde un repositorio de GitHub.
+
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint
+
+El equipo trabajó en el desarrollo de la landing page utilizando ramas de cada feature, lo que permitió mejorar, actualizar y realizar modificaciones de manera más organizada. El uso de estas ramas facilita la integración y revisión antes de fusionarlas con la rama principal (main), asegurando que no se introduzcan errores. A continuación, se muestra el network graph y  code frecuency mediante la plataforma GitHub:
+
+Network graph:
+
+![Network Graph Front ](assets/img/chapter-5/img-network-front-github.png)
+
+
+
+Code frecuency:
+
+![Code Frecuency Front](assets/img/chapter-5/img-code-front-frecuency.png)
+
 # Conclusiones  
 ### Conclusiones y recomendaciones
 El avance del proyecto logra cumplir con los objetivos planteados incicialmente, incluyendo la contextualización del problema y solución a este, cómo también el desarrollo y despliegue de la primera versión de la landing page, junto con la implementación de funcionalidades clave. Cada miembro del equipo contribuyó en el avance de las distintas fases del proyecto.
@@ -2086,6 +2218,7 @@ https://www.pickerexpress.com/blog/logistica-en-restaurantes
 - [**Report Repository**](https://github.com/G2-UPC-PRE-202402-SI730-WX53-DevDynasty/GastroGo-Report)
 - [**Acceptance Test**](https://github.com/G2-UPC-PRE-202402-SI730-WX53-DevDynasty/acceptance-test)
 - [**Landing Page**](https://github.com/G2-UPC-PRE-202402-SI730-WX53-DevDynasty/GastroGo-Landing-Page)
+- [**Front End**](https://github.com/G2-UPC-PRE-202402-SI730-WX53-DevDynasty/GastroGo-FrontEnd)
 - Videos de Exposiciones:
 - TB1: [upc-pre-202401-si730-wx53-devdynasty-expo-tb1.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/ETQ3H29FNBZLl6gPo91GM4gBbbJHq6zPilf8wkxnCAbA7g?e=UoCVY3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 - Web Applications Prototyping: [**upc-pre-202402-si730-wx53-devdynasty-prototype-gastrogo-navigation-sprint-1.mp4**](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110385_upc_edu_pe/EUtluo1uE8ZLhSNlmzhk4r8BdyUbW0yyxQkt5zigPNIcAA?e=YmmwUS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
