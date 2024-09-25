@@ -14,7 +14,7 @@ Sección: WX53
   
 Profesor: Alberto Wilmer Sanchez Seña  
   
-Informe del Trabajo Final  - TB1
+Informe del Trabajo Final  - TP
   
 Startup: DevDynasty  
   
@@ -41,6 +41,7 @@ Producto: GastroGo
 | Versión | Fecha      | Autor   | Descripción de modificaciones         |
 |---------|------------|---------|---------------------------------------|
 | 1.0     | 25/08/2024 | Barrutia Vaez, Ricardo Andree <br>	Espinoza Inoñan, Fabiola Ximena	<br> Gongora Sanchez, Marco Antonio	<br> Hurtado Palomino, Francisco Juan	<br> Loli Ramirez, Camila Cristina | Capítulo I <br> Capítulo II <br> Capítulo III <br> Capítulo IV <br> Capítulo V       |
+| 1.5     | 24/09/2024 | Barrutia Vaez, Ricardo Andree <br>	Espinoza Inoñan, Fabiola Ximena	<br> Gongora Sanchez, Marco Antonio	<br> Hurtado Palomino, Francisco Juan	<br> Loli Ramirez, Camila Cristina | Correcciones de capítulos anteriores, desarrollo del Sprint 2 y primer avance del FrontEnd de la Aplicación Web.       |
 
 
 
@@ -95,18 +96,64 @@ Contribuciones del equipo
 
 ![Commits Camila](assets/img/develop/img-commits-camila.png)
 
+TP:
+
+Durante la realizacion del informe, se realizaron reuniones y se asignaron los temas a desarrollar para la mejora continua de proyecto y el desarrollo del front ent, estos los insights de la organizacion de Github.
+
+Contribuciones del equipo
+
+![Contribuciones del equipo TP](assets/img/develop/img-contributors-team-tp.png)
+
+**Imágen de las contribuciones Ricardo:**
+
+![Contribuciones Ricardo TP](assets/img/develop/img-contributors-ricardo-tp.png)
+
+**Imágen de los commits Ricardo:**
+
+![Commits Ricardo TP](assets/img/develop/img-commits-ricardo-tp.png)
+
+**Imágen de las contribuciones Fabiola:**
+
+![Contribuciones Fabiola TP](assets/img/develop/img-contributors-fabiola-tp.png)
+
+**Imágen de los commits Fabiola:**
+
+![Commits Fabiola TP](assets/img/develop/img-commits-fabiola-tp.png)
+
+**Imágen de las contribuciones Marco:**
+
+![Contribuciones Marco TP](assets/img/develop/img-contributors-marco-tp.png)
+
+**Imágen de los commits Marco:**
+
+![Commits Marco TP](assets/img/develop/img-commits-marco-tp.png)
+
+**Imágen de las contribuciones Francisco:**
+
+![Contribuciones Francisco TP](assets/img/develop/img-contributors-francisco-tp.png)
+
+**Imágen de los commits Francisco:**
+
+![Commits Francisco TP](assets/img/develop/img-commits-francisco-tp.png)
+
+**Imágen de las contribuciones Francisco:**
+
+![Contribuciones Camila TP](assets/img/develop/img-contributors-camila-tp.png)
+
+**Imágen de los commits Camila:**
+
+![Commits Camila TP](assets/img/develop/img-commits-camila-tp.png)
 
 ---  
 # Student Outcome  
 El curso contribuye al cumplimiento del Student Outcome ABET: **ABET – EAC - Student Outcome 5** <br> Criterio: *Capacidad de comunicarse efectivamente con un rango de audiencias.*  
   
 En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 5.  
-  
-| Criterio específico | Acciones realizadas | Conclusiones |  
-| - | - | - |  
-| Trabaja en equipo para proporcionar liderazgo en forma conjunta | ***TB1:***  <br> **Barrutia Vaez, Ricardo Andree** <br> Mi aporte para el desarrollo de la TB1 fue principalmente el desarrollo del Lean UX, análisis competitivo, entrevistas, empathy map, journey map y el capítulo V. Asimismo, desarrollé la barra de navegación, la introducción y el cambio de idioma en la landing page.<br><br> **Espinoza Inoñan, Fabiola Ximena** <br> En esta entrega me encargue de la investigación, ademas, del diseño y analisis de las entrevistas para el segmento de los trabajadores obteniendo gran información para nuestro proyecto y desarrollo de software. Asimismo tambien desarrollé una parte de la landing page usando HTML y CSS. <br><br> **Gongora Sanchez, Marco Antonio** <br> Contribuí al desarrollo de la TB1 enfocándome en el capítulo III, que incluyó el To-Be Scenario Mapping, historias de usuario, Impact Mapping y la creación del Product Backlog, comprendiendo a fondo las necesidades de los segmentos objetivo. Además, implemente las secciones de "Features" y "Steps" en la landing page de la aplicación.<br><br> **Hurtado Palomino, Francisco Juan** <br>En esta entrega estuve a cargo de la creación de los diagramas, poniendo en uso el conocimiento de cursos anteriores, además desarrollé parte de la landing page para aportar en la entrega. <br><br> **Loli Ramirez, Camila Cristina** <br> Tuvimos distintas reuniones grupales para poder determinar nuestro tema principal para el proyecto, para esto decidimos presentar cada uno las propuestas que planteamos y escoger el que encajaba mejor con el factor de innovación. Por consiguiente, empezamos a coordinar la forma de trabajo, dividimos el proyecto en varios segmentos para que cada uno tenga una responsabilidad con la cual cumplir en cada reunión prevista. <br><br> | En conclusion durante la elaboración de la TB1, cada miembro del equipo contribuyó de manera significativa al proyecto. A través de la investigación, el análisis, y la colaboración continua, el equipo fue capaz de coordinar y delegar tareas de manera eficiente. Se llevaron a cabo reuniones periódicas para definir objetivos, planificar el trabajo y asegurar el cumplimiento de los plazos establecidos. La comunicación constante y la participación activa de todos los integrantes permitieron el desarrollo de cada fase del proyecto de manera integral, logrando así alcanzar los resultados esperados. |
-| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos |  ***TB1:***  <br> **Barrutia Vaez, Ricardo Andree** <br> Durante el desarrollo de la TB1, se realizaron diversas reuniones con el fin de gestionar el trabajo de manera óptima. A través de estas reuniones, pudimos definir los distintos objetivos a lograr y delegar las tareas correspondientes. Asimismo, se cumplieron las tareas asignadas en el tiempo establecido. <br><br>**Espinoza Inoñan, Fabiola Ximena** <br>Tras las reuniones realizadas por el equipo, pudimos establecer metas claras para el desarrollo de software. También se designó tareas a cada miembro del equipo como la elaboración del landing page.<br><br> **Gongora Sanchez, Marco Antonio** <br>Para esta entrega usamos GitHub como centro de colaboración donde coloqué mis avances ya sea del reporte y estructuración-diseño de la landing page. Además, como grupo, nos pusimos fechas límites de entrega para una mejor organización, en consecuencia, llevándome a planificar horarios, metas y al final de todo cumplir con lo planeado para una entrega sin complicaciones y de calidad.<br><br> **Hurtado Palomino, Francisco Juan** <br> Apliqué el conocimiento adquirido en cursos previos para la creación de los diagramas presentados, además de utilizar HTML y CSS en el desarrollo de parte de la landing page. Asimismo, fomenté un entorno colaborativo e inclusivo, estableciendo metas claras, planificando tareas y cumpliendo los objetivos trazados. <br><br>   **Loli Ramirez, Camila Cristina** <br>Luego de las reuniones, pudimos entender cuál era nuestro modelo de negocio, lo que va a determinar cómo vamos a trabajar durante todo el transcurso del proyecto. Al definir los bounded context de la aplicación, entendemos lo que desarrollaremos en las siguientes entregas. Asimismo, contamos con los modelos base de la aplicación web para tener una guía de lo que queremos lograr al final del proyecto.<br><br>| En conclusion el equipo trabajó de manera colaborativa y organizada, asegurando que cada miembro cumpliera con sus responsabilidades. Las reuniones periódicas permitieron establecer metas claras y definir las tareas a realizar, lo que facilitó una gestión eficiente del trabajo. Cada integrante aportó desde su experiencia y conocimiento, enfocándose en áreas específicas del proyecto, como la creación de diagramas, el desarrollo del landing page y la implementación de modelos de negocio.  |
-  
+
+| Criterio específico | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Conclusiones |  
+| - |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| - |  
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta | ***TB1:***  <br> **Barrutia Vaez, Ricardo Andree** <br> Mi aporte para el desarrollo de la TB1 fue principalmente el desarrollo del Lean UX, análisis competitivo, entrevistas, empathy map, journey map y el capítulo V. Asimismo, desarrollé la barra de navegación, la introducción y el cambio de idioma en la landing page.<br><br> **Espinoza Inoñan, Fabiola Ximena** <br> En esta entrega me encargue de la investigación, ademas, del diseño y analisis de las entrevistas para el segmento de los trabajadores obteniendo gran información para nuestro proyecto y desarrollo de software. Asimismo tambien desarrollé una parte de la landing page usando HTML y CSS. <br><br> **Gongora Sanchez, Marco Antonio** <br> Contribuí al desarrollo de la TB1 enfocándome en el capítulo III, que incluyó el To-Be Scenario Mapping, historias de usuario, Impact Mapping y la creación del Product Backlog, comprendiendo a fondo las necesidades de los segmentos objetivo. Además, implemente las secciones de "Features" y "Steps" en la landing page de la aplicación.<br><br> **Hurtado Palomino, Francisco Juan** <br>En esta entrega estuve a cargo de la creación de los diagramas, poniendo en uso el conocimiento de cursos anteriores, además desarrollé parte de la landing page para aportar en la entrega. <br><br> **Loli Ramirez, Camila Cristina** <br> Tuvimos distintas reuniones grupales para poder determinar nuestro tema principal para el proyecto, para esto decidimos presentar cada uno las propuestas que planteamos y escoger el que encajaba mejor con el factor de innovación. Por consiguiente, empezamos a coordinar la forma de trabajo, dividimos el proyecto en varios segmentos para que cada uno tenga una responsabilidad con la cual cumplir en cada reunión prevista. <br> <br>***TP:*** <br> **Barrutia Vaez, Ricardo Andree** <br>Durante la realización del TP, acordamos en las distintas reuniones la distribución de tareas. En el front-end, me encargué de apoyar a mis compañeros en su desarrollo, proporcionando ejemplos de cards para que pudieran guiarse y así cumplir con lo acordado para esta entrega.<br><br> **Espinoza Inoñan, Fabiola Ximena** <br>Para esta entrega, he realizo cambios para mejorar la presentación del proyecto. Con anterioridad, relicé la investigación, diseño y analisis del proyecto. Además de realizar el landing page y actualmente el front-end especialmente la parte de "Order".<br><br> **Gongora Sanchez, Marco Antonio** <br>Para esta entrega, hubo tanto reuniones y nos apoyamos para una entrega completa, ya sea tanto cómo en el desarrollo del FrontEnd cómo en algunas correciones en los roles de user stories.<br> <br> **Hurtado Palomino, Francisco Juan** <br> Para esta entrega, los integrantes nos pusimos de acuerdo para realizar las correciones respectivas dadas en el feedback por el profesor, ademas, empezamos con la produccion del frontend, dandole a cada intregrante un bounded context para realizar hasta un deadline determinado. <br><br> **Loli Ramirez, Camila Cristina** <br> Para esta entrega, tuvimos que desarrollar diferentes reuniones para la planificación del FrontEnd. Se dividieron las tareas para cada uno y se determinaron fechas para su realización. Asimismo, cada estudiante se dedicó a mejorar las indicaciones dadas en el feedback. <br>                                                                                                                                                                                                                                    | En conclusion, el equipo demostró un alto nivel de colaboración, planificación y cumplimiento de objetivos a lo largo del proyecto. Cada miembro asumió responsabilidades claras en las distintas fases, desde la investigación y el análisis competitivo hasta el desarrollo del frontend y la creación de diagramas. Las reuniones periódicas fueron clave para definir metas, asignar tareas y resolver dificultades de manera conjunta. A través de herramientas como GitHub y el uso de metodologías ágiles, el equipo logró coordinar sus esfuerzos de forma eficaz, garantizando la calidad y el cumplimiento de los plazos. Esta sinergia permitió que cada integrante contribuyera con sus habilidades y conocimientos, logrando avances significativos y resultados satisfactorios en la entrega del proyecto. |
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | ***TB1:***  <br> **Barrutia Vaez, Ricardo Andree** <br> Durante el desarrollo de la TB1, se realizaron diversas reuniones con el fin de gestionar el trabajo de manera óptima. A través de estas reuniones, pudimos definir los distintos objetivos a lograr y delegar las tareas correspondientes. Asimismo, se cumplieron las tareas asignadas en el tiempo establecido. <br><br>**Espinoza Inoñan, Fabiola Ximena** <br>Tras las reuniones realizadas por el equipo, pudimos establecer metas claras para el desarrollo de software. También se designó tareas a cada miembro del equipo como la elaboración del landing page.<br><br> **Gongora Sanchez, Marco Antonio** <br>Para esta entrega usamos GitHub como centro de colaboración donde coloqué mis avances ya sea del reporte y estructuración-diseño de la landing page. Además, como grupo, nos pusimos fechas límites de entrega para una mejor organización, en consecuencia, llevándome a planificar horarios, metas y al final de todo cumplir con lo planeado para una entrega sin complicaciones y de calidad.<br><br> **Hurtado Palomino, Francisco Juan** <br> Apliqué el conocimiento adquirido en cursos previos para la creación de los diagramas presentados, además de utilizar HTML y CSS en el desarrollo de parte de la landing page. Asimismo, fomenté un entorno colaborativo e inclusivo, estableciendo metas claras, planificando tareas y cumpliendo los objetivos trazados. <br><br>   **Loli Ramirez, Camila Cristina** <br>Luego de las reuniones, pudimos entender cuál era nuestro modelo de negocio, lo que va a determinar cómo vamos a trabajar durante todo el transcurso del proyecto. Al definir los bounded context de la aplicación, entendemos lo que desarrollaremos en las siguientes entregas. Asimismo, contamos con los modelos base de la aplicación web para tener una guía de lo que queremos lograr al final del proyecto.<br><br> ***TP:*** <br> **Barrutia Vaez, Ricardo Andree** <br>Durante la realización del TP, trabajamos como equipo de manera conjunta, apoyándonos mutuamente ante las diversas dificultades que surgían durante el desarrollo del front-end. Esto se logró a través de las reuniones que tuvimos durante el sprint 2, con el fin de alcanzar los objetivos planteados inicialmente.<br><br>**Espinoza Inoñan, Fabiola Ximena** <br>Nos reuniamos para realizar los cambios tras el feedback dado por el profesor. Hubo más participación entre los miembros del equipo. Apoyandonos entre nosotros y compartiendo conocimiento para la creación del front-end.<br><br> **Gongora Sanchez, Marco Antonio** <br> Para enta entrega, en las reuniones continuas, nos logramos repartir distintas partes del frontend. En mi caso he realizado el avance del componente de restaurantes guiandome del diseño del FrontEnd en el figma.  <br> <br> **Hurtado Palomino, Francisco Juan** <br> Tras una reunion grupal, se asignaron las tareas para cada integrante. En mi caso, se realizó el avance del componente de profile para todos los usuarios, siguiendo la estructura presentada en el figma y los conocimientos de vue.js que se aprendieron en el curso. <br>  <br> **Loli Ramirez, Camila Cristina** <br> Luego de las decisiones tomadas como equipo, empezamos con el desarrollo del FrontEnd. En este caso, se realizó el avance de Team Activities para la sesión del grupo de trabajadores. Se tuvo en cuenta la guía de estilos determinada desde el sprint anterior, para mantener la coherencia entre nuestros productos. Cada integrante se encargó de su respectivo bounded context. <br> | En conclusión, el equipo demostró una capacidad efectiva para trabajar en conjunto, establecer metas claras, planificar tareas y cumplir objetivos a lo largo del proyecto. A través de reuniones periódicas, se logró una comunicación fluida y una distribución equitativa de las responsabilidades, lo que permitió avanzar de manera coordinada y eficiente en el desarrollo del software. La planificación y el cumplimiento de los objetivos trazados fueron fundamentales para alcanzar los resultados esperados en cada entrega, garantizando la calidad y la coherencia del proyecto. El entorno colaborativo e inclusivo promovido por el equipo favoreció la participación activa de todos los miembros, fomentando la creatividad, la innovación y el aprendizaje mutuo en el proceso de desarrollo del software. |
 ---  
 # Contenido  
 ## Tabla de contenidos  
@@ -445,7 +492,10 @@ Diversos establecimientos de comida buscan incrementar sus ventas al recibir y g
 
 Grupo de trabajadores:
 
-Equipos de trabajadores en entornos laborales que desean simplificar la organización de pedidos de comida en grupo. Buscan una plataforma fácil de usar que les permita realizar pedidos colectivos de manera rápida y eficiente, con la posibilidad de obtener beneficios adicionales como descuentos o recompensas.
+Equipos de trabajadores en entornos laborales que desean simplificar la organización de pedidos de comida en grupo. Buscan una plataforma fácil de usar que les permita realizar pedidos colectivos de manera rápida y eficiente, con la posibilidad de obtener beneficios adicionales como descuentos o recompensas. En este segmento, hay dos tipos de roles: líder y miembro del grupo. 
+
+- Líder del grupo: Es quien escoge el restaurante de preferencia y realiza las ordenes.
+- Miembro del grupo: Es quien visualiza los detalles del pedido que se realizó, recibe notificaciones y más.
 
 
 # Capítulo II: Requirements Elicitation & Analysis  
@@ -1104,14 +1154,14 @@ Definición: Un restaurante que ha firmado un acuerdo con GastroGo para ofrecer 
 ### Epic 4: Personalización del Menú
 | **Epic 4: Personalización del Menú**                                                                                              |
 |----------------------------------------------------------------------------------------------------------------------------|
-| **Cómo** líder del grupo<br>**Quiero** personalizar los pedidos dentro del grupo<br>**Para** tener opciones que se adapten a nuestras preferencias. |
+| **Cómo** trabajador-líder del grupo<br>**Quiero** personalizar los pedidos dentro del grupo<br>**Para** tener opciones que se adapten a nuestras preferencias. |
 
 ### Historias de Usuario para Epic 4
 | **ID**      | **Título**                          | **Historia de Usuario**                                                                                                         | **Escenarios de Prueba**                                                                                                                                                                | **Prioridad** |
 |-------------|------------------------------------|------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
-| E4 - US022  | Selección de Plato para Personalización | **Como** líder del grupo<br>**Quiero** seleccionar un plato específico del menú<br>**Para** personalizarlo según las preferencias del grupo. | **Escenario 1: Selección del Plato**<br>**Dado** que el líder ha seleccionado un restaurante,<br>**Cuando** accede al menú,<br>**Entonces** puede seleccionar un plato para personalizar.<br><br>**Escenario 2: Ver Detalles del Plato**<br>**Dado** que el líder ha seleccionado un plato,<br>**Cuando** accede a la personalización,<br>**Entonces** se muestran las opciones disponibles para personalización. | 4             |
-| E4 - US023  | Personalización de Ingredientes      | **Como** líder del grupo<br>**Quiero** personalizar los ingredientes de un plato<br>**Para** ajustarlos a las preferencias del grupo. | **Escenario 1: Añadir o Quitar Ingredientes**<br>**Dado** que el líder está personalizando un plato,<br>**Cuando** selecciona un ingrediente,<br>**Entonces** puede añadirlo o quitarlo según la preferencia.<br><br>**Escenario 2: Guardar Personalización**<br>**Dado** que el líder ha personalizado un plato,<br>**Cuando** guarda la personalización,<br>**Entonces** se actualiza la información del plato en el pedido. | 4             |
-| E4 - US024  | Confirmar o Agregar a Votación       | **Como** líder del grupo<br>**Quiero** confirmar la personalización del plato o agregarlo a votación<br>**Para** que el grupo decida. | **Escenario 1: Confirmar Pedido**<br>**Dado** que el líder ha personalizado un plato,<br>**Cuando** decide confirmar,<br>**Entonces** el plato se añade al pedido listo para pagar.<br><br>**Escenario 2: Agregar a Votación**<br>**Dado** que el líder ha personalizado un plato,<br>**Cuando** decide agregarlo a votación,<br>**Entonces** el plato se guarda en una lista para votación posterior. | 4             |
+| E4 - US022  | Selección de Plato para Personalización | **Como** trabajador-líder del grupo<br>**Quiero** seleccionar un plato específico del menú<br>**Para** personalizarlo según las preferencias del grupo. | **Escenario 1: Selección del Plato**<br>**Dado** que el líder ha seleccionado un restaurante,<br>**Cuando** accede al menú,<br>**Entonces** puede seleccionar un plato para personalizar.<br><br>**Escenario 2: Ver Detalles del Plato**<br>**Dado** que el líder ha seleccionado un plato,<br>**Cuando** accede a la personalización,<br>**Entonces** se muestran las opciones disponibles para personalización. | 4             |
+| E4 - US023  | Personalización de Ingredientes      | **Como** trabajador-líder del grupo<br>**Quiero** personalizar los ingredientes de un plato<br>**Para** ajustarlos a las preferencias del grupo. | **Escenario 1: Añadir o Quitar Ingredientes**<br>**Dado** que el líder está personalizando un plato,<br>**Cuando** selecciona un ingrediente,<br>**Entonces** puede añadirlo o quitarlo según la preferencia.<br><br>**Escenario 2: Guardar Personalización**<br>**Dado** que el líder ha personalizado un plato,<br>**Cuando** guarda la personalización,<br>**Entonces** se actualiza la información del plato en el pedido. | 4             |
+| E4 - US024  | Confirmar o Agregar a Votación       | **Como** trabajador-líder del grupo<br>**Quiero** confirmar la personalización del plato o agregarlo a votación<br>**Para** que el grupo decida. | **Escenario 1: Confirmar Pedido**<br>**Dado** que el líder ha personalizado un plato,<br>**Cuando** decide confirmar,<br>**Entonces** el plato se añade al pedido listo para pagar.<br><br>**Escenario 2: Agregar a Votación**<br>**Dado** que el líder ha personalizado un plato,<br>**Cuando** decide agregarlo a votación,<br>**Entonces** el plato se guarda en una lista para votación posterior. | 4             |
 
 
 ### Epic 5: Coordinación de Decisión del Pedido
@@ -1122,8 +1172,8 @@ Definición: Un restaurante que ha firmado un acuerdo con GastroGo para ofrecer 
 ### Historias de Usuario para Epic 5
 | **ID**      | **Título**                           | **Historia de Usuario**                                                                                                         | **Escenarios de Prueba**                                                                                                                                                                | **Prioridad** |
 |-------------|-------------------------------------|------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
-| E5 - US025  | Creación Automática de Votación      | **Como** líder del grupo<br>**Quiero** que se cree automáticamente una nueva votación cuando selecciono la opción "Dejarlo a votación"<br>**Para** un plato, para coordinar las decisiones del grupo. | **Escenario 1: Generar Votación**<br>**Dado** que el líder ha personalizado un plato,<br>**Cuando** selecciona la opción "Dejarlo a votación",<br>**Entonces** se crea automáticamente una votación con ese plato.<br><br>**Escenario 2: Agregar Platos a Votación Activa**<br>**Dado** que ya existe una votación activa,<br>**Cuando** el líder selecciona otro plato y lo deja a votación,<br>**Entonces** este nuevo plato se agrega a la votación existente. | 5             |
-| E5 - US026  | Compartir Código de Votación          | **Como** líder del grupo<br>**Quiero** compartir un código generado<br>**Para** que los miembros del grupo puedan ingresar a la votación y votar por el plato de su elección. | **Escenario 1: Generar Código de Votación**<br>**Dado** que una votación ha sido creada,<br>**Cuando** el líder decide compartirla,<br>**Entonces** se genera un código único para que los miembros del grupo puedan acceder.<br><br>**Escenario 2: Participación en la Votación**<br>**Dado** que los miembros del grupo tienen el código de votación,<br>**Cuando** lo ingresan en la plataforma,<br>**Entonces** pueden votar por el plato o restaurante de su preferencia. | 5             |
+| E5 - US025  | Creación Automática de Votación      | **Como** trabajador-líder del grupo<br>**Quiero** que se cree automáticamente una nueva votación cuando selecciono la opción "Dejarlo a votación"<br>**Para** un plato, para coordinar las decisiones del grupo. | **Escenario 1: Generar Votación**<br>**Dado** que el líder ha personalizado un plato,<br>**Cuando** selecciona la opción "Dejarlo a votación",<br>**Entonces** se crea automáticamente una votación con ese plato.<br><br>**Escenario 2: Agregar Platos a Votación Activa**<br>**Dado** que ya existe una votación activa,<br>**Cuando** el líder selecciona otro plato y lo deja a votación,<br>**Entonces** este nuevo plato se agrega a la votación existente. | 5             |
+| E5 - US026  | Compartir Código de Votación          | **Como** trabajador-líder del grupo<br>**Quiero** compartir un código generado<br>**Para** que los miembros del grupo puedan ingresar a la votación y votar por el plato de su elección. | **Escenario 1: Generar Código de Votación**<br>**Dado** que una votación ha sido creada,<br>**Cuando** el líder decide compartirla,<br>**Entonces** se genera un código único para que los miembros del grupo puedan acceder.<br><br>**Escenario 2: Participación en la Votación**<br>**Dado** que los miembros del grupo tienen el código de votación,<br>**Cuando** lo ingresan en la plataforma,<br>**Entonces** pueden votar por el plato o restaurante de su preferencia. | 5             |
 | E5 - US027  | Resolución de Empates con Sorteo     | **Como** grupo de trabajadores<br>**Quiero** que en caso de empate en la votación, se realice un sorteo<br>**Para** determinar el restaurante o plato ganador, para evitar decisiones inconclusas. | **Escenario 1: Detección de Empate**<br>**Dado** que la votación ha terminado,<br>**Cuando** se detecta un empate entre opciones,<br>**Entonces** se activa el proceso de sorteo.<br><br>**Escenario 2: Realización de Sorteo**<br>**Dado** que se ha detectado un empate,<br>**Cuando** se realiza el sorteo,<br>**Entonces** se selecciona aleatoriamente uno de los platos o restaurantes empatados como ganador. | 5             |
 
 
@@ -1135,11 +1185,11 @@ Definición: Un restaurante que ha firmado un acuerdo con GastroGo para ofrecer 
 ### Historias de Usuario para Epic 6
 | **ID**      | **Título**                           | **Historia de Usuario**                                                                                                         | **Escenarios de Prueba**                                                                                                                                                                | **Prioridad** |
 |-------------|-------------------------------------|------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
-| E6 - US028  | Dividir el Costo del Pedido          | **Como** miembro del grupo<br>**Quiero** que el costo del pedido se divida automáticamente entre los participantes<br>**Para** que cada uno pague su parte proporcional. | **Escenario 1: Cálculo de Costos Proporcionales**<br>**Dado** que el pedido ha sido finalizado,<br>**Cuando** se confirma el número de participantes,<br>**Entonces** el costo total del pedido se divide automáticamente entre ellos.<br><br>**Escenario 2: Manejo de Excepciones**<br>**Dado** que hay un participante que no desea unirse al pago,<br>**Cuando** se excluye,<br>**Entonces** el sistema ajusta automáticamente la distribución del costo entre los demás. | 6             |
-| E6 - US029  | Métodos de Pago Diversos             | **Como** miembro del grupo<br>**Quiero** poder elegir entre diferentes métodos de pago (tarjeta de crédito, PayPal, transferencia bancaria)<br>**Para** realizar mi parte del pago. | **Escenario 1: Selección de Método de Pago**<br>**Dado** que el usuario ha decidido realizar el pago,<br>**Cuando** selecciona un método de pago preferido,<br>**Entonces** puede completar la transacción usando ese método.<br><br>**Escenario 2: Confirmación de Pago**<br>**Dado** que el pago ha sido procesado,<br>**Cuando** la transacción es exitosa,<br>**Entonces** el usuario recibe una confirmación y el pago se registra en la plataforma. | 6             |
-| E6 - US030  | Notificaciones de Pago Pendiente     | **Como** miembro del grupo<br>**Quiero** recibir notificaciones de recordatorio en caso de que mi pago esté pendiente<br>**Para** asegurarme de completar la transacción. | **Escenario 1: Envío de Notificación**<br>**Dado** que el pedido ha sido realizado,<br>**Cuando** un miembro del grupo no ha completado su pago,<br>**Entonces** recibe una notificación de recordatorio.<br><br>**Escenario 2: Frecuencia de Notificaciones**<br>**Dado** que el pago sigue pendiente,<br>**Cuando** el plazo se acerca,<br>**Entonces** se incrementa la frecuencia de las notificaciones. | 6             |
-| E6 - US031  | Registro y Confirmación de Pagos Grupales | **Como** líder del grupo<br>**Quiero** poder ver un registro de todos los pagos realizados por los miembros del grupo<br>**Para** confirmar que todos han contribuido. | **Escenario 1: Visualización de Pagos**<br>**Dado** que los pagos han sido realizados,<br>**Cuando** el líder consulta el registro,<br>**Entonces** puede ver el estado de los pagos de cada miembro.<br><br>**Escenario 2: Confirmación Completa**<br>**Dado** que todos los miembros han completado sus pagos,<br>**Cuando** se verifica el registro,<br>**Entonces** el sistema confirma que el pedido está listo para ser procesado. | 6             |
-| E6 - US032  | Opción de Propina Compartida          | **Como** miembro del grupo<br>**Quiero** tener la opción de agregar una propina compartida al total del pedido<br>**Para** recompensar el servicio del restaurante. | **Escenario 1: Selección de Propina**<br>**Dado** que el pedido está siendo finalizado,<br>**Cuando** el grupo decide agregar una propina,<br>**Entonces** el sistema la distribuye proporcionalmente entre los participantes.<br><br>**Escenario 2: Confirmación de Propina**<br>**Dado** que la propina ha sido agregada,<br>**Cuando** se completa el pago,<br>**Entonces** el monto total reflejado incluye la propina compartida. | 6             |
+| E6 - US028  | Dividir el Costo del Pedido          | **Como** trabajador-miembro del grupo<br>**Quiero** que el costo del pedido se divida automáticamente entre los participantes<br>**Para** que cada uno pague su parte proporcional. | **Escenario 1: Cálculo de Costos Proporcionales**<br>**Dado** que el pedido ha sido finalizado,<br>**Cuando** se confirma el número de participantes,<br>**Entonces** el costo total del pedido se divide automáticamente entre ellos.<br><br>**Escenario 2: Manejo de Excepciones**<br>**Dado** que hay un participante que no desea unirse al pago,<br>**Cuando** se excluye,<br>**Entonces** el sistema ajusta automáticamente la distribución del costo entre los demás. | 6             |
+| E6 - US029  | Métodos de Pago Diversos             | **Como** trabajador-miembro del grupo<br>**Quiero** poder elegir entre diferentes métodos de pago (tarjeta de crédito, PayPal, transferencia bancaria)<br>**Para** realizar mi parte del pago. | **Escenario 1: Selección de Método de Pago**<br>**Dado** que el usuario ha decidido realizar el pago,<br>**Cuando** selecciona un método de pago preferido,<br>**Entonces** puede completar la transacción usando ese método.<br><br>**Escenario 2: Confirmación de Pago**<br>**Dado** que el pago ha sido procesado,<br>**Cuando** la transacción es exitosa,<br>**Entonces** el usuario recibe una confirmación y el pago se registra en la plataforma. | 6             |
+| E6 - US030  | Notificaciones de Pago Pendiente     | **Como** trabajador-miembro del grupo<br>**Quiero** recibir notificaciones de recordatorio en caso de que mi pago esté pendiente<br>**Para** asegurarme de completar la transacción. | **Escenario 1: Envío de Notificación**<br>**Dado** que el pedido ha sido realizado,<br>**Cuando** un miembro del grupo no ha completado su pago,<br>**Entonces** recibe una notificación de recordatorio.<br><br>**Escenario 2: Frecuencia de Notificaciones**<br>**Dado** que el pago sigue pendiente,<br>**Cuando** el plazo se acerca,<br>**Entonces** se incrementa la frecuencia de las notificaciones. | 6             |
+| E6 - US031  | Registro y Confirmación de Pagos Grupales | **Como** trabajador-líder del grupo<br>**Quiero** poder ver un registro de todos los pagos realizados por los miembros del grupo<br>**Para** confirmar que todos han contribuido. | **Escenario 1: Visualización de Pagos**<br>**Dado** que los pagos han sido realizados,<br>**Cuando** el líder consulta el registro,<br>**Entonces** puede ver el estado de los pagos de cada miembro.<br><br>**Escenario 2: Confirmación Completa**<br>**Dado** que todos los miembros han completado sus pagos,<br>**Cuando** se verifica el registro,<br>**Entonces** el sistema confirma que el pedido está listo para ser procesado. | 6             |
+| E6 - US032  | Opción de Propina Compartida          | **Como** trabajador-miembro del grupo<br>**Quiero** tener la opción de agregar una propina compartida al total del pedido<br>**Para** recompensar el servicio del restaurante. | **Escenario 1: Selección de Propina**<br>**Dado** que el pedido está siendo finalizado,<br>**Cuando** el grupo decide agregar una propina,<br>**Entonces** el sistema la distribuye proporcionalmente entre los participantes.<br><br>**Escenario 2: Confirmación de Propina**<br>**Dado** que la propina ha sido agregada,<br>**Cuando** se completa el pago,<br>**Entonces** el monto total reflejado incluye la propina compartida. | 6             |
 
 
 ### Epic 7: Recomendaciones Personalizadas
@@ -1152,7 +1202,7 @@ Definición: Un restaurante que ha firmado un acuerdo con GastroGo para ofrecer 
 |-------------|------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
 | E7 - US033  | Generación Automática de Recomendaciones       | **Como** usuario<br>**Quiero** que el sistema genere automáticamente recomendaciones de restaurantes y platos basadas en mis pedidos anteriores<br>**Para** facilitar futuras elecciones. | **Escenario 1: Identificación de Preferencias**<br>**Dado** que el usuario ha realizado varios pedidos,<br>**Cuando** vuelve a la página de inicio,<br>**Entonces** el sistema genera recomendaciones basadas en la frecuencia de ciertos tipos de cocina o platos en sus pedidos anteriores.<br><br>**Escenario 2: Presentación de Recomendaciones**<br>**Dado** que el sistema ha generado recomendaciones,<br>**Cuando** el usuario accede a la sección de "Recomendaciones",<br>**Entonces** se muestran opciones relevantes vinculadas a sus últimos pedidos. | 7             |
 | E7 - US034  | Notificaciones de Recomendaciones               | **Como** usuario<br>**Quiero** recibir notificaciones de nuevas recomendaciones basadas en mis pedidos recientes<br>**Para** estar al tanto de opciones que podrían interesarme. | **Escenario 1: Envío de Notificaciones**<br>**Dado** que el usuario ha realizado un nuevo pedido,<br>**Cuando** el sistema identifica restaurantes o platos relacionados,<br>**Entonces** envía una notificación con las nuevas recomendaciones.<br><br>**Escenario 2: Frecuencia de Notificaciones**<br>**Dado** que el usuario tiene configuradas notificaciones,<br>**Cuando** se identifica una nueva recomendación,<br>**Entonces** el sistema envía las notificaciones según la frecuencia establecida (diaria, semanal). | 7             |
-| E7 - US035  | Personalización de Recomendaciones en Función de Pedidos Grupales | **Como** líder de grupo<br>**Quiero** recibir recomendaciones de restaurantes y platos basadas en los pedidos grupales anteriores<br>**Para** facilitar futuras decisiones de grupo. | **Escenario 1: Análisis de Pedidos Grupales**<br>**Dado** que el grupo ha realizado pedidos anteriores,<br>**Cuando** el líder consulta la sección de recomendaciones,<br>**Entonces** el sistema sugiere restaurantes y platos que fueron populares en pedidos grupales anteriores.<br><br>**Escenario 2: Adaptación a Preferencias del Grupo**<br>**Dado** que el sistema genera recomendaciones,<br>**Cuando** el líder revisa las opciones,<br>**Entonces** se destacan aquellos restaurantes y platos que satisfacen las preferencias colectivas del grupo. | 7             |
+| E7 - US035  | Personalización de Recomendaciones en Función de Pedidos Grupales | **Como** trabajador-líder de grupo<br>**Quiero** recibir recomendaciones de restaurantes y platos basadas en los pedidos grupales anteriores<br>**Para** facilitar futuras decisiones de grupo. | **Escenario 1: Análisis de Pedidos Grupales**<br>**Dado** que el grupo ha realizado pedidos anteriores,<br>**Cuando** el líder consulta la sección de recomendaciones,<br>**Entonces** el sistema sugiere restaurantes y platos que fueron populares en pedidos grupales anteriores.<br><br>**Escenario 2: Adaptación a Preferencias del Grupo**<br>**Dado** que el sistema genera recomendaciones,<br>**Cuando** el líder revisa las opciones,<br>**Entonces** se destacan aquellos restaurantes y platos que satisfacen las preferencias colectivas del grupo. | 7             |
 
 
 ### Epic 8: Gestión de Pedidos Grupales
@@ -1165,7 +1215,7 @@ Definición: Un restaurante que ha firmado un acuerdo con GastroGo para ofrecer 
 |-------------|----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
 | E8 - US036  | Prioridad de Preparación para Pedidos Grupales | **Como** chef del restaurante<br>**Quiero** priorizar la preparación de pedidos grupales grandes<br>**Para** asegurarme de que se entreguen a tiempo. | **Escenario 1: Clasificación por Prioridad**<br>**Dado** que hay múltiples pedidos en cola,<br>**Cuando** el sistema identifica un pedido grupal grande,<br>**Entonces** lo clasifica con alta prioridad en la lista de preparación visible en el panel de gestión en el sidebar.<br><br>**Escenario 2: Notificaciones de Prioridad**<br>**Dado** que un pedido grupal se clasifica como prioritario,<br>**Cuando** el chef inicia la preparación,<br>**Entonces** el sistema envía notificaciones al equipo de cocina sobre la prioridad del pedido desde la sección de notificaciones del sidebar. | 8             |
 | E8 - US037  | Confirmación de Capacidad de Gestión para Pedidos Grupales | **Como** administrador del restaurante<br>**Quiero** confirmar la capacidad de gestión antes de aceptar un pedido grupal grande<br>**Para** evitar sobrecargar la cocina y asegurar un servicio de calidad. | **Escenario 1: Verificación de Capacidad**<br>**Dado** que un cliente envía un pedido grupal,<br>**Cuando** el sistema recibe el pedido,<br>**Entonces** verifica automáticamente la capacidad actual de la cocina antes de confirmar el pedido, mostrando el estado en el panel de gestión del sidebar.<br><br>**Escenario 2: Respuesta al Cliente**<br>**Dado** que el sistema verifica la capacidad,<br>**Cuando** se determina que la cocina puede manejar el pedido,<br>**Entonces** se envía una confirmación al cliente con un tiempo estimado de entrega; si no es posible, se sugiere un tiempo alternativo o se rechaza el pedido, y esta información es accesible desde el sidebar. | 8             |
-| E8 - US038  | Coordinación de Entregas para Pedidos Grupales | **Como** gerente de logística<br>**Quiero** coordinar la entrega de pedidos grupales grandes<br>**Para** asegurar que lleguen a tiempo y en las mejores condiciones. | **Escenario 1: Asignación de Conductores**<br>**Dado** que el sistema gestiona un pedido grupal grande,<br>**Cuando** el pedido está listo para entrega,<br>**Entonces** se asigna automáticamente un conductor con capacidad suficiente para manejar el pedido, y esta asignación se muestra en la sección de logística del sidebar.<br><br>**Escenario 2: Seguimiento de Entregas**<br>**Dado** que un pedido grupal está en ruta,<br>**Cuando** el pedido está en camino,<br>**Entonces** el gerente de logística puede realizar un seguimiento en tiempo real de la ubicación del conductor y el estado de la entrega desde el panel de seguimiento del sidebar. | 8             |
+| E8 - US038  | Coordinación de Entregas para Pedidos Grupales | **Como** gerente de logística del restaurante<br>**Quiero** coordinar la entrega de pedidos grupales grandes<br>**Para** asegurar que lleguen a tiempo y en las mejores condiciones. | **Escenario 1: Asignación de Conductores**<br>**Dado** que el sistema gestiona un pedido grupal grande,<br>**Cuando** el pedido está listo para entrega,<br>**Entonces** se asigna automáticamente un conductor con capacidad suficiente para manejar el pedido, y esta asignación se muestra en la sección de logística del sidebar.<br><br>**Escenario 2: Seguimiento de Entregas**<br>**Dado** que un pedido grupal está en ruta,<br>**Cuando** el pedido está en camino,<br>**Entonces** el gerente de logística puede realizar un seguimiento en tiempo real de la ubicación del conductor y el estado de la entrega desde el panel de seguimiento del sidebar. | 8             |
 | E8 - US039  | Gestión de Cambios y Cancelaciones en Pedidos Grupales | **Como** administrador del restaurante<br>**Quiero** gestionar cambios y cancelaciones en pedidos grupales de manera eficiente<br>**Para** minimizar el impacto en la operación del restaurante. | **Escenario 1: Notificaciones de Cambios**<br>**Dado** que un cliente solicita un cambio en un pedido grupal,<br>**Cuando** se realiza el cambio,<br>**Entonces** el sistema notifica automáticamente a la cocina y al equipo de entrega sobre la modificación desde el panel de notificaciones en el sidebar.<br><br>**Escenario 2: Políticas de Cancelación**<br>**Dado** que un cliente intenta cancelar un pedido grupal,<br>**Cuando** la cancelación se recibe,<br>**Entonces** el sistema verifica si la cancelación está dentro del tiempo permitido según la política del restaurante y procede a reembolsar o a rechazar la solicitud de acuerdo con las políticas establecidas, y se muestra en el sidebar. | 8             |
 
 
@@ -1689,44 +1739,44 @@ Enlace al video del prototipo: https://upcedupe-my.sharepoint.com/:v:/g/personal
 ### 4.6.1. Software Architecture Context Diagram  
 Context diagram:
 
-![Context Diagram](assets/img/chapter-4/contextdiagram.jpg)
+![Context Diagram](assets/img/chapter-4/contextdiagram.png)
 
 ### 4.6.2. Software Architecture Container Diagrams  
 Container diagram:
 
-![Container Diagram](assets/img/chapter-4/containerdiagram.jpg)
+![Container Diagram](assets/img/chapter-4/containerdiagram.png)
 
 ### 4.6.3. Software Architecture Components Diagrams  
-Tracking component diagram:
+Restaurant diagram:
 
-![Tracking component](assets/img/chapter-4/trackingcomponetn.jpg)
-
-
-Sales component diagram:
-
-![Sales component](assets/img/chapter-4/salescomponent.jpg)
+![Tracking component](assets/img/chapter-4/restaurantdiagram.png)
 
 
-Payment component diagram:
+User diagram:
 
-![Payment component](assets/img/chapter-4/paymentcomponent.jpg)
+![Sales component](assets/img/chapter-4/userdiagram.png)
 
 
-Authentication component diagram:
+Payment diagram:
 
-![Authentication component](assets/img/chapter-4/authenticationcomponent.jpg)
+![Payment component](assets/img/chapter-4/paymentdiagram.png)
+
+
+Authentication diagram:
+
+![Authentication component](assets/img/chapter-4/authdiagram.png)
 ## 4.7. Software Object-Oriented Design  
 ### 4.7.1. Class Diagrams  
 Class diagram:
 
-![Class diagram](assets/img/chapter-4/classdiagram.png)
+![Class diagram](assets/img/chapter-4/classdiagram1.png)
 ### 4.7.2. Class Dictionary  
 El sistema tiene las siguientes clases: Usuario (ID, nombre, correo, contraseña, rol, suscripción; métodos: registrarse, iniciar sesión, actualizar perfil, cancelar suscripción), relacionado con Pedido (ID, fecha, estado, total, participantes, método de pago; métodos: crear, actualizar, cancelar, dividir costos; asociado a Suscripción, Restaurante y Pago). Suscripción (ID, tipo, precio, beneficios, fecha inicio, expiración; métodos: crear, renovar, cancelar) está vinculado a Pedido. Restaurante (ID, nombre, dirección, menú; métodos: agregar, actualizar, eliminar platos) tiene muchos Platos y recibe muchos Pedidos. Plato (ID, nombre, descripción, precio, categoría; métodos: crear, actualizar, eliminar) está vinculado a Votación. Votación (ID, código, platos, estado, participantes) se relaciona con Usuario y Plato. Pago (ID, monto, estado, método) está asociado a Pedido. Notificación (ID, tipo, mensaje) se asocia a Usuario y Pedido.
 ## 4.8. Database Design  
 ### 4.8.1. Database Diagram
 Database diagram:
 
-![Database Diagram](assets/img/chapter-4/databasediagram.png)
+![Database Diagram](assets/img/chapter-4/databasediagram1.png)
 
 # Capítulo V: Product Implementation, Validation & Deployment  
 ## 5.1. Software Configuration Management  
@@ -1761,14 +1811,33 @@ Trello: En el manejo de los requerimientos se utilizó Trello, una herramienta q
 Landing Page:
 - El landing page fue desarrollado empleando HTML5, CSS3 y JavaScript. HTML5 se encargó de la estructura básica del contenido, mientras que CSS3 se utilizó para estilizar la página, asegurando un diseño visual atractivo y coherente. JavaScript, por su parte, agregó interactividad, permitiendo funcionalidades dinámicas que mejoraron la experiencia del usuario. Estas tecnologías combinadas permitieron la creación de un landing page funcional y estéticamente agradable.
 
+Web Application:
+
+- Para el desarrollo de la aplicación web, se utilizó el framework Vue.js, que ofrece una estructura de componentes reutilizables y una arquitectura de desarrollo eficiente. Vue.js es una herramienta versátil que permite la creación de interfaces de usuario interactivas y dinámicas, lo que resulta ideal para aplicaciones web modernas. 
 
 **IDE's de desarrollo**
+
 Visual Studio Code: https://code.visualstudio.com/.es 
 - Es un IDE muy adaptable que ofrece una experiencia de desarrollo optimizada y personalizable. Dispone de una extensa selección de extensiones que permiten ampliar sus capacidades.
+
+Webstorm: https://www.jetbrains.com/webstorm/
+
+- Es un entorno de desarrollo integrado enfocado en proyectos web, que proporciona numerosas herramientas y características diseñadas para la creación de aplicaciones web actuales. Su compatibilidad con tecnologías como JavaScript, HTML y CSS lo hace una opción sólida para desarrolladores web.
 
 **Software testing**
 
 Para las pruebas de software de la landing page, se utilizaron las herramientas de desarrollador de los navegadores web más populares, como Google Chrome (https://www.google.com/chrome/), Microsoft Edge (https://www.microsoft.com/en-us/edge), y Mozilla Firefox (https://www.mozilla.org/en-US/firefox/browsers/). Estos navegadores ofrecen aplicaciones tanto para escritorio como para dispositivos móviles, todas completamente gratuitas.
+
+**Project Deployment**
+
+Github Page: https://pages.github.com/
+
+Para llevar a cabo el deployment de la landing page, se utilizó Github Pages, un servicio gratuito que permite alojar sitios web estáticos directamente desde un repositorio de Github. Esta plataforma es ideal para proyectos de desarrollo web que no requieren un servidor backend, ya que ofrece una forma sencilla y rápida de publicar contenido en línea.
+
+Netlify: https://www.netlify.com/
+
+Para llevar a cabo el deployment del front-end, se procedió a vincular el repositorio de Github con el servicio de Vercel. De este modo, el despliegue de la página será de manera óptima.
+
 
 **Software Documentation**
 
@@ -1912,7 +1981,7 @@ En esta sección explicaremos el proceso de despliegue de nuestra página de ate
 ## 5.2. Landing Page, Services & Applications Implementation  
 ### 5.2.1. Sprint 1  
 
-![Sprint Verduritas](assets/img/chapter-5/img-sprint-devdynasty-1.png)
+![Sprint DevDynasty 1](assets/img/chapter-5/img-sprint-devdynasty-1.png)
 
 
 #### 5.2.1.1. Sprint Planning 1  
@@ -2013,7 +2082,9 @@ En este sprint, se ha completado el desarrollo de la landing page. Para su despl
 
 #### 5.2.1.5. Execution Evidence for Sprint Review  
 
-En esta entrega, el equipo Verduritas logró implementar la landing page, la cual presenta distintas secciones que ofrecen información esencial para los usuarios. Estas secciones están diseñadas para explicar quiénes somos, qué nos diferencia, cómo funciona nuestra plataforma, y brindar una visión general de la experiencia, los planes disponibles y un espacio para contactarnos. Con este enfoque, se busca proporcionar una experiencia clara y completa para los visitantes.
+En esta entrega, el equipo DevDynasty logró implementar la landing page, la cual presenta distintas secciones que ofrecen información esencial para los usuarios. Estas secciones están diseñadas para explicar quiénes somos, qué nos diferencia, cómo funciona nuestra plataforma, y brindar una visión general de la experiencia, los planes disponibles y un espacio para contactarnos. Con este enfoque, se busca proporcionar una experiencia clara y completa para los visitantes.
+
+Enlace a la landing page desplegada: [GastroGo Landing Page](https://g2-upc-pre-202402-si730-wx53-devdynasty.github.io/GastroGo-Landing-Page/)
 
 ![Evidence 1](assets/img/chapter-5/img-evidence-1.png)
 
@@ -2058,6 +2129,156 @@ Code frecuency:
 
 ![Code Frecuency](assets/img/chapter-5/img-code-frecuency.png)
 
+
+### 5.2.2. Sprint 2
+
+![Sprint DevDynasty 2](assets/img/chapter-5/img-sprint-devdynasty-2.png)
+
+
+#### 5.2.1.1. Sprint Planning 2
+
+| **Sprint #**                    | Sprint 2                                                                                                                                                                                                                                                                                                                         |
+|---------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sprint Planning Date**        | 21/09/2024                                                                                                                                                                                                                                                                                                                       |
+| **Time**                        | 11:30 PM                                                                                                                                                                                                                                                                                                                         |
+| **Location**                    | Google Meet                                                                                                                                                                                                                                                                                                                      |
+| **Prepared By**                 | Camila Loli                                                                                                                                                                                                                                                                                                                      |
+| **Attendees**                   | Ricardo Barrutia, Fabiola Espinoza, Marco Gongora, Francisco Hurtado                                                                                                                                                                                                                                                             |
+| **Sprint Review Summary**       | Se desplego la Landing Page de GastroGo en Github Pages y se empezo con el desarrollo del Front-End de la apliacion web.                                                                                                                                                                                                         |
+| **Sprint Retrospective Summary**| Se consideró la opción de presentar los call to action de manera diferenciada para cada segmento objetivo. Se comenzó el desarrollo del Front End de GastroGo, dando prioridad a la creación de componentes dirigidos al segmento de trabajadores.                                                                               |
+| **Sprint Goal**                 | En este sprint se tiene como objetivo el desarrollo de la paginas principales de la aplicacion web y el despliegue de la misma. Durante las diversas reuniones del equipo se determinó el contenido por cada integrante para el front end. Una vez concluido el sprint, la Web Application debe estar desplegada en GitHub Pages |
+| **Sprint Velocity**             | 35                                                                                                                                                                                                                                                                                                                               |
+| **Sum of Story Points**         | 43                                                                                                                                                                                                                                                                                                                               |
+
+
+#### 5.2.1.2. Sprint Backlog 2
+| **User Story**                           | **Work-item/Task**             | **Description**                                                                 | **Estimation (Hours)** | **Assigned To** | **Status**               |
+|------------------------------------------|--------------------------------|---------------------------------------------------------------------------------|------------------------|-----------------|--------------------------|
+| E2 - US013 Edición de cuenta            | W014 Save group preferences    | Permitir la edición de datos personales y de contacto en el perfil.             | 3                      | Francisco       | Done                     |
+| E2 - US014 Guardar preferencias de grupo| W013 Account editing           | Implementar un sistema para guardar preferencias de grupo para futuras órdenes. | 3                      | Camila          | Done                     |
+| E2 - US017 Encuestas Post-Compra| W017 Post-purchase surveys     | Crear un sistema de encuestas post-compra para mejorar futuras órdenes.         | 4                      | Camila          | Done                     |
+| E3 - US018 Búsqueda de restaurantes| W018 Restaurant search         | Habilitar la búsqueda de restaurantes por nombre, categoría o ubicación.                                                                                | 3                      | Fabiola         | Done                     |
+| E3 - US019 Restaurantes recomendados| W019 Recommended restaurants   | Mostrar una lista de restaurantes recomendados por popularidad y satisfacción.                                                                                | 4                      | Ricardo         | Done                     |
+|E3 - US020 Información del restaurante              | W020 Restaurant information    | Proporcionar información detallada de los restaurantes seleccionados.                                                                                | 3                      | Camila          | Done                     |
+|E4 - US024 Confirmar o agregar a votación                 | W024 Confirm or add to vote    | Confirmar o agregar platos personalizados a la votación del grupo.                                                                                | 4                      | Fabiola         | Done                     |
+|E5 - US025 Creación automática de votación                   | W025 Automatic vote creation   | Crear automáticamente votaciones para la elección de platos.                                                                                | 3                      | Camila          | Done                     |
+|E5 - US026 Compartir código de votación         | W026 Share voting code         | Generar y compartir un código para participar en la votación.                                                                                | 3                      | Ricardo         | Done                     |
+|E5 - US027 Resolución de empates con sorteo         | W027 Tie resolution by lottery | Resolver empates en votaciones mediante un sorteo.                                                                                | 3                      | Camila          | Done                     |
+|E6 - US028 Dividir el costo del pedido         | W028 Split the order cost      | Dividir automáticamente el costo del pedido entre los participantes.                                                                                | 4                      | Camila          | Done                     |
+|E6 - US029 Métodos de pago diversos         | W029 Diverse payment methods                               | Permitir múltiples métodos de pago (tarjeta, PayPal, etc.).                                                                                | 3                      | Camila          | Done                     |
+|E6 - US031 Registro y confirmación de pagos grupales         | W031 Group payment registration and confirmation                               | Registrar y confirmar los pagos grupales realizados.                                                                                | 5                      | Camila          | Done                     |
+|E6 - US032 Opción de propina compartida         | W032 Shared tip option                               | Habilitar la opción de agregar una propina compartida.                                                                                | 3                      | Marco           | Done                     |
+|E6 - US033 Generación automática de recomendaciones         | W033 Automatic recommendation generation                               | Generar recomendaciones automáticas basadas en pedidos anteriores.                                                                                | 3                      | Marco           | Done                     |
+
+
+#### 5.2.1.3. Development Evidence for Sprint Review 2
+
+| **Repository** | **Branch** | **Commit Id**                              | **Commit Message**                                                       | **Committed on (Date)** |
+|----------------|------------|--------------------------------------------|--------------------------------------------------------------------------|-------------------------|
+|GastroGo-FrontEnd| develop    | 8c45ceb87259d17bc34197f885c1b9df0c29f5f3   | Initial commit                                                           | 17/09/2024              |
+|GastroGo-FrontEnd               |develop            | e078942308a43764cbb205debcd15da274b81235   | chore: creation of vue project                                           | 21/09/2024              |
+|GastroGo-FrontEnd               |develop            | f02c82976bcdd7768bd12280742fa930fe52251c   | chore: added dependencies.                                               | 21/09/2024              | 
+|GastroGo-FrontEnd               |develop            | e4de2d1fa07fa4e13a3e1a2e0dd57c485c32d191   | chore: added dependencies for icons.                                     | 22/09/2024              |
+|GastroGo-FrontEnd               |develop            | 15e8f09670e29342540aed3e345606e2135009ac   | feat(sidenav-bar): created sidenav-bar component and added it to app.vue | 23/09/2024              |
+|GastroGo-FrontEnd               |develop            | 4d592f159dea18eaeaaee40aa50c12efb895b729   | chore: fix base.css and main.css to make the appearance according to our mockups.                                                                         | 24/09/2024              |
+|GastroGo-FrontEnd               |develop            | 6278684e03cca52b4f6aba2ca0ae8cbb0ae1e004   | chore: added dependencies for icons for Vue.                                                                         | 23/09/2024              |
+|GastroGo-FrontEnd               |develop            | e479fc78af07ba514e11abc61365d326f1465f44   | chore: added base file (index.js) for routes.                                                                         | 23/09/2024              |
+|GastroGo-FrontEnd               |develop            | fd725aaabf9cce59bdbd7a6e29e34612996be9b2   | chore: added logo of GastroGo for the sidenav-bar.                                                                         | 23/09/2024              |
+|GastroGo-FrontEnd               |develop            | cb96a38d37d4a30ff24162f21d3910c0fa08075b   | chore: added routes in sidenav-bar.vue                                                                         | 24/09/2024              |
+|GastroGo-FrontEnd               |develop            | 9e41077011705088badc615d8c0f622db9bc8a3d   | chore: added route-view to show the content from the route.                                                                        | 24/09/2024              |
+|GastroGo-FrontEnd               |develop            | ad42e275ce834f4c09e339f80f0e482b2242c331   | feat(role-selection): added role-selection.component.vue for the worker.                                                                         | 24/09/2024              |
+|GastroGo-FrontEnd               |develop            | 64156f771b68b26d99bbf0e94518fde68dec53c6   | feat(profile): added profile component for the worker.                                                                         | 24/09/2024              |
+|GastroGo-FrontEnd               |develop            | d51aeca950e23b24525d54774a9891e5456bf9cb   | feat(leader-component): created leader.component.vue.                                                                         | 24/09/2024              |
+|GastroGo-FrontEnd               |develop            | 622dd9aaba546cbff29a6392b994c9d027e48721   | feat(home-component): created home component                                                                         | 24/09/2024              |
+|GastroGo-FrontEnd               |develop            | ac848486274843d3ea3a2fcbc55915b3b45b8584   | feat(home-component): added css recent restaurant                                                                         | 24/09/2024              |
+|GastroGo-FrontEnd               |develop            | 57174640f9f580c66e4500e192384431afdaffa2   | feat(home-component): added recent orders                                                                         | 24/09/2024              |
+|GastroGo-FrontEnd               |develop            | f700d282e76edeeef252294dac44707c5fe79ca2   | feat(home-component): added recent orders css                                                                         | 24/09/2024              |
+|GastroGo-FrontEnd               |develop            | 600abbdeeb46a986f6e6a8270c7c5e274d8b7d98   | feat(order-card): created order-card.component                                                                       | 24/09/2024              |
+|GastroGo-FrontEnd               |develop            | e7f77e48dd76664996515ded9623034fed5e1d75   | feat(my-order): created my-order.component                                                                         | 24/09/2024              |
+|GastroGo-FrontEnd               |develop            | 97d73e76f57b1c2a21592c98eb674ec8d8e05028   | feat(restaurant): add restaurant components                                                                        | 24/09/2024              |
+|GastroGo-FrontEnd               |develop            | 88e9b2bf43184f9cc014f69213d7c1f9c4364e4c   | feat(routes): added routes for each component.                                                                        | 24/09/2024              |
+|GastroGo-FrontEnd               |develop            | 58c7bd712cf99caef9b5f6281ca725b1f945dc20   | feat(notifications): added notification component.                                                                        | 24/09/2024              |
+
+
+
+
+
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review 2
+En este sprint, se ha completado el desarrollo de la landing page. Para su despliegue, se emplearon varias herramientas clave, entre ellas:
+
+| **Repository** | **Branch** | **Commit Id**                              | **Commit Message**                                         | **Committed on (Date)** |
+|----------------|------------|--------------------------------------------|--------------------------------------------------------------------------------------|-------------------------|
+|acceptance-test| develop    | 55eb1646d73316ec2929ffafa95af8dfcef3adc5   | Initial commit                                                                        | 12/09/2024               |
+|acceptnace-test| develop    | 9a399e19e898f0dd693654c70be3bd1fe67ea40e   | feat(readme): added description readme                                                                       | 12/09/2024               |
+|acceptnace-test| develop    | 4b738eb74073aacbdcf2d3a37eabdaf21040c5a5   | chore: added epic 1 acceptance test                                                                     | 12/09/2024               |
+|acceptnace-test| develop    | 06c167e00c191b77c03da4aa7cb13fab0d86c9d7   | chore: added epic 2 acceptance test                                                                       | 12/09/2024               |
+|acceptnace-test| develop    | 62b806ee10782f3b6e3125964aaefd0ff552652c   | chore: added epic 3 acceptance test                                                                       | 12/09/2024               |
+|acceptnace-test| develop    | 3ca6c4208a62a6b5ffa6d6dffe8d4f088918af5d   | chore: added epic 4 acceptance test                                                                      | 12/09/2024               |
+|acceptnace-test| develop    | 2e7a6166e776f0d2f6d97368d384457e7bde7ca7   | chore: added epic 5 acceptance test                                                                        | 12/09/2024               |
+|acceptnace-test| develop    | 5846374f45b976d826580c0855565212811be5e8   | chore: added epic 6 acceptance test                                                                       | 12/09/2024               |
+|acceptnace-test| develop    | b41662bc5609e8d7bb84b24b99910ab621001c09   | chore: added epic 7 acceptance test                                                                       | 12/09/2024               |
+|acceptnace-test| develop    | 64d26478f1b9e23cf51c31a56dbd17e63c4ad283   | chore: added epic 8 acceptance test                                                                       | 12/09/2024               |
+|acceptnace-test| develop    | 9520021ae13032e410798dd06dbde7252b5d8d0f   | chore: added epic 9 acceptance test                                                                       | 12/09/2024               |
+|acceptnace-test| develop    | 568eb409dc3fbf273ab11fcbf42f88b7ae9662ca   | chore: added epic 10 acceptance test                                                                       | 12/09/2024               |
+
+
+
+#### 5.2.1.5. Execution Evidence for Sprint Review 2
+
+En esta entrega, el equipo DevDynasty logró implementar la landing page, la cual presenta distintas secciones que ofrecen información esencial para los usuarios. Estas secciones están diseñadas para explicar quiénes somos, qué nos diferencia, cómo funciona nuestra plataforma, y brindar una visión general de la experiencia, los planes disponibles y un espacio para contactarnos. Con este enfoque, se busca proporcionar una experiencia clara y completa para los visitantes.
+
+Enlace del Frontend: [GastroGo Frontend](https://gastrogoupc.netlify.app/)
+
+![Evidence 1 Front](assets/img/chapter-5/img-evidence-front-1.png)
+
+![Evidence 2 Front](assets/img/chapter-5/img-evidence-front-2.png)
+
+![Evidence 3 Front](assets/img/chapter-5/img-evidence-front-3.png)
+
+![Evidence 4 Front](assets/img/chapter-5/img-evidence-front-4.png)
+
+![Evidence 5 Front](assets/img/chapter-5/img-evidence-front-5.png)
+
+![Evidence 6 Front](assets/img/chapter-5/img-evidence-front-6.png)
+
+![Evidence 7 Front](assets/img/chapter-5/img-evidence-front-7.png)
+
+![Evidence 8 Front](assets/img/chapter-5/img-evidence-front-8.png)
+
+![Evidence 9 Front](assets/img/chapter-5/img-evidence-front-9.png)
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review 2
+Para el desarrollo de la plataforma, específicamente en la parte del Frontend, utilizamos lo siguiente:
+
+Webstorm (IDE de desarrollo): Usamos Webstorm como nuestro entorno de desarrollo integrado para trabajar en el Frontend.
+
+Vue (Framework): Optamos por Vue como el framework principal para el desarrollo.
+
+GitHub: Nuestro repositorio del Frontend está alojado en GitHub, lo que facilita la colaboración y el seguimiento de los cambios en el código.
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review 2
+El Execution Evidence para la revisión del sprint está orientado a documentar y presentar evidencia sobre el desarrollo logrado a lo largo del sprint, prestando especial atención al progreso en la landing page. Estas pruebas son esenciales para demostrar cómo se han cumplido los objetivos establecidos y qué partes del trabajo están terminadas, asegurando que se corresponden con las expectativas del cliente.
+
+- Git: Utilizado como sistema de control de versiones, facilitó la colaboración efectiva entre los miembros del equipo durante el proceso de desarrollo.
+- GitFlow: Implementado como metodología de trabajo, permitió organizar y gestionar de manera eficiente los aportes de cada integrante, garantizando un flujo continuo en el progreso del proyecto.
+- GitHub: Plataforma esencial para el trabajo colaborativo, donde se gestionaron y almacenaron todas las versiones del proyecto, asegurando un control adecuado de los cambios.
+- GitHub Pages: Utilizado para desplegar la landing de forma rápida y sencilla, permitiendo que la aplicación esté disponible públicamente desde un repositorio de GitHub.
+
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint 2 
+
+El equipo trabajó en el desarrollo de la landing page utilizando ramas de cada feature, lo que permitió mejorar, actualizar y realizar modificaciones de manera más organizada. El uso de estas ramas facilita la integración y revisión antes de fusionarlas con la rama principal (main), asegurando que no se introduzcan errores. A continuación, se muestra el network graph y  code frecuency mediante la plataforma GitHub:
+
+Network graph:
+
+![Network Graph Front ](assets/img/chapter-5/img-network-front-github.png)
+
+
+
+Code frecuency:
+
+![Code Frecuency Front](assets/img/chapter-5/img-code-front-frecuency.png)
+
 # Conclusiones  
 ### Conclusiones y recomendaciones
 El avance del proyecto logra cumplir con los objetivos planteados incicialmente, incluyendo la contextualización del problema y solución a este, cómo también el desarrollo y despliegue de la primera versión de la landing page, junto con la implementación de funcionalidades clave. Cada miembro del equipo contribuyó en el avance de las distintas fases del proyecto.
@@ -2086,6 +2307,7 @@ https://www.pickerexpress.com/blog/logistica-en-restaurantes
 - [**Report Repository**](https://github.com/G2-UPC-PRE-202402-SI730-WX53-DevDynasty/GastroGo-Report)
 - [**Acceptance Test**](https://github.com/G2-UPC-PRE-202402-SI730-WX53-DevDynasty/acceptance-test)
 - [**Landing Page**](https://github.com/G2-UPC-PRE-202402-SI730-WX53-DevDynasty/GastroGo-Landing-Page)
+- [**Front End**](https://github.com/G2-UPC-PRE-202402-SI730-WX53-DevDynasty/GastroGo-FrontEnd)
 - Videos de Exposiciones:
 - TB1: [upc-pre-202401-si730-wx53-devdynasty-expo-tb1.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201714765_upc_edu_pe/ETQ3H29FNBZLl6gPo91GM4gBbbJHq6zPilf8wkxnCAbA7g?e=UoCVY3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 - Web Applications Prototyping: [**upc-pre-202402-si730-wx53-devdynasty-prototype-gastrogo-navigation-sprint-1.mp4**](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110385_upc_edu_pe/EUtluo1uE8ZLhSNlmzhk4r8BdyUbW0yyxQkt5zigPNIcAA?e=YmmwUS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
