@@ -1689,44 +1689,44 @@ Enlace al video del prototipo: https://upcedupe-my.sharepoint.com/:v:/g/personal
 ### 4.6.1. Software Architecture Context Diagram  
 Context diagram:
 
-![Context Diagram](assets/img/chapter-4/contextdiagram.jpg)
+![Context Diagram](assets/img/chapter-4/contextdiagram.png)
 
 ### 4.6.2. Software Architecture Container Diagrams  
 Container diagram:
 
-![Container Diagram](assets/img/chapter-4/containerdiagram.jpg)
+![Container Diagram](assets/img/chapter-4/containerdiagram.png)
 
 ### 4.6.3. Software Architecture Components Diagrams  
-Tracking component diagram:
+Restaurant diagram:
 
-![Tracking component](assets/img/chapter-4/trackingcomponetn.jpg)
-
-
-Sales component diagram:
-
-![Sales component](assets/img/chapter-4/salescomponent.jpg)
+![Tracking component](assets/img/chapter-4/restaurantdiagram.png)
 
 
-Payment component diagram:
+User diagram:
 
-![Payment component](assets/img/chapter-4/paymentcomponent.jpg)
+![Sales component](assets/img/chapter-4/userdiagram.png)
 
 
-Authentication component diagram:
+Payment diagram:
 
-![Authentication component](assets/img/chapter-4/authenticationcomponent.jpg)
+![Payment component](assets/img/chapter-4/paymentdiagram.png)
+
+
+Authentication diagram:
+
+![Authentication component](assets/img/chapter-4/authdiagram.png)
 ## 4.7. Software Object-Oriented Design  
 ### 4.7.1. Class Diagrams  
 Class diagram:
 
-![Class diagram](assets/img/chapter-4/classdiagram.png)
+![Class diagram](assets/img/chapter-4/classdiagram1.png)
 ### 4.7.2. Class Dictionary  
 El sistema tiene las siguientes clases: Usuario (ID, nombre, correo, contraseña, rol, suscripción; métodos: registrarse, iniciar sesión, actualizar perfil, cancelar suscripción), relacionado con Pedido (ID, fecha, estado, total, participantes, método de pago; métodos: crear, actualizar, cancelar, dividir costos; asociado a Suscripción, Restaurante y Pago). Suscripción (ID, tipo, precio, beneficios, fecha inicio, expiración; métodos: crear, renovar, cancelar) está vinculado a Pedido. Restaurante (ID, nombre, dirección, menú; métodos: agregar, actualizar, eliminar platos) tiene muchos Platos y recibe muchos Pedidos. Plato (ID, nombre, descripción, precio, categoría; métodos: crear, actualizar, eliminar) está vinculado a Votación. Votación (ID, código, platos, estado, participantes) se relaciona con Usuario y Plato. Pago (ID, monto, estado, método) está asociado a Pedido. Notificación (ID, tipo, mensaje) se asocia a Usuario y Pedido.
 ## 4.8. Database Design  
 ### 4.8.1. Database Diagram
 Database diagram:
 
-![Database Diagram](assets/img/chapter-4/databasediagram.png)
+![Database Diagram](assets/img/chapter-4/databasediagram1.png)
 
 # Capítulo V: Product Implementation, Validation & Deployment  
 ## 5.1. Software Configuration Management  
