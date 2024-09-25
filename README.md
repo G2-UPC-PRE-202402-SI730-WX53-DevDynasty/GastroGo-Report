@@ -14,7 +14,7 @@ Sección: WX53
   
 Profesor: Alberto Wilmer Sanchez Seña  
   
-Informe del Trabajo Final  - TB1
+Informe del Trabajo Final  - TP
   
 Startup: DevDynasty  
   
@@ -41,6 +41,7 @@ Producto: GastroGo
 | Versión | Fecha      | Autor   | Descripción de modificaciones         |
 |---------|------------|---------|---------------------------------------|
 | 1.0     | 25/08/2024 | Barrutia Vaez, Ricardo Andree <br>	Espinoza Inoñan, Fabiola Ximena	<br> Gongora Sanchez, Marco Antonio	<br> Hurtado Palomino, Francisco Juan	<br> Loli Ramirez, Camila Cristina | Capítulo I <br> Capítulo II <br> Capítulo III <br> Capítulo IV <br> Capítulo V       |
+| 1.5     | 24/09/2024 | Barrutia Vaez, Ricardo Andree <br>	Espinoza Inoñan, Fabiola Ximena	<br> Gongora Sanchez, Marco Antonio	<br> Hurtado Palomino, Francisco Juan	<br> Loli Ramirez, Camila Cristina | Correcciones de capítulos anteriores, desarrollo del Sprint 2 y primer avance del FrontEnd de la Aplicación Web.       |
 
 
 
