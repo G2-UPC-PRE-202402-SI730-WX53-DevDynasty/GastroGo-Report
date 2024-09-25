@@ -2023,7 +2023,7 @@ En este sprint, se ha completado el desarrollo de la landing page. Para su despl
 
 #### 5.2.1.5. Execution Evidence for Sprint Review  
 
-En esta entrega, el equipo Verduritas logró implementar la landing page, la cual presenta distintas secciones que ofrecen información esencial para los usuarios. Estas secciones están diseñadas para explicar quiénes somos, qué nos diferencia, cómo funciona nuestra plataforma, y brindar una visión general de la experiencia, los planes disponibles y un espacio para contactarnos. Con este enfoque, se busca proporcionar una experiencia clara y completa para los visitantes.
+En esta entrega, el equipo DevDynasty logró implementar la landing page, la cual presenta distintas secciones que ofrecen información esencial para los usuarios. Estas secciones están diseñadas para explicar quiénes somos, qué nos diferencia, cómo funciona nuestra plataforma, y brindar una visión general de la experiencia, los planes disponibles y un espacio para contactarnos. Con este enfoque, se busca proporcionar una experiencia clara y completa para los visitantes.
 
 ![Evidence 1](assets/img/chapter-5/img-evidence-1.png)
 
@@ -2076,49 +2076,73 @@ Code frecuency:
 
 #### 5.2.1.1. Sprint Planning 2
 
-| **Sprint #**                    | Sprint 2                                                                                                                                                                                                                                                                                                                                                                                  |
-|---------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Sprint Planning Date**        | 21/09/2024                                                                                                                                                                                                                                                                                                                                                                                |
-| **Time**                        | 11:30 PM                                                                                                                                                                                                                                                                                                                                                                                  |
-| **Location**                    | Google Meet                                                                                                                                                                                                                                                                                                                                                                               |
-| **Prepared By**                 | Camila Loli                                                                                                                                                                                                                                                                                                                                                                               |
-| **Attendees**                   | Ricardo Barrutia, Fabiola Espinoza, Marco Gongora, Francisco Hurtado                                                                                                                                                                                                                                                                                                                      |
-| **Sprint Review Summary**       | Se desplego la Landing Page de GastroGo en Github Pages y se empezo con el desarrollo del Front-End de la apliacion web.                                                                                                                                                                                                                                                                  |
-| **Sprint Retrospective Summary**| Se consideró la opción de presentar los call to action de manera diferenciada para cada segmento objetivo. Se comenzó el desarrollo del Front End de GastroGo, dando prioridad a la creación de componentes dirigidos al segmento de trabajadores.                                                                                                                                        |
-| **Sprint Goal**                 | En este sprint se tiene como objetivo el desarrollo de la paginas principales de la aplicacion web y el despliegue de la misma. Durante las diversas reuniones del equipo se determinó el contenido por cada integrante para el front end. Una vez concluido el sprint, la Web Application debe estar desplegada en GitHub Pages|
-| **Sprint Velocity**             |                                                                                                                                                                                                                                                                                                                                                                                           |
-| **Sum of Story Points**         |                                                                                                                                                                                                                                                                                                                                                                          |
+| **Sprint #**                    | Sprint 2                                                                                                                                                                                                                                                                                                                         |
+|---------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sprint Planning Date**        | 21/09/2024                                                                                                                                                                                                                                                                                                                       |
+| **Time**                        | 11:30 PM                                                                                                                                                                                                                                                                                                                         |
+| **Location**                    | Google Meet                                                                                                                                                                                                                                                                                                                      |
+| **Prepared By**                 | Camila Loli                                                                                                                                                                                                                                                                                                                      |
+| **Attendees**                   | Ricardo Barrutia, Fabiola Espinoza, Marco Gongora, Francisco Hurtado                                                                                                                                                                                                                                                             |
+| **Sprint Review Summary**       | Se desplego la Landing Page de GastroGo en Github Pages y se empezo con el desarrollo del Front-End de la apliacion web.                                                                                                                                                                                                         |
+| **Sprint Retrospective Summary**| Se consideró la opción de presentar los call to action de manera diferenciada para cada segmento objetivo. Se comenzó el desarrollo del Front End de GastroGo, dando prioridad a la creación de componentes dirigidos al segmento de trabajadores.                                                                               |
+| **Sprint Goal**                 | En este sprint se tiene como objetivo el desarrollo de la paginas principales de la aplicacion web y el despliegue de la misma. Durante las diversas reuniones del equipo se determinó el contenido por cada integrante para el front end. Una vez concluido el sprint, la Web Application debe estar desplegada en GitHub Pages |
+| **Sprint Velocity**             | 35                                                                                                                                                                                                                                                                                                                               |
+| **Sum of Story Points**         | 43                                                                                                                                                                                                                                                                                                                               |
 
 
-#### 5.2.1.2. Sprint Backlog 1
-| **User Story**                              | **Work-item/Task**                               | **Description**                                       | **Estimation (Hours)** | **Assigned To**  | **Status**               |
-|---------------------------------------------|--------------------------------------------------|------------------------------------------------------|------------------------|------------------|--------------------------|
-|               |                 |  |                   | Ricardo          | Done                     |
-|             |                          |               | 0.5                    | Fabiola          | Done                     |
-|         |      |        | 2                      | Marco            | Done                     |
-|            |      |          | 1                      | Marco            | Done                     |
-|              |      |                   | 1                      | Fran             | Done                     |
-|                 |           |        | 0.5                    | Camila           | Done                     |
-|                   |            |  | 1                      | Camila           | Done                     |
-|         |          |       | 0.5                    | Ricardo          | Done                     |
+#### 5.2.1.2. Sprint Backlog 2
+| **User Story**                           | **Work-item/Task**             | **Description**                                                                 | **Estimation (Hours)** | **Assigned To** | **Status**               |
+|------------------------------------------|--------------------------------|---------------------------------------------------------------------------------|------------------------|-----------------|--------------------------|
+| E2 - US013 Edición de cuenta            | W014 Save group preferences    | Permitir la edición de datos personales y de contacto en el perfil.             | 3                      | Francisco       | Done                     |
+| E2 - US014 Guardar preferencias de grupo| W013 Account editing           | Implementar un sistema para guardar preferencias de grupo para futuras órdenes. | 3                      | Camila          | Done                     |
+| E2 - US017 Encuestas Post-Compra| W017 Post-purchase surveys     | Crear un sistema de encuestas post-compra para mejorar futuras órdenes.         | 4                      | Camila          | Done                     |
+| E3 - US018 Búsqueda de restaurantes| W018 Restaurant search         | Habilitar la búsqueda de restaurantes por nombre, categoría o ubicación.                                                                                | 3                      | Fabiola         | Done                     |
+| E3 - US019 Restaurantes recomendados| W019 Recommended restaurants   | Mostrar una lista de restaurantes recomendados por popularidad y satisfacción.                                                                                | 4                      | Ricardo         | Done                     |
+|E3 - US020 Información del restaurante              | W020 Restaurant information    | Proporcionar información detallada de los restaurantes seleccionados.                                                                                | 3                      | Camila          | Done                     |
+|E4 - US024 Confirmar o agregar a votación                 | W024 Confirm or add to vote    | Confirmar o agregar platos personalizados a la votación del grupo.                                                                                | 4                      | Fabiola         | Done                     |
+|E5 - US025 Creación automática de votación                   | W025 Automatic vote creation   | Crear automáticamente votaciones para la elección de platos.                                                                                | 3                      | Camila          | Done                     |
+|E5 - US026 Compartir código de votación         | W026 Share voting code         | Generar y compartir un código para participar en la votación.                                                                                | 3                      | Ricardo         | Done                     |
+|E5 - US027 Resolución de empates con sorteo         | W027 Tie resolution by lottery | Resolver empates en votaciones mediante un sorteo.                                                                                | 3                      | Camila          | Done                     |
+|E6 - US028 Dividir el costo del pedido         | W028 Split the order cost      | Dividir automáticamente el costo del pedido entre los participantes.                                                                                | 4                      | Camila          | Done                     |
+|E6 - US029 Métodos de pago diversos         | W029 Diverse payment methods                               | Permitir múltiples métodos de pago (tarjeta, PayPal, etc.).                                                                                | 3                      | Camila          | Done                     |
+|E6 - US031 Registro y confirmación de pagos grupales         | W031 Group payment registration and confirmation                               | Registrar y confirmar los pagos grupales realizados.                                                                                | 5                      | Camila          | Done                     |
+|E6 - US032 Opción de propina compartida         | W032 Shared tip option                               | Habilitar la opción de agregar una propina compartida.                                                                                | 3                      | Marco           | Done                     |
+|E6 - US033 Generación automática de recomendaciones         | W033 Automatic recommendation generation                               | Generar recomendaciones automáticas basadas en pedidos anteriores.                                                                                | 3                      | Marco           | Done                     |
 
 
-#### 5.2.1.3. Development Evidence for Sprint Review
+#### 5.2.1.3. Development Evidence for Sprint Review 2
 
-| **Repository** | **Branch** | **Commit Id**                              | **Commit Message**                                          | **Committed on (Date)** |
-|----------------|------------|--------------------------------------------|-------------------------------------------------------------------------------------|-------------------------|
-|GastroGo-FrontEnd| develop    |    | Initial commit                                                                       | 24/09/2024              |
-|GastroGo-FrontEnd               |develop            |    |                          | 24/09/2024               |
-|GastroGo-FrontEnd               |develop            |    |                          | 24/09/2024               | 
-|GastroGo-FrontEnd               |develop            |    |                          | 24/09/2024               |
-|GastroGo-FrontEnd               |develop            |    |                          | 24/09/2024               |
-|GastroGo-FrontEnd               |develop            |    |                          | 24/09/2024               |
+| **Repository** | **Branch** | **Commit Id**                              | **Commit Message**                                                       | **Committed on (Date)** |
+|----------------|------------|--------------------------------------------|--------------------------------------------------------------------------|-------------------------|
+|GastroGo-FrontEnd| develop    | 8c45ceb87259d17bc34197f885c1b9df0c29f5f3   | Initial commit                                                           | 17/09/2024              |
+|GastroGo-FrontEnd               |develop            | e078942308a43764cbb205debcd15da274b81235   | chore: creation of vue project                                           | 21/09/2024              |
+|GastroGo-FrontEnd               |develop            | f02c82976bcdd7768bd12280742fa930fe52251c   | chore: added dependencies.                                               | 21/09/2024              | 
+|GastroGo-FrontEnd               |develop            | e4de2d1fa07fa4e13a3e1a2e0dd57c485c32d191   | chore: added dependencies for icons.                                     | 22/09/2024              |
+|GastroGo-FrontEnd               |develop            | 15e8f09670e29342540aed3e345606e2135009ac   | feat(sidenav-bar): created sidenav-bar component and added it to app.vue | 23/09/2024              |
+|GastroGo-FrontEnd               |develop            | 4d592f159dea18eaeaaee40aa50c12efb895b729   | chore: fix base.css and main.css to make the appearance according to our mockups.                                                                         | 24/09/2024              |
+|GastroGo-FrontEnd               |develop            | 6278684e03cca52b4f6aba2ca0ae8cbb0ae1e004   | chore: added dependencies for icons for Vue.                                                                         | 23/09/2024              |
+|GastroGo-FrontEnd               |develop            | e479fc78af07ba514e11abc61365d326f1465f44   | chore: added base file (index.js) for routes.                                                                         | 23/09/2024              |
+|GastroGo-FrontEnd               |develop            | fd725aaabf9cce59bdbd7a6e29e34612996be9b2   | chore: added logo of GastroGo for the sidenav-bar.                                                                         | 23/09/2024              |
+|GastroGo-FrontEnd               |develop            | cb96a38d37d4a30ff24162f21d3910c0fa08075b   | chore: added routes in sidenav-bar.vue                                                                         | 24/09/2024              |
+|GastroGo-FrontEnd               |develop            | 9e41077011705088badc615d8c0f622db9bc8a3d   | chore: added route-view to show the content from the route.                                                                        | 24/09/2024              |
+|GastroGo-FrontEnd               |develop            | ad42e275ce834f4c09e339f80f0e482b2242c331   | feat(role-selection): added role-selection.component.vue for the worker.                                                                         | 24/09/2024              |
+|GastroGo-FrontEnd               |develop            | 64156f771b68b26d99bbf0e94518fde68dec53c6   | feat(profile): added profile component for the worker.                                                                         | 24/09/2024              |
+|GastroGo-FrontEnd               |develop            | d51aeca950e23b24525d54774a9891e5456bf9cb   | feat(leader-component): created leader.component.vue.                                                                         | 24/09/2024              |
+|GastroGo-FrontEnd               |develop            | 622dd9aaba546cbff29a6392b994c9d027e48721   | feat(home-component): created home component                                                                         | 24/09/2024              |
+|GastroGo-FrontEnd               |develop            | ac848486274843d3ea3a2fcbc55915b3b45b8584   | feat(home-component): added css recent restaurant                                                                         | 24/09/2024              |
+|GastroGo-FrontEnd               |develop            | 57174640f9f580c66e4500e192384431afdaffa2   | feat(home-component): added recent orders                                                                         | 24/09/2024              |
+|GastroGo-FrontEnd               |develop            | f700d282e76edeeef252294dac44707c5fe79ca2   | feat(home-component): added recent orders css                                                                         | 24/09/2024              |
+|GastroGo-FrontEnd               |develop            | 600abbdeeb46a986f6e6a8270c7c5e274d8b7d98   | feat(order-card): created order-card.component                                                                       | 24/09/2024              |
+|GastroGo-FrontEnd               |develop            | e7f77e48dd76664996515ded9623034fed5e1d75   | feat(my-order): created my-order.component                                                                         | 24/09/2024              |
+|GastroGo-FrontEnd               |develop            | 97d73e76f57b1c2a21592c98eb674ec8d8e05028   | feat(restaurant): add restaurant components                                                                        | 24/09/2024              |
+|GastroGo-FrontEnd               |develop            | 88e9b2bf43184f9cc014f69213d7c1f9c4364e4c   | feat(routes): added routes for each component.                                                                        | 24/09/2024              |
+|GastroGo-FrontEnd               |develop            | 58c7bd712cf99caef9b5f6281ca725b1f945dc20   | feat(notifications): added notification component.                                                                        | 24/09/2024              |
 
 
 
 
 
-#### 5.2.1.4. Testing Suite Evidence for Sprint Review
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review 2
 En este sprint, se ha completado el desarrollo de la landing page. Para su despliegue, se emplearon varias herramientas clave, entre ellas:
 
 | **Repository** | **Branch** | **Commit Id**                              | **Commit Message**                                         | **Committed on (Date)** |
@@ -2138,9 +2162,9 @@ En este sprint, se ha completado el desarrollo de la landing page. Para su despl
 
 
 
-#### 5.2.1.5. Execution Evidence for Sprint Review
+#### 5.2.1.5. Execution Evidence for Sprint Review 2
 
-En esta entrega, el equipo Verduritas logró implementar la landing page, la cual presenta distintas secciones que ofrecen información esencial para los usuarios. Estas secciones están diseñadas para explicar quiénes somos, qué nos diferencia, cómo funciona nuestra plataforma, y brindar una visión general de la experiencia, los planes disponibles y un espacio para contactarnos. Con este enfoque, se busca proporcionar una experiencia clara y completa para los visitantes.
+En esta entrega, el equipo DevDynasty logró implementar la landing page, la cual presenta distintas secciones que ofrecen información esencial para los usuarios. Estas secciones están diseñadas para explicar quiénes somos, qué nos diferencia, cómo funciona nuestra plataforma, y brindar una visión general de la experiencia, los planes disponibles y un espacio para contactarnos. Con este enfoque, se busca proporcionar una experiencia clara y completa para los visitantes.
 
 ![Evidence 1 Front](assets/img/chapter-5/img-evidence-front-1.png)
 
@@ -2160,7 +2184,7 @@ En esta entrega, el equipo Verduritas logró implementar la landing page, la cua
 
 ![Evidence 9 Front](assets/img/chapter-5/img-evidence-front-9.png)
 
-#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review 2
 Para el desarrollo de la plataforma, específicamente en la parte del Frontend, utilizamos lo siguiente:
 
 Webstorm (IDE de desarrollo): Usamos Webstorm como nuestro entorno de desarrollo integrado para trabajar en el Frontend.
@@ -2169,7 +2193,7 @@ Vue (Framework): Optamos por Vue como el framework principal para el desarrollo.
 
 GitHub: Nuestro repositorio del Frontend está alojado en GitHub, lo que facilita la colaboración y el seguimiento de los cambios en el código.
 
-#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review 2
 El Execution Evidence para la revisión del sprint está orientado a documentar y presentar evidencia sobre el desarrollo logrado a lo largo del sprint, prestando especial atención al progreso en la landing page. Estas pruebas son esenciales para demostrar cómo se han cumplido los objetivos establecidos y qué partes del trabajo están terminadas, asegurando que se corresponden con las expectativas del cliente.
 
 - Git: Utilizado como sistema de control de versiones, facilitó la colaboración efectiva entre los miembros del equipo durante el proceso de desarrollo.
@@ -2178,7 +2202,7 @@ El Execution Evidence para la revisión del sprint está orientado a documentar 
 - GitHub Pages: Utilizado para desplegar la landing de forma rápida y sencilla, permitiendo que la aplicación esté disponible públicamente desde un repositorio de GitHub.
 
 
-#### 5.2.1.8. Team Collaboration Insights during Sprint
+#### 5.2.1.8. Team Collaboration Insights during Sprint 2 
 
 El equipo trabajó en el desarrollo de la landing page utilizando ramas de cada feature, lo que permitió mejorar, actualizar y realizar modificaciones de manera más organizada. El uso de estas ramas facilita la integración y revisión antes de fusionarlas con la rama principal (main), asegurando que no se introduzcan errores. A continuación, se muestra el network graph y  code frecuency mediante la plataforma GitHub:
 
