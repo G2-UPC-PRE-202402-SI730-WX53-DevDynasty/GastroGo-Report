@@ -961,7 +961,7 @@ En esta sección se presentan los As-is Scenario mapping para ambos segmentos ob
 
 As-is Scenario Mapping: Grupo de Trabajadores
 
-![Empathy mapping 2 ](assets/img/chapter-2/img-empathy-map-2.png)
+![Empathy mapping 2 ](assets/img/chapter-2/img-as-is-1.png)
 
 **Positive Points:**
 
